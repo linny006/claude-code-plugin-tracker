@@ -15,6 +15,16 @@ Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 
 
 **⭐ Star this repo to bookmark — fresh data every 15 minutes**
 
+### 📊 Discovery Stats
+
+| Metric | Value |
+|--------|-------|
+| Total Plugins Indexed | 50+ |
+| Update Frequency | Every 15 minutes |
+| Top Categories | Hooks, Extensions, MCP Servers |
+| Data Source | GitHub Search API |
+| Last Refreshed | ![Last Commit](https://img.shields.io/github/last-commit/linny006/claude-code-plugin-tracker?label=updated) |
+
 </div>
 
 ---

@@ -1,327 +1,39 @@
 [
   {
-    "description": "Extended Ralph loop for autonomous AI-driven plan execution",
-    "id": "umputun/ralphex",
-    "language": "Go",
-    "name": "umputun/ralphex",
-    "stars": 1182,
-    "updated_at": "2026-05-25T17:18:22Z",
-    "url": "https://github.com/umputun/ralphex"
-  },
-  {
-    "description": "\ud83c\udfc6 Ranked list of 100+ agent harnesses. Scored and updated weekly.",
-    "id": "RyanAlberts/best-of-Agent-Harnesses",
-    "language": "Python",
-    "name": "RyanAlberts/best-of-Agent-Harnesses",
-    "stars": 37,
-    "updated_at": "2026-05-25T17:18:21Z",
-    "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses"
-  },
-  {
-    "description": "Manage configs for Claude Code, Codex, Gemini CLI, Goose, and Amp from one repo \u2014 symlinks, merge pipeline, profile inhe",
-    "id": "wpfleger96/ai-agent-rules",
-    "language": "Python",
-    "name": "wpfleger96/ai-agent-rules",
-    "stars": 2,
-    "updated_at": "2026-05-25T17:18:17Z",
-    "url": "https://github.com/wpfleger96/ai-agent-rules"
-  },
-  {
-    "description": "\u7528\u5fae\u4fe1 ClawBot \u8fdc\u7a0b\u63a7\u5236 Codex/Claude Code/Gemini/OpenCode \u4f1a\u8bdd\u7684\u670d\u52a1",
-    "id": "gadzan/weacpx",
-    "language": "TypeScript",
-    "name": "gadzan/weacpx",
-    "stars": 7,
-    "updated_at": "2026-05-25T17:18:11Z",
-    "url": "https://github.com/gadzan/weacpx"
-  },
-  {
-    "description": "Open intelligence router for LLM agents",
-    "id": "bitrouter/bitrouter",
-    "language": "Rust",
-    "name": "bitrouter/bitrouter",
-    "stars": 84,
-    "updated_at": "2026-05-25T17:18:15Z",
-    "url": "https://github.com/bitrouter/bitrouter"
-  },
-  {
-    "description": "",
-    "id": "tessaryai/plugins",
-    "language": "Python",
-    "name": "tessaryai/plugins",
-    "stars": 0,
-    "updated_at": "2026-05-25T17:18:09Z",
-    "url": "https://github.com/tessaryai/plugins"
-  },
-  {
-    "description": "TUI and CLI for browsing AI models, benchmarks, coding agents, and statuses for AI providers.",
-    "id": "reyamira/models",
-    "language": "Rust",
-    "name": "reyamira/models",
-    "stars": 427,
-    "updated_at": "2026-05-25T17:17:53Z",
-    "url": "https://github.com/reyamira/models"
-  },
-  {
-    "description": "macOS menu bar widget for Claude usage tracking + multi-account auto-switch",
-    "id": "ncthanhngo/claude-bar",
-    "language": "Go",
-    "name": "ncthanhngo/claude-bar",
-    "stars": 1,
-    "updated_at": "2026-05-25T17:17:39Z",
-    "url": "https://github.com/ncthanhngo/claude-bar"
-  },
-  {
-    "description": "A Python-based terminal game for D&D 5E SRD adventures with LLM-enhanced narrative",
-    "id": "JoeCotellese/rpggame",
-    "language": "Python",
-    "name": "JoeCotellese/rpggame",
-    "stars": 0,
-    "updated_at": "2026-05-25T17:17:23Z",
-    "url": "https://github.com/JoeCotellese/rpggame"
-  },
-  {
-    "description": "Real-time terminal monitor for Claude Code \u2014 context window, rate limits, costs, burn rate. Stdlib only.",
-    "id": "iM3SK/cc-aio-mon",
-    "language": "Python",
-    "name": "iM3SK/cc-aio-mon",
-    "stars": 29,
-    "updated_at": "2026-05-25T17:17:28Z",
-    "url": "https://github.com/iM3SK/cc-aio-mon"
-  },
-  {
-    "description": "A TypeScript CLI that assembles AI-powered prompts at runtime to guide you from \"I have an idea\" to working software. Sc",
-    "id": "zigrivers/scaffold",
-    "language": "TypeScript",
-    "name": "zigrivers/scaffold",
-    "stars": 3,
-    "updated_at": "2026-05-25T17:17:04Z",
-    "url": "https://github.com/zigrivers/scaffold"
-  },
-  {
-    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
-    "id": "systempromptio/systemprompt-core",
-    "language": "Rust",
-    "name": "systempromptio/systemprompt-core",
-    "stars": 3,
-    "updated_at": "2026-05-25T17:16:52Z",
-    "url": "https://github.com/systempromptio/systemprompt-core"
-  },
-  {
-    "description": "Unified LLM Gateway that proxies multiple providers (Ollama, OpenAI-compatible) behind a single API. Enables IDEs and to",
-    "id": "skymoonsun/model-maestro",
-    "language": "Python",
-    "name": "skymoonsun/model-maestro",
-    "stars": 6,
-    "updated_at": "2026-05-25T17:16:47Z",
-    "url": "https://github.com/skymoonsun/model-maestro"
-  },
-  {
-    "description": "Knit \u2014 second brain for Claude Code. MCP server giving any AI agent project-scoped memory, tiered workflow protocol, and",
-    "id": "PDgit12/knit",
-    "language": "TypeScript",
-    "name": "PDgit12/knit",
-    "stars": 2,
-    "updated_at": "2026-05-25T17:16:39Z",
-    "url": "https://github.com/PDgit12/knit"
-  },
-  {
-    "description": "Lerim-CLI: AI Context Compiler for Agents 2026 \u2013 Streamline AI Workflows",
-    "id": "kalubilasupuni-gif/lerim-context-bridge",
-    "language": "HTML",
-    "name": "kalubilasupuni-gif/lerim-context-bridge",
-    "stars": 0,
-    "updated_at": "2026-05-25T17:16:37Z",
-    "url": "https://github.com/kalubilasupuni-gif/lerim-context-bridge"
-  },
-  {
-    "description": "GitHub Agentic Workflows",
-    "id": "github/gh-aw",
-    "language": "Go",
-    "name": "github/gh-aw",
-    "stars": 4523,
-    "updated_at": "2026-05-25T17:17:43Z",
-    "url": "https://github.com/github/gh-aw"
-  },
-  {
-    "description": "Public-record $1,000 \u2192 $10,000 automated trading experiment. Built by a founder and an AI as co-builders. Live SOL + ETH",
-    "id": "bbismm/ibitlabs",
-    "language": "HTML",
-    "name": "bbismm/ibitlabs",
-    "stars": 0,
-    "updated_at": "2026-05-25T17:16:26Z",
-    "url": "https://github.com/bbismm/ibitlabs"
-  },
-  {
-    "description": "Structured workflow skills for AI coding agents",
-    "id": "tsukumogami/shirabe",
-    "language": "Shell",
-    "name": "tsukumogami/shirabe",
-    "stars": 0,
-    "updated_at": "2026-05-25T17:16:18Z",
-    "url": "https://github.com/tsukumogami/shirabe"
-  },
-  {
-    "description": "A lightweight scaffold for safer, more structured agentic coding \u2014 helping developers give coding agents the right proje",
-    "id": "JRS1986/CodingScaffold",
-    "language": "Python",
-    "name": "JRS1986/CodingScaffold",
-    "stars": 6,
-    "updated_at": "2026-05-25T17:16:17Z",
-    "url": "https://github.com/JRS1986/CodingScaffold"
-  },
-  {
-    "description": "Local handoff runner for Codex and Claude Code: plan, execute, verify, and inspect every agent handoff on disk.",
-    "id": "changw98ic/codepatchbay",
-    "language": "JavaScript",
-    "name": "changw98ic/codepatchbay",
-    "stars": 1,
-    "updated_at": "2026-05-25T17:16:13Z",
-    "url": "https://github.com/changw98ic/codepatchbay"
-  },
-  {
-    "description": "Model-aware Claude Agent Skills for AI image & video generation on Higgsfield \u2014 15 creative skills with opt-in MCP gener",
-    "id": "pixelab-ch/higgsfield-skills",
-    "language": "Shell",
-    "name": "pixelab-ch/higgsfield-skills",
-    "stars": 0,
-    "updated_at": "2026-05-25T17:16:09Z",
-    "url": "https://github.com/pixelab-ch/higgsfield-skills"
-  },
-  {
-    "description": "Browser-native hive-mind for CLI coding agents \u2014 Claude Code, Codex, Gemini, and OpenCode collaborate as real PTY proces",
-    "id": "tt-a1i/hive",
-    "language": "TypeScript",
-    "name": "tt-a1i/hive",
-    "stars": 199,
-    "updated_at": "2026-05-25T17:16:05Z",
-    "url": "https://github.com/tt-a1i/hive"
-  },
-  {
-    "description": "AI-agent CLI for vike.io on-chain analytics, perps, options, and prediction markets across 11 chains",
-    "id": "vike-io/vike-cli",
-    "language": "JavaScript",
-    "name": "vike-io/vike-cli",
-    "stars": 0,
-    "updated_at": "2026-05-25T17:16:14Z",
-    "url": "https://github.com/vike-io/vike-cli"
-  },
-  {
-    "description": "AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostabl",
-    "id": "kdlbs/kandev",
-    "language": "Go",
-    "name": "kdlbs/kandev",
-    "stars": 273,
-    "updated_at": "2026-05-25T17:15:54Z",
-    "url": "https://github.com/kdlbs/kandev"
-  },
-  {
-    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
-    "id": "ssurmic/claude-investment-skills",
-    "language": "Python",
-    "name": "ssurmic/claude-investment-skills",
-    "stars": 1,
-    "updated_at": "2026-05-25T17:15:51Z",
-    "url": "https://github.com/ssurmic/claude-investment-skills"
-  },
-  {
-    "description": "Web dashboard + autopilot for Claude Code agents \u2014 manage sessions, tasks, and approvals from your browser",
-    "id": "miopea/swarm",
-    "language": "Python",
-    "name": "miopea/swarm",
-    "stars": 3,
-    "updated_at": "2026-05-25T17:15:44Z",
-    "url": "https://github.com/miopea/swarm"
-  },
-  {
-    "description": "Claude Code plugin for Google Antigravity CLI (agy) \u2014 the official replacement for gemini-cli (deprecated 18 Jun 2026). ",
-    "id": "MarcosNahuel/antigravity-plugin-cc",
+    "description": "A Claude Code skill bundle for Linux system administration \u2014 security, performance, diagnostics, monitoring, and mainten",
+    "id": "HermeticOrmus/linux-sysadmin-skills",
     "language": "\u2014",
-    "name": "MarcosNahuel/antigravity-plugin-cc",
+    "name": "HermeticOrmus/linux-sysadmin-skills",
     "stars": 0,
-    "updated_at": "2026-05-25T17:15:43Z",
-    "url": "https://github.com/MarcosNahuel/antigravity-plugin-cc"
+    "updated_at": "2026-05-25T17:30:10Z",
+    "url": "https://github.com/HermeticOrmus/linux-sysadmin-skills"
   },
   {
-    "description": "Open skill system for humane AI \u2014 10 reusable specs + MCP runtime",
-    "id": "humanity4ai/project_human",
-    "language": "TypeScript",
-    "name": "humanity4ai/project_human",
-    "stars": 1,
-    "updated_at": "2026-05-25T17:15:37Z",
-    "url": "https://github.com/humanity4ai/project_human"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
+    "description": "A Claude Code skill bundle for learning any technology \u2014 roadmaps, explanations, practice drills, cheatsheets, and compa",
+    "id": "HermeticOrmus/learning-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/learning-skills",
     "stars": 0,
-    "updated_at": "2026-05-25T17:15:33Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
+    "updated_at": "2026-05-25T17:30:08Z",
+    "url": "https://github.com/HermeticOrmus/learning-skills"
   },
   {
-    "description": "Simple web-based orchestration harness for up to 10 Claude Code agents. 1 Coach + 10 Players, shared task board, git wor",
-    "id": "Nicolasmoute/TeamOfTen",
-    "language": "Python",
-    "name": "Nicolasmoute/TeamOfTen",
+    "description": "A Claude Code skill that generates and maintains project documentation \u2014 README, API docs, and architecture notes \u2014 from",
+    "id": "HermeticOrmus/auto-docs-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/auto-docs-skills",
     "stars": 0,
-    "updated_at": "2026-05-25T17:15:29Z",
-    "url": "https://github.com/Nicolasmoute/TeamOfTen"
+    "updated_at": "2026-05-25T17:30:07Z",
+    "url": "https://github.com/HermeticOrmus/auto-docs-skills"
   },
   {
-    "description": "Public source for CodeAgent Mobile clients: codeam-cli (npm), VS Code / Cursor / Windsurf extension, and JetBrains plugi",
-    "id": "edgar-durand/codeagent-mobile-clients",
-    "language": "TypeScript",
-    "name": "edgar-durand/codeagent-mobile-clients",
-    "stars": 1,
-    "updated_at": "2026-05-25T17:15:27Z",
-    "url": "https://github.com/edgar-durand/codeagent-mobile-clients"
-  },
-  {
-    "description": "Best Free SaaS Invoice Manager 2026 - One Command Download Tool",
-    "id": "Ishanshah09/invoicepilot-file-sync",
-    "language": "HTML",
-    "name": "Ishanshah09/invoicepilot-file-sync",
+    "description": "A Claude Code skill that primes project context at the start of a session \u2014 what the project is, how it's structured, an",
+    "id": "HermeticOrmus/prime-context-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/prime-context-skills",
     "stars": 0,
-    "updated_at": "2026-05-25T17:15:23Z",
-    "url": "https://github.com/Ishanshah09/invoicepilot-file-sync"
-  },
-  {
-    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
-    "id": "linny006/claude-code-plugin-tracker",
-    "language": "Python",
-    "name": "linny006/claude-code-plugin-tracker",
-    "stars": 0,
-    "updated_at": "2026-05-25T17:15:20Z",
-    "url": "https://github.com/linny006/claude-code-plugin-tracker"
-  },
-  {
-    "description": "Claude Code automation kit for Customer Success Operations: 44 slash commands, 11 safety hooks, 17 branded report genera",
-    "id": "jra2s394/cs-repo",
-    "language": "JavaScript",
-    "name": "jra2s394/cs-repo",
-    "stars": 0,
-    "updated_at": "2026-05-25T17:17:27Z",
-    "url": "https://github.com/jra2s394/cs-repo"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 0,
-    "updated_at": "2026-05-25T17:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "AI security skills grounded in mid-2026 threat reality, not stale framework documentation",
-    "id": "blamejs/exceptd-skills",
-    "language": "JavaScript",
-    "name": "blamejs/exceptd-skills",
-    "stars": 0,
-    "updated_at": "2026-05-25T17:15:19Z",
-    "url": "https://github.com/blamejs/exceptd-skills"
+    "updated_at": "2026-05-25T17:30:05Z",
+    "url": "https://github.com/HermeticOrmus/prime-context-skills"
   },
   {
     "description": "Governance framework for AI coding agents \u2014 enforces task traceability, structural gates, session continuity, and audit ",
@@ -329,44 +41,8 @@
     "language": "Shell",
     "name": "DimitriGeelen/agentic-engineering-framework",
     "stars": 5,
-    "updated_at": "2026-05-25T17:15:04Z",
+    "updated_at": "2026-05-25T17:30:05Z",
     "url": "https://github.com/DimitriGeelen/agentic-engineering-framework"
-  },
-  {
-    "description": "Publish AI-generated HTML to your own Vercel \u2014 a Claude Code skill + setup wizard.",
-    "id": "danielmedinac22/mirador",
-    "language": "TypeScript",
-    "name": "danielmedinac22/mirador",
-    "stars": 2,
-    "updated_at": "2026-05-25T17:15:00Z",
-    "url": "https://github.com/danielmedinac22/mirador"
-  },
-  {
-    "description": "Claude Code harness for disciplined Java backend dev \u2014 risk-classified routing, 6-phase lifecycle (Explorer \u2192 Propose \u2192 ",
-    "id": "listener-He/java-harness-agent",
-    "language": "Python",
-    "name": "listener-He/java-harness-agent",
-    "stars": 10,
-    "updated_at": "2026-05-25T17:14:59Z",
-    "url": "https://github.com/listener-He/java-harness-agent"
-  },
-  {
-    "description": "Specialized Claude Code subagents for enterprise C# and TypeScript development, with persistent project memory and orche",
-    "id": "chuckplayer/claude-agent-pack",
-    "language": "Shell",
-    "name": "chuckplayer/claude-agent-pack",
-    "stars": 1,
-    "updated_at": "2026-05-25T17:14:32Z",
-    "url": "https://github.com/chuckplayer/claude-agent-pack"
-  },
-  {
-    "description": "Autonomous AI agent with persistent memory, self-learning, and earned autonomy. Cognitive partner that remembers, learns",
-    "id": "WingedGuardian/GENesis-AGI",
-    "language": "Python",
-    "name": "WingedGuardian/GENesis-AGI",
-    "stars": 37,
-    "updated_at": "2026-05-25T17:14:23Z",
-    "url": "https://github.com/WingedGuardian/GENesis-AGI"
   },
   {
     "description": "\ud83e\udd80 A self-owning territory crab \u2014 an autonomous digital life that owns its goals and runs a life loop. The next molt afte",
@@ -374,79 +50,403 @@
     "language": "Python",
     "name": "study8677/opencrab",
     "stars": 1,
-    "updated_at": "2026-05-25T17:14:23Z",
+    "updated_at": "2026-05-25T17:30:05Z",
     "url": "https://github.com/study8677/opencrab"
   },
   {
-    "description": "Safely publish local Git projects to GitHub with two-layer desensitization scanning (135 rules + AI), auto-fix, backup, ",
-    "id": "zwyin/github-safe-publish",
-    "language": "Python",
-    "name": "zwyin/github-safe-publish",
+    "description": "A Claude Code skill for fast troubleshooting \u2014 a lightweight diagnostic pass for common issues when the full debug proto",
+    "id": "HermeticOrmus/quick-fix-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/quick-fix-skills",
     "stars": 0,
-    "updated_at": "2026-05-25T17:14:20Z",
-    "url": "https://github.com/zwyin/github-safe-publish"
+    "updated_at": "2026-05-25T17:30:03Z",
+    "url": "https://github.com/HermeticOrmus/quick-fix-skills"
   },
   {
-    "description": "16 Claude Code skills wrapping the full dev cycle \u2014 ticket intake, ATDD planning, codebase-grounded ticket creation, six",
-    "id": "Flagrare/agent-skills",
-    "language": "Shell",
-    "name": "Flagrare/agent-skills",
-    "stars": 3,
-    "updated_at": "2026-05-25T17:14:16Z",
-    "url": "https://github.com/Flagrare/agent-skills"
+    "description": "A Claude Code skill for turning repetitive tasks into reliable automation scripts \u2014 scope, design, implement, and harden",
+    "id": "HermeticOrmus/automate-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/automate-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:30:02Z",
+    "url": "https://github.com/HermeticOrmus/automate-skills"
   },
   {
-    "description": "Getting Shit Done, the Aftermath",
-    "id": "open-gsd/get-shit-done-redux",
+    "description": "A Claude Code skill for setting up a project's development environment \u2014 requirements, dependencies, config, and a worki",
+    "id": "HermeticOrmus/setup-env-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/setup-env-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:30:00Z",
+    "url": "https://github.com/HermeticOrmus/setup-env-skills"
+  },
+  {
+    "description": "A Claude Code skill that audits developer experience \u2014 onboarding, docs, scripts, and tooling friction \u2014 and proposes fi",
+    "id": "HermeticOrmus/dx-audit-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/dx-audit-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:59Z",
+    "url": "https://github.com/HermeticOrmus/dx-audit-skills"
+  },
+  {
+    "description": "A Claude Code skill for domain-aware code review \u2014 classify the code, then review for the failure modes that domain actu",
+    "id": "HermeticOrmus/code-review-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/code-review-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:57Z",
+    "url": "https://github.com/HermeticOrmus/code-review-skills"
+  },
+  {
+    "description": "A Claude Code skill for a clean git workflow \u2014 branch, commit in logical units, write good messages, and open a reviewab",
+    "id": "HermeticOrmus/git-workflow-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/git-workflow-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:55Z",
+    "url": "https://github.com/HermeticOrmus/git-workflow-skills"
+  },
+  {
+    "description": "A Claude Code skill that audits codebases for the five mortal sins of vibe-coded MVPs \u2014 data drift, happy-path delusion,",
+    "id": "HermeticOrmus/mars-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/mars-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:53Z",
+    "url": "https://github.com/HermeticOrmus/mars-skills"
+  },
+  {
+    "description": "A Claude Code skill for test-driven development \u2014 the Red-Green-Refactor cycle, test templates, and anti-patterns, for J",
+    "id": "HermeticOrmus/tdd-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/tdd-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:52Z",
+    "url": "https://github.com/HermeticOrmus/tdd-skills"
+  },
+  {
+    "description": "A Claude Code skill that hardens vibe-coded full-stack apps \u2014 parallel security audit across frontend, backend, and conf",
+    "id": "HermeticOrmus/vibe-proof-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/vibe-proof-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:50Z",
+    "url": "https://github.com/HermeticOrmus/vibe-proof-skills"
+  },
+  {
+    "description": "A Claude Code skill for hypothesis-driven debugging \u2014 reproduce, isolate, hypothesize, test, fix, document. Find the roo",
+    "id": "HermeticOrmus/hypothesis-debugging-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/hypothesis-debugging-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:49Z",
+    "url": "https://github.com/HermeticOrmus/hypothesis-debugging-skills"
+  },
+  {
+    "description": "A Claude Code skill for searching claude-mem's cross-session memory \u2014 search, filter, then fetch, for 10x token savings ",
+    "id": "HermeticOrmus/mem-search-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/mem-search-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:47Z",
+    "url": "https://github.com/HermeticOrmus/mem-search-skills"
+  },
+  {
+    "description": "A CLAUDE.md for the seven-stage Magnum Opus engineering workflow \u2014 Calcination, Dissolution, Separation, Conjunction, Fe",
+    "id": "HermeticOrmus/magnum-opus-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/magnum-opus-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:45Z",
+    "url": "https://github.com/HermeticOrmus/magnum-opus-skills"
+  },
+  {
+    "description": "A CLAUDE.md for product naming methodology \u2014 iteratively converge on names by mining existing vocabulary, register pivot",
+    "id": "HermeticOrmus/naming-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/naming-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:44Z",
+    "url": "https://github.com/HermeticOrmus/naming-skills"
+  },
+  {
+    "description": "A CLAUDE.md for session handoff discipline \u2014 capture state at session end, restore context at session start, the pickup ",
+    "id": "HermeticOrmus/session-handoff-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/session-handoff-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:42Z",
+    "url": "https://github.com/HermeticOrmus/session-handoff-skills"
+  },
+  {
+    "description": "A CLAUDE.md for auditing CLAUDE.md and MEMORY.md files \u2014 measures against Anthropic caps, finds bloat, identifies gaps t",
+    "id": "HermeticOrmus/claude-md-overhaul-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/claude-md-overhaul-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:41Z",
+    "url": "https://github.com/HermeticOrmus/claude-md-overhaul-skills"
+  },
+  {
+    "description": "A CLAUDE.md for the Calcination operation \u2014 Stage 1 of the Magnum Opus. Burn project bloat to reveal essence: intent-anc",
+    "id": "HermeticOrmus/calcinate-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/calcinate-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:39Z",
+    "url": "https://github.com/HermeticOrmus/calcinate-skills"
+  },
+  {
+    "description": "A CLAUDE.md for OSINT (Open-Source Intelligence) research methodology \u2014 multi-wave investigative spiral, structured inte",
+    "id": "HermeticOrmus/osint-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/osint-skills",
+    "stars": 1,
+    "updated_at": "2026-05-25T17:29:38Z",
+    "url": "https://github.com/HermeticOrmus/osint-skills"
+  },
+  {
+    "description": "Let AI agents message, watch, and spawn each other across terminals. Claude Code, Gemini CLI, Codex, OpenCode",
+    "id": "aannoo/hcom",
+    "language": "Rust",
+    "name": "aannoo/hcom",
+    "stars": 300,
+    "updated_at": "2026-05-25T17:29:37Z",
+    "url": "https://github.com/aannoo/hcom"
+  },
+  {
+    "description": "A CLAUDE.md for Claude Code token optimization \u2014 CLAUDE_AUTOCOMPACT_PCT_OVERRIDE, MAX_THINKING_TOKENS, and other env var",
+    "id": "HermeticOrmus/token-optimization-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/token-optimization-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:36Z",
+    "url": "https://github.com/HermeticOrmus/token-optimization-skills"
+  },
+  {
+    "description": "A CLAUDE.md for sustainable shipping cadence \u2014 6 days of work mapped to Hermetic principles, mandatory rest, no 7-day we",
+    "id": "HermeticOrmus/six-day-cycle-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/six-day-cycle-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:35Z",
+    "url": "https://github.com/HermeticOrmus/six-day-cycle-skills"
+  },
+  {
+    "description": "Portable open-source starter kit for AI-assisted QA workflows. Copy .qa-ai/ into any QA or automation repo, bootstrap ag",
+    "id": "warante/QA_FlowKit",
     "language": "JavaScript",
-    "name": "open-gsd/get-shit-done-redux",
-    "stars": 777,
-    "updated_at": "2026-05-25T17:13:37Z",
-    "url": "https://github.com/open-gsd/get-shit-done-redux"
-  },
-  {
-    "description": "Self-hosted Docker stack for cross-platform AI agent rooms (Claude Code + ChatGPT + any LLM). MIT.",
-    "id": "mocartlex-wq/cognitive-core",
-    "language": "Python",
-    "name": "mocartlex-wq/cognitive-core",
+    "name": "warante/QA_FlowKit",
     "stars": 0,
-    "updated_at": "2026-05-25T17:13:22Z",
-    "url": "https://github.com/mocartlex-wq/cognitive-core"
+    "updated_at": "2026-05-25T17:29:34Z",
+    "url": "https://github.com/warante/QA_FlowKit"
   },
   {
-    "description": "AST-based patcher for Claude Code CLI with 35 verifiable patches",
-    "id": "camjac251/cc-enhanced",
-    "language": "TypeScript",
-    "name": "camjac251/cc-enhanced",
+    "description": "A CLAUDE.md for the RIPER methodology \u2014 Research, Innovate, Plan, Execute, Review. Five-phase systematic development wor",
+    "id": "HermeticOrmus/riper-workflow-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/riper-workflow-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:33Z",
+    "url": "https://github.com/HermeticOrmus/riper-workflow-skills"
+  },
+  {
+    "description": "A CLAUDE.md applying the 7 Hermetic Principles to software engineering \u2014 mentalism, correspondence, vibration, polarity,",
+    "id": "HermeticOrmus/hermetic-laws-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/hermetic-laws-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:31Z",
+    "url": "https://github.com/HermeticOrmus/hermetic-laws-skills"
+  },
+  {
+    "description": "A CLAUDE.md for TypeScript conventions \u2014 strict: true always, never any, discriminated unions over optional fields, Resu",
+    "id": "HermeticOrmus/typescript-conventions-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/typescript-conventions-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:30Z",
+    "url": "https://github.com/HermeticOrmus/typescript-conventions-skills"
+  },
+  {
+    "description": "Skill Package 2026: Ultimate AI Skills Deployment Tool \u2013 Plugin, ZIP & CI/CD",
+    "id": "blessings1234/skill-shipyard-pipeline",
+    "language": "HTML",
+    "name": "blessings1234/skill-shipyard-pipeline",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:30Z",
+    "url": "https://github.com/blessings1234/skill-shipyard-pipeline"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
     "stars": 3,
-    "updated_at": "2026-05-25T17:13:22Z",
-    "url": "https://github.com/camjac251/cc-enhanced"
+    "updated_at": "2026-05-25T17:29:28Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
   },
   {
-    "description": "A cognitive quality harness for Claude Code \u2014 hard gates, deep thinking, every domain. No npm. No runtime. Just quality.",
-    "id": "X0x888/oh-my-claude",
+    "description": "A CLAUDE.md for modern Python (3.11+) conventions \u2014 type discipline, pathlib over os.path, async patterns, structlog, ru",
+    "id": "HermeticOrmus/python-conventions-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/python-conventions-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:28Z",
+    "url": "https://github.com/HermeticOrmus/python-conventions-skills"
+  },
+  {
+    "description": "Autonomous AI Code Editor 2026 - Spec-Driven Debugging & Refactoring Tool",
+    "id": "vishnu1432/spec-driven-ai-assistant",
+    "language": "HTML",
+    "name": "vishnu1432/spec-driven-ai-assistant",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:28Z",
+    "url": "https://github.com/vishnu1432/spec-driven-ai-assistant"
+  },
+  {
+    "description": "SPEC-First Agentic Development Kit for Claude Code \u2014 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language pr",
+    "id": "modu-ai/moai-adk",
+    "language": "Go",
+    "name": "modu-ai/moai-adk",
+    "stars": 1030,
+    "updated_at": "2026-05-25T17:29:28Z",
+    "url": "https://github.com/modu-ai/moai-adk"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:27Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "A CLAUDE.md that strips AI theater and ideological bias \u2014 no hedging, no disclaimers, no moralizing, no woke framing. Tr",
+    "id": "HermeticOrmus/unwoke-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/unwoke-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:27Z",
+    "url": "https://github.com/HermeticOrmus/unwoke-skills"
+  },
+  {
+    "description": "Best Remote CLI Session Manager 2026 - AI Coding Agent Fork (Claude, Copilot, Aider)",
+    "id": "Rajadurai2468/termly-session-orchestrator",
+    "language": "HTML",
+    "name": "Rajadurai2468/termly-session-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:26Z",
+    "url": "https://github.com/Rajadurai2468/termly-session-orchestrator"
+  },
+  {
+    "description": "Codex Autonomous Objective Loops 2026: AI with Mandatory Review & Verification",
+    "id": "AlainRic/ralph-wiggum-codex-review-triage",
+    "language": "HTML",
+    "name": "AlainRic/ralph-wiggum-codex-review-triage",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:26Z",
+    "url": "https://github.com/AlainRic/ralph-wiggum-codex-review-triage"
+  },
+  {
+    "description": "A CLAUDE.md for disciplined git commit messages \u2014 type(scope) structure, banned emoji/AI footers, atomicity rules, foote",
+    "id": "HermeticOrmus/commit-standard-skills",
     "language": "Shell",
-    "name": "X0x888/oh-my-claude",
-    "stars": 2,
-    "updated_at": "2026-05-25T17:13:17Z",
-    "url": "https://github.com/X0x888/oh-my-claude"
-  },
-  {
-    "description": "Pin elements on any web page; annotations land in a folder on your machine for any AI coding agent. Chrome MV3, no serve",
-    "id": "YosephFr/dompin",
-    "language": "TypeScript",
-    "name": "YosephFr/dompin",
+    "name": "HermeticOrmus/commit-standard-skills",
     "stars": 0,
-    "updated_at": "2026-05-25T17:13:10Z",
-    "url": "https://github.com/YosephFr/dompin"
+    "updated_at": "2026-05-25T17:29:25Z",
+    "url": "https://github.com/HermeticOrmus/commit-standard-skills"
   },
   {
-    "description": "Plain-language modes for AI coding agents: clear, compact, low-words.",
-    "id": "SDV-G-Deploy/ant-skills",
+    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
+    "id": "teguhimanulloh47/pirate-talk-for-claude",
+    "language": "HTML",
+    "name": "teguhimanulloh47/pirate-talk-for-claude",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:25Z",
+    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
+  },
+  {
+    "description": "A Codex skill that forces Claude to plan first (PRD, specs, 30-500 question requirements interview) before Codex writes ",
+    "id": "folkss/plan-then-code",
     "language": "Python",
-    "name": "SDV-G-Deploy/ant-skills",
+    "name": "folkss/plan-then-code",
+    "stars": 6,
+    "updated_at": "2026-05-25T17:29:24Z",
+    "url": "https://github.com/folkss/plan-then-code"
+  },
+  {
+    "description": "A CLAUDE.md for shell-safety discipline \u2014 set -euo pipefail boilerplate, proper quoting, array usage, error handling, an",
+    "id": "HermeticOrmus/shell-safety-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/shell-safety-skills",
     "stars": 0,
-    "updated_at": "2026-05-25T17:12:57Z",
-    "url": "https://github.com/SDV-G-Deploy/ant-skills"
+    "updated_at": "2026-05-25T17:29:23Z",
+    "url": "https://github.com/HermeticOrmus/shell-safety-skills"
+  },
+  {
+    "description": "A CLAUDE.md that strips AI-slop from markdown \u2014 no em dashes, no marketing fluff, no emoji bullets, sentence case headin",
+    "id": "HermeticOrmus/markdown-discipline-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/markdown-discipline-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:22Z",
+    "url": "https://github.com/HermeticOrmus/markdown-discipline-skills"
+  },
+  {
+    "description": "A CLAUDE.md to direct AI codegen well \u2014 hypothesis before help, scoped prompts, validate before accepting, reject workin",
+    "id": "HermeticOrmus/vibe-engineer-skills",
+    "language": "\u2014",
+    "name": "HermeticOrmus/vibe-engineer-skills",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:20Z",
+    "url": "https://github.com/HermeticOrmus/vibe-engineer-skills"
+  },
+  {
+    "description": "Session lifecycle for Claude Code \u2014 10 plugins covering handoff, pickup, absorb, explore, close, maintain, grab, todo, s",
+    "id": "HermeticOrmus/LibreSessionFlow-Claude-Code",
+    "language": "Shell",
+    "name": "HermeticOrmus/LibreSessionFlow-Claude-Code",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:19Z",
+    "url": "https://github.com/HermeticOrmus/LibreSessionFlow-Claude-Code"
+  },
+  {
+    "description": "Security operations plugins, agents, commands, and skills for Claude Code. Sister project to LibreUIUX.",
+    "id": "HermeticOrmus/LibreSecOps-Claude-Code",
+    "language": "Shell",
+    "name": "HermeticOrmus/LibreSecOps-Claude-Code",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:17Z",
+    "url": "https://github.com/HermeticOrmus/LibreSecOps-Claude-Code"
+  },
+  {
+    "description": "20 Claude Code plugins for mobile app development with Flutter, React Native, Swift, and Kotlin",
+    "id": "HermeticOrmus/LibreMobileDev-Claude-Code",
+    "language": "Shell",
+    "name": "HermeticOrmus/LibreMobileDev-Claude-Code",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:15Z",
+    "url": "https://github.com/HermeticOrmus/LibreMobileDev-Claude-Code"
+  },
+  {
+    "description": "20 Claude Code plugins for ML engineering and AI operations",
+    "id": "HermeticOrmus/LibreMLOps-Claude-Code",
+    "language": "Shell",
+    "name": "HermeticOrmus/LibreMLOps-Claude-Code",
+    "stars": 0,
+    "updated_at": "2026-05-25T17:29:14Z",
+    "url": "https://github.com/HermeticOrmus/LibreMLOps-Claude-Code"
+  },
+  {
+    "description": "20 Claude Code plugins for game development across Godot, Unity, and Unreal",
+    "id": "HermeticOrmus/LibreGameDev-Claude-Code",
+    "language": "Shell",
+    "name": "HermeticOrmus/LibreGameDev-Claude-Code",
+    "stars": 2,
+    "updated_at": "2026-05-25T17:29:12Z",
+    "url": "https://github.com/HermeticOrmus/LibreGameDev-Claude-Code"
   }
 ]

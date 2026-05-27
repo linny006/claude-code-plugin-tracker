@@ -1,5 +1,59 @@
 [
   {
+    "description": "Turn Your AI Agent Into a Full Developer Team: Plan, Code, Test & Ship in One Sprint 2026",
+    "id": "hassamwaleed/agent-orchestrator-framework",
+    "language": "HTML",
+    "name": "hassamwaleed/agent-orchestrator-framework",
+    "stars": 0,
+    "updated_at": "2026-05-27T11:00:41Z",
+    "url": "https://github.com/hassamwaleed/agent-orchestrator-framework"
+  },
+  {
+    "description": "A tremendous feat of documentation, this guide covers Claude Code from beginner to power user, with production-ready tem",
+    "id": "FlorianBruniaux/claude-code-ultimate-guide",
+    "language": "TypeScript",
+    "name": "FlorianBruniaux/claude-code-ultimate-guide",
+    "stars": 4519,
+    "updated_at": "2026-05-27T11:00:37Z",
+    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-05-27T11:00:36Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Self-hosted AI gateway & LLM proxy \u2014 one OpenAI-compatible endpoint for Claude, GPT, Gemini, DeepSeek & local models. Si",
+    "id": "flowork-os/Flow_Router",
+    "language": "Go",
+    "name": "flowork-os/Flow_Router",
+    "stars": 0,
+    "updated_at": "2026-05-27T11:00:31Z",
+    "url": "https://github.com/flowork-os/Flow_Router"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 0,
+    "updated_at": "2026-05-27T11:00:20Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Jira-aware workflow layer for Claude Code \u2014 clean session handoffs and the [CTX] comment-format discipline. Every bit of",
+    "id": "fr1j0/bitacora",
+    "language": "Shell",
+    "name": "fr1j0/bitacora",
+    "stars": 0,
+    "updated_at": "2026-05-27T11:00:16Z",
+    "url": "https://github.com/fr1j0/bitacora"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -7,6 +61,15 @@
     "stars": 1,
     "updated_at": "2026-05-27T11:00:15Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "MCP server for AST-aware search and safe, atomic multi-file edits.",
+    "id": "BasilSkyWalk/parecode",
+    "language": "TypeScript",
+    "name": "BasilSkyWalk/parecode",
+    "stars": 0,
+    "updated_at": "2026-05-27T11:00:12Z",
+    "url": "https://github.com/BasilSkyWalk/parecode"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -117,15 +180,6 @@
     "url": "https://github.com/eris-ths/supply-chain-guard"
   },
   {
-    "description": "MCP server for AST-aware search and safe, atomic multi-file edits.",
-    "id": "BasilSkyWalk/parecode",
-    "language": "TypeScript",
-    "name": "BasilSkyWalk/parecode",
-    "stars": 0,
-    "updated_at": "2026-05-27T11:00:12Z",
-    "url": "https://github.com/BasilSkyWalk/parecode"
-  },
-  {
     "description": "Local-first AI dev productivity tracker. Track Claude Code, Codex, Cursor across machines. CLI + web dashboard. Audit-re",
     "id": "Mr1000xGrowth/ship1000x",
     "language": "Python",
@@ -169,15 +223,6 @@
     "stars": 31,
     "updated_at": "2026-05-27T10:57:03Z",
     "url": "https://github.com/yuvrajangadsingh/brandmd"
-  },
-  {
-    "description": "Self-hosted AI gateway & LLM proxy \u2014 one OpenAI-compatible endpoint for Claude, GPT, Gemini, DeepSeek & local models. Si",
-    "id": "flowork-os/Flow_Router",
-    "language": "Go",
-    "name": "flowork-os/Flow_Router",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:57:02Z",
-    "url": "https://github.com/flowork-os/Flow_Router"
   },
   {
     "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
@@ -302,7 +347,7 @@
     "language": "Go",
     "name": "github/gh-aw",
     "stars": 4526,
-    "updated_at": "2026-05-27T10:59:17Z",
+    "updated_at": "2026-05-27T11:00:20Z",
     "url": "https://github.com/github/gh-aw"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 9,
     "updated_at": "2026-05-27T10:54:47Z",
     "url": "https://github.com/seanyao/roll"
-  },
-  {
-    "description": "SnapMock 2.0: AI Play Store Screenshot Generator from Local Codebases 2026",
-    "id": "Nirmalreddi/snap-mock-master",
-    "language": "HTML",
-    "name": "Nirmalreddi/snap-mock-master",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:54:45Z",
-    "url": "https://github.com/Nirmalreddi/snap-mock-master"
-  },
-  {
-    "description": "Claude PR review with project-aware skills. Encode your team standards (brand voice, API contracts, compliance, test dis",
-    "id": "thrillmade/clud-bug",
-    "language": "JavaScript",
-    "name": "thrillmade/clud-bug",
-    "stars": 1,
-    "updated_at": "2026-05-27T10:54:34Z",
-    "url": "https://github.com/thrillmade/clud-bug"
-  },
-  {
-    "description": "Local-First AI Job Hunter 2026: Auto-Fill ATS, Kanban Tracking & Resume Tailor",
-    "id": "LASR2002/resume-tailor-loom",
-    "language": "HTML",
-    "name": "LASR2002/resume-tailor-loom",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:54:23Z",
-    "url": "https://github.com/LASR2002/resume-tailor-loom"
-  },
-  {
-    "description": "macOS menu bar widget for Claude usage tracking + multi-account auto-switch",
-    "id": "ncthanhngo/claude-bar",
-    "language": "Go",
-    "name": "ncthanhngo/claude-bar",
-    "stars": 1,
-    "updated_at": "2026-05-27T10:54:23Z",
-    "url": "https://github.com/ncthanhngo/claude-bar"
-  },
-  {
-    "description": "Scout Pro 2026: AI-Powered Lead Generation & CRM Automation Tool",
-    "id": "aftab76/researcher-tracker",
-    "language": "HTML",
-    "name": "aftab76/researcher-tracker",
-    "stars": 0,
-    "updated_at": "2026-05-27T10:54:19Z",
-    "url": "https://github.com/aftab76/researcher-tracker"
   }
 ]

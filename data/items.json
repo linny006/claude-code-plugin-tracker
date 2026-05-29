@@ -1,5 +1,41 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-05-29T08:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
+    "id": "JSONbored/awesome-claude",
+    "language": "MDX",
+    "name": "JSONbored/awesome-claude",
+    "stars": 250,
+    "updated_at": "2026-05-29T08:30:08Z",
+    "url": "https://github.com/JSONbored/awesome-claude"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 0,
+    "updated_at": "2026-05-29T08:30:06Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Minimal by design, explicitly multi-lang, production-ready and battle-tested collection of configs and plugins for your ",
+    "id": "serpro69/claude-toolbox",
+    "language": "Shell",
+    "name": "serpro69/claude-toolbox",
+    "stars": 144,
+    "updated_at": "2026-05-29T08:30:12Z",
+    "url": "https://github.com/serpro69/claude-toolbox"
+  },
+  {
     "description": "Multi-agent framework for Claude Code: tier-aware acceptance (S/M/L), acceptor/optimizer split, filesystem-isolated adve",
     "id": "AgentShekel/agentic-workflow",
     "language": "Python",
@@ -23,8 +59,17 @@
     "language": "Go",
     "name": "serpro69/capy",
     "stars": 4,
-    "updated_at": "2026-05-29T08:29:49Z",
+    "updated_at": "2026-05-29T08:30:05Z",
     "url": "https://github.com/serpro69/capy"
+  },
+  {
+    "description": "The agent that grows with you",
+    "id": "NousResearch/hermes-agent",
+    "language": "Python",
+    "name": "NousResearch/hermes-agent",
+    "stars": 172110,
+    "updated_at": "2026-05-29T08:29:38Z",
+    "url": "https://github.com/NousResearch/hermes-agent"
   },
   {
     "description": "Musher Portable Agent Bundles for Local Coding Agents 2026",
@@ -88,15 +133,6 @@
     "stars": 7,
     "updated_at": "2026-05-29T08:28:45Z",
     "url": "https://github.com/jikig-ai/soleur"
-  },
-  {
-    "description": "The agent that grows with you",
-    "id": "NousResearch/hermes-agent",
-    "language": "Python",
-    "name": "NousResearch/hermes-agent",
-    "stars": 172109,
-    "updated_at": "2026-05-29T08:29:38Z",
-    "url": "https://github.com/NousResearch/hermes-agent"
   },
   {
     "description": "Turn Your AI Agent Into a Full Developer Team: Plan, Code, Test & Ship in One Sprint 2026",
@@ -342,15 +378,6 @@
     "url": "https://github.com/myrialabs/clopen"
   },
   {
-    "description": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills,",
-    "id": "JSONbored/awesome-claude",
-    "language": "MDX",
-    "name": "JSONbored/awesome-claude",
-    "stars": 250,
-    "updated_at": "2026-05-29T08:27:24Z",
-    "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
     "description": "Run Claude Code natively on Android via Termux or AVF (Android Virtualization Framework) -- no desktop, no SSH, no root ",
     "id": "ferrumclaudepilgrim/claude-code-android",
     "language": "Shell",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T08:23:35Z",
     "url": "https://github.com/KCNyu/clawock"
-  },
-  {
-    "description": "354 free Claude skills for TV producers, journalists, podcasters, YouTubers & media professionals. Pitch to publish. Qua",
-    "id": "ur-grue/autopunk-media-skills",
-    "language": "Shell",
-    "name": "ur-grue/autopunk-media-skills",
-    "stars": 8,
-    "updated_at": "2026-05-29T08:23:33Z",
-    "url": "https://github.com/ur-grue/autopunk-media-skills"
-  },
-  {
-    "description": "One command to make Claude Code safe for autonomous operation. Prevents rm -rf, secret leaks, force-pushes, broken deplo",
-    "id": "yurukusa/cc-safe-setup",
-    "language": "Shell",
-    "name": "yurukusa/cc-safe-setup",
-    "stars": 36,
-    "updated_at": "2026-05-29T08:23:24Z",
-    "url": "https://github.com/yurukusa/cc-safe-setup"
-  },
-  {
-    "description": "\u5728\u4e0d\u540c\u7684\u7f16\u7a0b\u52a9\u624b\u4e4b\u95f4\u65e0\u635f\u5207\u6362\u4f1a\u8bdd",
-    "id": "ip2a/memorph",
-    "language": "Rust",
-    "name": "ip2a/memorph",
-    "stars": 70,
-    "updated_at": "2026-05-29T08:23:17Z",
-    "url": "https://github.com/ip2a/memorph"
   }
 ]

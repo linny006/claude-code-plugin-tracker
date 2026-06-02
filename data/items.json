@@ -1,5 +1,32 @@
 [
   {
+    "description": "Self-hosted MCP memory server \u2014 35 tools for persistent context across AI coding sessions. Runs on Docker with PostgreSQ",
+    "id": "petersimmons1972/engram-go",
+    "language": "Go",
+    "name": "petersimmons1972/engram-go",
+    "stars": 7,
+    "updated_at": "2026-06-02T21:45:05Z",
+    "url": "https://github.com/petersimmons1972/engram-go"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 0,
+    "updated_at": "2026-06-02T21:44:47Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription. A",
+    "id": "stablyai/orca",
+    "language": "TypeScript",
+    "name": "stablyai/orca",
+    "stars": 4016,
+    "updated_at": "2026-06-02T21:44:47Z",
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
     "description": "Run your AI coding tool through a 17-stage dev pipeline. Multi-host across Claude Code, Codex, and Gemini CLI.   Artifac",
     "id": "telus-labs/stagecraft",
     "language": "JavaScript",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-02T21:40:34Z",
     "url": "https://github.com/ultimatespidermanton/surreal-surge"
-  },
-  {
-    "description": "A cross-platform plugin kit that integrates Kimi CLI (Moonshot AI) into Claude Code, Codex CLI, and Antigravity CLI. Run",
-    "id": "luhfilho/kimi-plugin-cross-platform",
-    "language": "JavaScript",
-    "name": "luhfilho/kimi-plugin-cross-platform",
-    "stars": 0,
-    "updated_at": "2026-06-02T21:40:33Z",
-    "url": "https://github.com/luhfilho/kimi-plugin-cross-platform"
-  },
-  {
-    "description": "Custom sandbox templates for Docker's sbx tool",
-    "id": "pavlov-net/sbx-templates",
-    "language": "Dockerfile",
-    "name": "pavlov-net/sbx-templates",
-    "stars": 0,
-    "updated_at": "2026-06-02T21:40:29Z",
-    "url": "https://github.com/pavlov-net/sbx-templates"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-06-02T21:40:25Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
   }
 ]

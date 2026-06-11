@@ -1,345 +1,39 @@
 [
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
+    "description": "Delegate tasks to DeepSeek right inside your Claude Code / Codex sessions.",
+    "id": "dazuiba/handoff",
     "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-11T08:45:18Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "name": "dazuiba/handoff",
+    "stars": 1,
+    "updated_at": "2026-06-11T09:00:18Z",
+    "url": "https://github.com/dazuiba/handoff"
   },
   {
-    "description": "Claude Code skill that ranks your open GitHub issues by triage state + dependency graph, tells you what to work on next,",
-    "id": "pantsbang-yannik/next-issues",
-    "language": "HTML",
-    "name": "pantsbang-yannik/next-issues",
+    "description": "Claude Code template with commands, skills, agents, and hooks",
+    "id": "kimny1143/claude-code-template",
+    "language": "Python",
+    "name": "kimny1143/claude-code-template",
     "stars": 4,
-    "updated_at": "2026-06-11T08:45:15Z",
-    "url": "https://github.com/pantsbang-yannik/next-issues"
+    "updated_at": "2026-06-11T09:00:13Z",
+    "url": "https://github.com/kimny1143/claude-code-template"
   },
   {
-    "description": "Orca is the next-gen ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. A",
-    "id": "stablyai/orca",
-    "language": "TypeScript",
-    "name": "stablyai/orca",
-    "stars": 4587,
-    "updated_at": "2026-06-11T08:45:11Z",
-    "url": "https://github.com/stablyai/orca"
-  },
-  {
-    "description": "A Simple and Universal Product Rehearsal Engine, Speccing Anything. \u7b80\u6d01\u901a\u7528\u7684\u4ea7\u54c1\u63a8\u6f14\u5f15\u64ce\uff0c\u63a8\u6f14\u4e07\u7269\u3002",
-    "id": "xiaojilele-glitch/WhyBuddy",
-    "language": "TypeScript",
-    "name": "xiaojilele-glitch/WhyBuddy",
-    "stars": 327,
-    "updated_at": "2026-06-11T08:45:03Z",
-    "url": "https://github.com/xiaojilele-glitch/WhyBuddy"
-  },
-  {
-    "description": "Your coding agent is editing blind. agent-lsp gives it type-aware navigation, blast-radius analysis, and pre-verified ed",
-    "id": "blackwell-systems/agent-lsp",
+    "description": "Interactive session picker for coding agents (Claude Code, OpenCode)",
+    "id": "gadflysu/aps",
     "language": "Go",
-    "name": "blackwell-systems/agent-lsp",
-    "stars": 53,
-    "updated_at": "2026-06-11T08:45:01Z",
-    "url": "https://github.com/blackwell-systems/agent-lsp"
-  },
-  {
-    "description": "\ud83e\udd1d Seddo \u2014 Agent coordination via GitHub Gist. Wolof: s\u00e9ddo = partager. A shared space where AI agents exchange tasks, kn",
-    "id": "dofbi/seddo",
-    "language": "Shell",
-    "name": "dofbi/seddo",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:45:00Z",
-    "url": "https://github.com/dofbi/seddo"
-  },
-  {
-    "description": "Runtime failure resolution for coding agents. Hooks into Claude Code and Codex. Catches loops, dangerous actions, and se",
-    "id": "FailproofAI/failproofai",
-    "language": "TypeScript",
-    "name": "FailproofAI/failproofai",
-    "stars": 109,
-    "updated_at": "2026-06-11T08:44:58Z",
-    "url": "https://github.com/FailproofAI/failproofai"
-  },
-  {
-    "description": "Talk to your PostgreSQL databases through Claude Code, Cursor, or any MCP client. Schema exploration, analytics, cross-d",
-    "id": "ginkida/dbecho",
-    "language": "Python",
-    "name": "ginkida/dbecho",
+    "name": "gadflysu/aps",
     "stars": 4,
-    "updated_at": "2026-06-11T08:45:05Z",
-    "url": "https://github.com/ginkida/dbecho"
+    "updated_at": "2026-06-11T09:00:12Z",
+    "url": "https://github.com/gadflysu/aps"
   },
   {
-    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
-    "id": "Imbad0202/academic-research-skills",
+    "description": "Human-like persistent memory for AI coding agents \u2014 local-first, immutable decision/lesson records with provenance, hybr",
+    "id": "AzazelSensei/persistent-memory",
     "language": "Python",
-    "name": "Imbad0202/academic-research-skills",
-    "stars": 30074,
-    "updated_at": "2026-06-11T08:44:44Z",
-    "url": "https://github.com/Imbad0202/academic-research-skills"
-  },
-  {
-    "description": "\u2b50\ufe0f Understand Anything Software Full Version v1.2 featuring Latest Build 2023, Activation Keygen, Setup Installer, Pro L",
-    "id": "NoviceMultiplexer29/Understand-Anything-Download-2026",
-    "language": "\u2014",
-    "name": "NoviceMultiplexer29/Understand-Anything-Download-2026",
+    "name": "AzazelSensei/persistent-memory",
     "stars": 1,
-    "updated_at": "2026-06-11T08:44:40Z",
-    "url": "https://github.com/NoviceMultiplexer29/Understand-Anything-Download-2026"
-  },
-  {
-    "description": "AI Agent Orchestrator: Multi-LLM Terminal Manager 2026 \u2013 Real-Time CLI Automation",
-    "id": "mahimpro0123/orchestra-ctl",
-    "language": "HTML",
-    "name": "mahimpro0123/orchestra-ctl",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:44:40Z",
-    "url": "https://github.com/mahimpro0123/orchestra-ctl"
-  },
-  {
-    "description": "An agentic harness that runs your coding agents from idea to merged PR. Nine inspectable stages, markdown artefacts at e",
-    "id": "ivankuznetsov/hive",
-    "language": "Ruby",
-    "name": "ivankuznetsov/hive",
-    "stars": 20,
-    "updated_at": "2026-06-11T08:44:45Z",
-    "url": "https://github.com/ivankuznetsov/hive"
-  },
-  {
-    "description": "Multi-agent framework for Claude Code: tier-aware acceptance (S/M/L), acceptor/optimizer split, filesystem-isolated adve",
-    "id": "AgentShekel/agentic-workflow",
-    "language": "Python",
-    "name": "AgentShekel/agentic-workflow",
-    "stars": 3,
-    "updated_at": "2026-06-11T08:44:37Z",
-    "url": "https://github.com/AgentShekel/agentic-workflow"
-  },
-  {
-    "description": "SLIM v2.0 Claude Code Plugin 2026 - Smart Automation for Dev Workflows",
-    "id": "jestersanjay/slim-tools-claude-harness",
-    "language": "HTML",
-    "name": "jestersanjay/slim-tools-claude-harness",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:44:28Z",
-    "url": "https://github.com/jestersanjay/slim-tools-claude-harness"
-  },
-  {
-    "description": "Threnody - The AI Meta Harness that works with you",
-    "id": "timjensgrossinger/threnody",
-    "language": "Python",
-    "name": "timjensgrossinger/threnody",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:44:26Z",
-    "url": "https://github.com/timjensgrossinger/threnody"
-  },
-  {
-    "description": "\ud83d\ude80 Master PyTRIO SDK 2026: AI Coding Agents for Remote LLM Training & Inference",
-    "id": "minidupabasara2024-ship-it/py-trio-workflow",
-    "language": "HTML",
-    "name": "minidupabasara2024-ship-it/py-trio-workflow",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:44:26Z",
-    "url": "https://github.com/minidupabasara2024-ship-it/py-trio-workflow"
-  },
-  {
-    "description": "VibeCoding SOP 2026: From Zero to MVP Fast \u2013 AI-Powered 4-Phase Gated Guide",
-    "id": "Neil10000/vibe-coding-starter-kit",
-    "language": "HTML",
-    "name": "Neil10000/vibe-coding-starter-kit",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:44:16Z",
-    "url": "https://github.com/Neil10000/vibe-coding-starter-kit"
-  },
-  {
-    "description": "2026 Multi-Agent BD Orchestrator \u2013 Apollo, Notion, Gmail & Slack Integration",
-    "id": "aadiieee/multi-agent-revenue-orchestrator",
-    "language": "HTML",
-    "name": "aadiieee/multi-agent-revenue-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-06-11T08:44:14Z",
-    "url": "https://github.com/aadiieee/multi-agent-revenue-orchestrator"
-  },
-  {
-    "description": "Build verifiable Loop Engineering specs for Codex, Claude Code, OpenClaw, and AI coding agents.",
-    "id": "zhangzeyu99-web/ariadne-loop",
-    "language": "Python",
-    "name": "zhangzeyu99-web/ariadne-loop",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:44:12Z",
-    "url": "https://github.com/zhangzeyu99-web/ariadne-loop"
-  },
-  {
-    "description": "5 Best Claude Code AI Plugins 2026 - Free Weave Market Download Now",
-    "id": "Hackersohan9/Claude-Plugins-Weave",
-    "language": "HTML",
-    "name": "Hackersohan9/Claude-Plugins-Weave",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:44:11Z",
-    "url": "https://github.com/Hackersohan9/Claude-Plugins-Weave"
-  },
-  {
-    "description": "AI Code Hygiene 2026: Best Repo Cleanup & Commit Guard Tools",
-    "id": "dhruvanoopkatare31/terminal-wits",
-    "language": "HTML",
-    "name": "dhruvanoopkatare31/terminal-wits",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:44:10Z",
-    "url": "https://github.com/dhruvanoopkatare31/terminal-wits"
-  },
-  {
-    "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Disco",
-    "id": "nanocoai/nanoclaw",
-    "language": "TypeScript",
-    "name": "nanocoai/nanoclaw",
-    "stars": 29802,
-    "updated_at": "2026-06-11T08:44:06Z",
-    "url": "https://github.com/nanocoai/nanoclaw"
-  },
-  {
-    "description": "\u4e00\u4e2a\u66f4\u5f3a\u8c03\u53ef\u63a7\u3001\u53ef\u8ffd\u8e2a\u548c Token \u6548\u7387\u7684 AI \u591a\u667a\u80fd\u4f53\u5f00\u53d1\u5de5\u4f5c\u6d41 || An AI multi-agent development workflow that emphasizes controllability, traceabil",
-    "id": "TreeX-X/WorkFlowX",
-    "language": "HTML",
-    "name": "TreeX-X/WorkFlowX",
-    "stars": 28,
-    "updated_at": "2026-06-11T08:44:02Z",
-    "url": "https://github.com/TreeX-X/WorkFlowX"
-  },
-  {
-    "description": "Introduces a comprehensive agent-based framework for guided software development (GSD)",
-    "id": "Tibsfox/gsd-skill-creator",
-    "language": "TypeScript",
-    "name": "Tibsfox/gsd-skill-creator",
-    "stars": 64,
-    "updated_at": "2026-06-11T08:43:56Z",
-    "url": "https://github.com/Tibsfox/gsd-skill-creator"
-  },
-  {
-    "description": "Autopus-ADK is of the agents, by the agents. for the agents. Multi-model orchestration (consensus/pipeline/debate/fastes",
-    "id": "Insajin/autopus-adk",
-    "language": "Go",
-    "name": "Insajin/autopus-adk",
-    "stars": 107,
-    "updated_at": "2026-06-11T08:43:57Z",
-    "url": "https://github.com/Insajin/autopus-adk"
-  },
-  {
-    "description": "Zero, your trustworthy AI teammate for real work. ",
-    "id": "vm0-ai/vm0",
-    "language": "TypeScript",
-    "name": "vm0-ai/vm0",
-    "stars": 1125,
-    "updated_at": "2026-06-11T08:45:08Z",
-    "url": "https://github.com/vm0-ai/vm0"
-  },
-  {
-    "description": "Native macOS Dynamic Island for AI coding agents \u2014 watches Claude Code & Codex sessions, surfaces permission requests, s",
-    "id": "yangshiqi/ZackEyes",
-    "language": "Swift",
-    "name": "yangshiqi/ZackEyes",
-    "stars": 1,
-    "updated_at": "2026-06-11T08:43:34Z",
-    "url": "https://github.com/yangshiqi/ZackEyes"
-  },
-  {
-    "description": "\ud83d\ude80 Vibe Kanban 2026 Pro \u2013 AI Agent Workflow Optimizer for Claude & Codex",
-    "id": "shotkillschwul/agentic-cycle-tools",
-    "language": "HTML",
-    "name": "shotkillschwul/agentic-cycle-tools",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:43:15Z",
-    "url": "https://github.com/shotkillschwul/agentic-cycle-tools"
-  },
-  {
-    "description": "Run AI Coding Agents Side by Side 2026 - Multi-Model Dev Tool for Parallel Code",
-    "id": "aaronbarca35-hub/multi-model-dev-sync",
-    "language": "HTML",
-    "name": "aaronbarca35-hub/multi-model-dev-sync",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:43:10Z",
-    "url": "https://github.com/aaronbarca35-hub/multi-model-dev-sync"
-  },
-  {
-    "description": "Self-hosted AI agents that learn from their own past and guard their own code. Per-agent isolated brain (memory, dream, ",
-    "id": "flowork-os/Flowork_Agent",
-    "language": "Go",
-    "name": "flowork-os/Flowork_Agent",
-    "stars": 5,
-    "updated_at": "2026-06-11T08:43:07Z",
-    "url": "https://github.com/flowork-os/Flowork_Agent"
-  },
-  {
-    "description": "A Unified Virtual Filesystem For AI Agents",
-    "id": "strukto-ai/mirage",
-    "language": "TypeScript",
-    "name": "strukto-ai/mirage",
-    "stars": 3132,
-    "updated_at": "2026-06-11T08:43:06Z",
-    "url": "https://github.com/strukto-ai/mirage"
-  },
-  {
-    "description": "The agent that grows with you",
-    "id": "NousResearch/hermes-agent",
-    "language": "Python",
-    "name": "NousResearch/hermes-agent",
-    "stars": 190398,
-    "updated_at": "2026-06-11T08:42:54Z",
-    "url": "https://github.com/NousResearch/hermes-agent"
-  },
-  {
-    "description": "Local-first observability and coordination platform for AI-assisted development",
-    "id": "shakestzd/wipnote",
-    "language": "HTML",
-    "name": "shakestzd/wipnote",
-    "stars": 3,
-    "updated_at": "2026-06-11T08:42:42Z",
-    "url": "https://github.com/shakestzd/wipnote"
-  },
-  {
-    "description": "Curated agentic AI skills for AWS platform engineering, delivered through any coding agent",
-    "id": "aws-samples/sample-apex-skills",
-    "language": "Python",
-    "name": "aws-samples/sample-apex-skills",
-    "stars": 18,
-    "updated_at": "2026-06-11T08:42:41Z",
-    "url": "https://github.com/aws-samples/sample-apex-skills"
-  },
-  {
-    "description": "Character Macro Harness \u2014 one identity across Slack, browser, OBS, YouTube, Discord, StackChan, Live2D/VRM, with Project",
-    "id": "Go-555/iroharness",
-    "language": "JavaScript",
-    "name": "Go-555/iroharness",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:42:32Z",
-    "url": "https://github.com/Go-555/iroharness"
-  },
-  {
-    "description": "My personal development harness for Claude Code and Codex. Use at your own risk.",
-    "id": "RubenGlez/harness",
-    "language": "Shell",
-    "name": "RubenGlez/harness",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:42:30Z",
-    "url": "https://github.com/RubenGlez/harness"
-  },
-  {
-    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
-    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "language": "HTML",
-    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:42:26Z",
-    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "AI Context Window Saver 2026 - Auto Save & Resume Workflow for Developers",
-    "id": "skd4747/context-hoarder",
-    "language": "HTML",
-    "name": "skd4747/context-hoarder",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:42:24Z",
-    "url": "https://github.com/skd4747/context-hoarder"
+    "updated_at": "2026-06-11T08:59:34Z",
+    "url": "https://github.com/AzazelSensei/persistent-memory"
   },
   {
     "description": "Skills, rules, and validation hooks that teach AI coding agents to generate correct UdonSharp code",
@@ -347,71 +41,152 @@
     "language": "C#",
     "name": "niaka3dayo/agent-skills-vrc-udon",
     "stars": 177,
-    "updated_at": "2026-06-11T08:43:29Z",
+    "updated_at": "2026-06-11T08:59:15Z",
     "url": "https://github.com/niaka3dayo/agent-skills-vrc-udon"
   },
   {
-    "description": "Unified long-term memory and knowledge platform for AI agents with MCP, governance, and graph-oriented knowledge evoluti",
-    "id": "PrecipAI/AGI-Memory",
-    "language": "HTML",
-    "name": "PrecipAI/AGI-Memory",
-    "stars": 1,
-    "updated_at": "2026-06-11T08:42:22Z",
-    "url": "https://github.com/PrecipAI/AGI-Memory"
-  },
-  {
-    "description": "AI-Powered SEC Filings Analyzer 2026 \ud83d\udcc8 | Free Stock Insights & Tools",
-    "id": "jesinovilhena-ship-it/sec-filings-analyzer",
-    "language": "HTML",
-    "name": "jesinovilhena-ship-it/sec-filings-analyzer",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:42:17Z",
-    "url": "https://github.com/jesinovilhena-ship-it/sec-filings-analyzer"
-  },
-  {
-    "description": "Give it an issue number, get back a pull request. Uses Claude Code to read the issue, implement the fix, and run the ful",
-    "id": "ZhannaM85/mouse-fixes",
-    "language": "JavaScript",
-    "name": "ZhannaM85/mouse-fixes",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:42:15Z",
-    "url": "https://github.com/ZhannaM85/mouse-fixes"
-  },
-  {
-    "description": "The missing middle between prompt and patch: a Markdown-native protocol that turns AI coding sessions into durable work ",
-    "id": "z3z1ma/agent-loom",
-    "language": "Python",
-    "name": "z3z1ma/agent-loom",
-    "stars": 15,
-    "updated_at": "2026-06-11T08:42:12Z",
-    "url": "https://github.com/z3z1ma/agent-loom"
-  },
-  {
-    "description": "Project memory system for AI coding assistants (Claude Code, Cursor, Codex): session logs, project wiki, rules, TODOs, a",
-    "id": "JamesShi96/project-butler",
-    "language": "\u2014",
-    "name": "JamesShi96/project-butler",
-    "stars": 156,
-    "updated_at": "2026-06-11T08:42:04Z",
-    "url": "https://github.com/JamesShi96/project-butler"
-  },
-  {
-    "description": "A terminal launcher for agent CLIs \u2014 Claude Code, Codex CLI, OpenCode, Gemini CLI, DeepSeek-TUI \u2014 that pairs each sessio",
-    "id": "sPROFFEs/PrAImate",
+    "description": "Your coding agent is editing blind. agent-lsp gives it type-aware navigation, blast-radius analysis, and pre-verified ed",
+    "id": "blackwell-systems/agent-lsp",
     "language": "Go",
-    "name": "sPROFFEs/PrAImate",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:41:59Z",
-    "url": "https://github.com/sPROFFEs/PrAImate"
+    "name": "blackwell-systems/agent-lsp",
+    "stars": 53,
+    "updated_at": "2026-06-11T08:59:12Z",
+    "url": "https://github.com/blackwell-systems/agent-lsp"
   },
   {
-    "description": "\ud83d\udd14 Native macOS chime for Claude Code \u2014 Claude icon, sound, and live session/weekly usage gauge (EN + \u4e2d\u6587)",
-    "id": "wangpuv/claude-chime",
-    "language": "Shell",
-    "name": "wangpuv/claude-chime",
+    "description": "Connect two people's Claude Code sessions over one live, end-to-end-encrypted channel. MCP + relay + dashboard. Free for",
+    "id": "goofypluto999/pairwave",
+    "language": "TypeScript",
+    "name": "goofypluto999/pairwave",
     "stars": 0,
-    "updated_at": "2026-06-11T08:41:58Z",
-    "url": "https://github.com/wangpuv/claude-chime"
+    "updated_at": "2026-06-11T08:59:12Z",
+    "url": "https://github.com/goofypluto999/pairwave"
+  },
+  {
+    "description": "A SQLite persistent memory layer for any coding agent. Stop-hook extraction captures sessions, MCP tools expose them mid",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 2,
+    "updated_at": "2026-06-11T08:59:11Z",
+    "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "TeemAI turns disposable AI sessions into a persistent, professional team \u2014 agents that know your project, work in parall",
+    "id": "korbinjoe/TeemAI",
+    "language": "TypeScript",
+    "name": "korbinjoe/TeemAI",
+    "stars": 2,
+    "updated_at": "2026-06-11T08:59:08Z",
+    "url": "https://github.com/korbinjoe/TeemAI"
+  },
+  {
+    "description": "Deterministic quality scorer for AI agent instruction files \u2014 8-dimension scoring with security, multi-format (SKILL.md,",
+    "id": "Zandereins/schliff",
+    "language": "Python",
+    "name": "Zandereins/schliff",
+    "stars": 3,
+    "updated_at": "2026-06-11T08:58:59Z",
+    "url": "https://github.com/Zandereins/schliff"
+  },
+  {
+    "description": "AI-friendly CLI for turning HTML/Markdown drafts into Japanese PDF/PNG deliverables",
+    "id": "hayashiii-ghub/pdfmint",
+    "language": "TypeScript",
+    "name": "hayashiii-ghub/pdfmint",
+    "stars": 1,
+    "updated_at": "2026-06-11T08:58:51Z",
+    "url": "https://github.com/hayashiii-ghub/pdfmint"
+  },
+  {
+    "description": "The memory your AI should have had from the start. Automatic capture, automatic recall, 100% local. One SQLite file, zer",
+    "id": "buildingjoshbetter/TrueMemory",
+    "language": "Python",
+    "name": "buildingjoshbetter/TrueMemory",
+    "stars": 277,
+    "updated_at": "2026-06-11T08:58:33Z",
+    "url": "https://github.com/buildingjoshbetter/TrueMemory"
+  },
+  {
+    "description": "Compile project rules into dedicated agent workflows for reviewable planning, validation, and proof.",
+    "id": "BeforeWave/forma",
+    "language": "Python",
+    "name": "BeforeWave/forma",
+    "stars": 5,
+    "updated_at": "2026-06-11T08:58:30Z",
+    "url": "https://github.com/BeforeWave/forma"
+  },
+  {
+    "description": "An index of Claude and agent skills for academic work, from literature search to peer review. Organized by where each sk",
+    "id": "O0000-code/awesome-academic-skills",
+    "language": "Python",
+    "name": "O0000-code/awesome-academic-skills",
+    "stars": 5,
+    "updated_at": "2026-06-11T08:58:27Z",
+    "url": "https://github.com/O0000-code/awesome-academic-skills"
+  },
+  {
+    "description": "\u7ba1\u7406 Claude Code \u5168\u90e8\u7ec4\u4ef6\u7684\u684c\u9762\u5de5\u5177 | Desktop app for browsing and editing your Claude Code setup: skills, plugins, MCP, hooks, and",
+    "id": "Sisyphus776/claude-manage",
+    "language": "HTML",
+    "name": "Sisyphus776/claude-manage",
+    "stars": 0,
+    "updated_at": "2026-06-11T08:58:23Z",
+    "url": "https://github.com/Sisyphus776/claude-manage"
+  },
+  {
+    "description": "\ud83c\udf6a Your Claude subscription usage in the macOS menu bar",
+    "id": "davidpflugpeil/cookie-monster",
+    "language": "Swift",
+    "name": "davidpflugpeil/cookie-monster",
+    "stars": 0,
+    "updated_at": "2026-06-11T08:58:11Z",
+    "url": "https://github.com/davidpflugpeil/cookie-monster"
+  },
+  {
+    "description": "Autonomous multi-agent coding framework that plans, builds, validates and document software for you",
+    "id": "tleub-ebp/WorkPilot-AI",
+    "language": "Python",
+    "name": "tleub-ebp/WorkPilot-AI",
+    "stars": 3,
+    "updated_at": "2026-06-11T08:57:48Z",
+    "url": "https://github.com/tleub-ebp/WorkPilot-AI"
+  },
+  {
+    "description": " AI chat logger with public sharing, forking, and multi-model support.  Save your thinking process, not just the answers",
+    "id": "kabehub/kabehub-prototype",
+    "language": "TypeScript",
+    "name": "kabehub/kabehub-prototype",
+    "stars": 2,
+    "updated_at": "2026-06-11T08:57:40Z",
+    "url": "https://github.com/kabehub/kabehub-prototype"
+  },
+  {
+    "description": "Bridge Feishu/Lark to AI coding CLIs \u2014 Claude Code, Codex, Gemini, OpenCode\u2026 every DM, group or topic spawns its own liv",
+    "id": "deepcoldy/botmux",
+    "language": "TypeScript",
+    "name": "deepcoldy/botmux",
+    "stars": 316,
+    "updated_at": "2026-06-11T08:57:28Z",
+    "url": "https://github.com/deepcoldy/botmux"
+  },
+  {
+    "description": "\uc81c\uc870\uc5c5 AI \uc77c\uc77c \ube0c\ub9ac\ud551 \uc0dd\uc131\uae30 \u2014 Claude Code \uc2a4\ud0ac + \ub3c5\ub9bd \uc2e4\ud589(Python)",
+    "id": "jsbae-dsr/ai-daily-briefing",
+    "language": "Python",
+    "name": "jsbae-dsr/ai-daily-briefing",
+    "stars": 0,
+    "updated_at": "2026-06-11T08:57:24Z",
+    "url": "https://github.com/jsbae-dsr/ai-daily-briefing"
+  },
+  {
+    "description": "Build verifiable Loop Engineering specs for Codex, Claude Code, OpenClaw, and AI coding agents.",
+    "id": "zhangzeyu99-web/ariadne-loop",
+    "language": "Python",
+    "name": "zhangzeyu99-web/ariadne-loop",
+    "stars": 0,
+    "updated_at": "2026-06-11T08:57:13Z",
+    "url": "https://github.com/zhangzeyu99-web/ariadne-loop"
   },
   {
     "description": "Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents \u2014 one local Rust bi",
@@ -419,34 +194,259 @@
     "language": "Rust",
     "name": "yvgude/lean-ctx",
     "stars": 2618,
-    "updated_at": "2026-06-11T08:41:50Z",
+    "updated_at": "2026-06-11T08:57:10Z",
     "url": "https://github.com/yvgude/lean-ctx"
   },
   {
-    "description": "\ud83d\ude80 RoboHarness 2026 \u2013 AI Visual Testing Suite for Robot Simulators",
-    "id": "Moses204/roboharness-vision-tester",
-    "language": "HTML",
-    "name": "Moses204/roboharness-vision-tester",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:41:35Z",
-    "url": "https://github.com/Moses204/roboharness-vision-tester"
-  },
-  {
-    "description": "Report-Skill Pro 2026 \u2013 Smart HTML Report Generator with TOC & Themes",
-    "id": "Nobita766633/report-craft-azure",
-    "language": "HTML",
-    "name": "Nobita766633/report-craft-azure",
-    "stars": 0,
-    "updated_at": "2026-06-11T08:41:28Z",
-    "url": "https://github.com/Nobita766633/report-craft-azure"
-  },
-  {
-    "description": "Personal skill distribution for Claude Code and Codex",
-    "id": "proxynico/nicopowers",
+    "description": "A security-first bridge between Claude Code (MCP) and Chrome \u2014 HMAC pairing, domain allowlist, per-domain evaluate opt-i",
+    "id": "ginkida/sallyport",
     "language": "TypeScript",
-    "name": "proxynico/nicopowers",
+    "name": "ginkida/sallyport",
+    "stars": 2,
+    "updated_at": "2026-06-11T08:57:05Z",
+    "url": "https://github.com/ginkida/sallyport"
+  },
+  {
+    "description": "Give it an issue number, get back a pull request. Uses Claude Code to read the issue, implement the fix, and run the ful",
+    "id": "ZhannaM85/mouse-fixes",
+    "language": "JavaScript",
+    "name": "ZhannaM85/mouse-fixes",
     "stars": 0,
-    "updated_at": "2026-06-11T08:41:26Z",
-    "url": "https://github.com/proxynico/nicopowers"
+    "updated_at": "2026-06-11T08:57:05Z",
+    "url": "https://github.com/ZhannaM85/mouse-fixes"
+  },
+  {
+    "description": "Spec-Driven Development for serious software developers. Spec Coding with with Claude, Cursor, Gemini, Codex. Kanban das",
+    "id": "Priivacy-ai/spec-kitty",
+    "language": "Python",
+    "name": "Priivacy-ai/spec-kitty",
+    "stars": 1316,
+    "updated_at": "2026-06-11T08:57:01Z",
+    "url": "https://github.com/Priivacy-ai/spec-kitty"
+  },
+  {
+    "description": "\ud83e\udd1d Seddo \u2014 Agent coordination via GitHub Gist. Wolof: s\u00e9ddo = partager. A shared space where AI agents exchange tasks, kn",
+    "id": "dofbi/seddo",
+    "language": "Shell",
+    "name": "dofbi/seddo",
+    "stars": 0,
+    "updated_at": "2026-06-11T08:57:00Z",
+    "url": "https://github.com/dofbi/seddo"
+  },
+  {
+    "description": "Skills for Knowledge Catalog",
+    "id": "gemini-cli-extensions/knowledge-catalog",
+    "language": "JavaScript",
+    "name": "gemini-cli-extensions/knowledge-catalog",
+    "stars": 13,
+    "updated_at": "2026-06-11T08:56:58Z",
+    "url": "https://github.com/gemini-cli-extensions/knowledge-catalog"
+  },
+  {
+    "description": "A tiny bridge that lets Claude Code and Codex ask each other for one-shot peer advice",
+    "id": "stevyhacker/ask-colleague",
+    "language": "Shell",
+    "name": "stevyhacker/ask-colleague",
+    "stars": 0,
+    "updated_at": "2026-06-11T08:56:34Z",
+    "url": "https://github.com/stevyhacker/ask-colleague"
+  },
+  {
+    "description": "Your AI already knows half the answers. A portable interview skill that builds your context portfolio \u2014 by AI Mates, the",
+    "id": "KyleBehrend/context-portfolio-interview",
+    "language": "\u2014",
+    "name": "KyleBehrend/context-portfolio-interview",
+    "stars": 0,
+    "updated_at": "2026-06-11T08:56:20Z",
+    "url": "https://github.com/KyleBehrend/context-portfolio-interview"
+  },
+  {
+    "description": "Agent profile manager for Claude Code & Codex. Per-directory profiles select which skills, MCP servers, and plugins load",
+    "id": "opencue/cuecards",
+    "language": "TypeScript",
+    "name": "opencue/cuecards",
+    "stars": 2,
+    "updated_at": "2026-06-11T08:56:15Z",
+    "url": "https://github.com/opencue/cuecards"
+  },
+  {
+    "description": "Agent-native issue tracker",
+    "id": "promptctl/links-issue-tracker",
+    "language": "Go",
+    "name": "promptctl/links-issue-tracker",
+    "stars": 1,
+    "updated_at": "2026-06-11T08:56:13Z",
+    "url": "https://github.com/promptctl/links-issue-tracker"
+  },
+  {
+    "description": "Skill for building memory by agent itself",
+    "id": "pygent-ai/memory-cli",
+    "language": "Python",
+    "name": "pygent-ai/memory-cli",
+    "stars": 3,
+    "updated_at": "2026-06-11T08:56:05Z",
+    "url": "https://github.com/pygent-ai/memory-cli"
+  },
+  {
+    "description": "AI-powered Mechanical Engineering Review Skill for CAD, FEA, DFM, DFA and Assembly Analysis.",
+    "id": "almightyshui/mech-sim-assistant",
+    "language": "Python",
+    "name": "almightyshui/mech-sim-assistant",
+    "stars": 2,
+    "updated_at": "2026-06-11T08:55:56Z",
+    "url": "https://github.com/almightyshui/mech-sim-assistant"
+  },
+  {
+    "description": "Claude Code /3p skill for plan-build-review workflows with Claude as worker and Codex + Gemini as independent PAL MCP re",
+    "id": "WhaleCastle/claude-code-3p",
+    "language": "Python",
+    "name": "WhaleCastle/claude-code-3p",
+    "stars": 0,
+    "updated_at": "2026-06-11T08:55:43Z",
+    "url": "https://github.com/WhaleCastle/claude-code-3p"
+  },
+  {
+    "description": "Agentic Coding for Builders who Ship",
+    "id": "Kuberwastaken/claurst",
+    "language": "Rust",
+    "name": "Kuberwastaken/claurst",
+    "stars": 9794,
+    "updated_at": "2026-06-11T08:55:41Z",
+    "url": "https://github.com/Kuberwastaken/claurst"
+  },
+  {
+    "description": "Power Claude Code, Codex CLI, and more with your Copilot subscription.",
+    "id": "animeshkundu/github-router",
+    "language": "TypeScript",
+    "name": "animeshkundu/github-router",
+    "stars": 2,
+    "updated_at": "2026-06-11T08:59:42Z",
+    "url": "https://github.com/animeshkundu/github-router"
+  },
+  {
+    "description": "Stdlib-only Python CLI that runs native coding-agent CLIs (Claude Code, Codex, Antigravity) + a free local model as one ",
+    "id": "berkayturanci/ai-jury",
+    "language": "Python",
+    "name": "berkayturanci/ai-jury",
+    "stars": 3,
+    "updated_at": "2026-06-11T08:55:15Z",
+    "url": "https://github.com/berkayturanci/ai-jury"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0fThe governance runtime for AI agents. Intercept actions, enforce guard policies, require approvals, and produce audit-",
+    "id": "ucsandman/DashClaw",
+    "language": "TypeScript",
+    "name": "ucsandman/DashClaw",
+    "stars": 274,
+    "updated_at": "2026-06-11T08:55:13Z",
+    "url": "https://github.com/ucsandman/DashClaw"
+  },
+  {
+    "description": "A x64 UE4/UE5 runtime data inspector and structure explorer for development",
+    "id": "bbfox0703/UE5CEDumper",
+    "language": "C#",
+    "name": "bbfox0703/UE5CEDumper",
+    "stars": 20,
+    "updated_at": "2026-06-11T08:55:09Z",
+    "url": "https://github.com/bbfox0703/UE5CEDumper"
+  },
+  {
+    "description": "Zero, your trustworthy AI teammate for real work. ",
+    "id": "vm0-ai/vm0",
+    "language": "TypeScript",
+    "name": "vm0-ai/vm0",
+    "stars": 1125,
+    "updated_at": "2026-06-11T08:59:35Z",
+    "url": "https://github.com/vm0-ai/vm0"
+  },
+  {
+    "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+    "id": "CherryHQ/cherry-studio",
+    "language": "TypeScript",
+    "name": "CherryHQ/cherry-studio",
+    "stars": 47207,
+    "updated_at": "2026-06-11T08:55:05Z",
+    "url": "https://github.com/CherryHQ/cherry-studio"
+  },
+  {
+    "description": "One Claude Code skill that turns a single project into a complete brand launch \u2014 12 files (positioning, hero line, 30-da",
+    "id": "shauryalowkeygotaura/brand-launchpad",
+    "language": "HTML",
+    "name": "shauryalowkeygotaura/brand-launchpad",
+    "stars": 1,
+    "updated_at": "2026-06-11T08:54:55Z",
+    "url": "https://github.com/shauryalowkeygotaura/brand-launchpad"
+  },
+  {
+    "description": "The skill registry and projection control plane for AI coding agents",
+    "id": "majiayu000/loom",
+    "language": "Rust",
+    "name": "majiayu000/loom",
+    "stars": 1,
+    "updated_at": "2026-06-11T08:54:49Z",
+    "url": "https://github.com/majiayu000/loom"
+  },
+  {
+    "description": "Character Macro Harness \u2014 one identity across Slack, browser, OBS, YouTube, Discord, StackChan, Live2D/VRM, with Project",
+    "id": "Go-555/iroharness",
+    "language": "JavaScript",
+    "name": "Go-555/iroharness",
+    "stars": 0,
+    "updated_at": "2026-06-11T08:54:47Z",
+    "url": "https://github.com/Go-555/iroharness"
+  },
+  {
+    "description": "Meerkat - A modular, high-performance agent harness built in Rust.",
+    "id": "lukacf/meerkat",
+    "language": "TLA",
+    "name": "lukacf/meerkat",
+    "stars": 15,
+    "updated_at": "2026-06-11T08:54:38Z",
+    "url": "https://github.com/lukacf/meerkat"
+  },
+  {
+    "description": "Business operating system for Claude Code \u2014 25 skills, 13 agents, smart daemon. Unified inbox (WhatsApp/Email/Slack/Tele",
+    "id": "Lifecycle-Innovations-Limited/claude-ops",
+    "language": "Shell",
+    "name": "Lifecycle-Innovations-Limited/claude-ops",
+    "stars": 17,
+    "updated_at": "2026-06-11T08:54:31Z",
+    "url": "https://github.com/Lifecycle-Innovations-Limited/claude-ops"
+  },
+  {
+    "description": "Governance-first OS for AI coding agents \u2014 structured workflows, delivery gates, engineering guardrails, and 14 professi",
+    "id": "KbWen/agentic-os",
+    "language": "Python",
+    "name": "KbWen/agentic-os",
+    "stars": 8,
+    "updated_at": "2026-06-11T08:54:47Z",
+    "url": "https://github.com/KbWen/agentic-os"
+  },
+  {
+    "description": "Off-chain credit ledger + hire marketplace for AI agents. Ed25519-signed envelopes, atomic settlement, hire-and-release ",
+    "id": "voidly-ai/voidly-pay",
+    "language": "JavaScript",
+    "name": "voidly-ai/voidly-pay",
+    "stars": 10,
+    "updated_at": "2026-06-11T08:54:24Z",
+    "url": "https://github.com/voidly-ai/voidly-pay"
+  },
+  {
+    "description": "AI\u306b\u4efb\u305b\u304d\u308a\u3067\u306f\u3001\u610f\u56f3\u901a\u308a\u306e\u5b9f\u88c5\u306f\u5b9f\u73fe\u3057\u306a\u3044\u3002AI\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u306e\u30ea\u30fc\u30c9\u3092\u53d6\u308a\u623b\u3059\u305f\u3081\u306e\u30c7\u30b9\u30af\u30c8\u30c3\u30d7\u30a2\u30d7\u30ea\u3002",
+    "id": "siro33950/releash",
+    "language": "Rust",
+    "name": "siro33950/releash",
+    "stars": 5,
+    "updated_at": "2026-06-11T08:54:18Z",
+    "url": "https://github.com/siro33950/releash"
+  },
+  {
+    "description": "MCP server for mandatory peer review between coding assistants like Claude Code, Codex, Gemini, and  other CLI agents.",
+    "id": "AnamKwon/code-assistant-peers",
+    "language": "TypeScript",
+    "name": "AnamKwon/code-assistant-peers",
+    "stars": 5,
+    "updated_at": "2026-06-11T08:54:07Z",
+    "url": "https://github.com/AnamKwon/code-assistant-peers"
   }
 ]

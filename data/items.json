@@ -1,5 +1,41 @@
 [
   {
+    "description": "A Claude Code plugin marketplace that codifies engineering craft: disciplined Python and data-engineering practice along",
+    "id": "grimaldost/craft-collection",
+    "language": "Python",
+    "name": "grimaldost/craft-collection",
+    "stars": 0,
+    "updated_at": "2026-06-16T10:30:07Z",
+    "url": "https://github.com/grimaldost/craft-collection"
+  },
+  {
+    "description": "\ud83d\ude80 Launch Claude Code and easily choose your LLM backend with Claude Select for a seamless coding experience across multi",
+    "id": "Tapajyoti03/claude-select",
+    "language": "Shell",
+    "name": "Tapajyoti03/claude-select",
+    "stars": 0,
+    "updated_at": "2026-06-16T10:30:04Z",
+    "url": "https://github.com/Tapajyoti03/claude-select"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 2,
+    "updated_at": "2026-06-16T10:30:01Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Your local-first AI ad ops crew. Works with Claude Code, Cursor, Codex & Gemini.",
+    "id": "logly/mureo",
+    "language": "Python",
+    "name": "logly/mureo",
+    "stars": 9,
+    "updated_at": "2026-06-16T10:29:57Z",
+    "url": "https://github.com/logly/mureo"
+  },
+  {
     "description": "Turn Claude Code into a long-term collaborator on PostgreSQL internals \u2014 cited knowledge corpus, agent skills, slash com",
     "id": "matejformanek/postgres-claude",
     "language": "JavaScript",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T10:25:40Z",
     "url": "https://github.com/ricardozmt/claude-in-your-pocket"
-  },
-  {
-    "description": "Home workspace for Bingran's AI agents army.",
-    "id": "bingran-you/bingran-you",
-    "language": "HTML",
-    "name": "bingran-you/bingran-you",
-    "stars": 2,
-    "updated_at": "2026-06-16T10:25:49Z",
-    "url": "https://github.com/bingran-you/bingran-you"
-  },
-  {
-    "description": "See what your AI coding agent silently drops from its instruction files. A byte-exact truncation X-ray for AGENTS.md / C",
-    "id": "phrypy/dropped",
-    "language": "Go",
-    "name": "phrypy/dropped",
-    "stars": 0,
-    "updated_at": "2026-06-16T10:25:26Z",
-    "url": "https://github.com/phrypy/dropped"
-  },
-  {
-    "description": "Agent skills for building, shipping, and growing software products",
-    "id": "tenequm/skills",
-    "language": "Python",
-    "name": "tenequm/skills",
-    "stars": 29,
-    "updated_at": "2026-06-16T10:25:25Z",
-    "url": "https://github.com/tenequm/skills"
-  },
-  {
-    "description": "Autonomous development orchestration for Claude Code. Coordinates native tools into a self-driving loop: plan \u2192 execute ",
-    "id": "thebiglaskowski/claude-sentient",
-    "language": "JavaScript",
-    "name": "thebiglaskowski/claude-sentient",
-    "stars": 1,
-    "updated_at": "2026-06-16T10:25:01Z",
-    "url": "https://github.com/thebiglaskowski/claude-sentient"
   }
 ]

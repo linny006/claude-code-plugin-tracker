@@ -1,5 +1,41 @@
 [
   {
+    "description": "Spotlight-style Wayland overlay that rewrites a dictated/typed message in a chosen tone via Claude Code (claude -p), the",
+    "id": "KannarFr/friendly",
+    "language": "Shell",
+    "name": "KannarFr/friendly",
+    "stars": 0,
+    "updated_at": "2026-06-16T15:30:08Z",
+    "url": "https://github.com/KannarFr/friendly"
+  },
+  {
+    "description": "a claude code plugin for pentesting android apps on a rooted device. it gives the agent hands on a phone: it reads the s",
+    "id": "skshadan/claude-android-reverse",
+    "language": "\u2014",
+    "name": "skshadan/claude-android-reverse",
+    "stars": 0,
+    "updated_at": "2026-06-16T15:29:57Z",
+    "url": "https://github.com/skshadan/claude-android-reverse"
+  },
+  {
+    "description": "Local-first observability for AI Coding CLIs, track costs, analyze sessions and compare efficiency across Claude Code, O",
+    "id": "melloxyz/sessionlens",
+    "language": "TypeScript",
+    "name": "melloxyz/sessionlens",
+    "stars": 1,
+    "updated_at": "2026-06-16T15:29:52Z",
+    "url": "https://github.com/melloxyz/sessionlens"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 2,
+    "updated_at": "2026-06-16T15:29:36Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
     "description": "A product wiki harness for building software with coding agents.",
     "id": "omarismailb/product-vault",
     "language": "JavaScript",
@@ -36,6 +72,15 @@
     "url": "https://github.com/PavelHopson/eclipse-library"
   },
   {
+    "description": "Production AI code review + autonomous web research agent. Claude tool-use loop over 4 Bright Data products (Web Unlocke",
+    "id": "ElenaRevicheva/AIPA_AITCF",
+    "language": "JavaScript",
+    "name": "ElenaRevicheva/AIPA_AITCF",
+    "stars": 1,
+    "updated_at": "2026-06-16T15:28:36Z",
+    "url": "https://github.com/ElenaRevicheva/AIPA_AITCF"
+  },
+  {
     "description": "The agent that grows with you",
     "id": "NousResearch/hermes-agent",
     "language": "Python",
@@ -54,6 +99,15 @@
     "url": "https://github.com/mertkayacs/reevesagents"
   },
   {
+    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
+    "id": "qadeer-ux/oh-my-codex-remix",
+    "language": "HTML",
+    "name": "qadeer-ux/oh-my-codex-remix",
+    "stars": 0,
+    "updated_at": "2026-06-16T15:28:12Z",
+    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
+  },
+  {
     "description": "Agent Almanac \u2014 a curated reference of executable skills, specialist agents, and teams for AI-assisted development, with",
     "id": "pjt222/agent-almanac",
     "language": "R",
@@ -61,6 +115,15 @@
     "stars": 21,
     "updated_at": "2026-06-16T15:28:51Z",
     "url": "https://github.com/pjt222/agent-almanac"
+  },
+  {
+    "description": "5 Best Free OpenClaw Android AI Agents 2026 \u2013 No Root Full Linux",
+    "id": "networkhitman-cloud/openclaw-three-agent-nexus",
+    "language": "HTML",
+    "name": "networkhitman-cloud/openclaw-three-agent-nexus",
+    "stars": 1,
+    "updated_at": "2026-06-16T15:27:57Z",
+    "url": "https://github.com/networkhitman-cloud/openclaw-three-agent-nexus"
   },
   {
     "description": "AI-Powered Jira-to-PR Mobile Workflow Plugin 2026 \u2013 Streamline Developer Pipelines",
@@ -79,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-06-16T15:27:25Z",
     "url": "https://github.com/William12556/LLM-Governance-and-Orchestration"
-  },
-  {
-    "description": "a claude code plugin for pentesting android apps on a rooted device. it gives the agent hands on a phone: it reads the s",
-    "id": "skshadan/claude-android-reverse",
-    "language": "\u2014",
-    "name": "skshadan/claude-android-reverse",
-    "stars": 0,
-    "updated_at": "2026-06-16T15:26:59Z",
-    "url": "https://github.com/skshadan/claude-android-reverse"
   },
   {
     "description": "Three goblins in a trenchcoat pretending to be a senior developer. Claude Code config shaped by ADHD, friction, and spit",
@@ -135,6 +189,15 @@
     "url": "https://github.com/VectorInstitute/aieng-bot"
   },
   {
+    "description": "WordPress plugin development & GitHub contribution skills for Claude Code \u2014 installable plugin + standalone marketplace ",
+    "id": "mralaminahamed/wp-dev-skills",
+    "language": "PHP",
+    "name": "mralaminahamed/wp-dev-skills",
+    "stars": 3,
+    "updated_at": "2026-06-16T15:25:39Z",
+    "url": "https://github.com/mralaminahamed/wp-dev-skills"
+  },
+  {
     "description": "A x64 UE4/UE5 runtime data inspector and structure explorer for    development",
     "id": "bbfox0703/UE5CEDumper",
     "language": "C#",
@@ -142,6 +205,15 @@
     "stars": 23,
     "updated_at": "2026-06-16T15:25:26Z",
     "url": "https://github.com/bbfox0703/UE5CEDumper"
+  },
+  {
+    "description": "SDKs and reference implementations for the Synadia Agent Protocol for NATS",
+    "id": "synadia-ai/synadia-agents",
+    "language": "TypeScript",
+    "name": "synadia-ai/synadia-agents",
+    "stars": 58,
+    "updated_at": "2026-06-16T15:25:23Z",
+    "url": "https://github.com/synadia-ai/synadia-agents"
   },
   {
     "description": "Knowledge graph extractor: Markdown (or any format) \u2192 knowledge graph with RDFS/OWL ontology",
@@ -169,15 +241,6 @@
     "stars": 1128,
     "updated_at": "2026-06-16T15:28:54Z",
     "url": "https://github.com/vm0-ai/vm0"
-  },
-  {
-    "description": "Spotlight-style Wayland overlay that rewrites a dictated/typed message in a chosen tone via Claude Code (claude -p), the",
-    "id": "KannarFr/friendly",
-    "language": "Shell",
-    "name": "KannarFr/friendly",
-    "stars": 0,
-    "updated_at": "2026-06-16T15:25:12Z",
-    "url": "https://github.com/KannarFr/friendly"
   },
   {
     "description": "The autonomous discovery engine for AI coding tools. Indexes skills, plugins, MCP servers, agents, and integrations acro",
@@ -284,7 +347,7 @@
     "language": "JavaScript",
     "name": "Fmarzochi/EGC",
     "stars": 18,
-    "updated_at": "2026-06-16T15:29:21Z",
+    "updated_at": "2026-06-16T15:30:11Z",
     "url": "https://github.com/Fmarzochi/EGC"
   },
   {
@@ -295,6 +358,15 @@
     "stars": 0,
     "updated_at": "2026-06-16T15:23:27Z",
     "url": "https://github.com/andrewwint/baton"
+  },
+  {
+    "description": "\ud83d\udd10 The password manager for terminal users and AI agents. Age-encrypted, keyring-cached, MCP-ready. Zero telemetry.",
+    "id": "danieljustus/symaira-vault",
+    "language": "Go",
+    "name": "danieljustus/symaira-vault",
+    "stars": 19,
+    "updated_at": "2026-06-16T15:23:12Z",
+    "url": "https://github.com/danieljustus/symaira-vault"
   },
   {
     "description": "Development environment",
@@ -376,77 +448,5 @@
     "stars": 8,
     "updated_at": "2026-06-16T15:21:10Z",
     "url": "https://github.com/KERNlang/kern"
-  },
-  {
-    "description": "One Works application monorepo for AI agents, plugins, desktop, web, CLI, and Relay.",
-    "id": "oneworks-ai/app",
-    "language": "TypeScript",
-    "name": "oneworks-ai/app",
-    "stars": 7,
-    "updated_at": "2026-06-16T15:21:08Z",
-    "url": "https://github.com/oneworks-ai/app"
-  },
-  {
-    "description": "SDKs and reference implementations for the Synadia Agent Protocol for NATS",
-    "id": "synadia-ai/synadia-agents",
-    "language": "TypeScript",
-    "name": "synadia-ai/synadia-agents",
-    "stars": 58,
-    "updated_at": "2026-06-16T15:25:23Z",
-    "url": "https://github.com/synadia-ai/synadia-agents"
-  },
-  {
-    "description": "Scan code for LLM cost-waste anti-patterns. Static + Claude Code skill",
-    "id": "neal-c611/coffer-cli",
-    "language": "Python",
-    "name": "neal-c611/coffer-cli",
-    "stars": 0,
-    "updated_at": "2026-06-16T15:20:38Z",
-    "url": "https://github.com/neal-c611/coffer-cli"
-  },
-  {
-    "description": "Multi-timer / alarm / world-clock for Android 16. Reference implementation of Flutter Clean Architecture + Android alarm",
-    "id": "Bonkoturyu/TimerUtility",
-    "language": "Dart",
-    "name": "Bonkoturyu/TimerUtility",
-    "stars": 0,
-    "updated_at": "2026-06-16T15:20:28Z",
-    "url": "https://github.com/Bonkoturyu/TimerUtility"
-  },
-  {
-    "description": "Fable 5 / Mythos style orchestration: a multi-agent company that verifies its own work and cannot stop until every crite",
-    "id": "jagmarques/company-skill",
-    "language": "JavaScript",
-    "name": "jagmarques/company-skill",
-    "stars": 4,
-    "updated_at": "2026-06-16T15:20:21Z",
-    "url": "https://github.com/jagmarques/company-skill"
-  },
-  {
-    "description": "Meerkat - A modular, high-performance agent harness built in Rust.",
-    "id": "lukacf/meerkat",
-    "language": "TLA",
-    "name": "lukacf/meerkat",
-    "stars": 15,
-    "updated_at": "2026-06-16T15:19:53Z",
-    "url": "https://github.com/lukacf/meerkat"
-  },
-  {
-    "description": "Inner-loop SDLC tool for AI-assisted development. Schema-governed contracts, per-epic JSONL audit, Python-orchestrated g",
-    "id": "krazyuniks/woof",
-    "language": "Python",
-    "name": "krazyuniks/woof",
-    "stars": 0,
-    "updated_at": "2026-06-16T15:19:51Z",
-    "url": "https://github.com/krazyuniks/woof"
-  },
-  {
-    "description": "How I work with agentic AI: personal patterns, homelab infra (vLLM, Ollama, Grafana Alloy, LibreChat), project scaffoldi",
-    "id": "chipi/agentic-ai-homelab",
-    "language": "Python",
-    "name": "chipi/agentic-ai-homelab",
-    "stars": 0,
-    "updated_at": "2026-06-16T15:19:46Z",
-    "url": "https://github.com/chipi/agentic-ai-homelab"
   }
 ]

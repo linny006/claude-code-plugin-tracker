@@ -1,5 +1,86 @@
 [
   {
+    "description": "An AI Assistant that\u2019s easy to setup, does your work 24/7, knows your preferences and gets better over time.",
+    "id": "vellum-ai/vellum-assistant",
+    "language": "TypeScript",
+    "name": "vellum-ai/vellum-assistant",
+    "stars": 681,
+    "updated_at": "2026-06-16T00:01:00Z",
+    "url": "https://github.com/vellum-ai/vellum-assistant"
+  },
+  {
+    "description": "Best Free SaaS Invoice Manager 2026 - One Command Download Tool",
+    "id": "Ishanshah09/invoicepilot-file-sync",
+    "language": "HTML",
+    "name": "Ishanshah09/invoicepilot-file-sync",
+    "stars": 0,
+    "updated_at": "2026-06-16T00:00:54Z",
+    "url": "https://github.com/Ishanshah09/invoicepilot-file-sync"
+  },
+  {
+    "description": "A Claude Code skill that turns a hand-drawn, sketched, or scanned logo into clean, reproducible code - fitting smooth cu",
+    "id": "ChanMeng666/logo-as-code-skill",
+    "language": "Python",
+    "name": "ChanMeng666/logo-as-code-skill",
+    "stars": 0,
+    "updated_at": "2026-06-16T00:00:50Z",
+    "url": "https://github.com/ChanMeng666/logo-as-code-skill"
+  },
+  {
+    "description": "A Claude Code skill that writes on-brand English LinkedIn posts (idea + event-recap), generates Caldera-branded visuals ",
+    "id": "ChanMeng666/linkedin-post-skill",
+    "language": "JavaScript",
+    "name": "ChanMeng666/linkedin-post-skill",
+    "stars": 0,
+    "updated_at": "2026-06-16T00:00:47Z",
+    "url": "https://github.com/ChanMeng666/linkedin-post-skill"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 6,
+    "updated_at": "2026-06-16T00:00:39Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Maestro \u2014 a tiered, gated dev harness for Claude Code: triage by risk \u00d7 size, subagent crew, hook-enforced Definition of",
+    "id": "oscarlehuu/my-claude-harness",
+    "language": "Shell",
+    "name": "oscarlehuu/my-claude-harness",
+    "stars": 0,
+    "updated_at": "2026-06-16T00:00:27Z",
+    "url": "https://github.com/oscarlehuu/my-claude-harness"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 2,
+    "updated_at": "2026-06-16T00:00:17Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-16T00:00:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Self-hosted web crawling and RAG pipeline with MCP tooling for scrape, crawl, ingest, embed, query, and ask workflows.",
+    "id": "jmagar/axon",
+    "language": "Rust",
+    "name": "jmagar/axon",
+    "stars": 2,
+    "updated_at": "2026-06-16T00:00:09Z",
+    "url": "https://github.com/jmagar/axon"
+  },
+  {
     "description": "Code intelligence and RAG for AI agents: semantic search, call graphs, impact analysis, and context assembly in single t",
     "id": "jamie8johnson/cqs",
     "language": "Rust",
@@ -23,7 +104,7 @@
     "language": "TypeScript",
     "name": "sumanyumuku98/Nerveplane",
     "stars": 0,
-    "updated_at": "2026-06-16T00:00:02Z",
+    "updated_at": "2026-06-16T00:00:44Z",
     "url": "https://github.com/sumanyumuku98/Nerveplane"
   },
   {
@@ -68,17 +149,8 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 264,
-    "updated_at": "2026-06-15T23:59:38Z",
+    "updated_at": "2026-06-16T00:00:41Z",
     "url": "https://github.com/JSONbored/awesome-claude"
-  },
-  {
-    "description": "Best Free SaaS Invoice Manager 2026 - One Command Download Tool",
-    "id": "Ishanshah09/invoicepilot-file-sync",
-    "language": "HTML",
-    "name": "Ishanshah09/invoicepilot-file-sync",
-    "stars": 0,
-    "updated_at": "2026-06-15T23:59:32Z",
-    "url": "https://github.com/Ishanshah09/invoicepilot-file-sync"
   },
   {
     "description": "AI Code Review & Visualization Plugin 2026 \u2013 Claude Code by Hulde AI",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-15T23:56:45Z",
     "url": "https://github.com/WilliamEbong/second-brain-system"
-  },
-  {
-    "description": "agent multiplexer that lives in your terminal.",
-    "id": "ogulcancelik/herdr",
-    "language": "Rust",
-    "name": "ogulcancelik/herdr",
-    "stars": 5798,
-    "updated_at": "2026-06-15T23:56:38Z",
-    "url": "https://github.com/ogulcancelik/herdr"
-  },
-  {
-    "description": "Git shows what changed. TreeTrace reconstructs how you steered the agent: local, deterministic eval and regression data ",
-    "id": "TreeTraceTool/TreeTrace",
-    "language": "JavaScript",
-    "name": "TreeTraceTool/TreeTrace",
-    "stars": 0,
-    "updated_at": "2026-06-15T23:56:34Z",
-    "url": "https://github.com/TreeTraceTool/TreeTrace"
-  },
-  {
-    "description": "Kimono AI 2026: Installable Claude Code Skill Catalog for Multi-Repo AI Development Lifecycle",
-    "id": "yadam119988/method-mosaic",
-    "language": "HTML",
-    "name": "yadam119988/method-mosaic",
-    "stars": 0,
-    "updated_at": "2026-06-15T23:56:32Z",
-    "url": "https://github.com/yadam119988/method-mosaic"
-  },
-  {
-    "description": "Open-source AI agent. Lives in your terminal.",
-    "id": "genai-io/san",
-    "language": "Go",
-    "name": "genai-io/san",
-    "stars": 61,
-    "updated_at": "2026-06-15T23:56:11Z",
-    "url": "https://github.com/genai-io/san"
-  },
-  {
-    "description": "An imperative command-line-interface for AI workload orchestration",
-    "id": "theoddden/Terradev",
-    "language": "Python",
-    "name": "theoddden/Terradev",
-    "stars": 22,
-    "updated_at": "2026-06-15T23:55:41Z",
-    "url": "https://github.com/theoddden/Terradev"
-  },
-  {
-    "description": "One minimal, local-first desktop app for every AI coding agent \u2014 run Claude Code, Codex, OpenCode, Cursor, and Gemini fr",
-    "id": "emretheus/grex",
-    "language": "TypeScript",
-    "name": "emretheus/grex",
-    "stars": 1,
-    "updated_at": "2026-06-15T23:56:19Z",
-    "url": "https://github.com/emretheus/grex"
-  },
-  {
-    "description": "A curated list of awesome claude marketplaces and plugins",
-    "id": "Chat2AnyLLM/awesome-claude-plugins",
-    "language": "Python",
-    "name": "Chat2AnyLLM/awesome-claude-plugins",
-    "stars": 105,
-    "updated_at": "2026-06-15T23:55:35Z",
-    "url": "https://github.com/Chat2AnyLLM/awesome-claude-plugins"
-  },
-  {
-    "description": "THINK YOU LAB thinking-OS skills for Claude Code \u2014 reusable judgment/design/automation/communication skill packs (tech-a",
-    "id": "thinkyou0714/claude-lab-skills",
-    "language": "Python",
-    "name": "thinkyou0714/claude-lab-skills",
-    "stars": 0,
-    "updated_at": "2026-06-15T23:55:32Z",
-    "url": "https://github.com/thinkyou0714/claude-lab-skills"
   }
 ]

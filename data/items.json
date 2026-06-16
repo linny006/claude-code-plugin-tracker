@@ -1,5 +1,104 @@
 [
   {
+    "description": "Open-source local-first dispatcher for AI coding agents. Verification-gated, BYOK, rolls back on test failures.",
+    "id": "lerugray/generalstaff",
+    "language": "TypeScript",
+    "name": "lerugray/generalstaff",
+    "stars": 7,
+    "updated_at": "2026-06-16T21:47:06Z",
+    "url": "https://github.com/lerugray/generalstaff"
+  },
+  {
+    "description": "Reusable skill definitions that teach AI agents consistent output formats, writing guidelines, and worked examples \u2014 wor",
+    "id": "craigspaterson/agent-skills",
+    "language": "PowerShell",
+    "name": "craigspaterson/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-06-16T21:46:37Z",
+    "url": "https://github.com/craigspaterson/agent-skills"
+  },
+  {
+    "description": "\u2b50 StarDust & NEBULA 2026: Build a Perfect Greenfield SPA from Scratch",
+    "id": "javeed972/stardust-studio-supernova",
+    "language": "HTML",
+    "name": "javeed972/stardust-studio-supernova",
+    "stars": 0,
+    "updated_at": "2026-06-16T21:45:51Z",
+    "url": "https://github.com/javeed972/stardust-studio-supernova"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-06-16T21:45:44Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 6,
+    "updated_at": "2026-06-16T21:45:42Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Autonomous B2B prospecting and LinkedIn 24/7 automation. Tauri desktop + FastAPI + Patchright stealth + 6 AI skills. PC ",
+    "id": "caiolea0/hermes-cloud-studio",
+    "language": "Python",
+    "name": "caiolea0/hermes-cloud-studio",
+    "stars": 0,
+    "updated_at": "2026-06-16T21:45:36Z",
+    "url": "https://github.com/caiolea0/hermes-cloud-studio"
+  },
+  {
+    "description": "Your AI agents never start from zero again. Local-first MCP runtime with persistent memory across sessions and tools.",
+    "id": "Fmarzochi/EGC",
+    "language": "JavaScript",
+    "name": "Fmarzochi/EGC",
+    "stars": 18,
+    "updated_at": "2026-06-16T21:45:34Z",
+    "url": "https://github.com/Fmarzochi/EGC"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 2,
+    "updated_at": "2026-06-16T21:45:29Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Routed Media OS 2026: 96 AI Skills, 13 Modes & 7 Agents for FFmpeg, OBS, DeckLink & Dolby Vision",
+    "id": "maileshwaran28/media-routing-mesh",
+    "language": "HTML",
+    "name": "maileshwaran28/media-routing-mesh",
+    "stars": 1,
+    "updated_at": "2026-06-16T21:45:28Z",
+    "url": "https://github.com/maileshwaran28/media-routing-mesh"
+  },
+  {
+    "description": "Supercharge Claude Code with MiniMax AI Agents for Smarter Code Reviews in 2026",
+    "id": "BirhanuTa/minimax-plugin-cursor-bridge",
+    "language": "HTML",
+    "name": "BirhanuTa/minimax-plugin-cursor-bridge",
+    "stars": 0,
+    "updated_at": "2026-06-16T21:45:27Z",
+    "url": "https://github.com/BirhanuTa/minimax-plugin-cursor-bridge"
+  },
+  {
+    "description": "Best Free Multi-Agent macOS Console for AI Coding Agents 2026 - Enhanced Chinese Docs",
+    "id": "game4837/island-terminal-console",
+    "language": "HTML",
+    "name": "game4837/island-terminal-console",
+    "stars": 0,
+    "updated_at": "2026-06-16T21:45:23Z",
+    "url": "https://github.com/game4837/island-terminal-console"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -14,8 +113,17 @@
     "language": "Go",
     "name": "Servosity/msp-skills",
     "stars": 5,
-    "updated_at": "2026-06-16T21:45:17Z",
+    "updated_at": "2026-06-16T21:46:02Z",
     "url": "https://github.com/Servosity/msp-skills"
+  },
+  {
+    "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+    "id": "manaflow-ai/cmux",
+    "language": "Swift",
+    "name": "manaflow-ai/cmux",
+    "stars": 22212,
+    "updated_at": "2026-06-16T21:47:28Z",
+    "url": "https://github.com/manaflow-ai/cmux"
   },
   {
     "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
@@ -68,7 +176,7 @@
     "language": "TypeScript",
     "name": "s1gmamale1/SigmaLink",
     "stars": 11,
-    "updated_at": "2026-06-16T21:44:42Z",
+    "updated_at": "2026-06-16T21:45:41Z",
     "url": "https://github.com/s1gmamale1/SigmaLink"
   },
   {
@@ -117,15 +225,6 @@
     "url": "https://github.com/12345773/claude-minder"
   },
   {
-    "description": "Reusable skill definitions that teach AI agents consistent output formats, writing guidelines, and worked examples \u2014 wor",
-    "id": "craigspaterson/agent-skills",
-    "language": "PowerShell",
-    "name": "craigspaterson/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-06-16T21:44:06Z",
-    "url": "https://github.com/craigspaterson/agent-skills"
-  },
-  {
     "description": "GitHub Memory Snapshot 2026 \u2013 Auto Recall & Prune Project Context Across Sessions",
     "id": "Meizu1330/neural-context-archive",
     "language": "HTML",
@@ -167,7 +266,7 @@
     "language": "TypeScript",
     "name": "vellum-ai/vellum-assistant",
     "stars": 692,
-    "updated_at": "2026-06-16T21:43:49Z",
+    "updated_at": "2026-06-16T21:46:55Z",
     "url": "https://github.com/vellum-ai/vellum-assistant"
   },
   {
@@ -212,7 +311,7 @@
     "language": "MDX",
     "name": "JSONbored/awesome-claude",
     "stars": 264,
-    "updated_at": "2026-06-16T21:44:21Z",
+    "updated_at": "2026-06-16T21:47:22Z",
     "url": "https://github.com/JSONbored/awesome-claude"
   },
   {
@@ -221,7 +320,7 @@
     "language": "TypeScript",
     "name": "anatomia-dev/anatomia",
     "stars": 32,
-    "updated_at": "2026-06-16T21:43:03Z",
+    "updated_at": "2026-06-16T21:46:06Z",
     "url": "https://github.com/anatomia-dev/anatomia"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-16T21:40:59Z",
     "url": "https://github.com/ofekron/provider-config-sync"
-  },
-  {
-    "description": "A reusable foundation for AI-driven software delivery \u2014 a plug-in product & engineering team (delivery-team) that runs a",
-    "id": "fcms14/agents-foundation",
-    "language": "JavaScript",
-    "name": "fcms14/agents-foundation",
-    "stars": 1,
-    "updated_at": "2026-06-16T21:40:52Z",
-    "url": "https://github.com/fcms14/agents-foundation"
-  },
-  {
-    "description": "AI Context Window Saver 2026 - Auto Save & Resume Workflow for Developers",
-    "id": "skd4747/context-hoarder",
-    "language": "HTML",
-    "name": "skd4747/context-hoarder",
-    "stars": 0,
-    "updated_at": "2026-06-16T21:40:46Z",
-    "url": "https://github.com/skd4747/context-hoarder"
-  },
-  {
-    "description": "AI-Powered SEC Filings Analyzer 2026 \ud83d\udcc8 | Free Stock Insights & Tools",
-    "id": "jesinovilhena-ship-it/sec-filings-analyzer",
-    "language": "HTML",
-    "name": "jesinovilhena-ship-it/sec-filings-analyzer",
-    "stars": 0,
-    "updated_at": "2026-06-16T21:40:41Z",
-    "url": "https://github.com/jesinovilhena-ship-it/sec-filings-analyzer"
-  },
-  {
-    "description": "A 12-department, 60+ agent AI operations system built on Claude Code \u2014 applied-AI orchestration with a human in the loop",
-    "id": "khlittlejohn-hue/executive-office",
-    "language": "\u2014",
-    "name": "khlittlejohn-hue/executive-office",
-    "stars": 0,
-    "updated_at": "2026-06-16T21:40:39Z",
-    "url": "https://github.com/khlittlejohn-hue/executive-office"
-  },
-  {
-    "description": "Top Swift SQLiteData Alternatives 2026 \u2013 Best GRDB Skills Kit",
-    "id": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "language": "HTML",
-    "name": "anukulgosavi1-coder/sqlitedata-extensions-playbook",
-    "stars": 0,
-    "updated_at": "2026-06-16T21:40:33Z",
-    "url": "https://github.com/anukulgosavi1-coder/sqlitedata-extensions-playbook"
-  },
-  {
-    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
-    "id": "stablyai/orca",
-    "language": "TypeScript",
-    "name": "stablyai/orca",
-    "stars": 5023,
-    "updated_at": "2026-06-16T21:45:10Z",
-    "url": "https://github.com/stablyai/orca"
-  },
-  {
-    "description": "Agent skill that helps Claude Code, Codex, Gemini, and Cursor write correct Swift App Intents code for Siri, Shortcuts, ",
-    "id": "n0an/App-Intents-Agent-Skill",
-    "language": "\u2014",
-    "name": "n0an/App-Intents-Agent-Skill",
-    "stars": 12,
-    "updated_at": "2026-06-16T21:40:26Z",
-    "url": "https://github.com/n0an/App-Intents-Agent-Skill"
-  },
-  {
-    "description": "Claude Code usage tracker and local dashboard for Pro/Max subscription limits - weekly cost-per-percent trend, quota for",
-    "id": "omrikais/cctally",
-    "language": "Python",
-    "name": "omrikais/cctally",
-    "stars": 3,
-    "updated_at": "2026-06-16T21:40:15Z",
-    "url": "https://github.com/omrikais/cctally"
-  },
-  {
-    "description": "Multi-session terminal manager for developers",
-    "id": "ishida-supsys/oretachi",
-    "language": "Vue",
-    "name": "ishida-supsys/oretachi",
-    "stars": 2,
-    "updated_at": "2026-06-16T21:40:12Z",
-    "url": "https://github.com/ishida-supsys/oretachi"
-  },
-  {
-    "description": "\ud83d\ude80 RoboHarness 2026 \u2013 AI Visual Testing Suite for Robot Simulators",
-    "id": "Moses204/roboharness-vision-tester",
-    "language": "HTML",
-    "name": "Moses204/roboharness-vision-tester",
-    "stars": 0,
-    "updated_at": "2026-06-16T21:40:10Z",
-    "url": "https://github.com/Moses204/roboharness-vision-tester"
-  },
-  {
-    "description": "Report-Skill Pro 2026 \u2013 Smart HTML Report Generator with TOC & Themes",
-    "id": "Nobita766633/report-craft-azure",
-    "language": "HTML",
-    "name": "Nobita766633/report-craft-azure",
-    "stars": 0,
-    "updated_at": "2026-06-16T21:40:04Z",
-    "url": "https://github.com/Nobita766633/report-craft-azure"
   }
 ]

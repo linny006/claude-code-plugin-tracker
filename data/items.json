@@ -1,5 +1,131 @@
 [
   {
+    "description": "One skill for the entire i18n journey \u2014 internationalize your app from scratch or migrate existing strings. Creates i18n",
+    "id": "DevManuelSereno/polyglot",
+    "language": "JavaScript",
+    "name": "DevManuelSereno/polyglot",
+    "stars": 0,
+    "updated_at": "2026-06-17T22:45:19Z",
+    "url": "https://github.com/DevManuelSereno/polyglot"
+  },
+  {
+    "description": "Best MCP Server Testing & Evaluation Toolkit 2026 \u2013 Token Cost Analysis & Visual Reports",
+    "id": "Abderrahmane-msd/mcp-bench-report",
+    "language": "HTML",
+    "name": "Abderrahmane-msd/mcp-bench-report",
+    "stars": 0,
+    "updated_at": "2026-06-17T22:45:15Z",
+    "url": "https://github.com/Abderrahmane-msd/mcp-bench-report"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-17T22:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "MCP server for freelancers \u2014 draft winning proposals in your voice from a client brief",
+    "id": "jabbawocky/proposalcraft",
+    "language": "JavaScript",
+    "name": "jabbawocky/proposalcraft",
+    "stars": 0,
+    "updated_at": "2026-06-17T22:45:02Z",
+    "url": "https://github.com/jabbawocky/proposalcraft"
+  },
+  {
+    "description": "10 AI agent skills for Claude Code \u2014 waterfall email enrichment, TAM building, signal discovery, job change detection, a",
+    "id": "getaero-io/gtm-eng-skills",
+    "language": "Python",
+    "name": "getaero-io/gtm-eng-skills",
+    "stars": 28,
+    "updated_at": "2026-06-17T22:45:00Z",
+    "url": "https://github.com/getaero-io/gtm-eng-skills"
+  },
+  {
+    "description": "Power loom for multi-agent Claude Code orchestration \u2014 hook-enforced substrate with persistent identity reputation, cont",
+    "id": "shashankcm95/claude-power-loom",
+    "language": "JavaScript",
+    "name": "shashankcm95/claude-power-loom",
+    "stars": 2,
+    "updated_at": "2026-06-17T22:44:44Z",
+    "url": "https://github.com/shashankcm95/claude-power-loom"
+  },
+  {
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a gro",
+    "id": "mvanhorn/last30days-skill",
+    "language": "Python",
+    "name": "mvanhorn/last30days-skill",
+    "stars": 43957,
+    "updated_at": "2026-06-17T22:44:40Z",
+    "url": "https://github.com/mvanhorn/last30days-skill"
+  },
+  {
+    "description": "Agent skill: rename scientific PDFs to Author - Title - Year using DOI/CrossRef/Semantic Scholar metadata lookup, with O",
+    "id": "leiverkus/rename-scientific-pdf",
+    "language": "Python",
+    "name": "leiverkus/rename-scientific-pdf",
+    "stars": 0,
+    "updated_at": "2026-06-17T22:44:19Z",
+    "url": "https://github.com/leiverkus/rename-scientific-pdf"
+  },
+  {
+    "description": "Local secret firewall for AI coding assistants (Claude Code/Cursor/aider) \u2014 scans + redacts secrets before anything leav",
+    "id": "acunningham-ship-it/leakproof",
+    "language": "Python",
+    "name": "acunningham-ship-it/leakproof",
+    "stars": 1,
+    "updated_at": "2026-06-17T22:44:17Z",
+    "url": "https://github.com/acunningham-ship-it/leakproof"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 15,
+    "updated_at": "2026-06-17T22:43:38Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Assist and Duo: a governed agentic OS (local-first, terminal). Autonomous agents under a signed social contract - immuta",
+    "id": "alecstecpe-oss/Assist-OS",
+    "language": "JavaScript",
+    "name": "alecstecpe-oss/Assist-OS",
+    "stars": 0,
+    "updated_at": "2026-06-17T22:43:34Z",
+    "url": "https://github.com/alecstecpe-oss/Assist-OS"
+  },
+  {
+    "description": "Auto-recover Claude Code sessions stuck on transient API errors. Outer-loop watchdog for unattended tmux Claude Code wit",
+    "id": "palios-taey/claude-code-api-watchdog",
+    "language": "Python",
+    "name": "palios-taey/claude-code-api-watchdog",
+    "stars": 4,
+    "updated_at": "2026-06-17T22:43:15Z",
+    "url": "https://github.com/palios-taey/claude-code-api-watchdog"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 2,
+    "updated_at": "2026-06-17T22:42:53Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Autonomous AI newsroom run by Claude Code agents: they research, write, edit, and fact-check a weekly journal.",
+    "id": "albertogrande/the-wire",
+    "language": "SCSS",
+    "name": "albertogrande/the-wire",
+    "stars": 0,
+    "updated_at": "2026-06-17T22:42:49Z",
+    "url": "https://github.com/albertogrande/the-wire"
+  },
+  {
     "description": "Claude Code Skill \u751f\u6001\u7ba1\u7406\u5de5\u5177\u5305 \u2014\u2014 skill-packs\uff08\u53ea\u8bfb\u8fd0\u884c\u65f6\u52a0\u8f7d\u5668\uff09+ skill-keeper\uff08\u8bfb\u5199\u751f\u6001\u534f\u8c03\u5668\uff09\uff0c\u542b cc-switch \u540c\u6b65\u4e0e\u6f02\u79fb\u68c0\u6d4b\u3002",
     "id": "daiuuuuuuuuuuuuu/skill-steward",
     "language": "\u2014",
@@ -54,15 +180,6 @@
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
-    "description": "Agent skill: rename scientific PDFs to Author - Title - Year using DOI/CrossRef/Semantic Scholar metadata lookup, with O",
-    "id": "leiverkus/rename-scientific-pdf",
-    "language": "Python",
-    "name": "leiverkus/rename-scientific-pdf",
-    "stars": 0,
-    "updated_at": "2026-06-17T22:42:18Z",
-    "url": "https://github.com/leiverkus/rename-scientific-pdf"
-  },
-  {
     "description": "User Dispatch MCP: AI Feedback Widget + Server 2026 - One Command Install",
     "id": "AdrianSQA/agent-feedback-hub",
     "language": "HTML",
@@ -106,15 +223,6 @@
     "stars": 161,
     "updated_at": "2026-06-17T22:41:25Z",
     "url": "https://github.com/ruvnet/agent-harness-generator"
-  },
-  {
-    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a gro",
-    "id": "mvanhorn/last30days-skill",
-    "language": "Python",
-    "name": "mvanhorn/last30days-skill",
-    "stars": 43955,
-    "updated_at": "2026-06-17T22:41:25Z",
-    "url": "https://github.com/mvanhorn/last30days-skill"
   },
   {
     "description": "Turn a creator's public output into a queryable knowledge-graph 'brain' \u2014 typed atom/edge reasoning graph, distilled wik",
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T22:38:44Z",
     "url": "https://github.com/taekwondodev/dotfiles"
-  },
-  {
-    "description": "AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostabl",
-    "id": "kdlbs/kandev",
-    "language": "Go",
-    "name": "kdlbs/kandev",
-    "stars": 352,
-    "updated_at": "2026-06-17T22:38:39Z",
-    "url": "https://github.com/kdlbs/kandev"
-  },
-  {
-    "description": "IRC for you and your AI agents \u2014 shared rooms across Docker, harnesses, and machines. Single Go binary with MCP, HTTP/CL",
-    "id": "hrubymar10/aimebu",
-    "language": "Go",
-    "name": "hrubymar10/aimebu",
-    "stars": 3,
-    "updated_at": "2026-06-17T22:38:28Z",
-    "url": "https://github.com/hrubymar10/aimebu"
-  },
-  {
-    "description": "The Company-as-a-Service platform. Build, ship, and scale -- powered by AI teams.",
-    "id": "jikig-ai/soleur",
-    "language": "TypeScript",
-    "name": "jikig-ai/soleur",
-    "stars": 10,
-    "updated_at": "2026-06-17T22:38:55Z",
-    "url": "https://github.com/jikig-ai/soleur"
-  },
-  {
-    "description": "Backend-agnostic AI agent orchestration loop in Python \u2014 the orchestrator\u2192worker\u2192reviewer pattern as a deterministic har",
-    "id": "luckeyfaraday/athena-loops",
-    "language": "Python",
-    "name": "luckeyfaraday/athena-loops",
-    "stars": 1,
-    "updated_at": "2026-06-17T22:38:19Z",
-    "url": "https://github.com/luckeyfaraday/athena-loops"
-  },
-  {
-    "description": "Write your MCP server + lifecycle hooks once, deploy to 29 AI-agent platforms \u2014 Claude Code, Codex, Cursor, Gemini, Copi",
-    "id": "ken-jo/agent-connector",
-    "language": "TypeScript",
-    "name": "ken-jo/agent-connector",
-    "stars": 0,
-    "updated_at": "2026-06-17T22:38:13Z",
-    "url": "https://github.com/ken-jo/agent-connector"
-  },
-  {
-    "description": "Cross-platform dotfiles for macOS and Linux. 33 configs, 141 Homebrew packages, Tokyo Night everywhere, modern CLI repla",
-    "id": "gufranco/dotfiles",
-    "language": "Shell",
-    "name": "gufranco/dotfiles",
-    "stars": 10,
-    "updated_at": "2026-06-17T22:37:58Z",
-    "url": "https://github.com/gufranco/dotfiles"
-  },
-  {
-    "description": "Verify a computational result by re-running it and recomputing the number from the raw outputs. An open-source Claude Co",
-    "id": "rikhinkavuru/calma",
-    "language": "Python",
-    "name": "rikhinkavuru/calma",
-    "stars": 1,
-    "updated_at": "2026-06-17T22:37:34Z",
-    "url": "https://github.com/rikhinkavuru/calma"
-  },
-  {
-    "description": "The markdown editor for Claude & Codex",
-    "id": "opral/flashtype",
-    "language": "TypeScript",
-    "name": "opral/flashtype",
-    "stars": 26,
-    "updated_at": "2026-06-17T22:37:39Z",
-    "url": "https://github.com/opral/flashtype"
-  },
-  {
-    "description": "The largest Hermes Agent knowledge base \u2014 302+ tools, skills, MCP servers, agents, blueprints, and case studies. Everyth",
-    "id": "CorpusIQ/corpusiq-docs",
-    "language": "HTML",
-    "name": "CorpusIQ/corpusiq-docs",
-    "stars": 4,
-    "updated_at": "2026-06-17T22:37:24Z",
-    "url": "https://github.com/CorpusIQ/corpusiq-docs"
-  },
-  {
-    "description": "'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do wit",
-    "id": "WingedGuardian/GENesis-AGI",
-    "language": "Python",
-    "name": "WingedGuardian/GENesis-AGI",
-    "stars": 80,
-    "updated_at": "2026-06-17T22:37:19Z",
-    "url": "https://github.com/WingedGuardian/GENesis-AGI"
-  },
-  {
-    "description": "One skill for the entire i18n journey \u2014 internationalize your app from scratch or migrate existing strings. Creates i18n",
-    "id": "DevManuelSereno/polyglot",
-    "language": "JavaScript",
-    "name": "DevManuelSereno/polyglot",
-    "stars": 0,
-    "updated_at": "2026-06-17T22:37:11Z",
-    "url": "https://github.com/DevManuelSereno/polyglot"
-  },
-  {
-    "description": "Companion repository for \"Build Apps with AI\", copy-paste prompts, errata, and reader discussions for the hands-on guide",
-    "id": "llm-books/build-apps-with-ai",
-    "language": "Python",
-    "name": "llm-books/build-apps-with-ai",
-    "stars": 2,
-    "updated_at": "2026-06-17T22:36:33Z",
-    "url": "https://github.com/llm-books/build-apps-with-ai"
   }
 ]

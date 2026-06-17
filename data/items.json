@@ -1,5 +1,59 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 4,
+    "updated_at": "2026-06-17T02:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Manager-led orchestration for Claude Code, with an optional Agent SDK runtime. Routes development work through bounded, ",
+    "id": "andrewwint/baton",
+    "language": "JavaScript",
+    "name": "andrewwint/baton",
+    "stars": 0,
+    "updated_at": "2026-06-17T01:59:58Z",
+    "url": "https://github.com/andrewwint/baton"
+  },
+  {
+    "description": "Multi-workspace terminal aggregator with Claude Code AI integration",
+    "id": "tony1223/better-agent-terminal",
+    "language": "TypeScript",
+    "name": "tony1223/better-agent-terminal",
+    "stars": 408,
+    "updated_at": "2026-06-17T01:59:56Z",
+    "url": "https://github.com/tony1223/better-agent-terminal"
+  },
+  {
+    "description": "One lightweight app. Eight features. Your whole dev workflow in a single window.",
+    "id": "IlhamriSKY/TEDI",
+    "language": "TypeScript",
+    "name": "IlhamriSKY/TEDI",
+    "stars": 37,
+    "updated_at": "2026-06-17T01:59:46Z",
+    "url": "https://github.com/IlhamriSKY/TEDI"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 2,
+    "updated_at": "2026-06-17T01:59:36Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Windows desktop console for monitoring local Codex and Claude Code sessions with evidence-backed safety controls",
+    "id": "dwgx/AgentScope",
+    "language": "TypeScript",
+    "name": "dwgx/AgentScope",
+    "stars": 1,
+    "updated_at": "2026-06-17T01:59:29Z",
+    "url": "https://github.com/dwgx/AgentScope"
+  },
+  {
     "description": "Multiple AI agent session browser for Pharo Smalltalk",
     "id": "mumez/pharo-agentic-browser",
     "language": "Smalltalk",
@@ -16,6 +70,15 @@
     "stars": 20,
     "updated_at": "2026-06-17T01:59:26Z",
     "url": "https://github.com/terryso/open-agent-sdk-swift"
+  },
+  {
+    "description": "Oracle-Triggered Automation Skill for Pharos AI Agents",
+    "id": "samueldanso/pharos-oracle-zap",
+    "language": "Solidity",
+    "name": "samueldanso/pharos-oracle-zap",
+    "stars": 0,
+    "updated_at": "2026-06-17T01:59:19Z",
+    "url": "https://github.com/samueldanso/pharos-oracle-zap"
   },
   {
     "description": "The missing middle between prompt and patch: a Markdown-native protocol that turns AI coding sessions into durable work ",
@@ -49,7 +112,7 @@
     "id": "asgeirtj/system_prompts_leaks",
     "language": "JavaScript",
     "name": "asgeirtj/system_prompts_leaks",
-    "stars": 42827,
+    "stars": 42828,
     "updated_at": "2026-06-17T01:58:39Z",
     "url": "https://github.com/asgeirtj/system_prompts_leaks"
   },
@@ -86,7 +149,7 @@
     "language": "TypeScript",
     "name": "stablyai/orca",
     "stars": 5041,
-    "updated_at": "2026-06-17T01:58:16Z",
+    "updated_at": "2026-06-17T02:00:15Z",
     "url": "https://github.com/stablyai/orca"
   },
   {
@@ -153,15 +216,6 @@
     "url": "https://github.com/rudi193-cmd/willow-2.0"
   },
   {
-    "description": "Manager-led orchestration for Claude Code, with an optional Agent SDK runtime. Routes development work through bounded, ",
-    "id": "andrewwint/baton",
-    "language": "JavaScript",
-    "name": "andrewwint/baton",
-    "stars": 0,
-    "updated_at": "2026-06-17T01:57:06Z",
-    "url": "https://github.com/andrewwint/baton"
-  },
-  {
     "description": "Autonomous, self-verifying Elite Dangerous knowledge engine + local RAG copilot (COVAS). Grounded-only answers, 100% loc",
     "id": "Quadstronaut/EliteDangerousKB",
     "language": "Python",
@@ -193,7 +247,7 @@
     "id": "DietrichGebert/ponytail",
     "language": "JavaScript",
     "name": "DietrichGebert/ponytail",
-    "stars": 25398,
+    "stars": 25402,
     "updated_at": "2026-06-17T01:56:01Z",
     "url": "https://github.com/DietrichGebert/ponytail"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-17T01:53:19Z",
     "url": "https://github.com/connerkward/lookdev-studio-skill"
-  },
-  {
-    "description": "Bubo \ud83e\udd89 \u2014 agentic AI code review for GitLab MRs and GitHub PRs, with the LLM of your choice. Posts only actionable findin",
-    "id": "mountainowl/bubo",
-    "language": "Python",
-    "name": "mountainowl/bubo",
-    "stars": 1,
-    "updated_at": "2026-06-17T01:53:11Z",
-    "url": "https://github.com/mountainowl/bubo"
-  },
-  {
-    "description": "Spec-driven agent harness for Claude Code and Codex \u2014 five-agent pipeline (scope, plan, build, verify, learn) with an au",
-    "id": "anatomia-dev/anatomia",
-    "language": "TypeScript",
-    "name": "anatomia-dev/anatomia",
-    "stars": 32,
-    "updated_at": "2026-06-17T01:53:01Z",
-    "url": "https://github.com/anatomia-dev/anatomia"
-  },
-  {
-    "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-    "id": "max-sixty/worktrunk",
-    "language": "Rust",
-    "name": "max-sixty/worktrunk",
-    "stars": 5482,
-    "updated_at": "2026-06-17T01:59:02Z",
-    "url": "https://github.com/max-sixty/worktrunk"
-  },
-  {
-    "description": "\ud83c\udf0a The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and",
-    "id": "ruvnet/ruflo",
-    "language": "TypeScript",
-    "name": "ruvnet/ruflo",
-    "stars": 59845,
-    "updated_at": "2026-06-17T01:57:53Z",
-    "url": "https://github.com/ruvnet/ruflo"
-  },
-  {
-    "description": "",
-    "id": "Nagiici/Loopgen",
-    "language": "TypeScript",
-    "name": "Nagiici/Loopgen",
-    "stars": 0,
-    "updated_at": "2026-06-17T01:52:45Z",
-    "url": "https://github.com/Nagiici/Loopgen"
-  },
-  {
-    "description": "GUS (Guided Unified SecOps) \u2014 a deterministic AI work system for Claude Code: local knowledge-graph memory, capability g",
-    "id": "Phillip-Samson/gus",
-    "language": "Go Template",
-    "name": "Phillip-Samson/gus",
-    "stars": 0,
-    "updated_at": "2026-06-17T01:52:40Z",
-    "url": "https://github.com/Phillip-Samson/gus"
   }
 ]

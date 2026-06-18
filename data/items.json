@@ -1,5 +1,86 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-18T18:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Spec-first dogfooding repository for review-surfaces",
+    "id": "Shaance/review-surfaces",
+    "language": "TypeScript",
+    "name": "Shaance/review-surfaces",
+    "stars": 0,
+    "updated_at": "2026-06-18T18:45:04Z",
+    "url": "https://github.com/Shaance/review-surfaces"
+  },
+  {
+    "description": "Codogotchi. An AI-agent coding companion.",
+    "id": "cesarnml/codogotchi",
+    "language": "TypeScript",
+    "name": "cesarnml/codogotchi",
+    "stars": 1,
+    "updated_at": "2026-06-18T18:45:01Z",
+    "url": "https://github.com/cesarnml/codogotchi"
+  },
+  {
+    "description": "Self-hosted remote workbench for your projects \u2014 agent terminals, files, git, kanban, mindmap and scheduling, reachable ",
+    "id": "TheRealFaruhaan/crundi",
+    "language": "JavaScript",
+    "name": "TheRealFaruhaan/crundi",
+    "stars": 1,
+    "updated_at": "2026-06-18T18:44:55Z",
+    "url": "https://github.com/TheRealFaruhaan/crundi"
+  },
+  {
+    "description": "Drive a feature from idea to PR with a team of Claude Code agents.",
+    "id": "bostonaholic/team",
+    "language": "TypeScript",
+    "name": "bostonaholic/team",
+    "stars": 5,
+    "updated_at": "2026-06-18T18:44:54Z",
+    "url": "https://github.com/bostonaholic/team"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-18T18:44:38Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "A lightweight framework for shipping software products from idea to production with AI coding agents (Claude Code, Codex",
+    "id": "firatcand/forge",
+    "language": "TypeScript",
+    "name": "firatcand/forge",
+    "stars": 9,
+    "updated_at": "2026-06-18T18:44:17Z",
+    "url": "https://github.com/firatcand/forge"
+  },
+  {
+    "description": "A Claude Code PreToolUse hook that guards against destructive shell commands \u2014 like a rubber band around a lobster claw.",
+    "id": "jamessoubry/clawband",
+    "language": "Rust",
+    "name": "jamessoubry/clawband",
+    "stars": 2,
+    "updated_at": "2026-06-18T18:43:54Z",
+    "url": "https://github.com/jamessoubry/clawband"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 2,
+    "updated_at": "2026-06-18T18:43:48Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
     "description": "An AI Assistant that\u2019s easy to setup, does your work 24/7, knows your preferences and gets better over time.",
     "id": "vellum-ai/vellum-assistant",
     "language": "TypeScript",
@@ -14,7 +95,7 @@
     "language": "Python",
     "name": "escotilha/oxison",
     "stars": 0,
-    "updated_at": "2026-06-18T18:43:21Z",
+    "updated_at": "2026-06-18T18:45:02Z",
     "url": "https://github.com/escotilha/oxison"
   },
   {
@@ -34,6 +115,15 @@
     "stars": 1,
     "updated_at": "2026-06-18T18:43:16Z",
     "url": "https://github.com/LucasXCoder/engram"
+  },
+  {
+    "description": "Switch between Claude accounts, Gemini, Copilot, OpenRouter (300+ models) via CLIProxyAPI OAuth proxy. Visual dashboard,",
+    "id": "kaitranntt/ccs",
+    "language": "TypeScript",
+    "name": "kaitranntt/ccs",
+    "stars": 2547,
+    "updated_at": "2026-06-18T18:43:15Z",
+    "url": "https://github.com/kaitranntt/ccs"
   },
   {
     "description": "Host-level core for a team of AI agents on one machine \u2014 always-on daemon, peer registry, and message routing across Cla",
@@ -90,15 +180,6 @@
     "url": "https://github.com/pharn-dev/pharn-cli"
   },
   {
-    "description": "Codogotchi. An AI-agent coding companion.",
-    "id": "cesarnml/codogotchi",
-    "language": "TypeScript",
-    "name": "cesarnml/codogotchi",
-    "stars": 1,
-    "updated_at": "2026-06-18T18:42:32Z",
-    "url": "https://github.com/cesarnml/codogotchi"
-  },
-  {
     "description": "Mouse Trail Masking Reveal: portable Agent Skills for cursor-trail reveal effects across Codex, Claude Code, Gemini, Kim",
     "id": "sergekostenchuk/mouse-trail-masking-reveal",
     "language": "Python",
@@ -131,7 +212,7 @@
     "language": "Python",
     "name": "JoniPraia/plugadvpl",
     "stars": 13,
-    "updated_at": "2026-06-18T18:42:22Z",
+    "updated_at": "2026-06-18T18:44:46Z",
     "url": "https://github.com/JoniPraia/plugadvpl"
   },
   {
@@ -139,7 +220,7 @@
     "id": "NousResearch/hermes-agent",
     "language": "Python",
     "name": "NousResearch/hermes-agent",
-    "stars": 196881,
+    "stars": 196882,
     "updated_at": "2026-06-18T18:41:53Z",
     "url": "https://github.com/NousResearch/hermes-agent"
   },
@@ -274,7 +355,7 @@
     "id": "raullenchai/Rapid-MLX",
     "language": "Python",
     "name": "raullenchai/Rapid-MLX",
-    "stars": 2950,
+    "stars": 2951,
     "updated_at": "2026-06-18T18:39:37Z",
     "url": "https://github.com/raullenchai/Rapid-MLX"
   },
@@ -286,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T18:39:32Z",
     "url": "https://github.com/develku/claude-web-safety-hooks"
-  },
-  {
-    "description": "Drive a feature from idea to PR with a team of Claude Code agents.",
-    "id": "bostonaholic/team",
-    "language": "TypeScript",
-    "name": "bostonaholic/team",
-    "stars": 5,
-    "updated_at": "2026-06-18T18:43:43Z",
-    "url": "https://github.com/bostonaholic/team"
   },
   {
     "description": "\u26bd You think you know football? Prove it. Predict every scoreline across 48 teams & 104 matches, compete in private Whats",
@@ -376,77 +448,5 @@
     "stars": 9,
     "updated_at": "2026-06-18T18:37:56Z",
     "url": "https://github.com/codecast-sh/codecast"
-  },
-  {
-    "description": "\u26f5\ufe0f High-performance Rust orchestrator for Claude Code agents. Runs concurrent agents in git-isolated branches with retry",
-    "id": "konjoai/lopi",
-    "language": "Rust",
-    "name": "konjoai/lopi",
-    "stars": 1,
-    "updated_at": "2026-06-18T18:37:56Z",
-    "url": "https://github.com/konjoai/lopi"
-  },
-  {
-    "description": "git push \u524d\u7684\u5b89\u5168\u5be9\u67e5 Claude Code skill\uff1a\u6383\u63cf\u6a5f\u5bc6\u3001\u79c1\u9470\u3001\u786c\u7de8\u78bc\u516c\u7db2 IP\u3001\u5927\u578b\u6a94\u6848\uff0c\u6514\u5728\u63a8\u9001\u4e4b\u524d\u3002A pre-push security check skill for Claude Code.",
-    "id": "HoDZadkiel/safe-push-skill",
-    "language": "Shell",
-    "name": "HoDZadkiel/safe-push-skill",
-    "stars": 0,
-    "updated_at": "2026-06-18T18:37:52Z",
-    "url": "https://github.com/HoDZadkiel/safe-push-skill"
-  },
-  {
-    "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Onl",
-    "id": "farion1231/cc-switch",
-    "language": "Rust",
-    "name": "farion1231/cc-switch",
-    "stars": 104142,
-    "updated_at": "2026-06-18T18:39:26Z",
-    "url": "https://github.com/farion1231/cc-switch"
-  },
-  {
-    "description": "SPEC-First Agentic Development Kit for Claude Code \u2014 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language pr",
-    "id": "modu-ai/moai-adk",
-    "language": "Go",
-    "name": "modu-ai/moai-adk",
-    "stars": 1084,
-    "updated_at": "2026-06-18T18:37:39Z",
-    "url": "https://github.com/modu-ai/moai-adk"
-  },
-  {
-    "description": "ContentHero Skills: the context-plus-execution layer for your agent. Generate media, run the content pipeline (ground in",
-    "id": "contenthero-ai/skills",
-    "language": "\u2014",
-    "name": "contenthero-ai/skills",
-    "stars": 0,
-    "updated_at": "2026-06-18T18:37:33Z",
-    "url": "https://github.com/contenthero-ai/skills"
-  },
-  {
-    "description": "Native macOS session manager for AI-powered development \u2014 orchestrates git worktrees, Claude Code, and GitHub/GitLab iss",
-    "id": "radiusmethod/crow",
-    "language": "Swift",
-    "name": "radiusmethod/crow",
-    "stars": 10,
-    "updated_at": "2026-06-18T18:37:15Z",
-    "url": "https://github.com/radiusmethod/crow"
-  },
-  {
-    "description": "OpenClaude 2026: AI Coding Agent in Your Pocket \u2013 No Server, No PC",
-    "id": "ricardozmt/claude-in-your-pocket",
-    "language": "HTML",
-    "name": "ricardozmt/claude-in-your-pocket",
-    "stars": 0,
-    "updated_at": "2026-06-18T18:37:10Z",
-    "url": "https://github.com/ricardozmt/claude-in-your-pocket"
-  },
-  {
-    "description": "2026 AI Dev Sandbox: Real Env Injection, Live Traffic Replay & Network Mirroring",
-    "id": "saiahi/env-vault-agent",
-    "language": "HTML",
-    "name": "saiahi/env-vault-agent",
-    "stars": 0,
-    "updated_at": "2026-06-18T18:37:09Z",
-    "url": "https://github.com/saiahi/env-vault-agent"
   }
 ]

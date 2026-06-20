@@ -1,5 +1,95 @@
 [
   {
+    "description": "Claude Code Mortgage Plugin 2026 - AI-Powered Refinancing Pricing Tool",
+    "id": "Baber002/mortgage-pricing-plugin-blueprint",
+    "language": "HTML",
+    "name": "Baber002/mortgage-pricing-plugin-blueprint",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:30:07Z",
+    "url": "https://github.com/Baber002/mortgage-pricing-plugin-blueprint"
+  },
+  {
+    "description": "Investment-research skills for Claude Code: top-down macro-aware framework, bilingual EN/CN NL triggers, Telegram alerts",
+    "id": "ssurmic/claude-investment-skills",
+    "language": "Python",
+    "name": "ssurmic/claude-investment-skills",
+    "stars": 2,
+    "updated_at": "2026-06-20T01:29:59Z",
+    "url": "https://github.com/ssurmic/claude-investment-skills"
+  },
+  {
+    "description": "AI Agent Security Middleware \u2014 8-layer defense, DLP data flow, prompt injection detection, zero dependencies. SDK + MCP ",
+    "id": "jnMetaCode/shellward",
+    "language": "TypeScript",
+    "name": "jnMetaCode/shellward",
+    "stars": 112,
+    "updated_at": "2026-06-20T01:29:40Z",
+    "url": "https://github.com/jnMetaCode/shellward"
+  },
+  {
+    "description": "Run a fleet of Claude Code agents in parallel \u2014 browser dashboard + Telegram bridge, each agent in its own persistent tm",
+    "id": "yanhs/agentdeck",
+    "language": "Python",
+    "name": "yanhs/agentdeck",
+    "stars": 1,
+    "updated_at": "2026-06-20T01:29:36Z",
+    "url": "https://github.com/yanhs/agentdeck"
+  },
+  {
+    "description": "Provenance layer for AI agent sessions \u2014 record, replay, and reason about Claude Code (and other agent) work.",
+    "id": "basou-dev/basou",
+    "language": "TypeScript",
+    "name": "basou-dev/basou",
+    "stars": 1,
+    "updated_at": "2026-06-20T01:29:14Z",
+    "url": "https://github.com/basou-dev/basou"
+  },
+  {
+    "description": "Extensible Python code intelligence MCP server for semantic analysis and navigation",
+    "id": "okeefeco/pyeye-mcp",
+    "language": "Python",
+    "name": "okeefeco/pyeye-mcp",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:29:28Z",
+    "url": "https://github.com/okeefeco/pyeye-mcp"
+  },
+  {
+    "description": "",
+    "id": "jagoff/memo",
+    "language": "Python",
+    "name": "jagoff/memo",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:28:56Z",
+    "url": "https://github.com/jagoff/memo"
+  },
+  {
+    "description": "Context infrastructure for AI-assisted development \u2014 on-demand Obsidian vault access via MCP",
+    "id": "mlorentedev/hive",
+    "language": "Python",
+    "name": "mlorentedev/hive",
+    "stars": 6,
+    "updated_at": "2026-06-20T01:28:53Z",
+    "url": "https://github.com/mlorentedev/hive"
+  },
+  {
+    "description": "A Claude Code skill that makes AI agents write like a human.",
+    "id": "wuisabel-gif/Cadence",
+    "language": "HTML",
+    "name": "wuisabel-gif/Cadence",
+    "stars": 0,
+    "updated_at": "2026-06-20T01:28:52Z",
+    "url": "https://github.com/wuisabel-gif/Cadence"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 2,
+    "updated_at": "2026-06-20T01:28:52Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
     "description": "AI API gateway that ends manual channel switching with smart routing, auto failover, exponential cooldown, multi-URL sch",
     "id": "caidaoli/ccLoad",
     "language": "Go",
@@ -72,21 +162,12 @@
     "url": "https://github.com/logly/mureo"
   },
   {
-    "description": "Run a fleet of Claude Code agents in parallel \u2014 browser dashboard + Telegram bridge, each agent in its own persistent tm",
-    "id": "yanhs/agentdeck",
-    "language": "Python",
-    "name": "yanhs/agentdeck",
-    "stars": 1,
-    "updated_at": "2026-06-20T01:27:00Z",
-    "url": "https://github.com/yanhs/agentdeck"
-  },
-  {
     "description": "Claude Code plugin core: bounded, target-driven optimization loops",
     "id": "4KMetrics/sindri",
     "language": "Python",
     "name": "4KMetrics/sindri",
     "stars": 0,
-    "updated_at": "2026-06-20T01:26:55Z",
+    "updated_at": "2026-06-20T01:29:55Z",
     "url": "https://github.com/4KMetrics/sindri"
   },
   {
@@ -153,15 +234,6 @@
     "url": "https://github.com/AZagatti/trimwire"
   },
   {
-    "description": "AI Agent Security Middleware \u2014 8-layer defense, DLP data flow, prompt injection detection, zero dependencies. SDK + MCP ",
-    "id": "jnMetaCode/shellward",
-    "language": "TypeScript",
-    "name": "jnMetaCode/shellward",
-    "stars": 112,
-    "updated_at": "2026-06-20T01:25:13Z",
-    "url": "https://github.com/jnMetaCode/shellward"
-  },
-  {
     "description": "Sync your full Claude Code setup across machines: agents, settings, and session history, with path remapping and per-hos",
     "id": "funkadelic/claude-nomad",
     "language": "TypeScript",
@@ -194,7 +266,7 @@
     "language": "TypeScript",
     "name": "costajohnt/oss-autopilot",
     "stars": 9,
-    "updated_at": "2026-06-20T01:26:47Z",
+    "updated_at": "2026-06-20T01:29:48Z",
     "url": "https://github.com/costajohnt/oss-autopilot"
   },
   {
@@ -212,7 +284,7 @@
     "language": "TypeScript",
     "name": "4gentic/obelus",
     "stars": 8,
-    "updated_at": "2026-06-20T01:24:02Z",
+    "updated_at": "2026-06-20T01:28:58Z",
     "url": "https://github.com/4gentic/obelus"
   },
   {
@@ -239,7 +311,7 @@
     "language": "TypeScript",
     "name": "preset-io/agor",
     "stars": 1263,
-    "updated_at": "2026-06-20T01:28:30Z",
+    "updated_at": "2026-06-20T01:30:13Z",
     "url": "https://github.com/preset-io/agor"
   },
   {
@@ -295,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T01:21:38Z",
     "url": "https://github.com/CVERInc/clikae"
-  },
-  {
-    "description": "Context infrastructure for AI-assisted development \u2014 on-demand Obsidian vault access via MCP",
-    "id": "mlorentedev/hive",
-    "language": "Python",
-    "name": "mlorentedev/hive",
-    "stars": 6,
-    "updated_at": "2026-06-20T01:21:55Z",
-    "url": "https://github.com/mlorentedev/hive"
   },
   {
     "description": "Comate is a desktop AI workspace that brings Claude Code into a polished, native app experience. Organize multiple proje",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T01:18:46Z",
     "url": "https://github.com/m-morino/saikai"
-  },
-  {
-    "description": "TUI and CLI for browsing AI models, benchmarks, coding agents, and statuses for AI providers.",
-    "id": "reyamira/models",
-    "language": "Rust",
-    "name": "reyamira/models",
-    "stars": 449,
-    "updated_at": "2026-06-20T01:18:32Z",
-    "url": "https://github.com/reyamira/models"
-  },
-  {
-    "description": "Open-source Claude Code plugins from Racecraft Lab",
-    "id": "racecraft-lab/racecraft-plugins-public",
-    "language": "Shell",
-    "name": "racecraft-lab/racecraft-plugins-public",
-    "stars": 2,
-    "updated_at": "2026-06-20T01:18:28Z",
-    "url": "https://github.com/racecraft-lab/racecraft-plugins-public"
-  },
-  {
-    "description": "Define Claude Code hooks with full type safety.",
-    "id": "sushichan044/cc-hooks-ts",
-    "language": "TypeScript",
-    "name": "sushichan044/cc-hooks-ts",
-    "stars": 38,
-    "updated_at": "2026-06-20T01:18:25Z",
-    "url": "https://github.com/sushichan044/cc-hooks-ts"
-  },
-  {
-    "description": "The agent that grows with you",
-    "id": "NousResearch/hermes-agent",
-    "language": "Python",
-    "name": "NousResearch/hermes-agent",
-    "stars": 197663,
-    "updated_at": "2026-06-20T01:18:00Z",
-    "url": "https://github.com/NousResearch/hermes-agent"
-  },
-  {
-    "description": "Public source for CodeAgent Mobile clients: codeam-cli (npm), VS Code / Cursor / Windsurf extension, and JetBrains plugi",
-    "id": "edgar-durand/codeagent-mobile-clients",
-    "language": "TypeScript",
-    "name": "edgar-durand/codeagent-mobile-clients",
-    "stars": 3,
-    "updated_at": "2026-06-20T01:17:56Z",
-    "url": "https://github.com/edgar-durand/codeagent-mobile-clients"
-  },
-  {
-    "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-    "id": "steipete/CodexBar",
-    "language": "Swift",
-    "name": "steipete/CodexBar",
-    "stars": 15043,
-    "updated_at": "2026-06-20T01:17:41Z",
-    "url": "https://github.com/steipete/CodexBar"
-  },
-  {
-    "description": "SPEC-First Agentic Development Kit for Claude Code \u2014 24 AI agents + 52 skills with TDD/DDD quality gates, 16-language pr",
-    "id": "modu-ai/moai-adk",
-    "language": "Go",
-    "name": "modu-ai/moai-adk",
-    "stars": 1086,
-    "updated_at": "2026-06-20T01:17:00Z",
-    "url": "https://github.com/modu-ai/moai-adk"
   }
 ]

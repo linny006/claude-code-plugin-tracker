@@ -1,5 +1,95 @@
 [
   {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "JavaScript",
+    "name": "gaia-react/gaia",
+    "stars": 16,
+    "updated_at": "2026-06-22T19:45:50Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
+    "description": "Always-on-top Windows desktop widget showing Claude Code token usage, session limits, and model distribution in real tim",
+    "id": "uygarozdemir/claude-usage-widget",
+    "language": "JavaScript",
+    "name": "uygarozdemir/claude-usage-widget",
+    "stars": 0,
+    "updated_at": "2026-06-22T19:45:46Z",
+    "url": "https://github.com/uygarozdemir/claude-usage-widget"
+  },
+  {
+    "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and P",
+    "id": "iOfficeAI/OfficeCLI",
+    "language": "C#",
+    "name": "iOfficeAI/OfficeCLI",
+    "stars": 7771,
+    "updated_at": "2026-06-22T19:45:46Z",
+    "url": "https://github.com/iOfficeAI/OfficeCLI"
+  },
+  {
+    "description": "Your markdown vault, compiled into a 6-persona MCP team for Claude Code, Codex, OpenCode, and Gemini CLI. Headless-first",
+    "id": "2233admin/obsidian-llm-wiki",
+    "language": "JavaScript",
+    "name": "2233admin/obsidian-llm-wiki",
+    "stars": 17,
+    "updated_at": "2026-06-22T19:45:55Z",
+    "url": "https://github.com/2233admin/obsidian-llm-wiki"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 9,
+    "updated_at": "2026-06-22T19:45:35Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "My own engineering contributions to the exciting and brand new field of cognitive instructions describing how to do a th",
+    "id": "cportka/claude-plugins",
+    "language": "Shell",
+    "name": "cportka/claude-plugins",
+    "stars": 0,
+    "updated_at": "2026-06-22T19:45:29Z",
+    "url": "https://github.com/cportka/claude-plugins"
+  },
+  {
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
+    "id": "stablyai/orca",
+    "language": "TypeScript",
+    "name": "stablyai/orca",
+    "stars": 6002,
+    "updated_at": "2026-06-22T19:45:25Z",
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 2,
+    "updated_at": "2026-06-22T19:45:20Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Musher Portable Agent Bundles for Local Coding Agents 2026",
+    "id": "HelenLopez07/mush-packman",
+    "language": "HTML",
+    "name": "HelenLopez07/mush-packman",
+    "stars": 0,
+    "updated_at": "2026-06-22T19:45:19Z",
+    "url": "https://github.com/HelenLopez07/mush-packman"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-22T19:45:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "SPEC-First AI DevKit for Agentic Code 2026 \u2014 24 Agents, 52 Skills, TDD/DDD Gates",
     "id": "leerhadz/moai-forge",
     "language": "HTML",
@@ -99,6 +189,15 @@
     "url": "https://github.com/Zanmmi/micro-agent-cli"
   },
   {
+    "description": "A six-year-old code reviewer who's not afraid to as \"why?\" about everything.",
+    "id": "hxii/sixwhyo",
+    "language": "\u2014",
+    "name": "hxii/sixwhyo",
+    "stars": 0,
+    "updated_at": "2026-06-22T19:43:19Z",
+    "url": "https://github.com/hxii/sixwhyo"
+  },
+  {
     "description": "Your AI coding agent starts every session knowing your repos, your clients, and how you work \u2014 a plain git repo of markd",
     "id": "bks-lab/open-bridge",
     "language": "Python",
@@ -124,15 +223,6 @@
     "stars": 7,
     "updated_at": "2026-06-22T19:43:11Z",
     "url": "https://github.com/pbmagnet4/nlm-memory"
-  },
-  {
-    "description": "Always-on-top Windows desktop widget showing Claude Code token usage, session limits, and model distribution in real tim",
-    "id": "uygarozdemir/claude-usage-widget",
-    "language": "JavaScript",
-    "name": "uygarozdemir/claude-usage-widget",
-    "stars": 0,
-    "updated_at": "2026-06-22T19:43:05Z",
-    "url": "https://github.com/uygarozdemir/claude-usage-widget"
   },
   {
     "description": "A native (really fast!!) cross-platform client for OpenCode",
@@ -162,15 +252,6 @@
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
-    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
-    "id": "gaia-react/gaia",
-    "language": "JavaScript",
-    "name": "gaia-react/gaia",
-    "stars": 16,
-    "updated_at": "2026-06-22T19:42:50Z",
-    "url": "https://github.com/gaia-react/gaia"
-  },
-  {
     "description": "Multi-provider, hot self-mutating coding LLM CLI with async/detached tool calls and bidirectionally communicating recurs",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -185,7 +266,7 @@
     "language": "Go",
     "name": "github/gh-aw",
     "stars": 4681,
-    "updated_at": "2026-06-22T19:42:32Z",
+    "updated_at": "2026-06-22T19:45:57Z",
     "url": "https://github.com/github/gh-aw"
   },
   {
@@ -302,17 +383,8 @@
     "language": "Rust",
     "name": "harf-promo/indexa",
     "stars": 2,
-    "updated_at": "2026-06-22T19:44:57Z",
+    "updated_at": "2026-06-22T19:45:33Z",
     "url": "https://github.com/harf-promo/indexa"
-  },
-  {
-    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
-    "id": "stablyai/orca",
-    "language": "TypeScript",
-    "name": "stablyai/orca",
-    "stars": 6001,
-    "updated_at": "2026-06-22T19:39:41Z",
-    "url": "https://github.com/stablyai/orca"
   },
   {
     "description": "My personal plugin marketplace and settings for Claude Code",
@@ -369,15 +441,6 @@
     "url": "https://github.com/greyhaven-ai/autocontext"
   },
   {
-    "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and P",
-    "id": "iOfficeAI/OfficeCLI",
-    "language": "C#",
-    "name": "iOfficeAI/OfficeCLI",
-    "stars": 7771,
-    "updated_at": "2026-06-22T19:38:24Z",
-    "url": "https://github.com/iOfficeAI/OfficeCLI"
-  },
-  {
     "description": "Stdio-to-HTTP Model Context Protocol bridge that exposes the Snapper trading platform as MCP tools in Claude Desktop and",
     "id": "mateusz-klatt/snapper-mcp",
     "language": "TypeScript",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-06-22T19:38:18Z",
     "url": "https://github.com/mateusz-klatt/snapper-mcp"
-  },
-  {
-    "description": "Gamified AI SEO audit app that turns website issues into 16-bit dungeon battles for local Codex, Claude, and Gemini CLI ",
-    "id": "avalonreset/seo-dungeon",
-    "language": "JavaScript",
-    "name": "avalonreset/seo-dungeon",
-    "stars": 21,
-    "updated_at": "2026-06-22T19:38:12Z",
-    "url": "https://github.com/avalonreset/seo-dungeon"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 0,
-    "updated_at": "2026-06-22T19:38:11Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Routed Media OS 2026: 96 AI Skills, 13 Modes & 7 Agents for FFmpeg, OBS, DeckLink & Dolby Vision",
-    "id": "maileshwaran28/media-routing-mesh",
-    "language": "HTML",
-    "name": "maileshwaran28/media-routing-mesh",
-    "stars": 2,
-    "updated_at": "2026-06-22T19:37:54Z",
-    "url": "https://github.com/maileshwaran28/media-routing-mesh"
-  },
-  {
-    "description": "developing this for a research project with claude code",
-    "id": "senemdilli/werewolf-game",
-    "language": "TypeScript",
-    "name": "senemdilli/werewolf-game",
-    "stars": 1,
-    "updated_at": "2026-06-22T19:37:42Z",
-    "url": "https://github.com/senemdilli/werewolf-game"
-  },
-  {
-    "description": "Best Free Multi-Agent macOS Console for AI Coding Agents 2026 - Enhanced Chinese Docs",
-    "id": "game4837/island-terminal-console",
-    "language": "HTML",
-    "name": "game4837/island-terminal-console",
-    "stars": 0,
-    "updated_at": "2026-06-22T19:37:38Z",
-    "url": "https://github.com/game4837/island-terminal-console"
-  },
-  {
-    "description": "Voice-First Writing with AI 2026 \u2013 Real-Time Speech-to-Text for Claude Code & Cowork",
-    "id": "naveenkumarnavin/vocal-composer",
-    "language": "HTML",
-    "name": "naveenkumarnavin/vocal-composer",
-    "stars": 1,
-    "updated_at": "2026-06-22T19:37:37Z",
-    "url": "https://github.com/naveenkumarnavin/vocal-composer"
-  },
-  {
-    "description": "Supercharge Claude Code with MiniMax AI Agents for Smarter Code Reviews in 2026",
-    "id": "BirhanuTa/minimax-plugin-cursor-bridge",
-    "language": "HTML",
-    "name": "BirhanuTa/minimax-plugin-cursor-bridge",
-    "stars": 0,
-    "updated_at": "2026-06-22T19:37:36Z",
-    "url": "https://github.com/BirhanuTa/minimax-plugin-cursor-bridge"
   }
 ]

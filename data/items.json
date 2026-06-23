@@ -1,5 +1,68 @@
 [
   {
+    "description": "Master repository for a personally tuned CLAUDE.md, designed to be referenced from other projects.",
+    "id": "tvna/claude-md",
+    "language": "Python",
+    "name": "tvna/claude-md",
+    "stars": 0,
+    "updated_at": "2026-06-23T21:16:47Z",
+    "url": "https://github.com/tvna/claude-md"
+  },
+  {
+    "description": "Guardrail hooks for a multi-session Claude Code setup: a cross-session danger lock (atomic, stale-recovering) so two tab",
+    "id": "keitashimoda24-maker/claude-code-power-env",
+    "language": "Python",
+    "name": "keitashimoda24-maker/claude-code-power-env",
+    "stars": 0,
+    "updated_at": "2026-06-23T21:16:34Z",
+    "url": "https://github.com/keitashimoda24-maker/claude-code-power-env"
+  },
+  {
+    "description": "A multi-agent security review pipeline for Claude Code: layered threat model + 4 parallel static agents + safe-by-defaul",
+    "id": "keitashimoda24-maker/multiagent-review-orchestrator",
+    "language": "Python",
+    "name": "keitashimoda24-maker/multiagent-review-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-06-23T21:16:32Z",
+    "url": "https://github.com/keitashimoda24-maker/multiagent-review-orchestrator"
+  },
+  {
+    "description": "Structured Thinking for Claude Code 2026 \u2013 Ask, Search, Verify Before You Build",
+    "id": "zuya48/claude-code-prompt-plan",
+    "language": "HTML",
+    "name": "zuya48/claude-code-prompt-plan",
+    "stars": 0,
+    "updated_at": "2026-06-23T21:15:45Z",
+    "url": "https://github.com/zuya48/claude-code-prompt-plan"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 8,
+    "updated_at": "2026-06-23T21:15:31Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-23T21:15:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 2,
+    "updated_at": "2026-06-23T21:15:16Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
     "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
     "id": "J-nowcow/awesome-korean-agent-skills",
     "language": "\u2014",
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "Jacknelson6/session-analyzer",
     "stars": 0,
-    "updated_at": "2026-06-23T21:14:17Z",
+    "updated_at": "2026-06-23T21:16:30Z",
     "url": "https://github.com/Jacknelson6/session-analyzer"
   },
   {
@@ -86,7 +149,7 @@
     "language": "\u2014",
     "name": "marckrenn/claude-code-changelog",
     "stars": 851,
-    "updated_at": "2026-06-23T21:13:41Z",
+    "updated_at": "2026-06-23T21:16:32Z",
     "url": "https://github.com/marckrenn/claude-code-changelog"
   },
   {
@@ -202,7 +265,7 @@
     "id": "DietrichGebert/ponytail",
     "language": "JavaScript",
     "name": "DietrichGebert/ponytail",
-    "stars": 52224,
+    "stars": 52227,
     "updated_at": "2026-06-23T21:12:19Z",
     "url": "https://github.com/DietrichGebert/ponytail"
   },
@@ -214,6 +277,15 @@
     "stars": 0,
     "updated_at": "2026-06-23T21:12:17Z",
     "url": "https://github.com/Meizu1330/neural-context-archive"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 4570,
+    "updated_at": "2026-06-23T21:12:16Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Technical training courses for AI-assisted development with Claude Code, BDD, and modern engineering practices.",
@@ -274,7 +346,7 @@
     "id": "DeusData/codebase-memory-mcp",
     "language": "C",
     "name": "DeusData/codebase-memory-mcp",
-    "stars": 12751,
+    "stars": 12753,
     "updated_at": "2026-06-23T21:10:46Z",
     "url": "https://github.com/DeusData/codebase-memory-mcp"
   },
@@ -329,7 +401,7 @@
     "language": "TypeScript",
     "name": "diegosouzapw/OmniRoute",
     "stars": 6791,
-    "updated_at": "2026-06-23T21:14:16Z",
+    "updated_at": "2026-06-23T21:15:25Z",
     "url": "https://github.com/diegosouzapw/OmniRoute"
   },
   {
@@ -355,7 +427,7 @@
     "id": "NousResearch/hermes-agent",
     "language": "Python",
     "name": "NousResearch/hermes-agent",
-    "stars": 200832,
+    "stars": 200833,
     "updated_at": "2026-06-23T21:09:34Z",
     "url": "https://github.com/NousResearch/hermes-agent"
   },
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-23T21:09:16Z",
     "url": "https://github.com/Darkmalan-1987/sparring-reason"
-  },
-  {
-    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
-    "id": "stablyai/orca",
-    "language": "TypeScript",
-    "name": "stablyai/orca",
-    "stars": 6284,
-    "updated_at": "2026-06-23T21:14:20Z",
-    "url": "https://github.com/stablyai/orca"
-  },
-  {
-    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
-    "id": "zohaamalik/ocds-procura-semantic-nexus",
-    "language": "HTML",
-    "name": "zohaamalik/ocds-procura-semantic-nexus",
-    "stars": 0,
-    "updated_at": "2026-06-23T21:09:13Z",
-    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
-  },
-  {
-    "description": "AI \u65f6\u4ee3\u7684\u4f2f\u514b\u5e0c\u5c14\uff1a\u57fa\u4e8e Claude Code \u7684\u4ef7\u503c\u6295\u8d44\u7814\u7a76\u6846\u67b6\u3002\u5df4\u83f2\u7279\u00b7\u8292\u683c\u00b7\u6bb5\u6c38\u5e73\u00b7\u674e\u5f55\u56db\u5927\u5e08\u65b9\u6cd5\u8bba + \u591aAgent\u5e76\u884c\u7814\u7a76\u3002",
-    "id": "xbtlin/ai-berkshire",
-    "language": "Python",
-    "name": "xbtlin/ai-berkshire",
-    "stars": 902,
-    "updated_at": "2026-06-23T21:09:13Z",
-    "url": "https://github.com/xbtlin/ai-berkshire"
-  },
-  {
-    "description": "2026 AI Dev Sandbox: Real Env Injection, Live Traffic Replay & Network Mirroring",
-    "id": "saiahi/env-vault-agent",
-    "language": "HTML",
-    "name": "saiahi/env-vault-agent",
-    "stars": 0,
-    "updated_at": "2026-06-23T21:09:11Z",
-    "url": "https://github.com/saiahi/env-vault-agent"
-  },
-  {
-    "description": "Benchmark LLMs on your own codebase. Repo-specific probes, blind rubric-based judging, and correctness-first rankings.",
-    "id": "kwadwoadu/modelfit",
-    "language": "Shell",
-    "name": "kwadwoadu/modelfit",
-    "stars": 1,
-    "updated_at": "2026-06-23T21:09:07Z",
-    "url": "https://github.com/kwadwoadu/modelfit"
-  },
-  {
-    "description": "Local semantic search, symbol graphs, secrets scanning, output filters, and CLI hooks that save 60-90% LLM tokens.",
-    "id": "juninmd/tokenix",
-    "language": "Rust",
-    "name": "juninmd/tokenix",
-    "stars": 11,
-    "updated_at": "2026-06-23T21:12:34Z",
-    "url": "https://github.com/juninmd/tokenix"
-  },
-  {
-    "description": "Self-evolving, evidence-based memory layer for coding agents and development teams.",
-    "id": "shno-labs/mem-forge",
-    "language": "Python",
-    "name": "shno-labs/mem-forge",
-    "stars": 2,
-    "updated_at": "2026-06-23T21:09:05Z",
-    "url": "https://github.com/shno-labs/mem-forge"
-  },
-  {
-    "description": "\ud83d\ude80 Opendray v2 2026 \u2013 Universal AI Agent Gateway (Slack, Telegram, Discord, DingTalk)",
-    "id": "Rakshit64w43/agent-gateway-hub",
-    "language": "HTML",
-    "name": "Rakshit64w43/agent-gateway-hub",
-    "stars": 2,
-    "updated_at": "2026-06-23T21:09:03Z",
-    "url": "https://github.com/Rakshit64w43/agent-gateway-hub"
   }
 ]

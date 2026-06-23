@@ -1,5 +1,32 @@
 [
   {
+    "description": "\ud83d\uddc2\ufe0f Manage tasks effectively with jjtask, leveraging JJ (Jujutsu) for structured planning and execution using DAGs and TO",
+    "id": "Divyxnk44x/jjtask",
+    "language": "Go",
+    "name": "Divyxnk44x/jjtask",
+    "stars": 1,
+    "updated_at": "2026-06-23T22:45:10Z",
+    "url": "https://github.com/Divyxnk44x/jjtask"
+  },
+  {
+    "description": "Charter is an offline-first AI-agent-readiness scanner for software repositories. It audits agent context, MCP safety, r",
+    "id": "use-charter/charter",
+    "language": "Go",
+    "name": "use-charter/charter",
+    "stars": 5,
+    "updated_at": "2026-06-23T22:45:06Z",
+    "url": "https://github.com/use-charter/charter"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 2,
+    "updated_at": "2026-06-23T22:45:02Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
     "description": "Code intelligence and RAG for AI agents: semantic search, call graphs, impact analysis, and context assembly in single t",
     "id": "jamie8johnson/cqs",
     "language": "Rust",
@@ -7,6 +34,33 @@
     "stars": 11,
     "updated_at": "2026-06-23T22:44:59Z",
     "url": "https://github.com/jamie8johnson/cqs"
+  },
+  {
+    "description": "Modernizing Legacy Code with Claude Real-World Guide 2026",
+    "id": "adianiz/claude-code-legacy-migration",
+    "language": "HTML",
+    "name": "adianiz/claude-code-legacy-migration",
+    "stars": 0,
+    "updated_at": "2026-06-23T22:44:59Z",
+    "url": "https://github.com/adianiz/claude-code-legacy-migration"
+  },
+  {
+    "description": "\ud83d\udcda Improve your documentation with structured guidance based on the Di\u00e1taxis Framework to create content that empowers re",
+    "id": "rio225/docusaurus-skill",
+    "language": "\u2014",
+    "name": "rio225/docusaurus-skill",
+    "stars": 1,
+    "updated_at": "2026-06-23T22:44:58Z",
+    "url": "https://github.com/rio225/docusaurus-skill"
+  },
+  {
+    "description": "\ud83d\ude80 Control Antigravity AI remotely from any device through a web interface. Easily send prompts and switch models for sea",
+    "id": "krishahir26/AntiBridge-Antigravity-remote",
+    "language": "JavaScript",
+    "name": "krishahir26/AntiBridge-Antigravity-remote",
+    "stars": 7,
+    "updated_at": "2026-06-23T22:44:57Z",
+    "url": "https://github.com/krishahir26/AntiBridge-Antigravity-remote"
   },
   {
     "description": "\ud83d\udcdd Automate project documentation generation and maintenance with dev-docs, a Skill for Cursor IDE and Claude Code. Simpl",
@@ -178,6 +232,15 @@
     "stars": 4,
     "updated_at": "2026-06-23T22:43:23Z",
     "url": "https://github.com/cuteecarrot/AgentHub"
+  },
+  {
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
+    "id": "stablyai/orca",
+    "language": "TypeScript",
+    "name": "stablyai/orca",
+    "stars": 6301,
+    "updated_at": "2026-06-23T22:43:23Z",
+    "url": "https://github.com/stablyai/orca"
   },
   {
     "description": "\ud83c\udf10 Build universal web and mobile apps with Vibe Universal, leveraging Next.js and Expo, backed by a shared Convex backen",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-23T22:41:48Z",
     "url": "https://github.com/younesZT/agentic-coding-standards"
-  },
-  {
-    "description": "\ud83c\udf10 Master Claude Code with this comprehensive guide on enhancing projects with MCP servers, commands, and effective chat ",
-    "id": "israel7852/claude-code-mastery",
-    "language": "Shell",
-    "name": "israel7852/claude-code-mastery",
-    "stars": 0,
-    "updated_at": "2026-06-23T22:41:47Z",
-    "url": "https://github.com/israel7852/claude-code-mastery"
-  },
-  {
-    "description": "A Tauri v2 desktop app for launching Claude Code CLI from different project directories with configurable flags.",
-    "id": "arris138/Claudelauncher",
-    "language": "TypeScript",
-    "name": "arris138/Claudelauncher",
-    "stars": 0,
-    "updated_at": "2026-06-23T22:41:51Z",
-    "url": "https://github.com/arris138/Claudelauncher"
-  },
-  {
-    "description": "Structured Thinking for Claude Code 2026 \u2013 Ask, Search, Verify Before You Build",
-    "id": "zuya48/claude-code-prompt-plan",
-    "language": "HTML",
-    "name": "zuya48/claude-code-prompt-plan",
-    "stars": 0,
-    "updated_at": "2026-06-23T22:41:40Z",
-    "url": "https://github.com/zuya48/claude-code-prompt-plan"
-  },
-  {
-    "description": "\ud83d\udcca Create and edit PowerPoint presentations effortlessly with Claude Skills using XML manipulation for streamlined conten",
-    "id": "24111999/claude-skills",
-    "language": "JavaScript",
-    "name": "24111999/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-06-23T22:41:37Z",
-    "url": "https://github.com/24111999/claude-skills"
-  },
-  {
-    "description": "\ud83d\udd27 Manage your AI agents easily with Claude Subagent Editor, a web-based tool for editing configuration files using a sim",
-    "id": "badrnewgames/claude-subagent-editor",
-    "language": "CSS",
-    "name": "badrnewgames/claude-subagent-editor",
-    "stars": 1,
-    "updated_at": "2026-06-23T22:41:26Z",
-    "url": "https://github.com/badrnewgames/claude-subagent-editor"
-  },
-  {
-    "description": "Public source for CodeAgent Mobile clients: codeam-cli (npm), VS Code / Cursor / Windsurf extension, and JetBrains plugi",
-    "id": "edgar-durand/codeagent-mobile-clients",
-    "language": "TypeScript",
-    "name": "edgar-durand/codeagent-mobile-clients",
-    "stars": 3,
-    "updated_at": "2026-06-23T22:41:36Z",
-    "url": "https://github.com/edgar-durand/codeagent-mobile-clients"
-  },
-  {
-    "description": "\ud83d\udd04 Manage multiple GLM API profiles effortlessly in Claude Code/VS Code, allowing quick configuration switches without ma",
-    "id": "NyatakuIbnuRosada/glm-switch",
-    "language": "\u2014",
-    "name": "NyatakuIbnuRosada/glm-switch",
-    "stars": 2,
-    "updated_at": "2026-06-23T22:41:24Z",
-    "url": "https://github.com/NyatakuIbnuRosada/glm-switch"
   }
 ]

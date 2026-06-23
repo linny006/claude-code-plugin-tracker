@@ -1,5 +1,122 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-23T01:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 2,
+    "updated_at": "2026-06-23T01:30:08Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Persistent memory MCP for AI agents \u2014 SQLite, knowledge graph, 12 tools with ToolAnnotations",
+    "id": "EtanHey/brainlayer",
+    "language": "Python",
+    "name": "EtanHey/brainlayer",
+    "stars": 8,
+    "updated_at": "2026-06-23T01:29:39Z",
+    "url": "https://github.com/EtanHey/brainlayer"
+  },
+  {
+    "description": "\ud83d\udcbb Implement Qwen3 transformer model on macOS using Metal GPU for accelerated, efficient performance with support for key",
+    "id": "Architect2040/metalQwen3",
+    "language": "C++",
+    "name": "Architect2040/metalQwen3",
+    "stars": 7,
+    "updated_at": "2026-06-23T01:29:25Z",
+    "url": "https://github.com/Architect2040/metalQwen3"
+  },
+  {
+    "description": "An AI Assistant that\u2019s easy to setup, does your work 24/7, knows your preferences and gets better over time.",
+    "id": "vellum-ai/vellum-assistant",
+    "language": "TypeScript",
+    "name": "vellum-ai/vellum-assistant",
+    "stars": 744,
+    "updated_at": "2026-06-23T01:29:24Z",
+    "url": "https://github.com/vellum-ai/vellum-assistant"
+  },
+  {
+    "description": "A reconciliation controller for software goals: declare a goal as machine-checkable predicates and kazi drives coding ag",
+    "id": "kazi-org/kazi",
+    "language": "Elixir",
+    "name": "kazi-org/kazi",
+    "stars": 1,
+    "updated_at": "2026-06-23T01:30:11Z",
+    "url": "https://github.com/kazi-org/kazi"
+  },
+  {
+    "description": "Self-hosted mission control for CLI coding agents \u2014 one searchable timeline for Claude Code, Codex & more, across your m",
+    "id": "cipher982/longhouse",
+    "language": "Python",
+    "name": "cipher982/longhouse",
+    "stars": 1,
+    "updated_at": "2026-06-23T01:29:09Z",
+    "url": "https://github.com/cipher982/longhouse"
+  },
+  {
+    "description": "\ud83c\udff0 Un RPG pixel-art para tus sesiones de Claude Code: cada sesi\u00f3n es un personaje, cada TODO un monstruo, los tokens son ",
+    "id": "squanchymnonm/RPG-Agents",
+    "language": "JavaScript",
+    "name": "squanchymnonm/RPG-Agents",
+    "stars": 0,
+    "updated_at": "2026-06-23T01:29:01Z",
+    "url": "https://github.com/squanchymnonm/RPG-Agents"
+  },
+  {
+    "description": "A ready-to-adapt CLAUDE.md for a Clean Architecture .NET solution \u2014 the project-context file Claude Code reads every ses",
+    "id": "ahmadilham/dotnet-claude-md-starter",
+    "language": "\u2014",
+    "name": "ahmadilham/dotnet-claude-md-starter",
+    "stars": 0,
+    "updated_at": "2026-06-23T01:28:53Z",
+    "url": "https://github.com/ahmadilham/dotnet-claude-md-starter"
+  },
+  {
+    "description": "Discover and compare open-source Agent Skills, tools & MCP servers \u2014 with quality scoring, trending analysis, and automa",
+    "id": "zhuyansen/agent-skills-hub",
+    "language": "TypeScript",
+    "name": "zhuyansen/agent-skills-hub",
+    "stars": 297,
+    "updated_at": "2026-06-23T01:28:44Z",
+    "url": "https://github.com/zhuyansen/agent-skills-hub"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 2,
+    "updated_at": "2026-06-23T01:28:40Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "",
+    "id": "MarcoRodrigues00/agenthub-local",
+    "language": "TypeScript",
+    "name": "MarcoRodrigues00/agenthub-local",
+    "stars": 0,
+    "updated_at": "2026-06-23T01:28:30Z",
+    "url": "https://github.com/MarcoRodrigues00/agenthub-local"
+  },
+  {
+    "description": "Lightweight, open-source AI agent for your tools, chats, and workflows.",
+    "id": "HKUDS/nanobot",
+    "language": "Python",
+    "name": "HKUDS/nanobot",
+    "stars": 44587,
+    "updated_at": "2026-06-23T01:28:28Z",
+    "url": "https://github.com/HKUDS/nanobot"
+  },
+  {
     "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
     "id": "Fiskopoi/outline-driven-toolkit",
     "language": "HTML",
@@ -90,7 +207,7 @@
     "url": "https://github.com/jessemaxh/GlanceTerm"
   },
   {
-    "description": "",
+    "description": "Convert your daily coding sessions into personalized podcasts that explain the technical concepts behind your code.",
     "id": "buttonshaped-capitalofmongolia595/aftercode",
     "language": "Rust",
     "name": "buttonshaped-capitalofmongolia595/aftercode",
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-23T01:25:15Z",
     "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Self-hosted mission control for CLI coding agents \u2014 one searchable timeline for Claude Code, Codex & more, across your m",
-    "id": "cipher982/longhouse",
-    "language": "Python",
-    "name": "cipher982/longhouse",
-    "stars": 1,
-    "updated_at": "2026-06-23T01:25:09Z",
-    "url": "https://github.com/cipher982/longhouse"
-  },
-  {
-    "description": "Musher Portable Agent Bundles for Local Coding Agents 2026",
-    "id": "HelenLopez07/mush-packman",
-    "language": "HTML",
-    "name": "HelenLopez07/mush-packman",
-    "stars": 0,
-    "updated_at": "2026-06-23T01:25:06Z",
-    "url": "https://github.com/HelenLopez07/mush-packman"
-  },
-  {
-    "description": "Hand development to an AI coding agent \u2014 a Nix Flakes workspace that runs the same on macOS/Linux and keeps it safe.",
-    "id": "yktsnet/dotfiles-public",
-    "language": "Nix",
-    "name": "yktsnet/dotfiles-public",
-    "stars": 0,
-    "updated_at": "2026-06-23T01:25:05Z",
-    "url": "https://github.com/yktsnet/dotfiles-public"
-  },
-  {
-    "description": "\ud83c\udff0 Un RPG pixel-art para tus sesiones de Claude Code: cada sesi\u00f3n es un personaje, cada TODO un monstruo, los tokens son ",
-    "id": "squanchymnonm/RPG-Agents",
-    "language": "JavaScript",
-    "name": "squanchymnonm/RPG-Agents",
-    "stars": 0,
-    "updated_at": "2026-06-23T01:27:57Z",
-    "url": "https://github.com/squanchymnonm/RPG-Agents"
-  },
-  {
-    "description": "Best Free Claude Code Plugins for Marketplace 2026 \u2013 Instant Setup Guide",
-    "id": "nereasanmartinsanchez-max/howar31-plugin-hub",
-    "language": "HTML",
-    "name": "nereasanmartinsanchez-max/howar31-plugin-hub",
-    "stars": 0,
-    "updated_at": "2026-06-23T01:24:59Z",
-    "url": "https://github.com/nereasanmartinsanchez-max/howar31-plugin-hub"
-  },
-  {
-    "description": "\u3082\u3075\u3082\u3075 \u2014 V2EX \u6cbb\u6108\u7cfb\u5237\u5e16 Claude Code \u63d2\u4ef6:\u70ed\u95e8/\u641c\u7d22/AI\u603b\u7ed3\u957f\u5e16/\u4eca\u65e5\u6458\u8981/\u62df\u56de\u590d \u517115\u547d\u4ee4,\u7eaf\u516c\u5f00API\u514dtoken",
-    "id": "NatsurikaSumi/mofumofu",
-    "language": "\u2014",
-    "name": "NatsurikaSumi/mofumofu",
-    "stars": 0,
-    "updated_at": "2026-06-23T01:24:32Z",
-    "url": "https://github.com/NatsurikaSumi/mofumofu"
-  },
-  {
-    "description": "AI Coding Assistant Migration Kit 2026 \u2013 Seamless Multi-Platform Workflows",
-    "id": "chaitanya-aws/mjlab-ai-migration-toolkit",
-    "language": "HTML",
-    "name": "chaitanya-aws/mjlab-ai-migration-toolkit",
-    "stars": 1,
-    "updated_at": "2026-06-23T01:24:16Z",
-    "url": "https://github.com/chaitanya-aws/mjlab-ai-migration-toolkit"
-  },
-  {
-    "description": "AI \u7f16\u7801\u9879\u76ee\u603b\u76d1 Agent:\u9a71\u52a8\u4f60\u5df2\u767b\u5f55\u7684 Claude Code / Codex / OpenCode\uff0c\u5957\u4e0a 9 \u9636\u6bb5\u53ef\u6cbb\u7406\u7684\u5546\u4e1a\u7ea7\u4ea4\u4ed8\u6d41\u6c34\u7ebf\u3002  AI Coding Project Director Agent | Power Cl",
-    "id": "umacloud/umadev",
-    "language": "Rust",
-    "name": "umacloud/umadev",
-    "stars": 90,
-    "updated_at": "2026-06-23T01:24:09Z",
-    "url": "https://github.com/umacloud/umadev"
-  },
-  {
-    "description": "Multi-CLI agent swarm orchestrated by Claude Code: external AI CLIs code in isolated worktrees, Claude verifies and merg",
-    "id": "fubak/ultraswarm",
-    "language": "JavaScript",
-    "name": "fubak/ultraswarm",
-    "stars": 56,
-    "updated_at": "2026-06-23T01:24:01Z",
-    "url": "https://github.com/fubak/ultraswarm"
-  },
-  {
-    "description": "Run AI coding agents in isolated sandboxes connected to your GitHub repositories",
-    "id": "jamesmurdza/background-agents",
-    "language": "TypeScript",
-    "name": "jamesmurdza/background-agents",
-    "stars": 48,
-    "updated_at": "2026-06-23T01:23:59Z",
-    "url": "https://github.com/jamesmurdza/background-agents"
-  },
-  {
-    "description": "macOS menu bar app to monitor Claude Code usage limits with real-time pace tracking",
-    "id": "khoanguyen-3fc/ClaudeTray",
-    "language": "Swift",
-    "name": "khoanguyen-3fc/ClaudeTray",
-    "stars": 0,
-    "updated_at": "2026-06-23T01:23:58Z",
-    "url": "https://github.com/khoanguyen-3fc/ClaudeTray"
-  },
-  {
-    "description": "Make any Claude model adopt Claude Fable 5's working style in Claude Code \u2014 always-on output style + zero-dependency MCP",
-    "id": "elon-choo/fablever",
-    "language": "HTML",
-    "name": "elon-choo/fablever",
-    "stars": 20,
-    "updated_at": "2026-06-23T01:23:57Z",
-    "url": "https://github.com/elon-choo/fablever"
-  },
-  {
-    "description": "Willow 2.0 \u2014 local-first memory, MCP tools, and fleet coordination for AI agents. Postgres KB, Ollama default, Grove LAN",
-    "id": "rudi193-cmd/willow-2.0",
-    "language": "Python",
-    "name": "rudi193-cmd/willow-2.0",
-    "stars": 3,
-    "updated_at": "2026-06-23T01:25:37Z",
-    "url": "https://github.com/rudi193-cmd/willow-2.0"
   }
 ]

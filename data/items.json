@@ -1,10 +1,46 @@
 [
   {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 8,
+    "updated_at": "2026-06-24T23:00:30Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Self-hosted AI coding workspace for Claude Code, Codex, Copilot, Cursor, and OpenCode, with ACP-powered sandboxes",
+    "id": "Mng-dev-ai/agentrove",
+    "language": "TypeScript",
+    "name": "Mng-dev-ai/agentrove",
+    "stars": 290,
+    "updated_at": "2026-06-24T23:00:23Z",
+    "url": "https://github.com/Mng-dev-ai/agentrove"
+  },
+  {
+    "description": "Local Claude Code spend dashboard with cross-account leak detection.",
+    "id": "NasserAlbusaidi/mizan",
+    "language": "JavaScript",
+    "name": "NasserAlbusaidi/mizan",
+    "stars": 0,
+    "updated_at": "2026-06-24T23:00:19Z",
+    "url": "https://github.com/NasserAlbusaidi/mizan"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 2,
+    "updated_at": "2026-06-24T23:00:18Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
     "name": "linny006/trending-claude-skills",
-    "stars": 8,
+    "stars": 7,
     "updated_at": "2026-06-24T23:00:14Z",
     "url": "https://github.com/linny006/trending-claude-skills"
   },
@@ -16,6 +52,15 @@
     "stars": 14,
     "updated_at": "2026-06-24T23:00:10Z",
     "url": "https://github.com/DarrenBenson/sdlc-studio"
+  },
+  {
+    "description": "Installable AI workflow plugin that routes complex software tasks through focused specialist skills for architecture, UI",
+    "id": "Baelfyre/amalgam-conductor",
+    "language": "PowerShell",
+    "name": "Baelfyre/amalgam-conductor",
+    "stars": 3,
+    "updated_at": "2026-06-24T23:00:05Z",
+    "url": "https://github.com/Baelfyre/amalgam-conductor"
   },
   {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "tvna/claude-md",
     "stars": 0,
-    "updated_at": "2026-06-24T22:59:00Z",
+    "updated_at": "2026-06-24T23:00:31Z",
     "url": "https://github.com/tvna/claude-md"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-24T22:51:30Z",
     "url": "https://github.com/yennanliu/finance_data"
-  },
-  {
-    "description": "Multi-agent LLM analysis on a real HK + US stock portfolio: a bull-vs-bear debate every morning, hard risk gates, and a ",
-    "id": "KCNyu/clawock",
-    "language": "Python",
-    "name": "KCNyu/clawock",
-    "stars": 3,
-    "updated_at": "2026-06-24T22:51:29Z",
-    "url": "https://github.com/KCNyu/clawock"
-  },
-  {
-    "description": "The markdown editor for Claude & Codex",
-    "id": "opral/flashtype",
-    "language": "TypeScript",
-    "name": "opral/flashtype",
-    "stars": 219,
-    "updated_at": "2026-06-24T22:51:29Z",
-    "url": "https://github.com/opral/flashtype"
-  },
-  {
-    "description": "An autonomous engineer built on Claude Code \u2014 start it once and it runs on its own judgment, deciding each cycle what's ",
-    "id": "FlexOr2/foreman",
-    "language": "Python",
-    "name": "FlexOr2/foreman",
-    "stars": 1,
-    "updated_at": "2026-06-24T22:51:25Z",
-    "url": "https://github.com/FlexOr2/foreman"
-  },
-  {
-    "description": "Local Claude Code spend dashboard with cross-account leak detection.",
-    "id": "NasserAlbusaidi/mizan",
-    "language": "JavaScript",
-    "name": "NasserAlbusaidi/mizan",
-    "stars": 0,
-    "updated_at": "2026-06-24T22:52:47Z",
-    "url": "https://github.com/NasserAlbusaidi/mizan"
-  },
-  {
-    "description": "\ud83d\udee0\ufe0f The meta-harness for AI agents \u2014 scaffold your own focused, branded agent harness with its own npx CLI, MCP server, m",
-    "id": "ruvnet/agent-harness-generator",
-    "language": "TypeScript",
-    "name": "ruvnet/agent-harness-generator",
-    "stars": 305,
-    "updated_at": "2026-06-24T22:51:11Z",
-    "url": "https://github.com/ruvnet/agent-harness-generator"
   }
 ]

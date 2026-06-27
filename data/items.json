@@ -1,5 +1,86 @@
 [
   {
+    "description": "The ultimate open-source prompt library. Over 2,100+ high-quality AI prompts structured into searchable markdown categor",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 1,
+    "updated_at": "2026-06-27T22:00:08Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "OpenSem 2026 Starter Kit: No-Code Bootstrapping for Serena & Superpowers",
+    "id": "jenni2910/serena-superpowers-kit",
+    "language": "HTML",
+    "name": "jenni2910/serena-superpowers-kit",
+    "stars": 0,
+    "updated_at": "2026-06-27T22:00:07Z",
+    "url": "https://github.com/jenni2910/serena-superpowers-kit"
+  },
+  {
+    "description": "Coordinate multiple AI agents to run autonomous tasks during off-hours with a tested framework for continuous multi-agen",
+    "id": "Distortionistreversibleprocess687/ai-night-shift",
+    "language": "Shell",
+    "name": "Distortionistreversibleprocess687/ai-night-shift",
+    "stars": 1,
+    "updated_at": "2026-06-27T22:00:06Z",
+    "url": "https://github.com/Distortionistreversibleprocess687/ai-night-shift"
+  },
+  {
+    "description": "Manage multiple AI command-line tools within VS Code tabs to reduce context switching and improve coding workflow on mac",
+    "id": "theabhishekrishnan-star/ai-tabs",
+    "language": "Java",
+    "name": "theabhishekrishnan-star/ai-tabs",
+    "stars": 1,
+    "updated_at": "2026-06-27T22:00:04Z",
+    "url": "https://github.com/theabhishekrishnan-star/ai-tabs"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 2,
+    "updated_at": "2026-06-27T22:00:03Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Autonomous AI Code Editor 2026 - Spec-Driven Debugging & Refactoring Tool",
+    "id": "vishnu1432/spec-driven-ai-assistant",
+    "language": "HTML",
+    "name": "vishnu1432/spec-driven-ai-assistant",
+    "stars": 0,
+    "updated_at": "2026-06-27T22:00:03Z",
+    "url": "https://github.com/vishnu1432/spec-driven-ai-assistant"
+  },
+  {
+    "description": "Half game, half experiment. World built out of GitHub issues \u2014 describe an idea, AI agents ship it live.",
+    "id": "MishaMgla/opencraft1",
+    "language": "Go",
+    "name": "MishaMgla/opencraft1",
+    "stars": 16,
+    "updated_at": "2026-06-27T22:00:03Z",
+    "url": "https://github.com/MishaMgla/opencraft1"
+  },
+  {
+    "description": "Create custom marketing posters by describing your design; sync assets and styles via GitHub without needing design soft",
+    "id": "joshuahigher570/poster-maker",
+    "language": "HTML",
+    "name": "joshuahigher570/poster-maker",
+    "stars": 1,
+    "updated_at": "2026-06-27T22:00:00Z",
+    "url": "https://github.com/joshuahigher570/poster-maker"
+  },
+  {
+    "description": "Provide and maintain a community-driven collection of standardized Agent Skills for Claude AI using the SKILL.md format",
+    "id": "Marine-softdrink524/claude-skills",
+    "language": "\u2014",
+    "name": "Marine-softdrink524/claude-skills",
+    "stars": 1,
+    "updated_at": "2026-06-27T21:59:57Z",
+    "url": "https://github.com/Marine-softdrink524/claude-skills"
+  },
+  {
     "description": "Enable AI coding assistants to generate accurate Swift tests using structured testing features tailored to common LLM er",
     "id": "Acromegaliacanaliculus452/Swift-Testing-Agent-Skill",
     "language": "\u2014",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-06-27T21:58:18Z",
     "url": "https://github.com/sisyphean-faucialtonsil233/awesome-ios-ai"
-  },
-  {
-    "description": "My configuration for working with AI coding agents",
-    "id": "averycrespi/agent-config",
-    "language": "TypeScript",
-    "name": "averycrespi/agent-config",
-    "stars": 4,
-    "updated_at": "2026-06-27T21:58:14Z",
-    "url": "https://github.com/averycrespi/agent-config"
-  },
-  {
-    "description": "Automate the evolution and optimization of Hermes Agent\u2019s prompts, skills, and code using genetic algorithms without GPU",
-    "id": "Ephesian-kingpost533/hermes-agent-self-evolution",
-    "language": "Python",
-    "name": "Ephesian-kingpost533/hermes-agent-self-evolution",
-    "stars": 5,
-    "updated_at": "2026-06-27T21:58:14Z",
-    "url": "https://github.com/Ephesian-kingpost533/hermes-agent-self-evolution"
-  },
-  {
-    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
-    "id": "teguhimanulloh47/pirate-talk-for-claude",
-    "language": "HTML",
-    "name": "teguhimanulloh47/pirate-talk-for-claude",
-    "stars": 0,
-    "updated_at": "2026-06-27T21:58:12Z",
-    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
-  },
-  {
-    "description": "Security scanner for AI agent definitions \u2014 finds prompt-injection & capability holes (OWASP LLM Top 10 / MITRE ATLAS). ",
-    "id": "yingchen-coding/agentguard",
-    "language": "Python",
-    "name": "yingchen-coding/agentguard",
-    "stars": 1,
-    "updated_at": "2026-06-27T21:58:08Z",
-    "url": "https://github.com/yingchen-coding/agentguard"
-  },
-  {
-    "description": "Provide OpenClaw skills to streamline trade show selection, pre-show planning, on-site execution, and post-show follow-u",
-    "id": "rubyt5673/trade-show-skills",
-    "language": "\u2014",
-    "name": "rubyt5673/trade-show-skills",
-    "stars": 1,
-    "updated_at": "2026-06-27T21:58:08Z",
-    "url": "https://github.com/rubyt5673/trade-show-skills"
-  },
-  {
-    "description": "Turn MCP servers, OpenAPI specs, or GraphQL endpoints into efficient CLIs at runtime with zero code generation and minim",
-    "id": "Paulinehot583/mcp2cli",
-    "language": "Python",
-    "name": "Paulinehot583/mcp2cli",
-    "stars": 2,
-    "updated_at": "2026-06-27T21:58:05Z",
-    "url": "https://github.com/Paulinehot583/mcp2cli"
-  },
-  {
-    "description": "Deploy enterprise AI agents in Feishu with secure, containerized bots that manage tasks, calendars, and documents withou",
-    "id": "romanhypertensive327/openclaw-for-enterprise",
-    "language": "\u2014",
-    "name": "romanhypertensive327/openclaw-for-enterprise",
-    "stars": 2,
-    "updated_at": "2026-06-27T21:58:02Z",
-    "url": "https://github.com/romanhypertensive327/openclaw-for-enterprise"
-  },
-  {
-    "description": "Analyze Sui Move smart contracts with a parallelized tool that checks 143 attack vectors and applies DeFi security best ",
-    "id": "mateoandries27-lang/move-auditor-skills",
-    "language": "\u2014",
-    "name": "mateoandries27-lang/move-auditor-skills",
-    "stars": 0,
-    "updated_at": "2026-06-27T21:58:02Z",
-    "url": "https://github.com/mateoandries27-lang/move-auditor-skills"
-  },
-  {
-    "description": "Enhance Google Scholar by showing BibTeX entries inline and enabling one-click copying for easier citation management.",
-    "id": "dio229338-design/Google-Scholar-Bibtex-Copy",
-    "language": "JavaScript",
-    "name": "dio229338-design/Google-Scholar-Bibtex-Copy",
-    "stars": 1,
-    "updated_at": "2026-06-27T21:58:01Z",
-    "url": "https://github.com/dio229338-design/Google-Scholar-Bibtex-Copy"
   }
 ]

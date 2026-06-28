@@ -1,5 +1,59 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-06-28T14:15:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Run multiple coding agents in parallel on your own cloud VMs.",
+    "id": "raphaeltm/simple-agent-manager",
+    "language": "TypeScript",
+    "name": "raphaeltm/simple-agent-manager",
+    "stars": 49,
+    "updated_at": "2026-06-28T14:15:00Z",
+    "url": "https://github.com/raphaeltm/simple-agent-manager"
+  },
+  {
+    "description": "Open-source interaction-design intelligence for AI coding agents - securely discover, select, adapt and validate UI moti",
+    "id": "Suraj787/motif",
+    "language": "Python",
+    "name": "Suraj787/motif",
+    "stars": 0,
+    "updated_at": "2026-06-28T14:14:55Z",
+    "url": "https://github.com/Suraj787/motif"
+  },
+  {
+    "description": "Evolving Programming Agent - \u6301\u7eed\u5b66\u4e60\u8fdb\u5316\u7684\u7f16\u7a0b\u667a\u80fd\u4f53\uff0c\u7531 AI Skills \u9a71\u52a8\u7684\u81ea\u9002\u5e94\u7f16\u7a0b\u52a9\u624b\u3002",
+    "id": "richenlin/evolving-programming-agent",
+    "language": "Python",
+    "name": "richenlin/evolving-programming-agent",
+    "stars": 4,
+    "updated_at": "2026-06-28T14:14:53Z",
+    "url": "https://github.com/richenlin/evolving-programming-agent"
+  },
+  {
+    "description": "Inline review for AI-generated Markdown / HTML, in the browser.",
+    "id": "22mb/miru",
+    "language": "TypeScript",
+    "name": "22mb/miru",
+    "stars": 0,
+    "updated_at": "2026-06-28T14:14:46Z",
+    "url": "https://github.com/22mb/miru"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 2,
+    "updated_at": "2026-06-28T14:14:30Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
     "description": "An AI engineering team you install into any Claude Code project \u2014 stack-agnostic agents plus a deterministic installer. ",
     "id": "eric-sabe/engsys",
     "language": "JavaScript",
@@ -68,7 +122,7 @@
     "language": "TypeScript",
     "name": "bounded-systems/prx",
     "stars": 1,
-    "updated_at": "2026-06-28T14:13:27Z",
+    "updated_at": "2026-06-28T14:14:32Z",
     "url": "https://github.com/bounded-systems/prx"
   },
   {
@@ -115,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-06-28T14:12:35Z",
     "url": "https://github.com/itzikiusa/otto_os"
-  },
-  {
-    "description": "Inline review for AI-generated Markdown / HTML, in the browser.",
-    "id": "22mb/miru",
-    "language": "TypeScript",
-    "name": "22mb/miru",
-    "stars": 0,
-    "updated_at": "2026-06-28T14:14:09Z",
-    "url": "https://github.com/22mb/miru"
   },
   {
     "description": "AI Code Review & Visualization Plugin 2026 \u2013 Claude Code by Hulde AI",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-06-28T14:07:38Z",
     "url": "https://github.com/ayesel/guild-bmad"
-  },
-  {
-    "description": "A better analytics dashboard for Buttondown newsletters",
-    "id": "chris-short/clickstats",
-    "language": "Go",
-    "name": "chris-short/clickstats",
-    "stars": 1,
-    "updated_at": "2026-06-28T14:07:23Z",
-    "url": "https://github.com/chris-short/clickstats"
-  },
-  {
-    "description": "The open commons of reflexes for AI coding agents \u2014 write an instinct once, it fires in every agent.",
-    "id": "agentreflex/agentreflex",
-    "language": "TypeScript",
-    "name": "agentreflex/agentreflex",
-    "stars": 1,
-    "updated_at": "2026-06-28T14:07:21Z",
-    "url": "https://github.com/agentreflex/agentreflex"
-  },
-  {
-    "description": "An AI Assistant that\u2019s easy to setup, does your work 24/7, knows your preferences and gets better over time.",
-    "id": "vellum-ai/vellum-assistant",
-    "language": "TypeScript",
-    "name": "vellum-ai/vellum-assistant",
-    "stars": 785,
-    "updated_at": "2026-06-28T14:07:15Z",
-    "url": "https://github.com/vellum-ai/vellum-assistant"
-  },
-  {
-    "description": "Claude Code plugins and MCP servers \u2014 Evonest, Distill, Solera, metang, and more",
-    "id": "noory-code/noory-ai",
-    "language": "Python",
-    "name": "noory-code/noory-ai",
-    "stars": 0,
-    "updated_at": "2026-06-28T14:07:15Z",
-    "url": "https://github.com/noory-code/noory-ai"
-  },
-  {
-    "description": "Open-Source AI Gateway 2026 \u26a1\ufe0f Universal SDK & LLM Load Balancer",
-    "id": "tapiamartinez809-ui/synapse-bridge",
-    "language": "HTML",
-    "name": "tapiamartinez809-ui/synapse-bridge",
-    "stars": 0,
-    "updated_at": "2026-06-28T14:07:09Z",
-    "url": "https://github.com/tapiamartinez809-ui/synapse-bridge"
   }
 ]

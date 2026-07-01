@@ -1,5 +1,41 @@
 [
   {
+    "description": "Can one developer build complex systems software through structured LLM delegation? Repo as the test: agent pipeline ( O",
+    "id": "Crystalka228/Dual-Frontier",
+    "language": "C#",
+    "name": "Crystalka228/Dual-Frontier",
+    "stars": 3,
+    "updated_at": "2026-07-01T23:45:17Z",
+    "url": "https://github.com/Crystalka228/Dual-Frontier"
+  },
+  {
+    "description": "Orchestrate a fleet of real Claude Code agents on your Claude subscription, not per-token API bills - local-first.",
+    "id": "DanielC000/loom",
+    "language": "JavaScript",
+    "name": "DanielC000/loom",
+    "stars": 3,
+    "updated_at": "2026-07-01T23:45:15Z",
+    "url": "https://github.com/DanielC000/loom"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 2,
+    "updated_at": "2026-07-01T23:45:15Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-01T23:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken",
     "id": "Rick-254/moodle-quizsmith",
     "language": "HTML",
@@ -124,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-07-01T23:43:46Z",
     "url": "https://github.com/tea-x-random/unity-game-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-01T23:43:45Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
@@ -302,7 +329,7 @@
     "language": "Swift",
     "name": "manaflow-ai/cmux",
     "stars": 23321,
-    "updated_at": "2026-07-01T23:44:41Z",
+    "updated_at": "2026-07-01T23:45:17Z",
     "url": "https://github.com/manaflow-ai/cmux"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-01T23:40:00Z",
     "url": "https://github.com/sworrl/ClAudit"
-  },
-  {
-    "description": "BrainRouter is a cognitive memory and multi-agent orchestration platform for AI coding agents. It provides a first-party",
-    "id": "kinqsradiollc/BrainRouter",
-    "language": "TypeScript",
-    "name": "kinqsradiollc/BrainRouter",
-    "stars": 3,
-    "updated_at": "2026-07-01T23:44:07Z",
-    "url": "https://github.com/kinqsradiollc/BrainRouter"
-  },
-  {
-    "description": "Bound Executable Constraints (BECs): rules that carry their own check, block violating commits, and travel between repos",
-    "id": "DataDave-Dev/becwright",
-    "language": "Python",
-    "name": "DataDave-Dev/becwright",
-    "stars": 2,
-    "updated_at": "2026-07-01T23:39:56Z",
-    "url": "https://github.com/DataDave-Dev/becwright"
-  },
-  {
-    "description": "Mica Plugin 2026: Route AI Inference Through Green Energy MVM Nodes to Cut Token Costs by 60%",
-    "id": "benlmadan9-star/eco-mesh-sdk",
-    "language": "HTML",
-    "name": "benlmadan9-star/eco-mesh-sdk",
-    "stars": 0,
-    "updated_at": "2026-07-01T23:39:34Z",
-    "url": "https://github.com/benlmadan9-star/eco-mesh-sdk"
   }
 ]

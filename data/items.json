@@ -1,5 +1,167 @@
 [
   {
+    "description": "Meta-prompting, context engineering, and centralized instructions management for AI coding agents - by Grid Dynamics",
+    "id": "griddynamics/rosetta",
+    "language": "TypeScript",
+    "name": "griddynamics/rosetta",
+    "stars": 311,
+    "updated_at": "2026-07-01T20:47:10Z",
+    "url": "https://github.com/griddynamics/rosetta"
+  },
+  {
+    "description": "Self-hosted personal memory RAG. Distills Claude Code sessions into a local, human-readable wiki and recalls on demand. ",
+    "id": "jazz1x/ohmyboring",
+    "language": "Rust",
+    "name": "jazz1x/ohmyboring",
+    "stars": 2,
+    "updated_at": "2026-07-01T20:47:10Z",
+    "url": "https://github.com/jazz1x/ohmyboring"
+  },
+  {
+    "description": "A Dynamic Island style notch status indicator for Claude Code and Codex on macOS.",
+    "id": "eyadhammouda/pookify",
+    "language": "Swift",
+    "name": "eyadhammouda/pookify",
+    "stars": 1,
+    "updated_at": "2026-07-01T20:47:06Z",
+    "url": "https://github.com/eyadhammouda/pookify"
+  },
+  {
+    "description": "Transform your Claude Code conversations into a living knowledge graph",
+    "id": "ZhannaM85/synapse-map",
+    "language": "TypeScript",
+    "name": "ZhannaM85/synapse-map",
+    "stars": 0,
+    "updated_at": "2026-07-01T20:47:00Z",
+    "url": "https://github.com/ZhannaM85/synapse-map"
+  },
+  {
+    "description": "Run and operate Claude Code on your own machine \u2014 fully remotely, from your phone or any browser. Self-hosted server + i",
+    "id": "burakgon/remote-coder",
+    "language": "TypeScript",
+    "name": "burakgon/remote-coder",
+    "stars": 18,
+    "updated_at": "2026-07-01T20:46:52Z",
+    "url": "https://github.com/burakgon/remote-coder"
+  },
+  {
+    "description": "Open-source sandboxes where coding agents build and deploy. Spin up isolated environments where Claude Code, Cursor, and",
+    "id": "runtm-ai/runtm",
+    "language": "Python",
+    "name": "runtm-ai/runtm",
+    "stars": 280,
+    "updated_at": "2026-07-01T20:46:46Z",
+    "url": "https://github.com/runtm-ai/runtm"
+  },
+  {
+    "description": "Java + ClaudeCode \u9aa8\u67b6",
+    "id": "yingzhuo/claude-playground",
+    "language": "Java",
+    "name": "yingzhuo/claude-playground",
+    "stars": 0,
+    "updated_at": "2026-07-01T20:46:45Z",
+    "url": "https://github.com/yingzhuo/claude-playground"
+  },
+  {
+    "description": "Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents \u2014 one local Rust bi",
+    "id": "yvgude/lean-ctx",
+    "language": "Rust",
+    "name": "yvgude/lean-ctx",
+    "stars": 3046,
+    "updated_at": "2026-07-01T20:46:34Z",
+    "url": "https://github.com/yvgude/lean-ctx"
+  },
+  {
+    "description": "Claude Code in Docker. Drop-in OpenAI-compatible API, MCP server, Telegram bot, and CLI \u2014 five interfaces, one image. Pe",
+    "id": "psyb0t/docker-claudebox",
+    "language": "Shell",
+    "name": "psyb0t/docker-claudebox",
+    "stars": 16,
+    "updated_at": "2026-07-01T20:46:32Z",
+    "url": "https://github.com/psyb0t/docker-claudebox"
+  },
+  {
+    "description": "Auto-updated mirror of Claude Code documentation from code.claude.com, refreshed every hour via GitHub Actions",
+    "id": "CodeWithBehnam/cc-docs",
+    "language": "Python",
+    "name": "CodeWithBehnam/cc-docs",
+    "stars": 1,
+    "updated_at": "2026-07-01T20:46:27Z",
+    "url": "https://github.com/CodeWithBehnam/cc-docs"
+  },
+  {
+    "description": "Terminal token usage and cost monitor for Claude Code",
+    "id": "burritothief/tkstat",
+    "language": "Rust",
+    "name": "burritothief/tkstat",
+    "stars": 1,
+    "updated_at": "2026-07-01T20:46:27Z",
+    "url": "https://github.com/burritothief/tkstat"
+  },
+  {
+    "description": "Bidirectional MCP bridge between Claude Code and Codex \u2014 each agent calls the other as a tool, with the Claude side as a",
+    "id": "jackcongmac/claude-codex-bridge",
+    "language": "Python",
+    "name": "jackcongmac/claude-codex-bridge",
+    "stars": 1,
+    "updated_at": "2026-07-01T20:46:20Z",
+    "url": "https://github.com/jackcongmac/claude-codex-bridge"
+  },
+  {
+    "description": "Open-source AI security suite \u2014 Shield (Chrome ext) + Sentinel (npm/pip SDK) + Guardian (hosted dashboard) + Claude Code",
+    "id": "Raffa-jarrl/Lictor-AI",
+    "language": "HTML",
+    "name": "Raffa-jarrl/Lictor-AI",
+    "stars": 15,
+    "updated_at": "2026-07-01T20:46:16Z",
+    "url": "https://github.com/Raffa-jarrl/Lictor-AI"
+  },
+  {
+    "description": "arifOS \u2014 Constitutional MCP kernel for governed AI execution. AAA trinity: AGI (Mind) \u00b7 ASI (Heart) \u00b7 APEX (Judge). Buil",
+    "id": "ariffazil/arifos",
+    "language": "Python",
+    "name": "ariffazil/arifos",
+    "stars": 48,
+    "updated_at": "2026-07-01T20:46:01Z",
+    "url": "https://github.com/ariffazil/arifos"
+  },
+  {
+    "description": "Policy-backed Codex delegation and review for Claude Code.",
+    "id": "gitguffaw/codex-router",
+    "language": "JavaScript",
+    "name": "gitguffaw/codex-router",
+    "stars": 2,
+    "updated_at": "2026-07-01T20:46:18Z",
+    "url": "https://github.com/gitguffaw/codex-router"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 10,
+    "updated_at": "2026-07-01T20:45:29Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-01T20:45:24Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 2,
+    "updated_at": "2026-07-01T20:45:16Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
     "description": "Best AI-Powered Spec-Driven Development Tool 2026 - Multi-Agent Code Review & Automation",
     "id": "prem23247/spec-forge",
     "language": "HTML",
@@ -286,167 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-01T20:42:30Z",
     "url": "https://github.com/modeled-information-format/research-harness-template"
-  },
-  {
-    "description": "AI terminal tool supporting multiple windows, multiple agents and swarm feature of numerous AI Agents working together.",
-    "id": "codedev-david/termpolis",
-    "language": "TypeScript",
-    "name": "codedev-david/termpolis",
-    "stars": 6,
-    "updated_at": "2026-07-01T20:42:11Z",
-    "url": "https://github.com/codedev-david/termpolis"
-  },
-  {
-    "description": "Let two developers' Claude agents talk directly through an ephemeral, end-to-end-encrypted tunnel \u2014 an MCP server.",
-    "id": "zachlikefolio/tunnel-mcp",
-    "language": "TypeScript",
-    "name": "zachlikefolio/tunnel-mcp",
-    "stars": 0,
-    "updated_at": "2026-07-01T20:42:16Z",
-    "url": "https://github.com/zachlikefolio/tunnel-mcp"
-  },
-  {
-    "description": "A traffic light for your vibe coding sessions - a free macOS menu bar indicator for Claude Code. Red while working, yell",
-    "id": "Jesse1211/Aignals",
-    "language": "Swift",
-    "name": "Jesse1211/Aignals",
-    "stars": 1,
-    "updated_at": "2026-07-01T20:41:58Z",
-    "url": "https://github.com/Jesse1211/Aignals"
-  },
-  {
-    "description": "\ud83e\udde0 A self-hosted AI exobrain. Claude Code wired into 50+ skills, launchd watchers, and MCP servers, fusing voice transcri",
-    "id": "BaesTheorem/exobrain-harness",
-    "language": "Python",
-    "name": "BaesTheorem/exobrain-harness",
-    "stars": 1,
-    "updated_at": "2026-07-01T20:41:46Z",
-    "url": "https://github.com/BaesTheorem/exobrain-harness"
-  },
-  {
-    "description": "Run and operate Claude Code on your own machine \u2014 fully remotely, from your phone or any browser. Self-hosted server + i",
-    "id": "burakgon/remote-coder",
-    "language": "TypeScript",
-    "name": "burakgon/remote-coder",
-    "stars": 18,
-    "updated_at": "2026-07-01T20:41:42Z",
-    "url": "https://github.com/burakgon/remote-coder"
-  },
-  {
-    "description": "The skill registry and projection control plane for AI coding agents",
-    "id": "majiayu000/loom",
-    "language": "Rust",
-    "name": "majiayu000/loom",
-    "stars": 2,
-    "updated_at": "2026-07-01T20:41:50Z",
-    "url": "https://github.com/majiayu000/loom"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 0,
-    "updated_at": "2026-07-01T20:41:06Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Kanban orchestrator for solo developers working with AI agents. Connect task cards, shared command chat, OpenCode sessio",
-    "id": "Danissimode/BeaverBoardKanban",
-    "language": "C#",
-    "name": "Danissimode/BeaverBoardKanban",
-    "stars": 0,
-    "updated_at": "2026-07-01T20:45:08Z",
-    "url": "https://github.com/Danissimode/BeaverBoardKanban"
-  },
-  {
-    "description": "Save 94% on AI coding tokens. Index your codebase, agents search instead of reading files. Works with Claude Code, Codex",
-    "id": "elara-labs/code-context-engine",
-    "language": "Python",
-    "name": "elara-labs/code-context-engine",
-    "stars": 227,
-    "updated_at": "2026-07-01T20:41:09Z",
-    "url": "https://github.com/elara-labs/code-context-engine"
-  },
-  {
-    "description": "AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostabl",
-    "id": "kdlbs/kandev",
-    "language": "Go",
-    "name": "kdlbs/kandev",
-    "stars": 405,
-    "updated_at": "2026-07-01T20:40:22Z",
-    "url": "https://github.com/kdlbs/kandev"
-  },
-  {
-    "description": "Shell prompt layer for Claude Code \u2014 session costs, context %, rate limits and model health. Zero daemons, pure bash+jq.",
-    "id": "bmmmm/claudii",
-    "language": "Shell",
-    "name": "bmmmm/claudii",
-    "stars": 2,
-    "updated_at": "2026-07-01T20:40:21Z",
-    "url": "https://github.com/bmmmm/claudii"
-  },
-  {
-    "description": "Agent Skills for Sixtyfour, the people and company intelligence platform",
-    "id": "sixtyfour-ai/skills",
-    "language": "Python",
-    "name": "sixtyfour-ai/skills",
-    "stars": 3,
-    "updated_at": "2026-07-01T20:40:19Z",
-    "url": "https://github.com/sixtyfour-ai/skills"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 5931,
-    "updated_at": "2026-07-01T20:40:05Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "description": "Spec-driven agent workspace for Obsidian \u2014 plan in Markdown, run provider-native agents, review with evidence.",
-    "id": "Luis85/specorator",
-    "language": "TypeScript",
-    "name": "Luis85/specorator",
-    "stars": 0,
-    "updated_at": "2026-07-01T20:39:52Z",
-    "url": "https://github.com/Luis85/specorator"
-  },
-  {
-    "description": "Introspection toolkit for examining Claude Code internals",
-    "id": "claylo/navel",
-    "language": "Shell",
-    "name": "claylo/navel",
-    "stars": 3,
-    "updated_at": "2026-07-01T20:39:30Z",
-    "url": "https://github.com/claylo/navel"
-  },
-  {
-    "description": "Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents \u2014 one local Rust bi",
-    "id": "yvgude/lean-ctx",
-    "language": "Rust",
-    "name": "yvgude/lean-ctx",
-    "stars": 3046,
-    "updated_at": "2026-07-01T20:43:41Z",
-    "url": "https://github.com/yvgude/lean-ctx"
-  },
-  {
-    "description": "Template f\u00fcr KI-gest\u00fctzte Studienprojekte (Context-/Spec-Driven Development mit Claude Code, Cursor, Copilot, Codex) \u2014 H",
-    "id": "gseilheimer/ki-projekt-template",
-    "language": "JavaScript",
-    "name": "gseilheimer/ki-projekt-template",
-    "stars": 0,
-    "updated_at": "2026-07-01T20:39:27Z",
-    "url": "https://github.com/gseilheimer/ki-projekt-template"
-  },
-  {
-    "description": "A documentation library for governance, risk, compliance, cybersecurity, privacy, resilience, AI assurance, and operatio",
-    "id": "jposluns/grc_library",
-    "language": "Python",
-    "name": "jposluns/grc_library",
-    "stars": 1,
-    "updated_at": "2026-07-01T20:39:20Z",
-    "url": "https://github.com/jposluns/grc_library"
   }
 ]

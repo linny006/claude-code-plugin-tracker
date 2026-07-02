@@ -1,11 +1,137 @@
 [
   {
+    "description": "Lazy senior dev mode for AI coding agents that also refuses to guess \u2014 merges ponytail's YAGNI ladder with andrej-karpat",
+    "id": "marcusbellamyshaw-cell/crewcut",
+    "language": "JavaScript",
+    "name": "marcusbellamyshaw-cell/crewcut",
+    "stars": 0,
+    "updated_at": "2026-07-02T02:45:09Z",
+    "url": "https://github.com/marcusbellamyshaw-cell/crewcut"
+  },
+  {
+    "description": "Beautiful zero-dependency dashboard for Claude Code usage \u2014 equivalent API cost, token breakdown, 5h-window usage gauge,",
+    "id": "a0989586419-create/claude-usage-dashboard",
+    "language": "Python",
+    "name": "a0989586419-create/claude-usage-dashboard",
+    "stars": 0,
+    "updated_at": "2026-07-02T02:44:46Z",
+    "url": "https://github.com/a0989586419-create/claude-usage-dashboard"
+  },
+  {
+    "description": "Run Frame.io from your coding agent. Find clips, summarize director's notes, pull references from YouTube, send custom r",
+    "id": "sheldondirector/frameio-agent",
+    "language": "Python",
+    "name": "sheldondirector/frameio-agent",
+    "stars": 0,
+    "updated_at": "2026-07-02T02:44:41Z",
+    "url": "https://github.com/sheldondirector/frameio-agent"
+  },
+  {
+    "description": "Documentation-first PRD/TRD/API/ERD/QA skills for Codex and Claude Code",
+    "id": "eonofpixel/dreampia-dev-kit",
+    "language": "JavaScript",
+    "name": "eonofpixel/dreampia-dev-kit",
+    "stars": 0,
+    "updated_at": "2026-07-02T02:44:40Z",
+    "url": "https://github.com/eonofpixel/dreampia-dev-kit"
+  },
+  {
+    "description": "Autonomous AI Code Editor 2026 - Spec-Driven Debugging & Refactoring Tool",
+    "id": "vishnu1432/spec-driven-ai-assistant",
+    "language": "HTML",
+    "name": "vishnu1432/spec-driven-ai-assistant",
+    "stars": 0,
+    "updated_at": "2026-07-02T02:44:31Z",
+    "url": "https://github.com/vishnu1432/spec-driven-ai-assistant"
+  },
+  {
+    "description": "AI-coding pitfalls & best practices, written from the AI's first-person POV \u2014 76 entries across 5 tools (Claude Code, Cu",
+    "id": "XuebinMa/AIWiki",
+    "language": "MDX",
+    "name": "XuebinMa/AIWiki",
+    "stars": 0,
+    "updated_at": "2026-07-02T02:44:44Z",
+    "url": "https://github.com/XuebinMa/AIWiki"
+  },
+  {
+    "description": "An agent harness for Claude Code: orchestrate your own long-running Claude Code sessions with persistent memory, project",
+    "id": "rjunee/neutron",
+    "language": "TypeScript",
+    "name": "rjunee/neutron",
+    "stars": 1,
+    "updated_at": "2026-07-02T02:44:19Z",
+    "url": "https://github.com/rjunee/neutron"
+  },
+  {
+    "description": "Juggernaut is a one-command setup tool that configures Claude Code to use AWS Bedrock, with cross-platform support (bash",
+    "id": "jpvelasco/juggernaut",
+    "language": "Go",
+    "name": "jpvelasco/juggernaut",
+    "stars": 0,
+    "updated_at": "2026-07-02T02:44:08Z",
+    "url": "https://github.com/jpvelasco/juggernaut"
+  },
+  {
+    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
+    "id": "cody-hutson/pmo-platform",
+    "language": "Shell",
+    "name": "cody-hutson/pmo-platform",
+    "stars": 0,
+    "updated_at": "2026-07-02T02:44:08Z",
+    "url": "https://github.com/cody-hutson/pmo-platform"
+  },
+  {
+    "description": "Lightweight Claude Code statusLine: 5h/7d rate-limit usage, reset countdowns, model + context window, prompt-cache age \u2014",
+    "id": "leeguooooo/claude-code-usage-bar",
+    "language": "Python",
+    "name": "leeguooooo/claude-code-usage-bar",
+    "stars": 290,
+    "updated_at": "2026-07-02T02:44:34Z",
+    "url": "https://github.com/leeguooooo/claude-code-usage-bar"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 2,
+    "updated_at": "2026-07-02T02:44:01Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
+    "id": "stablyai/orca",
+    "language": "TypeScript",
+    "name": "stablyai/orca",
+    "stars": 10356,
+    "updated_at": "2026-07-02T02:44:00Z",
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "description": "Let AI agents message, watch, and spawn each other across terminals. Claude Code, Codex, Antigravity CLI, Cursor CLI, Op",
+    "id": "aannoo/hcom",
+    "language": "Rust",
+    "name": "aannoo/hcom",
+    "stars": 364,
+    "updated_at": "2026-07-02T02:44:00Z",
+    "url": "https://github.com/aannoo/hcom"
+  },
+  {
+    "description": "Shared memory for AI coding agents, across tools and machines. Local-first SQLite, optional Zenoh+RocksDB mesh, MCP-nati",
+    "id": "h-wata/kioku-mesh",
+    "language": "Python",
+    "name": "h-wata/kioku-mesh",
+    "stars": 3,
+    "updated_at": "2026-07-02T02:44:00Z",
+    "url": "https://github.com/h-wata/kioku-mesh"
+  },
+  {
     "description": "Willow 2.0 \u2014 local-first memory, MCP tools, and fleet coordination for AI agents. Postgres KB, Ollama default, Grove LAN",
     "id": "rudi193-cmd/willow-2.0",
     "language": "Python",
     "name": "rudi193-cmd/willow-2.0",
     "stars": 4,
-    "updated_at": "2026-07-02T02:43:48Z",
+    "updated_at": "2026-07-02T02:44:12Z",
     "url": "https://github.com/rudi193-cmd/willow-2.0"
   },
   {
@@ -32,7 +158,7 @@
     "language": "JavaScript",
     "name": "Mpinz109/claude-sync",
     "stars": 0,
-    "updated_at": "2026-07-02T02:43:47Z",
+    "updated_at": "2026-07-02T02:45:12Z",
     "url": "https://github.com/Mpinz109/claude-sync"
   },
   {
@@ -126,15 +252,6 @@
     "url": "https://github.com/seanyao/roll"
   },
   {
-    "description": "Beautiful zero-dependency dashboard for Claude Code usage \u2014 equivalent API cost, token breakdown, 5h-window usage gauge,",
-    "id": "a0989586419-create/claude-usage-dashboard",
-    "language": "Python",
-    "name": "a0989586419-create/claude-usage-dashboard",
-    "stars": 0,
-    "updated_at": "2026-07-02T02:42:02Z",
-    "url": "https://github.com/a0989586419-create/claude-usage-dashboard"
-  },
-  {
     "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
     "id": "teguhimanulloh47/pirate-talk-for-claude",
     "language": "HTML",
@@ -196,15 +313,6 @@
     "stars": 3,
     "updated_at": "2026-07-02T02:40:58Z",
     "url": "https://github.com/app-vitals/shipwright"
-  },
-  {
-    "description": "A modular PMO & release-management platform for Claude Code: skills, governance disciplines, and a 13-stage release pipe",
-    "id": "cody-hutson/pmo-platform",
-    "language": "Shell",
-    "name": "cody-hutson/pmo-platform",
-    "stars": 0,
-    "updated_at": "2026-07-02T02:42:25Z",
-    "url": "https://github.com/cody-hutson/pmo-platform"
   },
   {
     "description": "Superpowers Security Ops 2026: OWASP Workflow Routing & Auto-Fix Red Team Engine",
@@ -297,15 +405,6 @@
     "url": "https://github.com/Wang-tianbo/news-digest-archive"
   },
   {
-    "description": "Documentation-first PRD/TRD/API/ERD/QA skills for Codex and Claude Code",
-    "id": "eonofpixel/dreampia-dev-kit",
-    "language": "JavaScript",
-    "name": "eonofpixel/dreampia-dev-kit",
-    "stars": 0,
-    "updated_at": "2026-07-02T02:38:47Z",
-    "url": "https://github.com/eonofpixel/dreampia-dev-kit"
-  },
-  {
     "description": "Local-first command center for agentic engineers \u2014 the CLI + Raycast hub and front door to the Ashlr dev-tool ecosystem.",
     "id": "ashlrai/ashlr-hub",
     "language": "TypeScript",
@@ -333,15 +432,6 @@
     "url": "https://github.com/scagogogo/osv-schema-skills"
   },
   {
-    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
-    "id": "stablyai/orca",
-    "language": "TypeScript",
-    "name": "stablyai/orca",
-    "stars": 10355,
-    "updated_at": "2026-07-02T02:43:57Z",
-    "url": "https://github.com/stablyai/orca"
-  },
-  {
     "description": "A local, zero-dependency dashboard + Claude Code statusline for your Claude usage \u2014 live rate limits, cost, and a notifi",
     "id": "colelevy08/portmint-pulse",
     "language": "Python",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-02T02:39:12Z",
     "url": "https://github.com/nu0ma/spanner-readonly-mcp"
-  },
-  {
-    "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitaski",
-    "id": "manaflow-ai/cmux",
-    "language": "Swift",
-    "name": "manaflow-ai/cmux",
-    "stars": 23329,
-    "updated_at": "2026-07-02T02:41:39Z",
-    "url": "https://github.com/manaflow-ai/cmux"
-  },
-  {
-    "description": "Product Pipeline 2026: Persist Your PRD & Run Hypothesis-Driven Product Initiatives",
-    "id": "babubhai10/initiative-journal-tracker",
-    "language": "HTML",
-    "name": "babubhai10/initiative-journal-tracker",
-    "stars": 0,
-    "updated_at": "2026-07-02T02:37:39Z",
-    "url": "https://github.com/babubhai10/initiative-journal-tracker"
-  },
-  {
-    "description": "Lint Your Prompts, Ship Better Agents \u2013 Prompt Refiner 2026 Rule Engine",
-    "id": "Kenny27lokku/prompt-integrity-validator",
-    "language": "HTML",
-    "name": "Kenny27lokku/prompt-integrity-validator",
-    "stars": 0,
-    "updated_at": "2026-07-02T02:37:24Z",
-    "url": "https://github.com/Kenny27lokku/prompt-integrity-validator"
-  },
-  {
-    "description": "A local multi-model council for developer workflows: review plans, critique diffs, extract decisions, and keep project-l",
-    "id": "EfeAydinalp/vibe-council",
-    "language": "Python",
-    "name": "EfeAydinalp/vibe-council",
-    "stars": 0,
-    "updated_at": "2026-07-02T02:37:21Z",
-    "url": "https://github.com/EfeAydinalp/vibe-council"
-  },
-  {
-    "description": "R Package Development Suite 2026 \u2013 15 Smart Commands for Dependencies & MCP Orchestration",
-    "id": "MarcoAntonioBarrientosRuano/r-package-maker",
-    "language": "HTML",
-    "name": "MarcoAntonioBarrientosRuano/r-package-maker",
-    "stars": 0,
-    "updated_at": "2026-07-02T02:37:13Z",
-    "url": "https://github.com/MarcoAntonioBarrientosRuano/r-package-maker"
-  },
-  {
-    "description": "Web console for shell jobs, Git operations, and terminal access from your browser",
-    "id": "kt0319/any-console",
-    "language": "Python",
-    "name": "kt0319/any-console",
-    "stars": 1,
-    "updated_at": "2026-07-02T02:37:10Z",
-    "url": "https://github.com/kt0319/any-console"
-  },
-  {
-    "description": "User Dispatch MCP: AI Feedback Widget + Server 2026 - One Command Install",
-    "id": "AdrianSQA/agent-feedback-hub",
-    "language": "HTML",
-    "name": "AdrianSQA/agent-feedback-hub",
-    "stars": 0,
-    "updated_at": "2026-07-02T02:36:18Z",
-    "url": "https://github.com/AdrianSQA/agent-feedback-hub"
-  },
-  {
-    "description": "ReelGenie 2026 \u2013 AI Video Summarizer & Transcript Analyzer Tool \u2013 Free Download",
-    "id": "denis5u/reel-mind-map",
-    "language": "HTML",
-    "name": "denis5u/reel-mind-map",
-    "stars": 0,
-    "updated_at": "2026-07-02T02:36:05Z",
-    "url": "https://github.com/denis5u/reel-mind-map"
-  },
-  {
-    "description": "Enterprise AI Bootstrapping Harness",
-    "id": "samartomar/ai-harness",
-    "language": "TypeScript",
-    "name": "samartomar/ai-harness",
-    "stars": 2,
-    "updated_at": "2026-07-02T02:36:00Z",
-    "url": "https://github.com/samartomar/ai-harness"
-  },
-  {
-    "description": "AI-powered exploratory QA agent. Give it a URL, it finds bugs like a real user. MCP server for Claude Code + standalone ",
-    "id": "chriswu727/argus",
-    "language": "Python",
-    "name": "chriswu727/argus",
-    "stars": 1,
-    "updated_at": "2026-07-02T02:35:44Z",
-    "url": "https://github.com/chriswu727/argus"
   }
 ]

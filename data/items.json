@@ -1,5 +1,113 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-05T18:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Nix home-manager modules and configurations for AI coding assistants.",
+    "id": "DivitMittal/ai-nixCfg",
+    "language": "Nix",
+    "name": "DivitMittal/ai-nixCfg",
+    "stars": 14,
+    "updated_at": "2026-07-05T18:14:55Z",
+    "url": "https://github.com/DivitMittal/ai-nixCfg"
+  },
+  {
+    "description": "Powerline-style statusline for Claude Code \u2014 Rust CLI with a TUI configurator, themes and styles",
+    "id": "micschr0/claudebar",
+    "language": "Rust",
+    "name": "micschr0/claudebar",
+    "stars": 7,
+    "updated_at": "2026-07-05T18:14:54Z",
+    "url": "https://github.com/micschr0/claudebar"
+  },
+  {
+    "description": "Enforce brand writing guidelines in Claude Code \u2014 PostToolUse hook + MCP server + CLI",
+    "id": "zoharbabin/brand-voice",
+    "language": "TypeScript",
+    "name": "zoharbabin/brand-voice",
+    "stars": 0,
+    "updated_at": "2026-07-05T18:14:46Z",
+    "url": "https://github.com/zoharbabin/brand-voice"
+  },
+  {
+    "description": "Turns your AI coding agent into a disciplined engineering team: spec in, merge-ready PR out \u2014 planned, reviewed, audited",
+    "id": "oila-gmbh/skill-bill",
+    "language": "Kotlin",
+    "name": "oila-gmbh/skill-bill",
+    "stars": 10,
+    "updated_at": "2026-07-05T18:14:36Z",
+    "url": "https://github.com/oila-gmbh/skill-bill"
+  },
+  {
+    "description": "Local-first, supervised AI software factory that turns tickets into tested branches or PRs with human review, repo memor",
+    "id": "tmj-90/gaffer",
+    "language": "TypeScript",
+    "name": "tmj-90/gaffer",
+    "stars": 2,
+    "updated_at": "2026-07-05T18:14:35Z",
+    "url": "https://github.com/tmj-90/gaffer"
+  },
+  {
+    "description": "Make Your Ideas Real. Build Apps, Websites and AI Agents with Plain English with Astro, React, Shadcn and Cloudflare",
+    "id": "one-ie/one",
+    "language": "Astro",
+    "name": "one-ie/one",
+    "stars": 126,
+    "updated_at": "2026-07-05T18:14:35Z",
+    "url": "https://github.com/one-ie/one"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 2,
+    "updated_at": "2026-07-05T18:14:22Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "notch app for claude code & codex",
+    "id": "sk-ruban/notchi",
+    "language": "Swift",
+    "name": "sk-ruban/notchi",
+    "stars": 939,
+    "updated_at": "2026-07-05T18:14:21Z",
+    "url": "https://github.com/sk-ruban/notchi"
+  },
+  {
+    "description": "\ud83d\ude80 Longform Writing Plugin for Claude Code 2026 \u2013 AI Novel Editor & Repo",
+    "id": "denidelapan7/longform-claude-extension",
+    "language": "HTML",
+    "name": "denidelapan7/longform-claude-extension",
+    "stars": 0,
+    "updated_at": "2026-07-05T18:14:18Z",
+    "url": "https://github.com/denidelapan7/longform-claude-extension"
+  },
+  {
+    "description": "a self improving operating system for intelligence",
+    "id": "atrislabs/atris",
+    "language": "JavaScript",
+    "name": "atrislabs/atris",
+    "stars": 67,
+    "updated_at": "2026-07-05T18:14:46Z",
+    "url": "https://github.com/atrislabs/atris"
+  },
+  {
+    "description": "Musher Portable Agent Bundles for Local Coding Agents 2026",
+    "id": "HelenLopez07/mush-packman",
+    "language": "HTML",
+    "name": "HelenLopez07/mush-packman",
+    "stars": 0,
+    "updated_at": "2026-07-05T18:14:15Z",
+    "url": "https://github.com/HelenLopez07/mush-packman"
+  },
+  {
     "description": "Rich, minimal viewer for Claude Code CLI sessions \u2014 web + VS Code extension",
     "id": "fateenahmed-123/claude-lens",
     "language": "HTML",
@@ -270,15 +378,6 @@
     "url": "https://github.com/muhamadjawdatsalemalakoum/nocturne"
   },
   {
-    "description": "Powerline-style statusline for Claude Code \u2014 Rust CLI with a TUI configurator, themes and styles",
-    "id": "micschr0/claudebar",
-    "language": "Rust",
-    "name": "micschr0/claudebar",
-    "stars": 7,
-    "updated_at": "2026-07-05T18:09:34Z",
-    "url": "https://github.com/micschr0/claudebar"
-  },
-  {
     "description": "A prompt queue for Claude Code: /queue defers a message until the current turn ends, instead of injecting it at the next",
     "id": "jinhuang712/claude-code-queue",
     "language": "HTML",
@@ -324,15 +423,6 @@
     "url": "https://github.com/humanspeak/svelte-markdown"
   },
   {
-    "description": "Turns your AI coding agent into a disciplined engineering team: spec in, merge-ready PR out \u2014 planned, reviewed, audited",
-    "id": "oila-gmbh/skill-bill",
-    "language": "Kotlin",
-    "name": "oila-gmbh/skill-bill",
-    "stars": 10,
-    "updated_at": "2026-07-05T18:08:53Z",
-    "url": "https://github.com/oila-gmbh/skill-bill"
-  },
-  {
     "description": "\ud83e\uddd1\u200d\ud83c\udfa8 A collection of agentic skills that works",
     "id": "samber/cc-skills",
     "language": "CSS",
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-05T18:08:29Z",
     "url": "https://github.com/BaesTheorem/exobrain-harness"
-  },
-  {
-    "description": "Top Autonomous Research Multi-Agent System for 2026 Lab Experiments",
-    "id": "Usaid22/swarm-factory",
-    "language": "HTML",
-    "name": "Usaid22/swarm-factory",
-    "stars": 87,
-    "updated_at": "2026-07-05T18:08:27Z",
-    "url": "https://github.com/Usaid22/swarm-factory"
-  },
-  {
-    "description": "An agent that builds, plays, and verifies its own game ? a colony-sim prototype gated by 15-scenario input-level repro t",
-    "id": "MelonS/MelonS-Agents",
-    "language": "C#",
-    "name": "MelonS/MelonS-Agents",
-    "stars": 14,
-    "updated_at": "2026-07-05T18:08:24Z",
-    "url": "https://github.com/MelonS/MelonS-Agents"
-  },
-  {
-    "description": "Top Autonomous Research Multi-Agent System for 2026 Lab Experiments",
-    "id": "Araaf7/swarm-factory",
-    "language": "HTML",
-    "name": "Araaf7/swarm-factory",
-    "stars": 50,
-    "updated_at": "2026-07-05T18:08:23Z",
-    "url": "https://github.com/Araaf7/swarm-factory"
-  },
-  {
-    "description": "Token profiler for AI coding agents. See where every token went, what it cost, and which tool fixes the waste.",
-    "id": "gomzkov/plak",
-    "language": "TypeScript",
-    "name": "gomzkov/plak",
-    "stars": 0,
-    "updated_at": "2026-07-05T18:08:23Z",
-    "url": "https://github.com/gomzkov/plak"
-  },
-  {
-    "description": "2026 Guide: Auto-Generate AI-Native Developer READMEs Shared Privately",
-    "id": "A6B339-Samprat/readme-mask-commander",
-    "language": "HTML",
-    "name": "A6B339-Samprat/readme-mask-commander",
-    "stars": 0,
-    "updated_at": "2026-07-05T18:08:22Z",
-    "url": "https://github.com/A6B339-Samprat/readme-mask-commander"
-  },
-  {
-    "description": "Auto-updated mirror of Claude Code documentation from code.claude.com, refreshed every hour via GitHub Actions",
-    "id": "CodeWithBehnam/cc-docs",
-    "language": "Python",
-    "name": "CodeWithBehnam/cc-docs",
-    "stars": 1,
-    "updated_at": "2026-07-05T18:08:21Z",
-    "url": "https://github.com/CodeWithBehnam/cc-docs"
-  },
-  {
-    "description": "A Rust terminal UI for AI-assisted development: manage multiple git worktrees, run Claude Code sessions in embedded PTYs",
-    "id": "S-Nakamur-a/conductor",
-    "language": "Rust",
-    "name": "S-Nakamur-a/conductor",
-    "stars": 2,
-    "updated_at": "2026-07-05T18:14:06Z",
-    "url": "https://github.com/S-Nakamur-a/conductor"
-  },
-  {
-    "description": "ReelGenie 2026 \u2013 AI Video Summarizer & Transcript Analyzer Tool \u2013 Free Download",
-    "id": "denis5u/reel-mind-map",
-    "language": "HTML",
-    "name": "denis5u/reel-mind-map",
-    "stars": 0,
-    "updated_at": "2026-07-05T18:08:17Z",
-    "url": "https://github.com/denis5u/reel-mind-map"
-  },
-  {
-    "description": "User Dispatch MCP: AI Feedback Widget + Server 2026 - One Command Install",
-    "id": "AdrianSQA/agent-feedback-hub",
-    "language": "HTML",
-    "name": "AdrianSQA/agent-feedback-hub",
-    "stars": 0,
-    "updated_at": "2026-07-05T18:08:16Z",
-    "url": "https://github.com/AdrianSQA/agent-feedback-hub"
-  },
-  {
-    "description": "Open-source Claude Code plugins from Racecraft Lab",
-    "id": "racecraft-lab/racecraft-plugins-public",
-    "language": "Shell",
-    "name": "racecraft-lab/racecraft-plugins-public",
-    "stars": 2,
-    "updated_at": "2026-07-05T18:08:42Z",
-    "url": "https://github.com/racecraft-lab/racecraft-plugins-public"
   }
 ]

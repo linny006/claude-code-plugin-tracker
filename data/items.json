@@ -1,5 +1,95 @@
 [
   {
+    "description": "Plugins for Claude Code",
+    "id": "virajp/ai-plugins",
+    "language": "JavaScript",
+    "name": "virajp/ai-plugins",
+    "stars": 1,
+    "updated_at": "2026-07-05T12:46:27Z",
+    "url": "https://github.com/virajp/ai-plugins"
+  },
+  {
+    "description": "Build, run, and watch autonomous Claude Code loops \u2014 rendered as a living orbital star system. Tauri + Svelte + PixiJS a",
+    "id": "NDilanka/orrery",
+    "language": "Python",
+    "name": "NDilanka/orrery",
+    "stars": 1,
+    "updated_at": "2026-07-05T12:46:22Z",
+    "url": "https://github.com/NDilanka/orrery"
+  },
+  {
+    "description": "Claude Code skills \u4ed3\u5e93 | learn\uff1a\u964c\u751f\u9886\u57df\u5bfc\u822a\u4eea\u2014\u2014\u4e09\u795e\u95ee+\u76f2\u533a\u626b\u63cf+\u77e5\u8bc6\u5730\u56fe+\u504f\u5dee\u8bb0\u5f55\uff0c30\u5206\u949f\u62ff\u5230\u4efb\u4f55\u9886\u57df\u7684\u6700\u5c11\u5fc5\u8981\u77e5\u8bc6\uff08\u542b\u53ef\u76f4\u63a5\u590d\u5236\u7684\u7eaf\u6587\u672c prompt\uff09",
+    "id": "josianokwaw-netizen/learn-anything-skill",
+    "language": "\u2014",
+    "name": "josianokwaw-netizen/learn-anything-skill",
+    "stars": 0,
+    "updated_at": "2026-07-05T12:46:12Z",
+    "url": "https://github.com/josianokwaw-netizen/learn-anything-skill"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 813,
+    "updated_at": "2026-07-05T12:46:12Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "Meet PixelLab Pip: a tiny pup who fetches the right PixelLab workflow. He follows human commands to create, edit, and an",
+    "id": "Shilo/pixellab-pip",
+    "language": "Python",
+    "name": "Shilo/pixellab-pip",
+    "stars": 3,
+    "updated_at": "2026-07-05T12:45:35Z",
+    "url": "https://github.com/Shilo/pixellab-pip"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 10,
+    "updated_at": "2026-07-05T12:45:27Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "AI-driven persistent terminal as a stdio MCP server (tmux-backed). Holds one local PTY; SSH and containers are just comm",
+    "id": "kitepon-rgb/aiterm-mcp",
+    "language": "JavaScript",
+    "name": "kitepon-rgb/aiterm-mcp",
+    "stars": 1,
+    "updated_at": "2026-07-05T12:45:23Z",
+    "url": "https://github.com/kitepon-rgb/aiterm-mcp"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 2,
+    "updated_at": "2026-07-05T12:45:15Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-05T12:45:11Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Turns GitHub issues into merged PRs with zero human intervention. Powered by OpenClaw, supports Claude Code, Codex CLI, ",
+    "id": "zxkane/autonomous-dev-team",
+    "language": "Shell",
+    "name": "zxkane/autonomous-dev-team",
+    "stars": 22,
+    "updated_at": "2026-07-05T12:45:11Z",
+    "url": "https://github.com/zxkane/autonomous-dev-team"
+  },
+  {
     "description": "Claude Code plugin marketplace: opinionated workflows for code (dev-workflow \u2014 Rails & Python, TDD + pre-commit gate) an",
     "id": "amiran-levanovich/claude_setup",
     "language": "Shell",
@@ -50,7 +140,7 @@
     "language": "Python",
     "name": "m-morino/saikai",
     "stars": 0,
-    "updated_at": "2026-07-05T12:44:55Z",
+    "updated_at": "2026-07-05T12:45:22Z",
     "url": "https://github.com/m-morino/saikai"
   },
   {
@@ -279,15 +369,6 @@
     "url": "https://github.com/ccjjfdyqlhy/dekacode"
   },
   {
-    "description": "Meet PixelLab Pip: a tiny pup who fetches the right PixelLab workflow. He follows human commands to create, edit, and an",
-    "id": "Shilo/pixellab-pip",
-    "language": "Python",
-    "name": "Shilo/pixellab-pip",
-    "stars": 3,
-    "updated_at": "2026-07-05T12:41:46Z",
-    "url": "https://github.com/Shilo/pixellab-pip"
-  },
-  {
     "description": "\u672c\u5730 AI \u80fd\u529b\u7ba1\u7406\u5668 \u2014 Claude Code / Codex \u6280\u80fd\u4e00\u5f20\u8868\u7ba1\u5b8c\uff1asymlink \u6302\u8f7d \u00b7 \u6e90\u5f0f\u5957\u88c5 \u00b7 \u5185\u5bb9\u54c8\u5e0c\u66f4\u65b0 | Local AI capability manager for Claude Code & Cod",
     "id": "maojiebc/majia-Popskill",
     "language": "Swift",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-05T12:40:24Z",
     "url": "https://github.com/N4ole/Watcher"
-  },
-  {
-    "description": "Thin orchestration layer for local LLM agents. Durable sessions, profiles, scheduling. Leans on native MCP/tools/skills ",
-    "id": "Podiom/Podiom",
-    "language": "Go",
-    "name": "Podiom/Podiom",
-    "stars": 0,
-    "updated_at": "2026-07-05T12:43:50Z",
-    "url": "https://github.com/Podiom/Podiom"
-  },
-  {
-    "description": "PHP CLI that runs the same code/plan review across multiple LLM command-line tools (Claude Code, OpenCode, Gemini, Codex",
-    "id": "albertoarena/llm-review-panel",
-    "language": "PHP",
-    "name": "albertoarena/llm-review-panel",
-    "stars": 0,
-    "updated_at": "2026-07-05T12:40:09Z",
-    "url": "https://github.com/albertoarena/llm-review-panel"
-  },
-  {
-    "description": "\ud83e\udd16 Enhance analysis with a customizable AI integration tool that unifies multiple AI services through a standard API for ",
-    "id": "quocvinh2812/ai-integration-assistant",
-    "language": "\u2014",
-    "name": "quocvinh2812/ai-integration-assistant",
-    "stars": 3,
-    "updated_at": "2026-07-05T12:39:59Z",
-    "url": "https://github.com/quocvinh2812/ai-integration-assistant"
-  },
-  {
-    "description": "Silo \u2014 a terminal-first, extensible code editor. Run many workspaces at once and switch instantly without losing state.",
-    "id": "silo-code/silo",
-    "language": "TypeScript",
-    "name": "silo-code/silo",
-    "stars": 0,
-    "updated_at": "2026-07-05T12:39:50Z",
-    "url": "https://github.com/silo-code/silo"
-  },
-  {
-    "description": "\ud83d\ude80 Transform your software development with the Cursor & Claude Code Toolkit for AI-driven productivity and effective cod",
-    "id": "Jedreyk/cursor-and-claude-code-developer-toolkit",
-    "language": "HTML",
-    "name": "Jedreyk/cursor-and-claude-code-developer-toolkit",
-    "stars": 0,
-    "updated_at": "2026-07-05T12:39:50Z",
-    "url": "https://github.com/Jedreyk/cursor-and-claude-code-developer-toolkit"
-  },
-  {
-    "description": "Intent-layer enrichment for graphify knowledge graphs: extract the decisions, mechanisms, constraints, and trade-offs be",
-    "id": "willneill/graphify-intent",
-    "language": "Python",
-    "name": "willneill/graphify-intent",
-    "stars": 0,
-    "updated_at": "2026-07-05T12:39:43Z",
-    "url": "https://github.com/willneill/graphify-intent"
-  },
-  {
-    "description": "MCP server for App Store Connect \u2014 manage metadata, analytics, reviews, IAP, and subscriptions directly from Claude Code",
-    "id": "rshankras/asc-metadata-mcp",
-    "language": "Swift",
-    "name": "rshankras/asc-metadata-mcp",
-    "stars": 3,
-    "updated_at": "2026-07-05T12:39:37Z",
-    "url": "https://github.com/rshankras/asc-metadata-mcp"
-  },
-  {
-    "description": "A calm, unobtrusive macOS statusline addon for Claude Code \u2014 live CPU, memory, battery, disk, network & AI-session info,",
-    "id": "ictechgy/understatus",
-    "language": "Rust",
-    "name": "ictechgy/understatus",
-    "stars": 0,
-    "updated_at": "2026-07-05T12:39:36Z",
-    "url": "https://github.com/ictechgy/understatus"
-  },
-  {
-    "description": "On-demand tmux popup for jumping to panes running OpenCode, Claude Code, or Codex CLI",
-    "id": "geril07/tmux-agents-overview",
-    "language": "Shell",
-    "name": "geril07/tmux-agents-overview",
-    "stars": 0,
-    "updated_at": "2026-07-05T12:39:28Z",
-    "url": "https://github.com/geril07/tmux-agents-overview"
   }
 ]

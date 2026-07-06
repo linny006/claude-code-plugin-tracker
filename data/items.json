@@ -1,5 +1,77 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-06T17:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Shared memory for your team's coding agents",
+    "id": "Fergana-Labs/stash",
+    "language": "Python",
+    "name": "Fergana-Labs/stash",
+    "stars": 162,
+    "updated_at": "2026-07-06T17:15:05Z",
+    "url": "https://github.com/Fergana-Labs/stash"
+  },
+  {
+    "description": "A lightweight scaffold for safer, more structured agentic coding \u2014 helping developers give coding agents the right proje",
+    "id": "JRS1986/CodingScaffold",
+    "language": "Python",
+    "name": "JRS1986/CodingScaffold",
+    "stars": 8,
+    "updated_at": "2026-07-06T17:14:52Z",
+    "url": "https://github.com/JRS1986/CodingScaffold"
+  },
+  {
+    "description": "Personal Workout Coach with Hevy and Google Fit Integration.",
+    "id": "joaoferrete/lifter",
+    "language": "Python",
+    "name": "joaoferrete/lifter",
+    "stars": 3,
+    "updated_at": "2026-07-06T17:14:37Z",
+    "url": "https://github.com/joaoferrete/lifter"
+  },
+  {
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
+    "id": "stablyai/orca",
+    "language": "TypeScript",
+    "name": "stablyai/orca",
+    "stars": 12775,
+    "updated_at": "2026-07-06T17:14:33Z",
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "description": "Stop donating $200/mo to AI companies. Wakie pre-warms your Claude 5-hour window while you sleep + tracks every token 10",
+    "id": "JinLeeGG/Wakie",
+    "language": "Dart",
+    "name": "JinLeeGG/Wakie",
+    "stars": 2,
+    "updated_at": "2026-07-06T17:14:26Z",
+    "url": "https://github.com/JinLeeGG/Wakie"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 2,
+    "updated_at": "2026-07-06T17:14:22Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Avoimen l\u00e4hdekoodin Claude-skillit ja -plugarit suomalaiseen juridiseen ty\u00f6h\u00f6n \u2014 Finnish legal skills & plugins for Clau",
+    "id": "akunikkola/claude-for-legal-finland",
+    "language": "JavaScript",
+    "name": "akunikkola/claude-for-legal-finland",
+    "stars": 80,
+    "updated_at": "2026-07-06T17:14:16Z",
+    "url": "https://github.com/akunikkola/claude-for-legal-finland"
+  },
+  {
     "description": "all human experts into AI agents",
     "id": "wonsukchoi/domain-experts",
     "language": "Python",
@@ -7,6 +79,15 @@
     "stars": 4,
     "updated_at": "2026-07-06T17:14:04Z",
     "url": "https://github.com/wonsukchoi/domain-experts"
+  },
+  {
+    "description": "My AI Agents Home",
+    "id": "shekohex/dotai",
+    "language": "TypeScript",
+    "name": "shekohex/dotai",
+    "stars": 9,
+    "updated_at": "2026-07-06T17:13:59Z",
+    "url": "https://github.com/shekohex/dotai"
   },
   {
     "description": "Human-gated multi-agent orchestration for Claude Code \u2014 planner/dev/qa ping-pong with approval gates",
@@ -27,9 +108,18 @@
     "url": "https://github.com/dannylee1020/kkt"
   },
   {
+    "description": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+    "id": "superset-sh/superset",
+    "language": "TypeScript",
+    "name": "superset-sh/superset",
+    "stars": 12283,
+    "updated_at": "2026-07-06T17:13:51Z",
+    "url": "https://github.com/superset-sh/superset"
+  },
+  {
     "description": "A drop-in security-operations agent team for Claude Code \u2014 a CISO orchestrator plus red/blue/purple specialists with a r",
     "id": "AgentJDrew/secops-agent-floor",
-    "language": "\u2014",
+    "language": "JavaScript",
     "name": "AgentJDrew/secops-agent-floor",
     "stars": 0,
     "updated_at": "2026-07-06T17:13:48Z",
@@ -41,7 +131,7 @@
     "language": "Python",
     "name": "sipyourdrink-ltd/bernstein",
     "stars": 639,
-    "updated_at": "2026-07-06T17:14:12Z",
+    "updated_at": "2026-07-06T17:14:19Z",
     "url": "https://github.com/sipyourdrink-ltd/bernstein"
   },
   {
@@ -189,21 +279,12 @@
     "url": "https://github.com/myowinthein/claude-compass"
   },
   {
-    "description": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
-    "id": "superset-sh/superset",
-    "language": "TypeScript",
-    "name": "superset-sh/superset",
-    "stars": 12283,
-    "updated_at": "2026-07-06T17:13:51Z",
-    "url": "https://github.com/superset-sh/superset"
-  },
-  {
     "description": "Multi-instance Claude Code manager with a bundled web UI for orchestrating multiple Claude Code agents from one place.",
     "id": "hmmroger/crow-central-agency",
     "language": "TypeScript",
     "name": "hmmroger/crow-central-agency",
     "stars": 3,
-    "updated_at": "2026-07-06T17:13:40Z",
+    "updated_at": "2026-07-06T17:14:37Z",
     "url": "https://github.com/hmmroger/crow-central-agency"
   },
   {
@@ -277,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-07-06T17:11:31Z",
     "url": "https://github.com/zedarvates/botte-secrete"
-  },
-  {
-    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
-    "id": "stablyai/orca",
-    "language": "TypeScript",
-    "name": "stablyai/orca",
-    "stars": 12775,
-    "updated_at": "2026-07-06T17:11:30Z",
-    "url": "https://github.com/stablyai/orca"
   },
   {
     "description": "Trace capture for Claude Code sessions with token usage and cost tracking",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-06T17:10:31Z",
     "url": "https://github.com/yadam119988/method-mosaic"
-  },
-  {
-    "description": "Deterministic pre-commit guardrails for AI-generated code: rules that carry their why, block violating commits, and trav",
-    "id": "DataDave-Dev/becwright",
-    "language": "Python",
-    "name": "DataDave-Dev/becwright",
-    "stars": 3,
-    "updated_at": "2026-07-06T17:10:28Z",
-    "url": "https://github.com/DataDave-Dev/becwright"
-  },
-  {
-    "description": "Burp Suite extension + port-based highlighter: dedupes HTTP history into a live unique-request feed and color-codes atta",
-    "id": "dhakal-bibek/yentra",
-    "language": "Java",
-    "name": "dhakal-bibek/yentra",
-    "stars": 18,
-    "updated_at": "2026-07-06T17:10:24Z",
-    "url": "https://github.com/dhakal-bibek/yentra"
-  },
-  {
-    "description": "\ud83d\udcca Browse your AI coding spend in the terminal \u2014 OpenCode, Claude Code, Codex & more",
-    "id": "hamidi-dev/opentab",
-    "language": "Python",
-    "name": "hamidi-dev/opentab",
-    "stars": 20,
-    "updated_at": "2026-07-06T17:10:07Z",
-    "url": "https://github.com/hamidi-dev/opentab"
-  },
-  {
-    "description": "Avoimen l\u00e4hdekoodin Claude-skillit ja -plugarit suomalaiseen juridiseen ty\u00f6h\u00f6n \u2014 Finnish legal skills & plugins for Clau",
-    "id": "akunikkola/claude-for-legal-finland",
-    "language": "JavaScript",
-    "name": "akunikkola/claude-for-legal-finland",
-    "stars": 80,
-    "updated_at": "2026-07-06T17:14:16Z",
-    "url": "https://github.com/akunikkola/claude-for-legal-finland"
-  },
-  {
-    "description": "AIDOCS \u2014 AI Doctrine Orchestrator, Control & Security.",
-    "id": "cristian1991/AIDOCS",
-    "language": "Python",
-    "name": "cristian1991/AIDOCS",
-    "stars": 5,
-    "updated_at": "2026-07-06T17:09:49Z",
-    "url": "https://github.com/cristian1991/AIDOCS"
-  },
-  {
-    "description": "Docker infrastructure for running Claude Code persistently on 24/7 servers \u2014 homelab, Unraid, NAS, Proxmox, VPS",
-    "id": "LeonardoMacedoCano/claude-code-dock",
-    "language": "Shell",
-    "name": "LeonardoMacedoCano/claude-code-dock",
-    "stars": 0,
-    "updated_at": "2026-07-06T17:09:33Z",
-    "url": "https://github.com/LeonardoMacedoCano/claude-code-dock"
-  },
-  {
-    "description": "100% local multi-agent AI session browser \u2014 view, search, and manage sessions from OpenCode, Copilot, Cursor, Pi, Claude",
-    "id": "stevencrawford/omnivue",
-    "language": "TypeScript",
-    "name": "stevencrawford/omnivue",
-    "stars": 3,
-    "updated_at": "2026-07-06T17:10:38Z",
-    "url": "https://github.com/stevencrawford/omnivue"
-  },
-  {
-    "description": "Caveau Guard \u2014 local, reversible PII anonymisation guard for Claude Cowork / Claude Code. Self-contained, offline, no ac",
-    "id": "vdk888/bubble-shield-public",
-    "language": "Python",
-    "name": "vdk888/bubble-shield-public",
-    "stars": 0,
-    "updated_at": "2026-07-06T17:09:30Z",
-    "url": "https://github.com/vdk888/bubble-shield-public"
   }
 ]

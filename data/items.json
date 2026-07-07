@@ -1,12 +1,21 @@
 [
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-07T05:30:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "description": "AI Coding Assistant Migration Kit 2026 \u2013 Seamless Multi-Platform Workflows",
+    "id": "chaitanya-aws/mjlab-ai-migration-toolkit",
+    "language": "HTML",
+    "name": "chaitanya-aws/mjlab-ai-migration-toolkit",
+    "stars": 1,
+    "updated_at": "2026-07-07T05:30:53Z",
+    "url": "https://github.com/chaitanya-aws/mjlab-ai-migration-toolkit"
+  },
+  {
+    "description": "Apply a ccstatusline-editor config to ~/.config/ccstatusline/settings.json, with an automatic backup of the old file.   ",
+    "id": "refinist/ccstatusline-apply",
+    "language": "TypeScript",
+    "name": "refinist/ccstatusline-apply",
+    "stars": 2,
+    "updated_at": "2026-07-07T05:30:50Z",
+    "url": "https://github.com/refinist/ccstatusline-apply"
   },
   {
     "description": "Deterministic test-policy enforcement and AI-proof containment for source repo quality gates. Hash-pins engineer-owned t",
@@ -14,8 +23,80 @@
     "language": "Shell",
     "name": "jeremylongshore/intent-audit-harness",
     "stars": 1,
-    "updated_at": "2026-07-07T05:30:05Z",
+    "updated_at": "2026-07-07T05:30:47Z",
     "url": "https://github.com/jeremylongshore/intent-audit-harness"
+  },
+  {
+    "description": "Reusable Claude Code dev harness plugin \u2014 agents, commands, skills, hooks, opt-in stack modules",
+    "id": "hmj1026/dhpk",
+    "language": "Shell",
+    "name": "hmj1026/dhpk",
+    "stars": 1,
+    "updated_at": "2026-07-07T05:30:34Z",
+    "url": "https://github.com/hmj1026/dhpk"
+  },
+  {
+    "description": "Claude Code PR workflow guard that stops skipped tests, skipped reviews, and file-boundary violations before PRs.",
+    "id": "Daeguk-Sun/dcNess",
+    "language": "Python",
+    "name": "Daeguk-Sun/dcNess",
+    "stars": 0,
+    "updated_at": "2026-07-07T05:30:40Z",
+    "url": "https://github.com/Daeguk-Sun/dcNess"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 10,
+    "updated_at": "2026-07-07T05:30:27Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Atelier ouvert d'une publication fictive sur l'internet agentique. Prompts, scripts, donn\u00e9es et statistiques d'audience ",
+    "id": "jeb-maker/lagent-quotidien",
+    "language": "HTML",
+    "name": "jeb-maker/lagent-quotidien",
+    "stars": 0,
+    "updated_at": "2026-07-07T05:30:26Z",
+    "url": "https://github.com/jeb-maker/lagent-quotidien"
+  },
+  {
+    "description": "Modernizing Legacy Code with Claude Real-World Guide 2026",
+    "id": "adianiz/claude-code-legacy-migration",
+    "language": "HTML",
+    "name": "adianiz/claude-code-legacy-migration",
+    "stars": 0,
+    "updated_at": "2026-07-07T05:30:19Z",
+    "url": "https://github.com/adianiz/claude-code-legacy-migration"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aaronjmars/aeon",
+    "language": "TypeScript",
+    "name": "aaronjmars/aeon",
+    "stars": 570,
+    "updated_at": "2026-07-07T05:30:17Z",
+    "url": "https://github.com/aaronjmars/aeon"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 2,
+    "updated_at": "2026-07-07T05:30:17Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-07T05:30:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "\u03a6 phi \u2014 a terminal multiplexer and browser-based control center for AI coding assistants (OpenCode, Claude Code, Antigra",
@@ -32,7 +113,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 15,
-    "updated_at": "2026-07-07T05:29:48Z",
+    "updated_at": "2026-07-07T05:30:40Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -151,15 +232,6 @@
     "stars": 7,
     "updated_at": "2026-07-07T05:29:05Z",
     "url": "https://github.com/tellang/triflux"
-  },
-  {
-    "description": "Apply a ccstatusline-editor config to ~/.config/ccstatusline/settings.json, with an automatic backup of the old file.   ",
-    "id": "refinist/ccstatusline-apply",
-    "language": "TypeScript",
-    "name": "refinist/ccstatusline-apply",
-    "stars": 2,
-    "updated_at": "2026-07-07T05:28:57Z",
-    "url": "https://github.com/refinist/ccstatusline-apply"
   },
   {
     "description": "ServiceNow Coding Standards for Humans and AI Agents.",
@@ -376,77 +448,5 @@
     "stars": 16762,
     "updated_at": "2026-07-07T05:25:54Z",
     "url": "https://github.com/jnMetaCode/agency-agents-zh"
-  },
-  {
-    "description": "DrissionPage MCP Server \u00b7 Browser automation for Claude Code, Codex, and MCP clients",
-    "id": "jumodada/Drissionpage-MCP-Server",
-    "language": "Python",
-    "name": "jumodada/Drissionpage-MCP-Server",
-    "stars": 170,
-    "updated_at": "2026-07-07T05:25:48Z",
-    "url": "https://github.com/jumodada/Drissionpage-MCP-Server"
-  },
-  {
-    "description": "\ud83d\udcca Explore high-quality Claude skills focused on business analysis and content creation, enhancing your AI capabilities f",
-    "id": "Mann1988/awesome-claude-skills",
-    "language": "Python",
-    "name": "Mann1988/awesome-claude-skills",
-    "stars": 64,
-    "updated_at": "2026-07-07T05:25:44Z",
-    "url": "https://github.com/Mann1988/awesome-claude-skills"
-  },
-  {
-    "description": "Agent skills and MCP server for Tough Tongue AI. Create voice-agent scenarios, refine them from real transcripts, and an",
-    "id": "tough-tongue/toughtongue-skills",
-    "language": "\u2014",
-    "name": "tough-tongue/toughtongue-skills",
-    "stars": 1,
-    "updated_at": "2026-07-07T05:25:16Z",
-    "url": "https://github.com/tough-tongue/toughtongue-skills"
-  },
-  {
-    "description": "Agent skills for improve AI prototype driven development",
-    "id": "YasuakiOmokawa/skills",
-    "language": "Shell",
-    "name": "YasuakiOmokawa/skills",
-    "stars": 1,
-    "updated_at": "2026-07-07T05:25:19Z",
-    "url": "https://github.com/YasuakiOmokawa/skills"
-  },
-  {
-    "description": "Git-based memory and handoff system for people who run AI agents every day. Markdown + Git, no server.",
-    "id": "nigeleatworld/operator-context-kit",
-    "language": "Shell",
-    "name": "nigeleatworld/operator-context-kit",
-    "stars": 0,
-    "updated_at": "2026-07-07T05:29:59Z",
-    "url": "https://github.com/nigeleatworld/operator-context-kit"
-  },
-  {
-    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
-    "id": "stablyai/orca",
-    "language": "TypeScript",
-    "name": "stablyai/orca",
-    "stars": 12974,
-    "updated_at": "2026-07-07T05:25:00Z",
-    "url": "https://github.com/stablyai/orca"
-  },
-  {
-    "description": "Native codexbar alternative for Windows",
-    "id": "zuoxinyu/quotify",
-    "language": "Rust",
-    "name": "zuoxinyu/quotify",
-    "stars": 0,
-    "updated_at": "2026-07-07T05:24:52Z",
-    "url": "https://github.com/zuoxinyu/quotify"
-  },
-  {
-    "description": "Backend intelligence and MCP tooling for Gittensor contributors and maintainers.",
-    "id": "JSONbored/gittensory",
-    "language": "TypeScript",
-    "name": "JSONbored/gittensory",
-    "stars": 16,
-    "updated_at": "2026-07-07T05:24:51Z",
-    "url": "https://github.com/JSONbored/gittensory"
   }
 ]

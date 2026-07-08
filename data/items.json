@@ -1,11 +1,56 @@
 [
   {
+    "description": "Self-hosted mission control for CLI coding agents \u2014 one searchable timeline for Claude Code, Codex & more, across your m",
+    "id": "cipher982/longhouse",
+    "language": "Python",
+    "name": "cipher982/longhouse",
+    "stars": 4,
+    "updated_at": "2026-07-08T05:30:21Z",
+    "url": "https://github.com/cipher982/longhouse"
+  },
+  {
+    "description": "Extend Claude functionality with this collection of custom skills for direct installation via the Claude settings menu.",
+    "id": "roniesthetic654/my-claude-skills",
+    "language": "\u2014",
+    "name": "roniesthetic654/my-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-07-08T05:30:21Z",
+    "url": "https://github.com/roniesthetic654/my-claude-skills"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 2,
+    "updated_at": "2026-07-08T05:30:17Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Generate marketing videos with Remotion templates controlled by Claude Code using a single configuration file for scenes",
+    "id": "elrufaiforexfx22-creator/claudecode-video-maker",
+    "language": "TypeScript",
+    "name": "elrufaiforexfx22-creator/claudecode-video-maker",
+    "stars": 1,
+    "updated_at": "2026-07-08T05:30:16Z",
+    "url": "https://github.com/elrufaiforexfx22-creator/claudecode-video-maker"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 9,
+    "updated_at": "2026-07-08T05:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Local-first memory for AI-assisted coding. Git shows what changed. Backstory shows why.",
     "id": "arpitkath/backstory",
     "language": "Python",
     "name": "arpitkath/backstory",
     "stars": 2,
-    "updated_at": "2026-07-08T05:30:13Z",
+    "updated_at": "2026-07-08T05:30:26Z",
     "url": "https://github.com/arpitkath/backstory"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-08T05:29:01Z",
     "url": "https://github.com/Zorineostensive1863/Video-Studio-Eylon"
-  },
-  {
-    "description": "Automate security research workflows with structured tool-driven assessments for Claude via MCP.",
-    "id": "davzpogi01/claude-security-research-skill",
-    "language": "\u2014",
-    "name": "davzpogi01/claude-security-research-skill",
-    "stars": 0,
-    "updated_at": "2026-07-08T05:28:58Z",
-    "url": "https://github.com/davzpogi01/claude-security-research-skill"
-  },
-  {
-    "description": "Simulate the analytical mindset of Shi Yigong to interpret research, education, and career challenges through his docume",
-    "id": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "language": "\u2014",
-    "name": "magneticlineofforceplaymaker9843/shi-yigong-skill",
-    "stars": 0,
-    "updated_at": "2026-07-08T05:28:57Z",
-    "url": "https://github.com/magneticlineofforceplaymaker9843/shi-yigong-skill"
-  },
-  {
-    "description": "Monitor AI coding agents in real-time to block unauthorized file access, network connections, and dangerous commands whi",
-    "id": "Lavenderustilagomaydis9432/forgeterm",
-    "language": "Rust",
-    "name": "Lavenderustilagomaydis9432/forgeterm",
-    "stars": 2,
-    "updated_at": "2026-07-08T05:28:52Z",
-    "url": "https://github.com/Lavenderustilagomaydis9432/forgeterm"
-  },
-  {
-    "description": "Automate ChatGPT OAuth registration and login workflows with this Chrome extension supporting multi-step execution and i",
-    "id": "Sprucepinebonefish6364/codex-oauth-automation-extension",
-    "language": "\u2014",
-    "name": "Sprucepinebonefish6364/codex-oauth-automation-extension",
-    "stars": 2,
-    "updated_at": "2026-07-08T05:28:51Z",
-    "url": "https://github.com/Sprucepinebonefish6364/codex-oauth-automation-extension"
-  },
-  {
-    "description": "Enterprise AI Bootstrapping Harness",
-    "id": "samartomar/ai-harness",
-    "language": "TypeScript",
-    "name": "samartomar/ai-harness",
-    "stars": 2,
-    "updated_at": "2026-07-08T05:28:48Z",
-    "url": "https://github.com/samartomar/ai-harness"
   }
 ]

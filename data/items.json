@@ -1,5 +1,86 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 10,
+    "updated_at": "2026-07-10T15:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Local orchestration for Claude Code \u2014 session recovery, scheduling, worktrees, Token Saver, and dashboards via official ",
+    "id": "neural-llm-io/power-claude",
+    "language": "\u2014",
+    "name": "neural-llm-io/power-claude",
+    "stars": 4,
+    "updated_at": "2026-07-10T15:45:07Z",
+    "url": "https://github.com/neural-llm-io/power-claude"
+  },
+  {
+    "description": "Agent skill for Claude: build instrument-grade landing pages that read like the product, not like marketing. Single-acce",
+    "id": "succtorlin/fantastic-ui",
+    "language": "\u2014",
+    "name": "succtorlin/fantastic-ui",
+    "stars": 0,
+    "updated_at": "2026-07-10T15:44:45Z",
+    "url": "https://github.com/succtorlin/fantastic-ui"
+  },
+  {
+    "description": "Indexed code navigation for AI coding agents (Claude Code, Cursor, any MCP client) \u2014 replaces grep scans with GNU Global",
+    "id": "harshithsunku/mcp-gtags-server",
+    "language": "Python",
+    "name": "harshithsunku/mcp-gtags-server",
+    "stars": 0,
+    "updated_at": "2026-07-10T15:44:46Z",
+    "url": "https://github.com/harshithsunku/mcp-gtags-server"
+  },
+  {
+    "description": "Practical Claude Code skills \u2014 English-for-engineers coaching, Pi Agent setup, and more. Install via npx skills add.",
+    "id": "wquguru/skills",
+    "language": "HTML",
+    "name": "wquguru/skills",
+    "stars": 76,
+    "updated_at": "2026-07-10T15:44:39Z",
+    "url": "https://github.com/wquguru/skills"
+  },
+  {
+    "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitaski",
+    "id": "manaflow-ai/cmux",
+    "language": "Swift",
+    "name": "manaflow-ai/cmux",
+    "stars": 24127,
+    "updated_at": "2026-07-10T15:44:35Z",
+    "url": "https://github.com/manaflow-ai/cmux"
+  },
+  {
+    "description": "Use an Anthropic Claude Pro/Max subscription on OpenCode via Sleev",
+    "id": "lars-hagen/opencode-sleev-anthropic-shim",
+    "language": "TypeScript",
+    "name": "lars-hagen/opencode-sleev-anthropic-shim",
+    "stars": 0,
+    "updated_at": "2026-07-10T15:44:33Z",
+    "url": "https://github.com/lars-hagen/opencode-sleev-anthropic-shim"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 2,
+    "updated_at": "2026-07-10T15:44:16Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video \u2014 automated end to end on Atlas Cloud + ffmpeg",
+    "id": "Alisa0808/vox-director",
+    "language": "Python",
+    "name": "Alisa0808/vox-director",
+    "stars": 0,
+    "updated_at": "2026-07-10T15:44:16Z",
+    "url": "https://github.com/Alisa0808/vox-director"
+  },
+  {
     "description": "Long-horizon project tracking for agents and their humans.",
     "id": "kkurian/slate",
     "language": "Python",
@@ -36,6 +117,15 @@
     "url": "https://github.com/JNTMTMTM/eIsland"
   },
   {
+    "description": "muxel is a GPUI-native multiplexer for coding agents",
+    "id": "ProjectHax/muxel",
+    "language": "Rust",
+    "name": "ProjectHax/muxel",
+    "stars": 1,
+    "updated_at": "2026-07-10T15:43:20Z",
+    "url": "https://github.com/ProjectHax/muxel"
+  },
+  {
     "description": "Meerkat - A modular, high-performance agent harness built in Rust.",
     "id": "lukacf/meerkat",
     "language": "TLA",
@@ -59,17 +149,35 @@
     "language": "JavaScript",
     "name": "imMamdouhaboammar/agent-kernel",
     "stars": 1,
-    "updated_at": "2026-07-10T15:43:14Z",
+    "updated_at": "2026-07-10T15:45:14Z",
     "url": "https://github.com/imMamdouhaboammar/agent-kernel"
   },
   {
-    "description": "Use an Anthropic Claude Pro/Max subscription on OpenCode via Sleev",
-    "id": "lars-hagen/opencode-sleev-anthropic-shim",
-    "language": "TypeScript",
-    "name": "lars-hagen/opencode-sleev-anthropic-shim",
+    "description": "Agent skill for writing in Anlin's voice \u2014 \u77e5\u4e4e\u6446\u70c2\u5199\u624b\u98ce\u683c\u6a21\u4eff\u3002Reverse-engineered from 38 original articles through systematic co",
+    "id": "github-yjc/anlin-skill",
+    "language": "Python",
+    "name": "github-yjc/anlin-skill",
     "stars": 0,
-    "updated_at": "2026-07-10T15:42:53Z",
-    "url": "https://github.com/lars-hagen/opencode-sleev-anthropic-shim"
+    "updated_at": "2026-07-10T15:43:11Z",
+    "url": "https://github.com/github-yjc/anlin-skill"
+  },
+  {
+    "description": "Agentic plugins. Tools that make AI Agents plan better, talk less, build leaner, and stop guessing. Made with <3",
+    "id": "V-Songbird/foundry",
+    "language": "JavaScript",
+    "name": "V-Songbird/foundry",
+    "stars": 0,
+    "updated_at": "2026-07-10T15:43:04Z",
+    "url": "https://github.com/V-Songbird/foundry"
+  },
+  {
+    "description": "Best 31 MCP Tools for nRev Workflow 2026 - Build & Debug",
+    "id": "YMGlink/nrev-workbench-mcp",
+    "language": "HTML",
+    "name": "YMGlink/nrev-workbench-mcp",
+    "stars": 0,
+    "updated_at": "2026-07-10T15:42:47Z",
+    "url": "https://github.com/YMGlink/nrev-workbench-mcp"
   },
   {
     "description": "\uac1c\uc778 Claude Code \ud398\ub974\uc18c\ub098 \ud50c\ub7ec\uadf8\uc778 \u2014 Claude Code\uc5d0 '\ub098\ub9cc\uc758 AI \uac1c\ubc1c \ud30c\ud2b8\ub108 \uc131\uaca9'(\ud56d\uc0c1\ucf1c\uc9d0 hook + \uc870\uac74\ubd80 skills)\uc744 \uc785\ud78c\ub2e4. \uc0c8 PC \ud55c \ubc88\uc5d0 \uc774\uc2dd, \ubcf8\uc778 \uc804\uc6a9.",
@@ -88,6 +196,15 @@
     "stars": 4742,
     "updated_at": "2026-07-10T15:42:34Z",
     "url": "https://github.com/github/gh-aw"
+  },
+  {
+    "description": "\u2699\ufe0f Explore a curated collection of plugins for Claude Code, enhancing your workflow with commands, subagents, servers, a",
+    "id": "xbim08/awesome-claude-code-plugins",
+    "language": "Python",
+    "name": "xbim08/awesome-claude-code-plugins",
+    "stars": 10,
+    "updated_at": "2026-07-10T15:42:32Z",
+    "url": "https://github.com/xbim08/awesome-claude-code-plugins"
   },
   {
     "description": "Battle-tested Claude Code Skills: session handoff, CLAUDE.md generator, pre-registration decision audit",
@@ -203,7 +320,7 @@
     "language": "Python",
     "name": "Vinix24/vnx-orchestration",
     "stars": 45,
-    "updated_at": "2026-07-10T15:41:30Z",
+    "updated_at": "2026-07-10T15:44:35Z",
     "url": "https://github.com/Vinix24/vnx-orchestration"
   },
   {
@@ -324,15 +441,6 @@
     "url": "https://github.com/closedloop-ai/claude-plugins"
   },
   {
-    "description": "Indexed code navigation for AI coding agents (Claude Code, Cursor, any MCP client) \u2014 replaces grep scans with GNU Global",
-    "id": "harshithsunku/mcp-gtags-server",
-    "language": "Python",
-    "name": "harshithsunku/mcp-gtags-server",
-    "stars": 0,
-    "updated_at": "2026-07-10T15:39:54Z",
-    "url": "https://github.com/harshithsunku/mcp-gtags-server"
-  },
-  {
     "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library",
     "id": "headroomlabs-ai/headroom",
     "language": "Python",
@@ -340,113 +448,5 @@
     "stars": 58331,
     "updated_at": "2026-07-10T15:39:50Z",
     "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "\ud83d\udee0 Enhance your development workflow with curated Codex CLI settings and custom prompts for various model providers and r",
-    "id": "eduardogrs/codex-settings",
-    "language": "Shell",
-    "name": "eduardogrs/codex-settings",
-    "stars": 6,
-    "updated_at": "2026-07-10T15:39:48Z",
-    "url": "https://github.com/eduardogrs/codex-settings"
-  },
-  {
-    "description": "slopstop is a system for using Claude Code with a ticketing system to have better context with fewer tokens in the conte",
-    "id": "iansmith/slopstop",
-    "language": "Python",
-    "name": "iansmith/slopstop",
-    "stars": 0,
-    "updated_at": "2026-07-10T15:39:46Z",
-    "url": "https://github.com/iansmith/slopstop"
-  },
-  {
-    "description": "\ud83d\udd76\ufe0f Secrets your AI agent can USE but never SEE \u2014 Claude Code skill + zero-dependency macOS Keychain CLI. Env injection, ",
-    "id": "AnYejun/blind-vault",
-    "language": "Python",
-    "name": "AnYejun/blind-vault",
-    "stars": 0,
-    "updated_at": "2026-07-10T15:39:43Z",
-    "url": "https://github.com/AnYejun/blind-vault"
-  },
-  {
-    "description": "claude-workflows-viz is a Node CLI that converts a Claude Code workflow .js file into a diagram with execution steps and",
-    "id": "oliver-im/claude-workflows-viz",
-    "language": "TypeScript",
-    "name": "oliver-im/claude-workflows-viz",
-    "stars": 1,
-    "updated_at": "2026-07-10T15:39:38Z",
-    "url": "https://github.com/oliver-im/claude-workflows-viz"
-  },
-  {
-    "description": "Self-hosted agentic OS \u2014 connects Claude Code, Codex or Hermes Agent to Discord, Telegram, WhatsApp, Slack & Email. EU A",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 9,
-    "updated_at": "2026-07-10T15:39:32Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
-  },
-  {
-    "description": "Demonstration of AI review of existing functional annotations",
-    "id": "ai4curation/ai-gene-review",
-    "language": "HTML",
-    "name": "ai4curation/ai-gene-review",
-    "stars": 24,
-    "updated_at": "2026-07-10T15:39:27Z",
-    "url": "https://github.com/ai4curation/ai-gene-review"
-  },
-  {
-    "description": "AILmanac \u2014 the always-current, community almanac for getting the most out of Claude and every AI. For all levels.",
-    "id": "derob98/ailmanac",
-    "language": "MDX",
-    "name": "derob98/ailmanac",
-    "stars": 7,
-    "updated_at": "2026-07-10T15:39:20Z",
-    "url": "https://github.com/derob98/ailmanac"
-  },
-  {
-    "description": "Local-first agent IDE for steering Codex, Claude Code, OpenCode, and local models with visible review.",
-    "id": "pierreprudh/KLIDE",
-    "language": "TypeScript",
-    "name": "pierreprudh/KLIDE",
-    "stars": 0,
-    "updated_at": "2026-07-10T15:39:20Z",
-    "url": "https://github.com/pierreprudh/KLIDE"
-  },
-  {
-    "description": "\ud83c\udf0a Lagune is your security copilot as you build, your Blue Team when you audit, whether you're a developer or not.",
-    "id": "wellwelwel/lagune",
-    "language": "TypeScript",
-    "name": "wellwelwel/lagune",
-    "stars": 70,
-    "updated_at": "2026-07-10T15:44:03Z",
-    "url": "https://github.com/wellwelwel/lagune"
-  },
-  {
-    "description": "Multi-agent code review for Claude Code: Claude + Codex + Grok review independently, then critique each other and reach ",
-    "id": "JonasR-Git/agent-council-cc",
-    "language": "JavaScript",
-    "name": "JonasR-Git/agent-council-cc",
-    "stars": 0,
-    "updated_at": "2026-07-10T15:39:10Z",
-    "url": "https://github.com/JonasR-Git/agent-council-cc"
-  },
-  {
-    "description": "Collaboration infrastructure for AI coding agents | AI \u7f16\u7a0b\u4ee3\u7406\u7684\u534f\u4f5c\u57fa\u7840\u8bbe\u65bd",
-    "id": "fitlab-ai/agent-infra",
-    "language": "TypeScript",
-    "name": "fitlab-ai/agent-infra",
-    "stars": 81,
-    "updated_at": "2026-07-10T15:39:06Z",
-    "url": "https://github.com/fitlab-ai/agent-infra"
-  },
-  {
-    "description": "Absence-first ops for Claude Code \u2014 a one-person company that keeps running while the CEO is away. Task files are employ",
-    "id": "dennykim123/afk-company",
-    "language": "Python",
-    "name": "dennykim123/afk-company",
-    "stars": 0,
-    "updated_at": "2026-07-10T15:39:02Z",
-    "url": "https://github.com/dennykim123/afk-company"
   }
 ]

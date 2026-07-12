@@ -1,5 +1,77 @@
 [
   {
+    "description": "AI coding agent that edits symbols, not strings. AST surgery, full LSP, and a live code graph wired to memory that resur",
+    "id": "proxysoul/Empryo-aka-soulforge",
+    "language": "TypeScript",
+    "name": "proxysoul/Empryo-aka-soulforge",
+    "stars": 833,
+    "updated_at": "2026-07-12T15:16:07Z",
+    "url": "https://github.com/proxysoul/Empryo-aka-soulforge"
+  },
+  {
+    "description": "Deploy a Full AI Engineering Team 2026 - Claude 12-Agent System with Automated Quality Hooks",
+    "id": "kingkddew/claude-code-engineering-orchestrator",
+    "language": "HTML",
+    "name": "kingkddew/claude-code-engineering-orchestrator",
+    "stars": 0,
+    "updated_at": "2026-07-12T15:15:43Z",
+    "url": "https://github.com/kingkddew/claude-code-engineering-orchestrator"
+  },
+  {
+    "description": "Local-first command center for agentic engineers \u2014 the CLI + Raycast hub and front door to the Ashlr dev-tool ecosystem.",
+    "id": "ashlrai/ashlr-hub",
+    "language": "TypeScript",
+    "name": "ashlrai/ashlr-hub",
+    "stars": 2,
+    "updated_at": "2026-07-12T15:15:32Z",
+    "url": "https://github.com/ashlrai/ashlr-hub"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 13,
+    "updated_at": "2026-07-12T15:15:28Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "id": "max-sixty/worktrunk",
+    "language": "Rust",
+    "name": "max-sixty/worktrunk",
+    "stars": 5803,
+    "updated_at": "2026-07-12T15:16:11Z",
+    "url": "https://github.com/max-sixty/worktrunk"
+  },
+  {
+    "description": "Run AI coding agents (Claude, Codex, Gemini \u2026) unattended \u2014 auto-answer prompts, auto-retry on rate limits, and list/tai",
+    "id": "snomiao/agent-yes",
+    "language": "TypeScript",
+    "name": "snomiao/agent-yes",
+    "stars": 29,
+    "updated_at": "2026-07-12T15:15:21Z",
+    "url": "https://github.com/snomiao/agent-yes"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 2,
+    "updated_at": "2026-07-12T15:15:17Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Self-hosted, non-commercial: use your own Claude Pro/Max subscription from every device (Android + iOS/desktop web) and ",
+    "id": "CereblixCRB/ClaudeSharePlan",
+    "language": "JavaScript",
+    "name": "CereblixCRB/ClaudeSharePlan",
+    "stars": 0,
+    "updated_at": "2026-07-12T15:15:14Z",
+    "url": "https://github.com/CereblixCRB/ClaudeSharePlan"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -9,13 +81,13 @@
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
-    "description": "AI coding agent that edits symbols, not strings. AST surgery, full LSP, and a live code graph wired to memory that resur",
-    "id": "proxysoul/Empryo-aka-soulforge",
-    "language": "TypeScript",
-    "name": "proxysoul/Empryo-aka-soulforge",
-    "stars": 833,
-    "updated_at": "2026-07-12T15:15:04Z",
-    "url": "https://github.com/proxysoul/Empryo-aka-soulforge"
+    "description": "\ud83d\udce6 Simplify Swift concurrency migration with this skill, offering full access to the Swift Concurrency Migration Guide an",
+    "id": "rolandobenitez/the-unofficial-swift-concurrency-migration-skill",
+    "language": "Python",
+    "name": "rolandobenitez/the-unofficial-swift-concurrency-migration-skill",
+    "stars": 0,
+    "updated_at": "2026-07-12T15:15:07Z",
+    "url": "https://github.com/rolandobenitez/the-unofficial-swift-concurrency-migration-skill"
   },
   {
     "description": "OpenACP 2026 Guide: Self-Hosted AI Agent Bridge for Telegram, Discord & More",
@@ -149,7 +221,7 @@
     "language": "TypeScript",
     "name": "vilosource/vfkb",
     "stars": 0,
-    "updated_at": "2026-07-12T15:13:41Z",
+    "updated_at": "2026-07-12T15:15:47Z",
     "url": "https://github.com/vilosource/vfkb"
   },
   {
@@ -301,7 +373,7 @@
     "id": "mvanhorn/last30days-skill",
     "language": "Python",
     "name": "mvanhorn/last30days-skill",
-    "stars": 51674,
+    "stars": 51675,
     "updated_at": "2026-07-12T15:12:33Z",
     "url": "https://github.com/mvanhorn/last30days-skill"
   },
@@ -322,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-07-12T15:12:22Z",
     "url": "https://github.com/alebgl77/grafana-llmops-forge"
-  },
-  {
-    "description": "Run AI coding agents (Claude, Codex, Gemini \u2026) unattended \u2014 auto-answer prompts, auto-retry on rate limits, and list/tai",
-    "id": "snomiao/agent-yes",
-    "language": "TypeScript",
-    "name": "snomiao/agent-yes",
-    "stars": 29,
-    "updated_at": "2026-07-12T15:12:22Z",
-    "url": "https://github.com/snomiao/agent-yes"
   },
   {
     "description": "Find out where your coding agent starts degrading. Personal context-rot analytics from your own sessions - 100% local, z",
@@ -385,68 +448,5 @@
     "stars": 34,
     "updated_at": "2026-07-12T15:11:52Z",
     "url": "https://github.com/richkuo/rk-skills"
-  },
-  {
-    "description": "Cross-agent Material Symbols skill and MCP server for Codex, Claude, Gemini, Cursor, and Grok",
-    "id": "ByteFlipper-58/material-icons-agent-skill",
-    "language": "Python",
-    "name": "ByteFlipper-58/material-icons-agent-skill",
-    "stars": 0,
-    "updated_at": "2026-07-12T15:11:51Z",
-    "url": "https://github.com/ByteFlipper-58/material-icons-agent-skill"
-  },
-  {
-    "description": "AI-Powered Persistent Project Memory for Devs 2026 \u2013 Nova Alternative",
-    "id": "AhmedRayat/project-echo-memory",
-    "language": "HTML",
-    "name": "AhmedRayat/project-echo-memory",
-    "stars": 1,
-    "updated_at": "2026-07-12T15:11:46Z",
-    "url": "https://github.com/AhmedRayat/project-echo-memory"
-  },
-  {
-    "description": "\uadfc\uac70 \uc6d0\ubb38 \ub9c1\ud06c\uc640 \ubb34\ud6a8\ud654 \uc870\uac74\uc774 \ubd99\uc740 \ud22c\uc790 \ud310\ub2e8\uc744 \ub0b4\ub9ac\ub294 \uac1c\uc778\uc6a9 \uc758\uc0ac\uacb0\uc815 \uc5d0\uc774\uc804\ud2b8 (\uc77d\uae30\uc804\uc6a9 \u00b7 MCP \u00b7 Claude Code)",
-    "id": "Daegyu519/portfolio-agent",
-    "language": "Python",
-    "name": "Daegyu519/portfolio-agent",
-    "stars": 0,
-    "updated_at": "2026-07-12T15:11:46Z",
-    "url": "https://github.com/Daegyu519/portfolio-agent"
-  },
-  {
-    "description": "Agentic-native linting tool to enforce deterministic quality gates",
-    "id": "ironlint/ironlint",
-    "language": "Rust",
-    "name": "ironlint/ironlint",
-    "stars": 13,
-    "updated_at": "2026-07-12T15:11:45Z",
-    "url": "https://github.com/ironlint/ironlint"
-  },
-  {
-    "description": "Self-contained, MIF-native AI research harness template \u2014 a goal-driven multi-agent engine, adversarial falsification ga",
-    "id": "modeled-information-format/research-harness-template",
-    "language": "Shell",
-    "name": "modeled-information-format/research-harness-template",
-    "stars": 1,
-    "updated_at": "2026-07-12T15:11:45Z",
-    "url": "https://github.com/modeled-information-format/research-harness-template"
-  },
-  {
-    "description": "AI Code Review & Visualization Plugin 2026 \u2013 Claude Code by Hulde AI",
-    "id": "srikar08/inspect-ai-vision",
-    "language": "HTML",
-    "name": "srikar08/inspect-ai-vision",
-    "stars": 0,
-    "updated_at": "2026-07-12T15:11:45Z",
-    "url": "https://github.com/srikar08/inspect-ai-vision"
-  },
-  {
-    "description": "Claude Code for every computer",
-    "id": "schmonz/clode",
-    "language": "JavaScript",
-    "name": "schmonz/clode",
-    "stars": 3,
-    "updated_at": "2026-07-12T15:11:40Z",
-    "url": "https://github.com/schmonz/clode"
   }
 ]

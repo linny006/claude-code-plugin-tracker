@@ -1,5 +1,32 @@
 [
   {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 13,
+    "updated_at": "2026-07-14T18:15:34Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "CC Commander \u2014 Master Claude Code instantly. The Fable Method: 12 enforceable gates so any model delivers Fable-shaped r",
+    "id": "KevinZai/commander",
+    "language": "Python",
+    "name": "KevinZai/commander",
+    "stars": 5,
+    "updated_at": "2026-07-14T18:15:31Z",
+    "url": "https://github.com/KevinZai/commander"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 3,
+    "updated_at": "2026-07-14T18:15:18Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -9,12 +36,21 @@
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
+    "description": "Open-source desktop control center for running many Claude Code sessions in one tiling workspace \u2014 across all your machi",
+    "id": "ludekvodicka/jamat",
+    "language": "TypeScript",
+    "name": "ludekvodicka/jamat",
+    "stars": 2,
+    "updated_at": "2026-07-14T18:15:04Z",
+    "url": "https://github.com/ludekvodicka/jamat"
+  },
+  {
     "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
     "id": "anthropics/claude-plugins-official",
     "language": "Python",
     "name": "anthropics/claude-plugins-official",
     "stars": 32131,
-    "updated_at": "2026-07-14T18:15:11Z",
+    "updated_at": "2026-07-14T18:15:59Z",
     "url": "https://github.com/anthropics/claude-plugins-official"
   },
   {
@@ -52,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-07-14T18:13:59Z",
     "url": "https://github.com/NatanPimentel/verboo-goal-plugin"
+  },
+  {
+    "description": "Plugin de skills e agentes para Claude Code \u2014 workflows de engenharia reais, do PRD ao PR",
+    "id": "rodolfochicone/rc-project",
+    "language": "Python",
+    "name": "rodolfochicone/rc-project",
+    "stars": 11,
+    "updated_at": "2026-07-14T18:13:59Z",
+    "url": "https://github.com/rodolfochicone/rc-project"
   },
   {
     "description": "Make Claude Code work with almost any AI provider",
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "MangroveTechnologies/mangrove-agent",
     "stars": 4,
-    "updated_at": "2026-07-14T18:13:31Z",
+    "updated_at": "2026-07-14T18:15:51Z",
     "url": "https://github.com/MangroveTechnologies/mangrove-agent"
   },
   {
@@ -122,7 +167,7 @@
     "language": "Shell",
     "name": "dwarvesf/dwarves-kit",
     "stars": 6,
-    "updated_at": "2026-07-14T18:14:55Z",
+    "updated_at": "2026-07-14T18:15:45Z",
     "url": "https://github.com/dwarvesf/dwarves-kit"
   },
   {
@@ -194,7 +239,7 @@
     "language": "Makefile",
     "name": "Mullassery/PyCostAudit",
     "stars": 0,
-    "updated_at": "2026-07-14T18:12:25Z",
+    "updated_at": "2026-07-14T18:15:21Z",
     "url": "https://github.com/Mullassery/PyCostAudit"
   },
   {
@@ -211,7 +256,7 @@
     "id": "santifer/career-ops",
     "language": "JavaScript",
     "name": "santifer/career-ops",
-    "stars": 60096,
+    "stars": 60095,
     "updated_at": "2026-07-14T18:12:19Z",
     "url": "https://github.com/santifer/career-ops"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-14T18:10:13Z",
     "url": "https://github.com/szdroid/prompt-sanitize-core"
-  },
-  {
-    "description": "\ud83e\uddff MythOS 2026: Claude-Powered AI Narrative Engine & Sub-Agent Framework for Epic Storytelling",
-    "id": "KarmaDevplacer/Mythos-Claude-Orchestrator",
-    "language": "HTML",
-    "name": "KarmaDevplacer/Mythos-Claude-Orchestrator",
-    "stars": 51,
-    "updated_at": "2026-07-14T18:10:12Z",
-    "url": "https://github.com/KarmaDevplacer/Mythos-Claude-Orchestrator"
-  },
-  {
-    "description": "\ud83d\udcc4 PDF Quality Inspector 2026 \u2013 Detect Missing Pages, Rotation, Crops & Resolution Flaws",
-    "id": "Bharathnunni/pdf-quality-inspector",
-    "language": "HTML",
-    "name": "Bharathnunni/pdf-quality-inspector",
-    "stars": 0,
-    "updated_at": "2026-07-14T18:10:11Z",
-    "url": "https://github.com/Bharathnunni/pdf-quality-inspector"
-  },
-  {
-    "description": "A local-first personal operating system template for thinking, planning, creating and evolving with an AI interface.",
-    "id": "infinitegameplayer/sovereign-ecosystem",
-    "language": "JavaScript",
-    "name": "infinitegameplayer/sovereign-ecosystem",
-    "stars": 2,
-    "updated_at": "2026-07-14T18:10:11Z",
-    "url": "https://github.com/infinitegameplayer/sovereign-ecosystem"
-  },
-  {
-    "description": "Install agent skills and plugins for Google Stitch to enhance code generation tasks across platforms like Codex, Claude ",
-    "id": "jairo19993062/stitch-skills",
-    "language": "TypeScript",
-    "name": "jairo19993062/stitch-skills",
-    "stars": 0,
-    "updated_at": "2026-07-14T18:10:10Z",
-    "url": "https://github.com/jairo19993062/stitch-skills"
-  },
-  {
-    "description": "Coffee and Claude time?",
-    "id": "edison7009/Coffee-CLI",
-    "language": "Rust",
-    "name": "edison7009/Coffee-CLI",
-    "stars": 134,
-    "updated_at": "2026-07-14T18:10:10Z",
-    "url": "https://github.com/edison7009/Coffee-CLI"
   }
 ]

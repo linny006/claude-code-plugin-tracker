@@ -1,5 +1,50 @@
 [
   {
+    "description": "Rust-based code knowledge engine for AI agents and developers",
+    "id": "RusTokRs/Athanor",
+    "language": "Rust",
+    "name": "RusTokRs/Athanor",
+    "stars": 1,
+    "updated_at": "2026-07-18T14:30:30Z",
+    "url": "https://github.com/RusTokRs/Athanor"
+  },
+  {
+    "description": "AI-agent setup instructions for a Claude Code status line \u2014 paste this repo's link into your favorite AI and it installs",
+    "id": "VibeCodeBlogger-Public/ai-agent-setup-instructions-claude-code-statusline-context-window-usage-bar-model-tokens-bash",
+    "language": "Shell",
+    "name": "VibeCodeBlogger-Public/ai-agent-setup-instructions-claude-code-statusline-context-window-usage-bar-model-tokens-bash",
+    "stars": 0,
+    "updated_at": "2026-07-18T14:30:28Z",
+    "url": "https://github.com/VibeCodeBlogger-Public/ai-agent-setup-instructions-claude-code-statusline-context-window-usage-bar-model-tokens-bash"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 13,
+    "updated_at": "2026-07-18T14:30:28Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 15,
+    "updated_at": "2026-07-18T14:30:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 3,
+    "updated_at": "2026-07-18T14:30:14Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
     "description": "Context provider for data agents (MCP + REST + CLI): metrics, golden queries, and interpretation knowledge. Google Cloud",
     "id": "na0fu3y/ochakai",
     "language": "Go",
@@ -43,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-07-18T14:29:35Z",
     "url": "https://github.com/scottconverse/DevHarmonics"
-  },
-  {
-    "description": "Rust-based code knowledge engine for AI agents and developers",
-    "id": "RusTokRs/Athanor",
-    "language": "Rust",
-    "name": "RusTokRs/Athanor",
-    "stars": 1,
-    "updated_at": "2026-07-18T14:29:33Z",
-    "url": "https://github.com/RusTokRs/Athanor"
   },
   {
     "description": "Parallel Claude Code harness \u2014 dispatch tasks to multiple agents across repos/hosts, attach interactively, and let agent",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-18T14:23:53Z",
     "url": "https://github.com/AviMYB/mybusiness-plugins"
-  },
-  {
-    "description": "Free Claude skill: rewrite Amazon product titles for the 75-character limit (effective July 27, 2026) without losing sea",
-    "id": "tripleyak/amazon-title-optimizer",
-    "language": "JavaScript",
-    "name": "tripleyak/amazon-title-optimizer",
-    "stars": 0,
-    "updated_at": "2026-07-18T14:23:49Z",
-    "url": "https://github.com/tripleyak/amazon-title-optimizer"
-  },
-  {
-    "description": "RunAPI MCP server for model discovery, pricing lookup, media task creation, and balance checks.",
-    "id": "runapi-ai/mcp",
-    "language": "TypeScript",
-    "name": "runapi-ai/mcp",
-    "stars": 52,
-    "updated_at": "2026-07-18T14:23:47Z",
-    "url": "https://github.com/runapi-ai/mcp"
-  },
-  {
-    "description": "Deploys your OS, databases, and SSL on your VPS in just 10 minutes. Orchestrates a team of AI agents for coding, marketi",
-    "id": "Fractera/Agent-Engineering-Infrastructure",
-    "language": "TypeScript",
-    "name": "Fractera/Agent-Engineering-Infrastructure",
-    "stars": 34,
-    "updated_at": "2026-07-18T14:23:37Z",
-    "url": "https://github.com/Fractera/Agent-Engineering-Infrastructure"
-  },
-  {
-    "description": "Claude Code Remote Controller - KMP + Compose Multiplatform",
-    "id": "lucashanak/claude-remote",
-    "language": "Kotlin",
-    "name": "lucashanak/claude-remote",
-    "stars": 1,
-    "updated_at": "2026-07-18T14:23:26Z",
-    "url": "https://github.com/lucashanak/claude-remote"
   }
 ]

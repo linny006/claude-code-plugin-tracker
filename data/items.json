@@ -1,5 +1,77 @@
 [
   {
+    "description": "own your agent skills \u2014 vet, sign & pin every skill & MCP server before it runs. 68,560 skills scanned, 0 confirmed mali",
+    "id": "askalf/truecopy",
+    "language": "JavaScript",
+    "name": "askalf/truecopy",
+    "stars": 1,
+    "updated_at": "2026-07-23T21:45:05Z",
+    "url": "https://github.com/askalf/truecopy"
+  },
+  {
+    "description": "The Revenant packs marketplace \u2014 Agent Skills packs for Claude. foundation: eight standalone smiths that build, audit, a",
+    "id": "revenantworks/citadel",
+    "language": "HTML",
+    "name": "revenantworks/citadel",
+    "stars": 0,
+    "updated_at": "2026-07-23T21:44:40Z",
+    "url": "https://github.com/revenantworks/citadel"
+  },
+  {
+    "description": "Field research and feature analysis for AI coding agents \u2014 sandboxing, orchestration, plugins, community tooling, SDLC p",
+    "id": "qte77/ai-agents-research",
+    "language": "HTML",
+    "name": "qte77/ai-agents-research",
+    "stars": 1,
+    "updated_at": "2026-07-23T21:45:06Z",
+    "url": "https://github.com/qte77/ai-agents-research"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 3,
+    "updated_at": "2026-07-23T21:44:15Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
+    "id": "aeonfun/aeon",
+    "language": "TypeScript",
+    "name": "aeonfun/aeon",
+    "stars": 577,
+    "updated_at": "2026-07-23T21:44:14Z",
+    "url": "https://github.com/aeonfun/aeon"
+  },
+  {
+    "description": "Best Free Multi-Agent macOS Console for AI Coding Agents 2026 - Enhanced Chinese Docs",
+    "id": "game4837/island-terminal-console",
+    "language": "HTML",
+    "name": "game4837/island-terminal-console",
+    "stars": 0,
+    "updated_at": "2026-07-23T21:44:12Z",
+    "url": "https://github.com/game4837/island-terminal-console"
+  },
+  {
+    "description": "Supercharge Claude Code with MiniMax AI Agents for Smarter Code Reviews in 2026",
+    "id": "BirhanuTa/minimax-plugin-cursor-bridge",
+    "language": "HTML",
+    "name": "BirhanuTa/minimax-plugin-cursor-bridge",
+    "stars": 0,
+    "updated_at": "2026-07-23T21:44:12Z",
+    "url": "https://github.com/BirhanuTa/minimax-plugin-cursor-bridge"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 7677,
+    "updated_at": "2026-07-23T21:44:07Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
     "description": "Claude Code plugin that delegates code review, adversarial design critique, and isolated implementation to Kimi Code ove",
     "id": "YonasValentin/claude-kimi-relay",
     "language": "TypeScript",
@@ -41,7 +113,7 @@
     "language": "Go",
     "name": "jmrGrav/mcp-hugo-server-go",
     "stars": 3,
-    "updated_at": "2026-07-23T21:43:35Z",
+    "updated_at": "2026-07-23T21:45:09Z",
     "url": "https://github.com/jmrGrav/mcp-hugo-server-go"
   },
   {
@@ -90,15 +162,6 @@
     "url": "https://github.com/twiss-io/tess-os"
   },
   {
-    "description": "Field research and feature analysis for AI coding agents \u2014 sandboxing, orchestration, plugins, community tooling, SDLC p",
-    "id": "qte77/ai-agents-research",
-    "language": "HTML",
-    "name": "qte77/ai-agents-research",
-    "stars": 1,
-    "updated_at": "2026-07-23T21:44:04Z",
-    "url": "https://github.com/qte77/ai-agents-research"
-  },
-  {
     "description": "Self-hosted, tiled, persistent browser dashboard for host-run AI CLI terminals (Claude Code, Codex, opencode, ...)",
     "id": "s3ntin3l8/mullion-session-manager",
     "language": "TypeScript",
@@ -122,7 +185,7 @@
     "language": "Python",
     "name": "exmergo/dex",
     "stars": 14,
-    "updated_at": "2026-07-23T21:42:49Z",
+    "updated_at": "2026-07-23T21:44:55Z",
     "url": "https://github.com/exmergo/dex"
   },
   {
@@ -221,7 +284,7 @@
     "language": "TypeScript",
     "name": "JSONbored/loopover",
     "stars": 18,
-    "updated_at": "2026-07-23T21:43:32Z",
+    "updated_at": "2026-07-23T21:44:45Z",
     "url": "https://github.com/JSONbored/loopover"
   },
   {
@@ -266,7 +329,7 @@
     "language": "Python",
     "name": "UiPath/coder_eval",
     "stars": 107,
-    "updated_at": "2026-07-23T21:43:37Z",
+    "updated_at": "2026-07-23T21:44:49Z",
     "url": "https://github.com/UiPath/coder_eval"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-07-23T21:40:30Z",
     "url": "https://github.com/lakkkulaanilkumar/kotlin-lsp-nexus"
-  },
-  {
-    "description": "Local-first runtime for verifiable coding-agent loops.",
-    "id": "eduardocaminha/cam-cli",
-    "language": "TypeScript",
-    "name": "eduardocaminha/cam-cli",
-    "stars": 0,
-    "updated_at": "2026-07-23T21:40:19Z",
-    "url": "https://github.com/eduardocaminha/cam-cli"
-  },
-  {
-    "description": "\ud83d\udef0\ufe0f Orbit \u2014 turn any repo into a self-prompting agentic loop (memory + sub-agent team + skills + loop + hard stop conditi",
-    "id": "Abdulaziz-almoshen/orbit",
-    "language": "Python",
-    "name": "Abdulaziz-almoshen/orbit",
-    "stars": 2,
-    "updated_at": "2026-07-23T21:40:19Z",
-    "url": "https://github.com/Abdulaziz-almoshen/orbit"
-  },
-  {
-    "description": "Community skills for Claude Code: token optimization, productivity workflows, and development best practices. All skills",
-    "id": "valorisa/Claude-Skills",
-    "language": "Python",
-    "name": "valorisa/Claude-Skills",
-    "stars": 4,
-    "updated_at": "2026-07-23T21:40:05Z",
-    "url": "https://github.com/valorisa/Claude-Skills"
-  },
-  {
-    "description": "Save tokens converting any file to clean Markdown in your browser. 50Mb Max per file.",
-    "id": "jorgearguellles/markitdown-app",
-    "language": "TypeScript",
-    "name": "jorgearguellles/markitdown-app",
-    "stars": 0,
-    "updated_at": "2026-07-23T21:40:03Z",
-    "url": "https://github.com/jorgearguellles/markitdown-app"
-  },
-  {
-    "description": "Binary-criteria evaluation harness for Claude skills with planned extension to plugins, agents, and MCP servers. Score e",
-    "id": "jeremylongshore/j-rig-skill-binary-eval",
-    "language": "TypeScript",
-    "name": "jeremylongshore/j-rig-skill-binary-eval",
-    "stars": 0,
-    "updated_at": "2026-07-23T21:40:43Z",
-    "url": "https://github.com/jeremylongshore/j-rig-skill-binary-eval"
-  },
-  {
-    "description": "Enterprise-ready self-hosted AI assistant runtime with sandboxed execution, secure credentials, approvals, and memory",
-    "id": "HybridAIOne/hybridclaw",
-    "language": "TypeScript",
-    "name": "HybridAIOne/hybridclaw",
-    "stars": 125,
-    "updated_at": "2026-07-23T21:40:02Z",
-    "url": "https://github.com/HybridAIOne/hybridclaw"
-  },
-  {
-    "description": "own your agent skills \u2014 vet, sign & pin every skill & MCP server before it runs. 68,560 skills scanned, 0 confirmed mali",
-    "id": "askalf/truecopy",
-    "language": "JavaScript",
-    "name": "askalf/truecopy",
-    "stars": 1,
-    "updated_at": "2026-07-23T21:43:13Z",
-    "url": "https://github.com/askalf/truecopy"
   }
 ]

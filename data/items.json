@@ -1,5 +1,113 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-23T01:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Run agentic TUIs inside Neovim with persistent float/panel views and editor-context helpers.",
+    "id": "alsi-lawr/agent-term.nvim",
+    "language": "Lua",
+    "name": "alsi-lawr/agent-term.nvim",
+    "stars": 6,
+    "updated_at": "2026-07-23T01:00:06Z",
+    "url": "https://github.com/alsi-lawr/agent-term.nvim"
+  },
+  {
+    "description": "AgentPrism Workflows \u2014 run dynamic agent()/parallel()/pipeline() workflow scripts over any ACP backend, as a stdio MCP s",
+    "id": "VikashLoomba/agentprism-workflows",
+    "language": "TypeScript",
+    "name": "VikashLoomba/agentprism-workflows",
+    "stars": 1,
+    "updated_at": "2026-07-23T01:00:01Z",
+    "url": "https://github.com/VikashLoomba/agentprism-workflows"
+  },
+  {
+    "description": "Quality-gated autonomous mission completion loop for Claude Code and Codex (plan, execute, review, score, iterate).",
+    "id": "tackeyy/mission",
+    "language": "Python",
+    "name": "tackeyy/mission",
+    "stars": 7,
+    "updated_at": "2026-07-23T00:59:54Z",
+    "url": "https://github.com/tackeyy/mission"
+  },
+  {
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
+    "id": "stablyai/orca",
+    "language": "TypeScript",
+    "name": "stablyai/orca",
+    "stars": 26128,
+    "updated_at": "2026-07-23T00:59:35Z",
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "description": "Drive your *actual* coding agents, not another agent wrapper!  Like codex/claude remote control but fully open source an",
+    "id": "cipher982/longhouse",
+    "language": "Python",
+    "name": "cipher982/longhouse",
+    "stars": 6,
+    "updated_at": "2026-07-23T00:59:32Z",
+    "url": "https://github.com/cipher982/longhouse"
+  },
+  {
+    "description": "An imperative command-line-interface for AI workload orchestration",
+    "id": "theoddden/Terradev",
+    "language": "Python",
+    "name": "theoddden/Terradev",
+    "stars": 22,
+    "updated_at": "2026-07-23T00:59:19Z",
+    "url": "https://github.com/theoddden/Terradev"
+  },
+  {
+    "description": "'Personal AGI' that thinks on its own. Autonomous cognitive cycle, earned autonomy, 60+ tools. It decides what to do wit",
+    "id": "WingedGuardian/GENesis-AGI",
+    "language": "Python",
+    "name": "WingedGuardian/GENesis-AGI",
+    "stars": 91,
+    "updated_at": "2026-07-23T00:59:18Z",
+    "url": "https://github.com/WingedGuardian/GENesis-AGI"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 3,
+    "updated_at": "2026-07-23T00:58:49Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Best Free AI Job Application Bot 2026 - Auto Fill LinkedIn, Greenhouse & Workday",
+    "id": "kyrie789-a/automated-application-pipeline",
+    "language": "HTML",
+    "name": "kyrie789-a/automated-application-pipeline",
+    "stars": 0,
+    "updated_at": "2026-07-23T00:58:49Z",
+    "url": "https://github.com/kyrie789-a/automated-application-pipeline"
+  },
+  {
+    "description": "Markdown to Rich HTML Copy 2026 - Clipboard for Docs, Mail, Slack & Word",
+    "id": "andiyoga/clippy-md",
+    "language": "HTML",
+    "name": "andiyoga/clippy-md",
+    "stars": 0,
+    "updated_at": "2026-07-23T00:58:45Z",
+    "url": "https://github.com/andiyoga/clippy-md"
+  },
+  {
+    "description": "Rate & cap forecasts for Claude/Grok from local logs + optional live data. Companion to agentic-sage.",
+    "id": "muslewski/token-oracle",
+    "language": "Python",
+    "name": "muslewski/token-oracle",
+    "stars": 2,
+    "updated_at": "2026-07-23T00:58:55Z",
+    "url": "https://github.com/muslewski/token-oracle"
+  },
+  {
     "description": "GitHub Memory Snapshot 2026 \u2013 Auto Recall & Prune Project Context Across Sessions",
     "id": "Meizu1330/neural-context-archive",
     "language": "HTML",
@@ -27,15 +135,6 @@
     "url": "https://github.com/open-gsd/gsd-core"
   },
   {
-    "description": "An imperative command-line-interface for AI workload orchestration",
-    "id": "theoddden/Terradev",
-    "language": "Python",
-    "name": "theoddden/Terradev",
-    "stars": 22,
-    "updated_at": "2026-07-23T00:58:15Z",
-    "url": "https://github.com/theoddden/Terradev"
-  },
-  {
     "description": "The quota-aware, review-gated coordinator that runs coding agents off your real GitHub Projects board \u2014 not another loca",
     "id": "CSalcedoDataBI/agentic-board",
     "language": "PowerShell",
@@ -59,7 +158,7 @@
     "language": "Python",
     "name": "KKenny0/Tracework",
     "stars": 2,
-    "updated_at": "2026-07-23T00:58:04Z",
+    "updated_at": "2026-07-23T00:59:17Z",
     "url": "https://github.com/KKenny0/Tracework"
   },
   {
@@ -79,15 +178,6 @@
     "stars": 328,
     "updated_at": "2026-07-23T00:57:57Z",
     "url": "https://github.com/tingly-dev/tingly-box"
-  },
-  {
-    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
-    "id": "stablyai/orca",
-    "language": "TypeScript",
-    "name": "stablyai/orca",
-    "stars": 26126,
-    "updated_at": "2026-07-23T00:57:48Z",
-    "url": "https://github.com/stablyai/orca"
   },
   {
     "description": "Best Liquid iOS Motion Prototyping Tool 2026 - SwiftUI DNA Validation",
@@ -234,15 +324,6 @@
     "url": "https://github.com/alib8b8/llm-box"
   },
   {
-    "description": "AgentPrism Workflows \u2014 run dynamic agent()/parallel()/pipeline() workflow scripts over any ACP backend, as a stdio MCP s",
-    "id": "VikashLoomba/agentprism-workflows",
-    "language": "TypeScript",
-    "name": "VikashLoomba/agentprism-workflows",
-    "stars": 1,
-    "updated_at": "2026-07-23T00:55:47Z",
-    "url": "https://github.com/VikashLoomba/agentprism-workflows"
-  },
-  {
     "description": "One memory across Claude Code, Claude Desktop, Cursor, ChatGPT, Gemini CLI & Hermes \u2014 recalls first every turn, honest e",
     "id": "LogicLabsAI/ultramemory-mcp",
     "language": "Python",
@@ -329,7 +410,7 @@
     "language": "Swift",
     "name": "manaflow-ai/cmux",
     "stars": 24976,
-    "updated_at": "2026-07-23T00:58:23Z",
+    "updated_at": "2026-07-23T01:00:16Z",
     "url": "https://github.com/manaflow-ai/cmux"
   },
   {
@@ -365,88 +446,7 @@
     "language": "Python",
     "name": "saroo98/loom",
     "stars": 1,
-    "updated_at": "2026-07-23T00:56:06Z",
+    "updated_at": "2026-07-23T00:59:49Z",
     "url": "https://github.com/saroo98/loom"
-  },
-  {
-    "description": "A privacy-first desktop dashboard that transforms local AI assistant logs into insightful usage analytics, seamlessly sy",
-    "id": "Buktal/VaultOne",
-    "language": "Rust",
-    "name": "Buktal/VaultOne",
-    "stars": 0,
-    "updated_at": "2026-07-23T00:51:34Z",
-    "url": "https://github.com/Buktal/VaultOne"
-  },
-  {
-    "description": "Package manager for AI coding skills \u2014 search, install, and sync SKILL.md skills across Claude Code, Windsurf, and Curso",
-    "id": "jonnyeclectic/boost",
-    "language": "Python",
-    "name": "jonnyeclectic/boost",
-    "stars": 2,
-    "updated_at": "2026-07-23T00:54:39Z",
-    "url": "https://github.com/jonnyeclectic/boost"
-  },
-  {
-    "description": "Marketplace privado de 17 plugins (skills, hooks e automa\u00e7\u00f5es) pessoais para Claude Code.",
-    "id": "pedroberaldo87/pedro-plugins",
-    "language": "HTML",
-    "name": "pedroberaldo87/pedro-plugins",
-    "stars": 0,
-    "updated_at": "2026-07-23T00:50:17Z",
-    "url": "https://github.com/pedroberaldo87/pedro-plugins"
-  },
-  {
-    "description": "AI-Powered Code Toolkit for Game Engines",
-    "id": "NintendaDev/unikit-ai",
-    "language": "Shell",
-    "name": "NintendaDev/unikit-ai",
-    "stars": 16,
-    "updated_at": "2026-07-23T00:50:16Z",
-    "url": "https://github.com/NintendaDev/unikit-ai"
-  },
-  {
-    "description": "One question about your own code, when you finish coding. A SessionEnd hook for Claude Code that asks you about the mech",
-    "id": "imkp1/grask",
-    "language": "Python",
-    "name": "imkp1/grask",
-    "stars": 0,
-    "updated_at": "2026-07-23T00:50:16Z",
-    "url": "https://github.com/imkp1/grask"
-  },
-  {
-    "description": "Agent skills for firewall work \u2014 parsing, auditing, converting, and running SRX. Works with Claude Code, Codex, and Herm",
-    "id": "fastrevmd-lab/fwskillsshare",
-    "language": "Python",
-    "name": "fastrevmd-lab/fwskillsshare",
-    "stars": 5,
-    "updated_at": "2026-07-23T00:50:12Z",
-    "url": "https://github.com/fastrevmd-lab/fwskillsshare"
-  },
-  {
-    "description": "Claude Code plugins for project tooling. keel: guides a project's git lifecycle.",
-    "id": "submtd/shipyard",
-    "language": "Python",
-    "name": "submtd/shipyard",
-    "stars": 1,
-    "updated_at": "2026-07-23T00:50:06Z",
-    "url": "https://github.com/submtd/shipyard"
-  },
-  {
-    "description": "Press \u2318V to paste screenshots into your terminal \u2014 CopyCat saves the image and types the file path so Claude Code or Cod",
-    "id": "andyhtran/CopyCat",
-    "language": "Swift",
-    "name": "andyhtran/CopyCat",
-    "stars": 7,
-    "updated_at": "2026-07-23T00:49:42Z",
-    "url": "https://github.com/andyhtran/CopyCat"
-  },
-  {
-    "description": "Distilled operating skills for daily-driver Claude models \u2014 few dense rules, executable gates over long prose.",
-    "id": "F-e-u-e-r/opus-pack",
-    "language": "Python",
-    "name": "F-e-u-e-r/opus-pack",
-    "stars": 0,
-    "updated_at": "2026-07-23T00:49:41Z",
-    "url": "https://github.com/F-e-u-e-r/opus-pack"
   }
 ]

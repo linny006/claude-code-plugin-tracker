@@ -1,5 +1,68 @@
 [
   {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 14,
+    "updated_at": "2026-07-24T04:30:31Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Claude Code usage dashboard in your macOS menu bar \u2014 costs, tokens, plan limits, trends, multi-machine sync",
+    "id": "jayson-jia-dev/cc-token",
+    "language": "Python",
+    "name": "jayson-jia-dev/cc-token",
+    "stars": 5,
+    "updated_at": "2026-07-24T04:30:23Z",
+    "url": "https://github.com/jayson-jia-dev/cc-token"
+  },
+  {
+    "description": "197 bioinformatics & life science skills for Claude Code and AI agents \u2014 BixBench 92.0% accuracy. RNA-seq, single-cell, ",
+    "id": "jaechang-hits/SciAgent-Skills",
+    "language": "Python",
+    "name": "jaechang-hits/SciAgent-Skills",
+    "stars": 281,
+    "updated_at": "2026-07-24T04:30:23Z",
+    "url": "https://github.com/jaechang-hits/SciAgent-Skills"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 3,
+    "updated_at": "2026-07-24T04:30:19Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Peasonal Claude Code template for spec-driven AI development with PRD decomposition, gated specs, traceable implementati",
+    "id": "beomeodev/specter",
+    "language": "Python",
+    "name": "beomeodev/specter",
+    "stars": 0,
+    "updated_at": "2026-07-24T04:30:18Z",
+    "url": "https://github.com/beomeodev/specter"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-24T04:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Provider-agnostic guardrails + config for AI coding agents (Claude Code, OpenCode, Codex). Physical hooks & git gates + ",
+    "id": "markkennethbadilla/public-agent-provisioning",
+    "language": "JavaScript",
+    "name": "markkennethbadilla/public-agent-provisioning",
+    "stars": 0,
+    "updated_at": "2026-07-24T04:30:06Z",
+    "url": "https://github.com/markkennethbadilla/public-agent-provisioning"
+  },
+  {
     "description": "An AI Product & Leadership Studio\u2014an executive platform for governing, prioritizing, funding, evaluating, & optimizing e",
     "id": "shayeeboy/AI-Product-Leadership-Studio",
     "language": "TypeScript",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-07-24T04:25:50Z",
     "url": "https://github.com/StarchyBomb/browser-engine"
-  },
-  {
-    "description": "Claude Code VSCode \u6269\u5c55\u8865\u4e01\uff1a4 \u6001 tab \u72b6\u6001\u70b9\uff08\u7a7a\u95f2/\u8fd0\u884c\u4e2d/\u5b8c\u6210/\u4e2d\u65ad\uff09+ \u5b8c\u6210/\u4e2d\u65ad\u901a\u77e5 + \u5e95\u90e8\u72b6\u6001\u680f 4 \u706f\u805a\u5408 + companion \u81ea\u6108\uff08CC \u66f4\u65b0\u81ea\u52a8\u91cd patch\uff09\u3002| EN: Claude Cod",
-    "id": "wangdong233/vscode-claude-code-status-dot",
-    "language": "JavaScript",
-    "name": "wangdong233/vscode-claude-code-status-dot",
-    "stars": 0,
-    "updated_at": "2026-07-24T04:25:46Z",
-    "url": "https://github.com/wangdong233/vscode-claude-code-status-dot"
-  },
-  {
-    "description": "Persistent side chats and an attention inbox for every Claude Code, Codex, and Pi session on your Mac.",
-    "id": "vignesh07/aside",
-    "language": "TypeScript",
-    "name": "vignesh07/aside",
-    "stars": 0,
-    "updated_at": "2026-07-24T04:25:43Z",
-    "url": "https://github.com/vignesh07/aside"
-  },
-  {
-    "description": "AI-Powered Jira-to-PR Mobile Workflow Plugin 2026 \u2013 Streamline Developer Pipelines",
-    "id": "esfanaticadelosensual/edge-mobile-ai-workflow-provisioner",
-    "language": "HTML",
-    "name": "esfanaticadelosensual/edge-mobile-ai-workflow-provisioner",
-    "stars": 0,
-    "updated_at": "2026-07-24T04:25:41Z",
-    "url": "https://github.com/esfanaticadelosensual/edge-mobile-ai-workflow-provisioner"
-  },
-  {
-    "description": "\u628a\u4ea4\u6613 CSV \u5fa9\u76e4\u6210\u4e00\u5f35\u884c\u70ba\u8aa0\u5be6\u5361\u7684 Claude Code skill:\u6a5f\u68b0\u5c64\u6293\u5927\u653e\u5c0f \u00d7 \u5927\u5e2b\u93e1\u7247\u554f\u52d5\u6a5f | Turn your broker CSV into one behavioral review card",
-    "id": "atomchung/fomo-kernel",
-    "language": "Python",
-    "name": "atomchung/fomo-kernel",
-    "stars": 8,
-    "updated_at": "2026-07-24T04:25:38Z",
-    "url": "https://github.com/atomchung/fomo-kernel"
-  },
-  {
-    "description": "Read-only macOS notch monitor for Claude Code & Codex. Risk-scores every tool call and alerts on dangerous ones (rm -rf,",
-    "id": "theMobiusStrip/perch",
-    "language": "Swift",
-    "name": "theMobiusStrip/perch",
-    "stars": 2,
-    "updated_at": "2026-07-24T04:25:30Z",
-    "url": "https://github.com/theMobiusStrip/perch"
-  },
-  {
-    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
-    "id": "stablyai/orca",
-    "language": "TypeScript",
-    "name": "stablyai/orca",
-    "stars": 27576,
-    "updated_at": "2026-07-24T04:25:20Z",
-    "url": "https://github.com/stablyai/orca"
-  },
-  {
-    "description": "Reusable agent skills for AI coding assistants\u2014senior-level planning, architecture, auditing, optimization, implementati",
-    "id": "akshay-diwadkar/skills",
-    "language": "Python",
-    "name": "akshay-diwadkar/skills",
-    "stars": 0,
-    "updated_at": "2026-07-24T04:25:17Z",
-    "url": "https://github.com/akshay-diwadkar/skills"
   }
 ]

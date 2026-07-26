@@ -1,12 +1,48 @@
 [
   {
-    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
-    "id": "camilemuz/local-doc-rag-skill",
-    "language": "HTML",
-    "name": "camilemuz/local-doc-rag-skill",
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 18,
+    "updated_at": "2026-07-26T01:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Complete artifact production ecosystem: illuminate dense sources into interactive HTML, presentations, code architecture",
+    "id": "gadalla11111/illuminate",
+    "language": "\u2014",
+    "name": "gadalla11111/illuminate",
+    "stars": 0,
+    "updated_at": "2026-07-26T01:15:09Z",
+    "url": "https://github.com/gadalla11111/illuminate"
+  },
+  {
+    "description": "A self-writing AI intel wiki \u2014 Claude routines write twice-daily briefs to a markdown vault, with ntfy alerts, CI health",
+    "id": "krish-shahh/ai-intel",
+    "language": "JavaScript",
+    "name": "krish-shahh/ai-intel",
     "stars": 1,
-    "updated_at": "2026-07-26T01:13:59Z",
-    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+    "updated_at": "2026-07-26T01:15:08Z",
+    "url": "https://github.com/krish-shahh/ai-intel"
+  },
+  {
+    "description": "SPEC-First AI DevKit for Agentic Code 2026 \u2014 24 Agents, 52 Skills, TDD/DDD Gates",
+    "id": "leerhadz/moai-forge",
+    "language": "HTML",
+    "name": "leerhadz/moai-forge",
+    "stars": 0,
+    "updated_at": "2026-07-26T01:15:03Z",
+    "url": "https://github.com/leerhadz/moai-forge"
+  },
+  {
+    "description": "The local-first Agent OS \u2014 your AI partner lives on your own machine. Drive the official Claude Code, Codex & OpenCode f",
+    "id": "avibe-bot/avibe",
+    "language": "Python",
+    "name": "avibe-bot/avibe",
+    "stars": 485,
+    "updated_at": "2026-07-26T01:15:01Z",
+    "url": "https://github.com/avibe-bot/avibe"
   },
   {
     "description": "Portable harness for autonomous, long-horizon, multi-agent workflows",
@@ -14,8 +50,62 @@
     "language": "TypeScript",
     "name": "natb1/commons.systems",
     "stars": 1,
-    "updated_at": "2026-07-26T01:13:58Z",
+    "updated_at": "2026-07-26T01:15:17Z",
     "url": "https://github.com/natb1/commons.systems"
+  },
+  {
+    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
+    "id": "jatinloey1598-dot/social-signals-analyzer",
+    "language": "HTML",
+    "name": "jatinloey1598-dot/social-signals-analyzer",
+    "stars": 0,
+    "updated_at": "2026-07-26T01:14:55Z",
+    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
+  },
+  {
+    "description": "Lovable for your terminal: a frontend harness on top of Claude Code, Codex, and 6 other coding agents.",
+    "id": "aayambansal/squint",
+    "language": "TypeScript",
+    "name": "aayambansal/squint",
+    "stars": 2,
+    "updated_at": "2026-07-26T01:15:09Z",
+    "url": "https://github.com/aayambansal/squint"
+  },
+  {
+    "description": "A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through t",
+    "id": "composio-community/awesome-claude-plugins",
+    "language": "JavaScript",
+    "name": "composio-community/awesome-claude-plugins",
+    "stars": 1842,
+    "updated_at": "2026-07-26T01:14:24Z",
+    "url": "https://github.com/composio-community/awesome-claude-plugins"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 3,
+    "updated_at": "2026-07-26T01:14:09Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Farming Code is a self-hosted browser workspace for running and supervising Codex, Claude Code, OpenCode, and other AI c",
+    "id": "zhuwenzhuang/farming",
+    "language": "JavaScript",
+    "name": "zhuwenzhuang/farming",
+    "stars": 5,
+    "updated_at": "2026-07-26T01:14:33Z",
+    "url": "https://github.com/zhuwenzhuang/farming"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 1,
+    "updated_at": "2026-07-26T01:13:59Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
   },
   {
     "description": "My Nix system configs!",
@@ -34,6 +124,15 @@
     "stars": 9,
     "updated_at": "2026-07-26T01:13:52Z",
     "url": "https://github.com/Stunspot/CanopyOps"
+  },
+  {
+    "description": "agent multiplexer that lives in your terminal.",
+    "id": "ogulcancelik/herdr",
+    "language": "Rust",
+    "name": "ogulcancelik/herdr",
+    "stars": 20793,
+    "updated_at": "2026-07-26T01:13:50Z",
+    "url": "https://github.com/ogulcancelik/herdr"
   },
   {
     "description": "Stop Guessing Your Code: 2026's 7-Step AI Dev Workflow for Perfect Repos",
@@ -95,7 +194,7 @@
     "language": "Python",
     "name": "NousResearch/hermes-agent",
     "stars": 220466,
-    "updated_at": "2026-07-26T01:12:50Z",
+    "updated_at": "2026-07-26T01:15:01Z",
     "url": "https://github.com/NousResearch/hermes-agent"
   },
   {
@@ -126,15 +225,6 @@
     "url": "https://github.com/rtcode337/cc-tasks"
   },
   {
-    "description": "Lovable for your terminal: a frontend harness on top of Claude Code, Codex, and 6 other coding agents.",
-    "id": "aayambansal/squint",
-    "language": "TypeScript",
-    "name": "aayambansal/squint",
-    "stars": 2,
-    "updated_at": "2026-07-26T01:12:55Z",
-    "url": "https://github.com/aayambansal/squint"
-  },
-  {
     "description": "Kotlin Language Server Plugin for Claude Code 2026 \u2013 Instant Diagnostics & Navigation",
     "id": "lakkkulaanilkumar/kotlin-lsp-nexus",
     "language": "HTML",
@@ -158,7 +248,7 @@
     "language": "Shell",
     "name": "melodic-software/claude-code-plugins",
     "stars": 2,
-    "updated_at": "2026-07-26T01:13:48Z",
+    "updated_at": "2026-07-26T01:14:52Z",
     "url": "https://github.com/melodic-software/claude-code-plugins"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 1,
     "updated_at": "2026-07-26T01:09:37Z",
     "url": "https://github.com/AhmedRayat/project-echo-memory"
-  },
-  {
-    "description": "Farming Code is a self-hosted browser workspace for running and supervising Codex, Claude Code, OpenCode, and other AI c",
-    "id": "zhuwenzhuang/farming",
-    "language": "JavaScript",
-    "name": "zhuwenzhuang/farming",
-    "stars": 5,
-    "updated_at": "2026-07-26T01:09:34Z",
-    "url": "https://github.com/zhuwenzhuang/farming"
-  },
-  {
-    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
-    "id": "stablyai/orca",
-    "language": "TypeScript",
-    "name": "stablyai/orca",
-    "stars": 29030,
-    "updated_at": "2026-07-26T01:09:23Z",
-    "url": "https://github.com/stablyai/orca"
-  },
-  {
-    "description": "Your Ultimate Claude Skills Library & Hub 2026 \u2013 Integrate & Organize AI Workflows",
-    "id": "phuati/claude-skills-arsenal",
-    "language": "HTML",
-    "name": "phuati/claude-skills-arsenal",
-    "stars": 1,
-    "updated_at": "2026-07-26T01:08:57Z",
-    "url": "https://github.com/phuati/claude-skills-arsenal"
-  },
-  {
-    "description": "Bridge Feishu/Lark to AI coding CLIs \u2014 Claude Code, Codex, Gemini, OpenCode\u2026 every DM, group or topic spawns its own liv",
-    "id": "deepcoldy/botmux",
-    "language": "TypeScript",
-    "name": "deepcoldy/botmux",
-    "stars": 775,
-    "updated_at": "2026-07-26T01:08:54Z",
-    "url": "https://github.com/deepcoldy/botmux"
-  },
-  {
-    "description": "\ud83d\udd01 Finishes your entire backlog while you sleep. The AI orchestrator that DOES the work end-to-end on ANY LLM \u2014 discover ",
-    "id": "wesleysimplicio/simplicio-loop",
-    "language": "Python",
-    "name": "wesleysimplicio/simplicio-loop",
-    "stars": 11,
-    "updated_at": "2026-07-26T01:08:52Z",
-    "url": "https://github.com/wesleysimplicio/simplicio-loop"
-  },
-  {
-    "description": "Unified AI session manager and automation toolkit for Claude Code and Gemini CLI \u2014 tmux sessions, git worktrees, cross-m",
-    "id": "sergeiwallace/ai-cli-utils",
-    "language": "Python",
-    "name": "sergeiwallace/ai-cli-utils",
-    "stars": 2,
-    "updated_at": "2026-07-26T01:08:48Z",
-    "url": "https://github.com/sergeiwallace/ai-cli-utils"
-  },
-  {
-    "description": "The open-source autonomous delivery agent for Claude Code.",
-    "id": "app-vitals/shipwright",
-    "language": "TypeScript",
-    "name": "app-vitals/shipwright",
-    "stars": 8,
-    "updated_at": "2026-07-26T01:08:45Z",
-    "url": "https://github.com/app-vitals/shipwright"
-  },
-  {
-    "description": "Lafuanh Mind Bridge Connect 2026 - AI Knowledge Sync Without Sorting",
-    "id": "M1LL4r3S-Droid/notion-sync-nexus",
-    "language": "HTML",
-    "name": "M1LL4r3S-Droid/notion-sync-nexus",
-    "stars": 0,
-    "updated_at": "2026-07-26T01:08:42Z",
-    "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
-  },
-  {
-    "description": "Best MCP Server Testing & Evaluation Toolkit 2026 \u2013 Token Cost Analysis & Visual Reports",
-    "id": "Abderrahmane-msd/mcp-bench-report",
-    "language": "HTML",
-    "name": "Abderrahmane-msd/mcp-bench-report",
-    "stars": 0,
-    "updated_at": "2026-07-26T01:08:42Z",
-    "url": "https://github.com/Abderrahmane-msd/mcp-bench-report"
-  },
-  {
-    "description": "Self-hosted enterprise AI workspace and governance platform",
-    "id": "open-ace/open-ace",
-    "language": "Python",
-    "name": "open-ace/open-ace",
-    "stars": 41,
-    "updated_at": "2026-07-26T01:08:32Z",
-    "url": "https://github.com/open-ace/open-ace"
   }
 ]

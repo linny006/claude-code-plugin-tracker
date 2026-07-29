@@ -1,5 +1,77 @@
 [
   {
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
+    "id": "stablyai/orca",
+    "language": "TypeScript",
+    "name": "stablyai/orca",
+    "stars": 32072,
+    "updated_at": "2026-07-29T06:45:05Z",
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "description": "Local-first runtime for verifiable coding-agent loops.",
+    "id": "eduardocaminha/cam-cli",
+    "language": "TypeScript",
+    "name": "eduardocaminha/cam-cli",
+    "stars": 1,
+    "updated_at": "2026-07-29T06:44:17Z",
+    "url": "https://github.com/eduardocaminha/cam-cli"
+  },
+  {
+    "description": "The agent that grows with you",
+    "id": "NousResearch/hermes-agent",
+    "language": "Python",
+    "name": "NousResearch/hermes-agent",
+    "stars": 222031,
+    "updated_at": "2026-07-29T06:44:09Z",
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 4,
+    "updated_at": "2026-07-29T06:44:09Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "5 Best Free OpenClaw Android AI Agents 2026 \u2013 No Root Full Linux",
+    "id": "networkhitman-cloud/openclaw-three-agent-nexus",
+    "language": "HTML",
+    "name": "networkhitman-cloud/openclaw-three-agent-nexus",
+    "stars": 6,
+    "updated_at": "2026-07-29T06:44:03Z",
+    "url": "https://github.com/networkhitman-cloud/openclaw-three-agent-nexus"
+  },
+  {
+    "description": "Portable equal-primary Claude and Codex agent harness for a governed agentic SDLC",
+    "id": "mblauberg/provenant",
+    "language": "TypeScript",
+    "name": "mblauberg/provenant",
+    "stars": 2,
+    "updated_at": "2026-07-29T06:43:57Z",
+    "url": "https://github.com/mblauberg/provenant"
+  },
+  {
+    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-07-29T06:43:45Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
+    "description": "Helping the Agents Compose the Things",
+    "id": "yschimke/compose-ai-tools",
+    "language": "Kotlin",
+    "name": "yschimke/compose-ai-tools",
+    "stars": 101,
+    "updated_at": "2026-07-29T06:43:38Z",
+    "url": "https://github.com/yschimke/compose-ai-tools"
+  },
+  {
     "description": "Spec-driven multi-agent teamwork for any skills-capable agent (Claude Code, Codex, and more) \u2014 plan, dispatch, monitor, ",
     "id": "ouob-tw/LoopAgentTeams",
     "language": "Shell",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "paulnsorensen/easy-cheese",
     "stars": 12,
-    "updated_at": "2026-07-29T06:43:29Z",
+    "updated_at": "2026-07-29T06:45:01Z",
     "url": "https://github.com/paulnsorensen/easy-cheese"
   },
   {
@@ -81,15 +153,6 @@
     "url": "https://github.com/BMC-INC/coding-ledger"
   },
   {
-    "description": "Universal AI Agent OS \u2014 audited skills, governance rules, replayable state. One contract, every host agent.",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 7,
-    "updated_at": "2026-07-29T06:43:45Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
     "description": "Vetix \u2014 Automated scanning, identification, and assessment of SKILL security risks.",
     "id": "HuTa0kj/vetix",
     "language": "Python",
@@ -108,15 +171,6 @@
     "url": "https://github.com/ShiroDoromoto/amenbo"
   },
   {
-    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
-    "id": "stablyai/orca",
-    "language": "TypeScript",
-    "name": "stablyai/orca",
-    "stars": 32071,
-    "updated_at": "2026-07-29T06:42:20Z",
-    "url": "https://github.com/stablyai/orca"
-  },
-  {
     "description": "Inline review comments for markdown specs. Built-in MCP server hands feedback directly to your AI agent.",
     "id": "dejuknow/md-redline",
     "language": "TypeScript",
@@ -133,24 +187,6 @@
     "stars": 0,
     "updated_at": "2026-07-29T06:42:12Z",
     "url": "https://github.com/h8nc4y/multi-agent-delegation"
-  },
-  {
-    "description": "Local-first runtime for verifiable coding-agent loops.",
-    "id": "eduardocaminha/cam-cli",
-    "language": "TypeScript",
-    "name": "eduardocaminha/cam-cli",
-    "stars": 1,
-    "updated_at": "2026-07-29T06:42:09Z",
-    "url": "https://github.com/eduardocaminha/cam-cli"
-  },
-  {
-    "description": "The agent that grows with you",
-    "id": "NousResearch/hermes-agent",
-    "language": "Python",
-    "name": "NousResearch/hermes-agent",
-    "stars": 222030,
-    "updated_at": "2026-07-29T06:42:03Z",
-    "url": "https://github.com/NousResearch/hermes-agent"
   },
   {
     "description": "Local governance, memory, failure lessons, and architecture guardrails for Claude Code, Codex, Cursor, Gemini CLI, and o",
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "jonnyeclectic/boost",
     "stars": 3,
-    "updated_at": "2026-07-29T06:43:44Z",
+    "updated_at": "2026-07-29T06:44:55Z",
     "url": "https://github.com/jonnyeclectic/boost"
   },
   {
@@ -333,15 +369,6 @@
     "url": "https://github.com/JinNing6/Noosphere"
   },
   {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 101,
-    "updated_at": "2026-07-29T06:43:38Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
-  },
-  {
     "description": "CommitLore \u2014 git commit trailers as institutional memory for AI coding agents. Free & MIT. git is the SSOT.",
     "id": "MongLong0214/commitlore",
     "language": "TypeScript",
@@ -374,7 +401,7 @@
     "language": "Shell",
     "name": "DimitriGeelen/agentic-engineering-framework",
     "stars": 12,
-    "updated_at": "2026-07-29T06:40:41Z",
+    "updated_at": "2026-07-29T06:44:15Z",
     "url": "https://github.com/DimitriGeelen/agentic-engineering-framework"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1020,
     "updated_at": "2026-07-29T06:40:26Z",
     "url": "https://github.com/alookai/alook"
-  },
-  {
-    "description": "AI argues. Code settles. The losses stay on the page. A self-grading multi-agent investment desk running a real HK + US ",
-    "id": "KCNyu/clawock",
-    "language": "Python",
-    "name": "KCNyu/clawock",
-    "stars": 9,
-    "updated_at": "2026-07-29T06:40:20Z",
-    "url": "https://github.com/KCNyu/clawock"
-  },
-  {
-    "description": "Token-Reducing Shell \u2014 terminal output compression for AI coding agents",
-    "id": "dPeluChe/trs",
-    "language": "Rust",
-    "name": "dPeluChe/trs",
-    "stars": 10,
-    "updated_at": "2026-07-29T06:40:19Z",
-    "url": "https://github.com/dPeluChe/trs"
-  },
-  {
-    "description": "a skill that builds a website and the design system that governs it, with checks that block rather than advise.",
-    "id": "jaenicket/code-webdesign",
-    "language": "Python",
-    "name": "jaenicket/code-webdesign",
-    "stars": 1,
-    "updated_at": "2026-07-29T06:40:18Z",
-    "url": "https://github.com/jaenicket/code-webdesign"
   }
 ]

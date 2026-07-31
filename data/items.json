@@ -1,5 +1,50 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-31T10:15:23Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Evidence-gated runner for Codex, Claude Code, OpenCode, and local coding agents. Routes tasks into scoped DAG lanes with",
+    "id": "dmae97/omk",
+    "language": "TypeScript",
+    "name": "dmae97/omk",
+    "stars": 130,
+    "updated_at": "2026-07-31T10:15:22Z",
+    "url": "https://github.com/dmae97/omk"
+  },
+  {
+    "description": "Turn rough notes into a polished, schema-validated slide deck in any AI agent (Claude Code, Cursor, Codex, Gemini CLI, C",
+    "id": "isatimur/presentation-md",
+    "language": "HTML",
+    "name": "isatimur/presentation-md",
+    "stars": 2,
+    "updated_at": "2026-07-31T10:15:18Z",
+    "url": "https://github.com/isatimur/presentation-md"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 3,
+    "updated_at": "2026-07-31T10:15:07Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Claude Code skill: polished 60fps ScreenStudio-style demo videos of any web app via Playwright + Pillow + ffmpeg (no scr",
+    "id": "surajshetty3416/demo-video-skill",
+    "language": "Python",
+    "name": "surajshetty3416/demo-video-skill",
+    "stars": 1,
+    "updated_at": "2026-07-31T10:14:24Z",
+    "url": "https://github.com/surajshetty3416/demo-video-skill"
+  },
+  {
     "description": "Open source knowledge management pipeline \u2014 passive recall, append-only intake, tiered compilation, configurable schemas",
     "id": "Kromatic-Innovation/athenaeum",
     "language": "Python",
@@ -18,13 +63,13 @@
     "url": "https://github.com/gtapps/claude-code-hermit"
   },
   {
-    "description": "Turn rough notes into a polished, schema-validated slide deck in any AI agent (Claude Code, Cursor, Codex, Gemini CLI, C",
-    "id": "isatimur/presentation-md",
-    "language": "HTML",
-    "name": "isatimur/presentation-md",
-    "stars": 2,
-    "updated_at": "2026-07-31T10:14:14Z",
-    "url": "https://github.com/isatimur/presentation-md"
+    "description": "An open-source AI-native operating system to define, organize, and run intelligent agent teams",
+    "id": "wecode-ai/Wegent",
+    "language": "TypeScript",
+    "name": "wecode-ai/Wegent",
+    "stars": 674,
+    "updated_at": "2026-07-31T10:13:54Z",
+    "url": "https://github.com/wecode-ai/Wegent"
   },
   {
     "description": "Self-verification hooks + a reasoning skill for Claude Code - keep the agent honest across your prompts, its claims, you",
@@ -61,6 +106,15 @@
     "stars": 0,
     "updated_at": "2026-07-31T10:13:40Z",
     "url": "https://github.com/Ken-Chy129/llm-proxy"
+  },
+  {
+    "description": "Task management for AI agents \u2014 the record lives outside the AI. Tasks and decisions as connected records in one local S",
+    "id": "ShiroDoromoto/amenbo",
+    "language": "Rust",
+    "name": "ShiroDoromoto/amenbo",
+    "stars": 0,
+    "updated_at": "2026-07-31T10:13:38Z",
+    "url": "https://github.com/ShiroDoromoto/amenbo"
   },
   {
     "description": "MCP proxy aggregating child servers behind one connection, with result caching, progressive disclosure, composable resul",
@@ -221,7 +275,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-07-31T10:11:47Z",
+    "updated_at": "2026-07-31T10:15:21Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -311,7 +365,7 @@
     "language": "TypeScript",
     "name": "vm0-ai/vm0",
     "stars": 1138,
-    "updated_at": "2026-07-31T10:14:11Z",
+    "updated_at": "2026-07-31T10:15:14Z",
     "url": "https://github.com/vm0-ai/vm0"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 44,
     "updated_at": "2026-07-31T10:09:48Z",
     "url": "https://github.com/cfal/garcon"
-  },
-  {
-    "description": "Production-ready Claude Code 2.0 setup for autonomous development",
-    "id": "akaszubski/autonomous-dev",
-    "language": "Python",
-    "name": "akaszubski/autonomous-dev",
-    "stars": 32,
-    "updated_at": "2026-07-31T10:09:46Z",
-    "url": "https://github.com/akaszubski/autonomous-dev"
-  },
-  {
-    "description": "Turn contested questions into interactive, source-grounded evidence maps.",
-    "id": "alsoleg89/doubt",
-    "language": "HTML",
-    "name": "alsoleg89/doubt",
-    "stars": 0,
-    "updated_at": "2026-07-31T10:09:46Z",
-    "url": "https://github.com/alsoleg89/doubt"
-  },
-  {
-    "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-    "id": "CherryHQ/cherry-studio",
-    "language": "TypeScript",
-    "name": "CherryHQ/cherry-studio",
-    "stars": 49194,
-    "updated_at": "2026-07-31T10:12:46Z",
-    "url": "https://github.com/CherryHQ/cherry-studio"
-  },
-  {
-    "description": "Audit AGENTS.md / CLAUDE.md against the codebase: verify every claim, cut derivable filler, relocate domain-scoped rules",
-    "id": "vr1e/claude-md-audit",
-    "language": "\u2014",
-    "name": "vr1e/claude-md-audit",
-    "stars": 0,
-    "updated_at": "2026-07-31T10:09:40Z",
-    "url": "https://github.com/vr1e/claude-md-audit"
-  },
-  {
-    "description": "See and fix what AI tools can read. One .offsend.yml keeps secrets out of AI context \u2014 synced to .cursorignore, .claudei",
-    "id": "Offsend/Offsend",
-    "language": "Swift",
-    "name": "Offsend/Offsend",
-    "stars": 11,
-    "updated_at": "2026-07-31T10:09:35Z",
-    "url": "https://github.com/Offsend/Offsend"
-  },
-  {
-    "description": "Desktop app to browse, search, launch and monitor your coding-CLI sessions (Claude Code, Codex, Hermes, Pi, Antigravity)",
-    "id": "deadeye636/switchboard",
-    "language": "JavaScript",
-    "name": "deadeye636/switchboard",
-    "stars": 1,
-    "updated_at": "2026-07-31T10:09:30Z",
-    "url": "https://github.com/deadeye636/switchboard"
   }
 ]

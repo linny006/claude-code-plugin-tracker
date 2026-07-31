@@ -1,5 +1,77 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 19,
+    "updated_at": "2026-07-31T23:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "One-click install + model switch:Claude Code,Codex CLI (OpenAI), Grok Build (xAI), Kimi Code (Moonshot) ,Qwen Code,Aider",
+    "id": "edison7009/EchoBird",
+    "language": "Rust",
+    "name": "edison7009/EchoBird",
+    "stars": 2957,
+    "updated_at": "2026-07-31T23:15:10Z",
+    "url": "https://github.com/edison7009/EchoBird"
+  },
+  {
+    "description": "Agentic stack-neutral starter pack with instant project auto-mapping. Perfect bootstrap for Claude Code, Cursor, Hermes ",
+    "id": "wesleysimplicio/simplicio-mapper",
+    "language": "Python",
+    "name": "wesleysimplicio/simplicio-mapper",
+    "stars": 7,
+    "updated_at": "2026-07-31T23:15:07Z",
+    "url": "https://github.com/wesleysimplicio/simplicio-mapper"
+  },
+  {
+    "description": "Git. Ship. Done - Core",
+    "id": "open-gsd/gsd-core",
+    "language": "JavaScript",
+    "name": "open-gsd/gsd-core",
+    "stars": 7508,
+    "updated_at": "2026-07-31T23:15:06Z",
+    "url": "https://github.com/open-gsd/gsd-core"
+  },
+  {
+    "description": "Self-hosted home for durable AI employees: one resident, one private computer, compounding memory and skills, with Skipp",
+    "id": "gitcommit90/1Helm",
+    "language": "TypeScript",
+    "name": "gitcommit90/1Helm",
+    "stars": 2,
+    "updated_at": "2026-07-31T23:14:54Z",
+    "url": "https://github.com/gitcommit90/1Helm"
+  },
+  {
+    "description": "Turn rough notes into a polished, schema-validated slide deck in any AI agent (Claude Code, Cursor, Codex, Gemini CLI, C",
+    "id": "isatimur/presentation-md",
+    "language": "HTML",
+    "name": "isatimur/presentation-md",
+    "stars": 2,
+    "updated_at": "2026-07-31T23:15:09Z",
+    "url": "https://github.com/isatimur/presentation-md"
+  },
+  {
+    "description": "Meet Coco. A superintelligent agent framework powered by an advisory board of 389 world-class minds. Scale your AI assis",
+    "id": "coco-research/coco",
+    "language": "HTML",
+    "name": "coco-research/coco",
+    "stars": 197,
+    "updated_at": "2026-07-31T23:14:58Z",
+    "url": "https://github.com/coco-research/coco"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 3,
+    "updated_at": "2026-07-31T23:14:49Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
     "description": "Personal Claude Code setup: launcher, session hooks, custom system prompt, skills, slash commands, and a statusline. One",
     "id": "igorjs/pragmatic-claude",
     "language": "Shell",
@@ -9,6 +81,15 @@
     "url": "https://github.com/igorjs/pragmatic-claude"
   },
   {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 75,
+    "updated_at": "2026-07-31T23:14:20Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
     "description": "An AI newsroom that writes and fact-checks a weekly journal.",
     "id": "albertogrande/the-wire",
     "language": "Astro",
@@ -16,6 +97,15 @@
     "stars": 0,
     "updated_at": "2026-07-31T23:13:57Z",
     "url": "https://github.com/albertogrande/the-wire"
+  },
+  {
+    "description": "Best Free LLM Autonomous Agent Plugin 2026 - Real-Time Security, Auto-Learn",
+    "id": "wirdana888/claude-self-evolving-agent",
+    "language": "HTML",
+    "name": "wirdana888/claude-self-evolving-agent",
+    "stars": 1,
+    "updated_at": "2026-07-31T23:13:42Z",
+    "url": "https://github.com/wirdana888/claude-self-evolving-agent"
   },
   {
     "description": "Jamdesk Pro Plugin 2026: Build AI Docs Fast with Claude 4 Code",
@@ -43,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-07-31T23:14:07Z",
     "url": "https://github.com/yuga-hashimoto/and-code"
-  },
-  {
-    "description": "Meet Coco. A superintelligent agent framework powered by an advisory board of 389 world-class minds. Scale your AI assis",
-    "id": "coco-research/coco",
-    "language": "HTML",
-    "name": "coco-research/coco",
-    "stars": 197,
-    "updated_at": "2026-07-31T23:14:10Z",
-    "url": "https://github.com/coco-research/coco"
   },
   {
     "description": "Your AI agent, safely operating your app in production, behind guardrails it can't cross. Deploy, scale, debug, and roll",
@@ -95,7 +176,7 @@
     "language": "TypeScript",
     "name": "simozampa/sametree",
     "stars": 1,
-    "updated_at": "2026-07-31T23:14:25Z",
+    "updated_at": "2026-07-31T23:15:09Z",
     "url": "https://github.com/simozampa/sametree"
   },
   {
@@ -124,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-07-31T23:12:18Z",
     "url": "https://github.com/yadam119988/method-mosaic"
-  },
-  {
-    "description": "Turn rough notes into a polished, schema-validated slide deck in any AI agent (Claude Code, Cursor, Codex, Gemini CLI, C",
-    "id": "isatimur/presentation-md",
-    "language": "HTML",
-    "name": "isatimur/presentation-md",
-    "stars": 2,
-    "updated_at": "2026-07-31T23:12:12Z",
-    "url": "https://github.com/isatimur/presentation-md"
   },
   {
     "description": "",
@@ -270,15 +342,6 @@
     "url": "https://github.com/app-vitals/shipwright"
   },
   {
-    "description": "Agentic stack-neutral starter pack with instant project auto-mapping. Perfect bootstrap for Claude Code, Cursor, Hermes ",
-    "id": "wesleysimplicio/simplicio-mapper",
-    "language": "Python",
-    "name": "wesleysimplicio/simplicio-mapper",
-    "stars": 7,
-    "updated_at": "2026-07-31T23:09:57Z",
-    "url": "https://github.com/wesleysimplicio/simplicio-mapper"
-  },
-  {
     "description": "Autonomous Agents Orchestrator Experiment",
     "id": "gabrielkoerich/orch",
     "language": "Rust",
@@ -385,68 +448,5 @@
     "stars": 1013,
     "updated_at": "2026-07-31T23:08:55Z",
     "url": "https://github.com/vstorm-co/pydantic-deepagents"
-  },
-  {
-    "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
-    "id": "makecindy/cindy",
-    "language": "TypeScript",
-    "name": "makecindy/cindy",
-    "stars": 1262,
-    "updated_at": "2026-07-31T23:07:53Z",
-    "url": "https://github.com/makecindy/cindy"
-  },
-  {
-    "description": "UIKit Expert Skill 2026 - Best Practices & High Performance Swift Code",
-    "id": "Trentobobbi/uikit-mastery-playbook",
-    "language": "HTML",
-    "name": "Trentobobbi/uikit-mastery-playbook",
-    "stars": 0,
-    "updated_at": "2026-07-31T23:07:52Z",
-    "url": "https://github.com/Trentobobbi/uikit-mastery-playbook"
-  },
-  {
-    "description": "Stacklit: AI Codebase Indexing 2026 \u2013 Zero-Setup Local Repo Mapping for Agents",
-    "id": "Baraa-Suliman/codebase-mapper",
-    "language": "HTML",
-    "name": "Baraa-Suliman/codebase-mapper",
-    "stars": 0,
-    "updated_at": "2026-07-31T23:07:44Z",
-    "url": "https://github.com/Baraa-Suliman/codebase-mapper"
-  },
-  {
-    "description": "Use Claude Code as a secure, resumable companion inside Codex.",
-    "id": "Beaulewis1977/claude-plugin-for-codex",
-    "language": "JavaScript",
-    "name": "Beaulewis1977/claude-plugin-for-codex",
-    "stars": 0,
-    "updated_at": "2026-07-31T23:07:42Z",
-    "url": "https://github.com/Beaulewis1977/claude-plugin-for-codex"
-  },
-  {
-    "description": "Best Requirements Management Plugin 2026: Traceability from Vision to Tasks",
-    "id": "Hud7428/requirement-lifecycle-orchestrator",
-    "language": "HTML",
-    "name": "Hud7428/requirement-lifecycle-orchestrator",
-    "stars": 0,
-    "updated_at": "2026-07-31T23:07:42Z",
-    "url": "https://github.com/Hud7428/requirement-lifecycle-orchestrator"
-  },
-  {
-    "description": "Make Notion the single source of truth for a development backlog, from any coding agent. Zero-dependency CLI plus ready-",
-    "id": "jcantave/notion-task-manager",
-    "language": "JavaScript",
-    "name": "jcantave/notion-task-manager",
-    "stars": 0,
-    "updated_at": "2026-07-31T23:07:38Z",
-    "url": "https://github.com/jcantave/notion-task-manager"
-  },
-  {
-    "description": "Open source knowledge management pipeline \u2014 passive recall, append-only intake, tiered compilation, configurable schemas",
-    "id": "Kromatic-Innovation/athenaeum",
-    "language": "Python",
-    "name": "Kromatic-Innovation/athenaeum",
-    "stars": 11,
-    "updated_at": "2026-07-31T23:07:37Z",
-    "url": "https://github.com/Kromatic-Innovation/athenaeum"
   }
 ]

@@ -1,5 +1,95 @@
 [
   {
+    "description": "Production-oriented frontend design Agent Skill with zh-Hant, true mobile UX, evidence-bounded model routing, and Playwr",
+    "id": "NoMoneyDaddy/Wow-Frontend-Design",
+    "language": "Python",
+    "name": "NoMoneyDaddy/Wow-Frontend-Design",
+    "stars": 0,
+    "updated_at": "2026-08-02T12:15:02Z",
+    "url": "https://github.com/NoMoneyDaddy/Wow-Frontend-Design"
+  },
+  {
+    "description": "Local AI-agent cost audit CLI for Codex, Claude Code and OpenClaw: find retries, fallback, cache misses, failed spend an",
+    "id": "zac343/agent-cost-auditor",
+    "language": "JavaScript",
+    "name": "zac343/agent-cost-auditor",
+    "stars": 0,
+    "updated_at": "2026-08-02T12:15:07Z",
+    "url": "https://github.com/zac343/agent-cost-auditor"
+  },
+  {
+    "description": "Cross-device AI usage, token, and cost analytics for developer AI tools.",
+    "id": "starkdmi/statsai",
+    "language": "Rust",
+    "name": "starkdmi/statsai",
+    "stars": 0,
+    "updated_at": "2026-08-02T12:14:55Z",
+    "url": "https://github.com/starkdmi/statsai"
+  },
+  {
+    "description": "Language-agnostic Claude Code plugin that adds multi-specialist code reviews, architecture audits, QA traceability, smar",
+    "id": "mka-codelake/agenticaiplugin",
+    "language": "JavaScript",
+    "name": "mka-codelake/agenticaiplugin",
+    "stars": 0,
+    "updated_at": "2026-08-02T12:14:40Z",
+    "url": "https://github.com/mka-codelake/agenticaiplugin"
+  },
+  {
+    "description": "Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.",
+    "id": "JKHeadley/instar",
+    "language": "TypeScript",
+    "name": "JKHeadley/instar",
+    "stars": 75,
+    "updated_at": "2026-08-02T12:14:32Z",
+    "url": "https://github.com/JKHeadley/instar"
+  },
+  {
+    "description": "Audit and shrink your Claude Code startup context. Measures what every skill, plugin, agent, and memory file costs in th",
+    "id": "iops-leo/claude-slim",
+    "language": "TypeScript",
+    "name": "iops-leo/claude-slim",
+    "stars": 43,
+    "updated_at": "2026-08-02T12:14:26Z",
+    "url": "https://github.com/iops-leo/claude-slim"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 3,
+    "updated_at": "2026-08-02T12:14:13Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Best AI Code Architect 2026: Diagram-First Agent Orchestrator with AST Editing & Atomic Commits",
+    "id": "Fiskopoi/outline-driven-toolkit",
+    "language": "HTML",
+    "name": "Fiskopoi/outline-driven-toolkit",
+    "stars": 1,
+    "updated_at": "2026-08-02T12:14:04Z",
+    "url": "https://github.com/Fiskopoi/outline-driven-toolkit"
+  },
+  {
+    "description": "One command to turn a fresh Ubuntu VPS into a production-ready AI coding agent environment. Installs Claude Code, Codex ",
+    "id": "quangdang46/agents_environment_setup",
+    "language": "Shell",
+    "name": "quangdang46/agents_environment_setup",
+    "stars": 4,
+    "updated_at": "2026-08-02T12:14:04Z",
+    "url": "https://github.com/quangdang46/agents_environment_setup"
+  },
+  {
+    "description": "SPEC-First AI DevKit for Agentic Code 2026 \u2014 24 Agents, 52 Skills, TDD/DDD Gates",
+    "id": "leerhadz/moai-forge",
+    "language": "HTML",
+    "name": "leerhadz/moai-forge",
+    "stars": 0,
+    "updated_at": "2026-08-02T12:13:53Z",
+    "url": "https://github.com/leerhadz/moai-forge"
+  },
+  {
     "description": "Autopilot for AI Coding Agents, supports OpenCode, Claude Code, pi.dev, Cursor, and many more",
     "id": "Ralph-Workflow/Ralph-Workflow",
     "language": "Python",
@@ -140,7 +230,7 @@
     "language": "Python",
     "name": "CryptoJones/omind",
     "stars": 1,
-    "updated_at": "2026-08-02T12:12:41Z",
+    "updated_at": "2026-08-02T12:14:40Z",
     "url": "https://github.com/CryptoJones/omind"
   },
   {
@@ -293,7 +383,7 @@
     "language": "Shell",
     "name": "The01Geek/prflow",
     "stars": 113,
-    "updated_at": "2026-08-02T12:12:04Z",
+    "updated_at": "2026-08-02T12:14:15Z",
     "url": "https://github.com/The01Geek/prflow"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 34,
     "updated_at": "2026-08-02T12:10:23Z",
     "url": "https://github.com/5dive-ai/5dive"
-  },
-  {
-    "description": "\u4e2a\u4eba AI \u77e5\u8bc6\u5e93\uff1a19 \u4e2a\u6a21\u5757 / 1733 \u9875\u8bb2\u4e49 + \u7f51\u9875\u7248\uff0c\u9644\u7ef4\u62a4\u5b83\u7684 Claude \u6280\u80fd knowledge-base-builder\uff08\u53ef\u5355\u72ec\u4e0b\u8f7d\uff09",
-    "id": "jasonlijiaxiang/ai-knowledge-base",
-    "language": "HTML",
-    "name": "jasonlijiaxiang/ai-knowledge-base",
-    "stars": 0,
-    "updated_at": "2026-08-02T12:09:39Z",
-    "url": "https://github.com/jasonlijiaxiang/ai-knowledge-base"
-  },
-  {
-    "description": "Hope helps people work with AI while staying able to see, understand, and control the work.",
-    "id": "dkstm95/hope",
-    "language": "JavaScript",
-    "name": "dkstm95/hope",
-    "stars": 5,
-    "updated_at": "2026-08-02T12:13:27Z",
-    "url": "https://github.com/dkstm95/hope"
-  },
-  {
-    "description": "Claude Code, in stereo: Claude plans and reviews, Codex implements.",
-    "id": "vsladkov/claudex-stereo",
-    "language": "TypeScript",
-    "name": "vsladkov/claudex-stereo",
-    "stars": 1,
-    "updated_at": "2026-08-02T12:09:29Z",
-    "url": "https://github.com/vsladkov/claudex-stereo"
-  },
-  {
-    "description": "Open-Source AI Gateway 2026 \u26a1\ufe0f Universal SDK & LLM Load Balancer",
-    "id": "tapiamartinez809-ui/synapse-bridge",
-    "language": "HTML",
-    "name": "tapiamartinez809-ui/synapse-bridge",
-    "stars": 0,
-    "updated_at": "2026-08-02T12:09:29Z",
-    "url": "https://github.com/tapiamartinez809-ui/synapse-bridge"
-  },
-  {
-    "description": "AI Persona Avatar Studio for Claude Code: Auto-Meetings & Document Generation 2026",
-    "id": "clark-10/persona-chamber",
-    "language": "HTML",
-    "name": "clark-10/persona-chamber",
-    "stars": 0,
-    "updated_at": "2026-08-02T12:09:26Z",
-    "url": "https://github.com/clark-10/persona-chamber"
-  },
-  {
-    "description": "RuvNet Brain \u2014 a downloadable, source-grounded brain for Claude Code over Reuven Cohen's (rUv's) RuvNet stack: RuVector/",
-    "id": "stuinfla/ruvnet-brain",
-    "language": "JavaScript",
-    "name": "stuinfla/ruvnet-brain",
-    "stars": 25,
-    "updated_at": "2026-08-02T12:09:19Z",
-    "url": "https://github.com/stuinfla/ruvnet-brain"
-  },
-  {
-    "description": "SEO & GEO audit CLI: check how findable your site is by search engines and AI assistants.",
-    "id": "piwig/findable-audit",
-    "language": "TypeScript",
-    "name": "piwig/findable-audit",
-    "stars": 1,
-    "updated_at": "2026-08-02T12:09:19Z",
-    "url": "https://github.com/piwig/findable-audit"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 1,
-    "updated_at": "2026-08-02T12:09:16Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Sun Tzu Strategic AI Advisor 2026 - Competitive Analysis & Decision Engine",
-    "id": "Rajib1000/strategic-reasoning-engine",
-    "language": "HTML",
-    "name": "Rajib1000/strategic-reasoning-engine",
-    "stars": 0,
-    "updated_at": "2026-08-02T12:09:13Z",
-    "url": "https://github.com/Rajib1000/strategic-reasoning-engine"
-  },
-  {
-    "description": "Ultimate 2026 Temporary Email CLI & OTP Auto Extraction Toolkit",
-    "id": "randyfajar/inbox-watcher-cli",
-    "language": "HTML",
-    "name": "randyfajar/inbox-watcher-cli",
-    "stars": 151,
-    "updated_at": "2026-08-02T12:09:11Z",
-    "url": "https://github.com/randyfajar/inbox-watcher-cli"
   }
 ]

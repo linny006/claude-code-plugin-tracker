@@ -1,12 +1,57 @@
 [
   {
+    "description": "Drive Claude Code on your own machine from your phone \u2014 a PWA chat client that works over LAN or Tailscale, with remote ",
+    "id": "NspxMiguel/claude-remote-control",
+    "language": "JavaScript",
+    "name": "NspxMiguel/claude-remote-control",
+    "stars": 0,
+    "updated_at": "2026-08-02T04:45:05Z",
+    "url": "https://github.com/NspxMiguel/claude-remote-control"
+  },
+  {
+    "description": "Run multiple Claude Code and Codex sessions in parallel \u2014 a browser terminal grid that shows which agent needs you. Loca",
+    "id": "receptron/mulmoterminal",
+    "language": "TypeScript",
+    "name": "receptron/mulmoterminal",
+    "stars": 86,
+    "updated_at": "2026-08-02T04:45:00Z",
+    "url": "https://github.com/receptron/mulmoterminal"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 3,
+    "updated_at": "2026-08-02T04:44:54Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Universal SKILL.md catalog for research workflows: literature review, research design, project memory, manuscript writin",
+    "id": "WenyuChiou/ai-research-skills",
+    "language": "Python",
+    "name": "WenyuChiou/ai-research-skills",
+    "stars": 183,
+    "updated_at": "2026-08-02T04:44:53Z",
+    "url": "https://github.com/WenyuChiou/ai-research-skills"
+  },
+  {
     "description": "A local, backend-agnostic voice frontend for CLI coding agents",
     "id": "LegionForge/convobox",
     "language": "Python",
     "name": "LegionForge/convobox",
     "stars": 0,
-    "updated_at": "2026-08-02T04:44:49Z",
+    "updated_at": "2026-08-02T04:45:00Z",
     "url": "https://github.com/LegionForge/convobox"
+  },
+  {
+    "description": "EGC gives every AI coding agent the same brain. Shared memory, skills, and live context across Cursor, Claude Code, Copi",
+    "id": "Fmarzochi/EGC",
+    "language": "JavaScript",
+    "name": "Fmarzochi/EGC",
+    "stars": 42,
+    "updated_at": "2026-08-02T04:44:47Z",
+    "url": "https://github.com/Fmarzochi/EGC"
   },
   {
     "description": "untell \u2014 free, open-source AI humanizer that closes the loop: iteratively rewrites AI text against live detector scores ",
@@ -320,7 +365,7 @@
     "language": "Python",
     "name": "aqua5230/usage",
     "stars": 276,
-    "updated_at": "2026-08-02T04:41:34Z",
+    "updated_at": "2026-08-02T04:45:04Z",
     "url": "https://github.com/aqua5230/usage"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-02T04:40:52Z",
     "url": "https://github.com/burrow-cloud/burrow"
-  },
-  {
-    "description": "Turn long AI conversations into reusable domain knowledge across sessions",
-    "id": "XTSoftwareLabs/neatcontext-plugins",
-    "language": "JavaScript",
-    "name": "XTSoftwareLabs/neatcontext-plugins",
-    "stars": 5,
-    "updated_at": "2026-08-02T04:40:44Z",
-    "url": "https://github.com/XTSoftwareLabs/neatcontext-plugins"
-  },
-  {
-    "description": "Claude Code\u30d7\u30e9\u30b0\u30a4\u30f3\u30de\u30fc\u30b1\u30c3\u30c8\u30d7\u30ec\u30a4\u30b9\u3002ContextPreloader\uff08\u521d\u671f\u6587\u8108\u53d6\u8fbc\uff09\u3001EpisodicRAG\uff08\u968e\u5c64\u7684\u9577\u671f\u8a18\u61b6\uff09\u3001EmailingEssay\uff08AI\u99c6\u52d5\u30a8\u30c3\u30bb\u30a4\u914d\u4fe1\uff09\u3001VisualExpression\uff08\u8868\u60c5\u8868\u73fe\u30ec",
-    "id": "Bizuayeu/Plugins-Weave",
-    "language": "Python",
-    "name": "Bizuayeu/Plugins-Weave",
-    "stars": 6,
-    "updated_at": "2026-08-02T04:40:36Z",
-    "url": "https://github.com/Bizuayeu/Plugins-Weave"
-  },
-  {
-    "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
-    "id": "makecindy/cindy",
-    "language": "TypeScript",
-    "name": "makecindy/cindy",
-    "stars": 1377,
-    "updated_at": "2026-08-02T04:44:34Z",
-    "url": "https://github.com/makecindy/cindy"
-  },
-  {
-    "description": "14-Day Expression System Training Coach \u2014 daily 5-10 min practice to build clear, structured, and confident expression. ",
-    "id": "chaochaoji/expression-coach",
-    "language": "\u2014",
-    "name": "chaochaoji/expression-coach",
-    "stars": 0,
-    "updated_at": "2026-08-02T04:40:32Z",
-    "url": "https://github.com/chaochaoji/expression-coach"
-  },
-  {
-    "description": "Odin \u2014 organizational memory for humans and AI. Plugins for Claude Code and Codex CLI over the durable, provenance-track",
-    "id": "WillCAboutThat/odin-adapter",
-    "language": "Python",
-    "name": "WillCAboutThat/odin-adapter",
-    "stars": 2,
-    "updated_at": "2026-08-02T04:40:19Z",
-    "url": "https://github.com/WillCAboutThat/odin-adapter"
   }
 ]

@@ -1,5 +1,86 @@
 [
   {
+    "description": "Routed Media OS 2026: 96 AI Skills, 13 Modes & 7 Agents for FFmpeg, OBS, DeckLink & Dolby Vision",
+    "id": "maileshwaran28/media-routing-mesh",
+    "language": "HTML",
+    "name": "maileshwaran28/media-routing-mesh",
+    "stars": 3,
+    "updated_at": "2026-08-02T01:15:08Z",
+    "url": "https://github.com/maileshwaran28/media-routing-mesh"
+  },
+  {
+    "description": "\u5206\u5c4f\u7ec8\u7aef\u5de5\u4f5c\u53f0 \u2014 split panes, embedded editor, Git graph, Claude Code agent collaboration. Tauri + Svelte + Rust.",
+    "id": "MySetsuna/ridge",
+    "language": "Rust",
+    "name": "MySetsuna/ridge",
+    "stars": 19,
+    "updated_at": "2026-08-02T01:15:13Z",
+    "url": "https://github.com/MySetsuna/ridge"
+  },
+  {
+    "description": "\u63a5\u4f4f claude.ai \u88ab\u5173\u6389\u7684\u5bf9\u8bdd\u7a97\u53e3\uff0c\u539f\u6837\u63a5\u56de\u4f60\u81ea\u5df1\u7684\u670d\u52a1\u5668\u7ee7\u7eed\u966a\u4f60 \u2014\u2014 \u624b\u673a\u4e0a\u7684\u79c1\u4eba AI \u4f19\u4f34",
+    "id": "airem2024/telos",
+    "language": "JavaScript",
+    "name": "airem2024/telos",
+    "stars": 0,
+    "updated_at": "2026-08-02T01:14:58Z",
+    "url": "https://github.com/airem2024/telos"
+  },
+  {
+    "description": "Structured Thinking for Claude Code 2026 \u2013 Ask, Search, Verify Before You Build",
+    "id": "zuya48/claude-code-prompt-plan",
+    "language": "HTML",
+    "name": "zuya48/claude-code-prompt-plan",
+    "stars": 0,
+    "updated_at": "2026-08-02T01:14:46Z",
+    "url": "https://github.com/zuya48/claude-code-prompt-plan"
+  },
+  {
+    "description": "The agent that grows with you",
+    "id": "NousResearch/hermes-agent",
+    "language": "Python",
+    "name": "NousResearch/hermes-agent",
+    "stars": 223845,
+    "updated_at": "2026-08-02T01:14:44Z",
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "description": "Agent skills for tool/MCP contracts \u2014 design, breaking review, permissions, HITL, eval. Not another MCP builder. MIT.",
+    "id": "Wanbinyu/ai-surface-skills",
+    "language": "Python",
+    "name": "Wanbinyu/ai-surface-skills",
+    "stars": 1,
+    "updated_at": "2026-08-02T01:14:38Z",
+    "url": "https://github.com/Wanbinyu/ai-surface-skills"
+  },
+  {
+    "description": "A production-ready Expo Router starter with NativeWind, TypeScript, and with a shared AI-coding harness for Claude Code ",
+    "id": "JoseCortezz25/expo-starter-template",
+    "language": "TypeScript",
+    "name": "JoseCortezz25/expo-starter-template",
+    "stars": 0,
+    "updated_at": "2026-08-02T01:14:36Z",
+    "url": "https://github.com/JoseCortezz25/expo-starter-template"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 3,
+    "updated_at": "2026-08-02T01:14:32Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Colin's Claude Code configuration \u2014 cardinal rules and locus-aware skills \u2014 versioned instead of unversioned dotfiles un",
+    "id": "SuxOS/claude-config",
+    "language": "Python",
+    "name": "SuxOS/claude-config",
+    "stars": 0,
+    "updated_at": "2026-08-02T01:14:28Z",
+    "url": "https://github.com/SuxOS/claude-config"
+  },
+  {
     "description": "Privacy-conscious Oura API skill for Codex and Claude Code",
     "id": "WesleyyC/oura-skill",
     "language": "Python",
@@ -61,15 +142,6 @@
     "stars": 497,
     "updated_at": "2026-08-02T01:14:14Z",
     "url": "https://github.com/l0ng-ai/tty7"
-  },
-  {
-    "description": "The agent that grows with you",
-    "id": "NousResearch/hermes-agent",
-    "language": "Python",
-    "name": "NousResearch/hermes-agent",
-    "stars": 223844,
-    "updated_at": "2026-08-02T01:14:08Z",
-    "url": "https://github.com/NousResearch/hermes-agent"
   },
   {
     "description": "\ud83c\udfc6 Ultralight AI Coding Agent 2026 \u2014 Blazing CLI, Tiny Codebase, Full Power Free",
@@ -205,15 +277,6 @@
     "stars": 526,
     "updated_at": "2026-08-02T01:12:51Z",
     "url": "https://github.com/kdlbs/kandev"
-  },
-  {
-    "description": "\u5206\u5c4f\u7ec8\u7aef\u5de5\u4f5c\u53f0 \u2014 split panes, embedded editor, Git graph, Claude Code agent collaboration. Tauri + Svelte + Rust.",
-    "id": "MySetsuna/ridge",
-    "language": "Rust",
-    "name": "MySetsuna/ridge",
-    "stars": 19,
-    "updated_at": "2026-08-02T01:12:51Z",
-    "url": "https://github.com/MySetsuna/ridge"
   },
   {
     "description": "Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-02T01:10:47Z",
     "url": "https://github.com/Wanbinyu/skill-webhook-design"
-  },
-  {
-    "description": "Discover and compare open-source Agent Skills, tools & MCP servers \u2014 with quality scoring, trending analysis, and automa",
-    "id": "zhuyansen/agent-skills-hub",
-    "language": "TypeScript",
-    "name": "zhuyansen/agent-skills-hub",
-    "stars": 319,
-    "updated_at": "2026-08-02T01:10:36Z",
-    "url": "https://github.com/zhuyansen/agent-skills-hub"
-  },
-  {
-    "description": "Self-hosted home for durable AI employees: one resident, one private computer, compounding memory and skills, with Skipp",
-    "id": "gitcommit90/1Helm",
-    "language": "TypeScript",
-    "name": "gitcommit90/1Helm",
-    "stars": 2,
-    "updated_at": "2026-08-02T01:10:36Z",
-    "url": "https://github.com/gitcommit90/1Helm"
-  },
-  {
-    "description": "Standalone Agent Skill: using-api-platform-skills. Install to ~/.claude/skills/using-api-platform-skills",
-    "id": "Wanbinyu/skill-using-api-platform-skills",
-    "language": "PowerShell",
-    "name": "Wanbinyu/skill-using-api-platform-skills",
-    "stars": 0,
-    "updated_at": "2026-08-02T01:10:35Z",
-    "url": "https://github.com/Wanbinyu/skill-using-api-platform-skills"
-  },
-  {
-    "description": "Standalone Agent Skill: using-ai-surface-skills. Install to ~/.claude/skills/using-ai-surface-skills",
-    "id": "Wanbinyu/skill-using-ai-surface-skills",
-    "language": "PowerShell",
-    "name": "Wanbinyu/skill-using-ai-surface-skills",
-    "stars": 0,
-    "updated_at": "2026-08-02T01:10:23Z",
-    "url": "https://github.com/Wanbinyu/skill-using-ai-surface-skills"
-  },
-  {
-    "description": "Run your AI coding tool through a 18-stage dev pipeline. Multi-host across Claude Code, Codex, Gemini CLI and OpenAI API",
-    "id": "telus-labs/stagecraft",
-    "language": "JavaScript",
-    "name": "telus-labs/stagecraft",
-    "stars": 6,
-    "updated_at": "2026-08-02T01:10:19Z",
-    "url": "https://github.com/telus-labs/stagecraft"
-  },
-  {
-    "description": "The independent, execution grounded second opinion your model can't give itself - an AI code reviewer for coding agents.",
-    "id": "adigo-pro/CodeCouncil",
-    "language": "Python",
-    "name": "adigo-pro/CodeCouncil",
-    "stars": 2,
-    "updated_at": "2026-08-02T01:10:14Z",
-    "url": "https://github.com/adigo-pro/CodeCouncil"
-  },
-  {
-    "description": "Standalone Agent Skill: tool-schema-breaking-review. Install to ~/.claude/skills/tool-schema-breaking-review",
-    "id": "Wanbinyu/skill-tool-schema-breaking-review",
-    "language": "PowerShell",
-    "name": "Wanbinyu/skill-tool-schema-breaking-review",
-    "stars": 0,
-    "updated_at": "2026-08-02T01:10:11Z",
-    "url": "https://github.com/Wanbinyu/skill-tool-schema-breaking-review"
   }
 ]

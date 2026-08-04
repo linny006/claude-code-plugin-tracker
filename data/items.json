@@ -1,5 +1,86 @@
 [
   {
+    "description": "Uxnan (pronounced /u\u0283.nan/) is a suite of tools I built to solve a very specific problem I face as a developer: managing",
+    "id": "luisgamas/uxnan",
+    "language": "TypeScript",
+    "name": "luisgamas/uxnan",
+    "stars": 26,
+    "updated_at": "2026-08-04T21:46:16Z",
+    "url": "https://github.com/luisgamas/uxnan"
+  },
+  {
+    "description": "Rust MCP server and CLI for yt-dlp media search/downloads, metadata tagging, transfer queues, Plex playlists, SSH/rclone",
+    "id": "dinglebear-ai/rytdl",
+    "language": "Rust",
+    "name": "dinglebear-ai/rytdl",
+    "stars": 1,
+    "updated_at": "2026-08-04T21:46:13Z",
+    "url": "https://github.com/dinglebear-ai/rytdl"
+  },
+  {
+    "description": "Rust MCP server and CLI for Gotify push notifications, with stdio/HTTP transports, auth, Claude/Codex plugin packaging, ",
+    "id": "dinglebear-ai/rgotify",
+    "language": "Rust",
+    "name": "dinglebear-ai/rgotify",
+    "stars": 1,
+    "updated_at": "2026-08-04T21:46:12Z",
+    "url": "https://github.com/dinglebear-ai/rgotify"
+  },
+  {
+    "description": "Manager/researcher/worker/validator/judge multi-agent orchestration for Claude Code and Codex CLI. One spec, two generat",
+    "id": "milad-hub/orchestrate-agents",
+    "language": "PowerShell",
+    "name": "milad-hub/orchestrate-agents",
+    "stars": 1,
+    "updated_at": "2026-08-04T21:46:04Z",
+    "url": "https://github.com/milad-hub/orchestrate-agents"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8109,
+    "updated_at": "2026-08-04T21:45:46Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "\u041b\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u043f\u0440\u0430\u0432\u043e\u0447\u043d\u0438\u043a \u0432\u0441\u0435\u0445 \u0441\u043a\u0438\u043b\u043b\u043e\u0432 \u0438 /\u043a\u043e\u043c\u0430\u043d\u0434 Claude Code \u0438 Codex: \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438, \u043f\u043e\u0438\u0441\u043a, \u0432\u0435\u0440\u0441\u0438\u0438/\u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0438 \u0441\u0447\u0451\u0442\u0447\u0438\u043a\u0438 \u0432\u044b\u0437\u043e\u0432\u043e\u0432.",
+    "id": "Ntmib/skill-guide",
+    "language": "Python",
+    "name": "Ntmib/skill-guide",
+    "stars": 0,
+    "updated_at": "2026-08-04T21:45:38Z",
+    "url": "https://github.com/Ntmib/skill-guide"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 16,
+    "updated_at": "2026-08-04T21:45:37Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Open source AI prompt library \u2014 ChatGPT, Claude, Gemini prompts for coding, writing, marketing & more.",
+    "id": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "language": "JavaScript",
+    "name": "BELYAGOUBIABDELILAH/open-prompt-library",
+    "stars": 2,
+    "updated_at": "2026-08-04T21:45:36Z",
+    "url": "https://github.com/BELYAGOUBIABDELILAH/open-prompt-library"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 3,
+    "updated_at": "2026-08-04T21:45:33Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -14,7 +95,7 @@
     "language": "Python",
     "name": "owainlewis/youtube-tutorials",
     "stars": 318,
-    "updated_at": "2026-08-04T21:45:19Z",
+    "updated_at": "2026-08-04T21:45:34Z",
     "url": "https://github.com/owainlewis/youtube-tutorials"
   },
   {
@@ -45,6 +126,15 @@
     "url": "https://github.com/cfgaudit/cfgaudit"
   },
   {
+    "description": "Guardrails for the agent harness. Regulated data stays on your machine, and every prompt and tool call is scanned before",
+    "id": "akasecurity/ai-tc",
+    "language": "TypeScript",
+    "name": "akasecurity/ai-tc",
+    "stars": 10,
+    "updated_at": "2026-08-04T21:44:36Z",
+    "url": "https://github.com/akasecurity/ai-tc"
+  },
+  {
     "description": "Generate, edit and save Xfer Serum 2 presets from natural language, over MCP",
     "id": "Celian-mrc/serum-mcp",
     "language": "Python",
@@ -68,7 +158,7 @@
     "language": "TypeScript",
     "name": "vellum-ai/vellum-assistant",
     "stars": 1005,
-    "updated_at": "2026-08-04T21:44:17Z",
+    "updated_at": "2026-08-04T21:45:52Z",
     "url": "https://github.com/vellum-ai/vellum-assistant"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-04T21:40:08Z",
     "url": "https://github.com/crAK1644/orchestrator-mcp"
-  },
-  {
-    "description": "\ud83d\ude80 Neo4j Knowledge Agents: Next-Gen Cypher Tools 2026",
-    "id": "Bateelco/neo4j-agent-toolkit",
-    "language": "HTML",
-    "name": "Bateelco/neo4j-agent-toolkit",
-    "stars": 0,
-    "updated_at": "2026-08-04T21:40:00Z",
-    "url": "https://github.com/Bateelco/neo4j-agent-toolkit"
-  },
-  {
-    "description": "A self-writing AI intel wiki \u2014 Claude routines write twice-daily briefs to a markdown vault, with ntfy alerts, CI health",
-    "id": "krish-shahh/ai-intel",
-    "language": "JavaScript",
-    "name": "krish-shahh/ai-intel",
-    "stars": 0,
-    "updated_at": "2026-08-04T21:39:46Z",
-    "url": "https://github.com/krish-shahh/ai-intel"
-  },
-  {
-    "description": "Nine quality-canary skills for AI coding agents - code health, world-class rule completeness, grounding, supply chain, r",
-    "id": "HetCreep/CoalMine",
-    "language": "JavaScript",
-    "name": "HetCreep/CoalMine",
-    "stars": 11,
-    "updated_at": "2026-08-04T21:39:45Z",
-    "url": "https://github.com/HetCreep/CoalMine"
-  },
-  {
-    "description": "Persistent Claude Code sessions for VS Code / code-server \u2014 a server-side daemon + chat extension that survive browser r",
-    "id": "jagajaga/claude-persist",
-    "language": "TypeScript",
-    "name": "jagajaga/claude-persist",
-    "stars": 1,
-    "updated_at": "2026-08-04T21:39:34Z",
-    "url": "https://github.com/jagajaga/claude-persist"
-  },
-  {
-    "description": "Vlad's Playbook \u2014 the operator's field manual where every artifact is live, clickable, and forwardable. 39 chapters \u00b7 25",
-    "id": "Belkins/ai-dive-deep",
-    "language": "Astro",
-    "name": "Belkins/ai-dive-deep",
-    "stars": 421,
-    "updated_at": "2026-08-04T21:39:34Z",
-    "url": "https://github.com/Belkins/ai-dive-deep"
-  },
-  {
-    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
-    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "language": "HTML",
-    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "stars": 2,
-    "updated_at": "2026-08-04T21:39:33Z",
-    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility p",
-    "id": "Piebald-AI/claude-code-system-prompts",
-    "language": "JavaScript",
-    "name": "Piebald-AI/claude-code-system-prompts",
-    "stars": 12181,
-    "updated_at": "2026-08-04T21:39:26Z",
-    "url": "https://github.com/Piebald-AI/claude-code-system-prompts"
-  },
-  {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 7,
-    "updated_at": "2026-08-04T21:40:31Z",
-    "url": "https://github.com/event4u-app/agent-config"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 1,
-    "updated_at": "2026-08-04T21:39:07Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Turn any text field into a two-way LLM channel: it reads what you write and fills what you ask. Flags a slip as you type",
-    "id": "opencues/opencues",
-    "language": "TypeScript",
-    "name": "opencues/opencues",
-    "stars": 27,
-    "updated_at": "2026-08-04T21:39:04Z",
-    "url": "https://github.com/opencues/opencues"
   }
 ]

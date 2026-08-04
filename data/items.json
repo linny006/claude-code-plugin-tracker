@@ -1,399 +1,30 @@
 [
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 22,
-    "updated_at": "2026-08-04T00:30:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Portable harness for autonomous, long-horizon, multi-agent workflows",
-    "id": "natb1/commons.systems",
-    "language": "TypeScript",
-    "name": "natb1/commons.systems",
-    "stars": 2,
-    "updated_at": "2026-08-04T00:30:05Z",
-    "url": "https://github.com/natb1/commons.systems"
-  },
-  {
-    "description": "\u5206\u5c4f\u7ec8\u7aef\u5de5\u4f5c\u53f0 \u2014 split panes, embedded editor, Git graph, Claude Code agent collaboration. Tauri + Svelte + Rust.",
-    "id": "MySetsuna/ridge",
-    "language": "Rust",
-    "name": "MySetsuna/ridge",
-    "stars": 20,
-    "updated_at": "2026-08-04T00:29:53Z",
-    "url": "https://github.com/MySetsuna/ridge"
-  },
-  {
-    "description": "Cross-language-safe code-intelligence MCP for AI agents -- 13 languages, family-gated call graph (CodeGraph 745 vs TSA 6",
-    "id": "aimasteracc/tree-sitter-analyzer",
-    "language": "Python",
-    "name": "aimasteracc/tree-sitter-analyzer",
-    "stars": 45,
-    "updated_at": "2026-08-04T00:29:34Z",
-    "url": "https://github.com/aimasteracc/tree-sitter-analyzer"
-  },
-  {
-    "description": "MCP that delegates mechanical text tasks to a local OpenAI-compatible LLM endpoint to conserve Claude subscription quota",
-    "id": "ZahiriNatZuke/local-delegate",
-    "language": "Python",
-    "name": "ZahiriNatZuke/local-delegate",
-    "stars": 5,
-    "updated_at": "2026-08-04T00:29:25Z",
-    "url": "https://github.com/ZahiriNatZuke/local-delegate"
-  },
-  {
-    "description": "Lecture recordings \u2192 structured grounded notes + a synced HTML viewer: video, timestamped transcript and curated summary",
-    "id": "drpwchen/lecture-to-notes",
-    "language": "Python",
-    "name": "drpwchen/lecture-to-notes",
-    "stars": 56,
-    "updated_at": "2026-08-04T00:29:04Z",
-    "url": "https://github.com/drpwchen/lecture-to-notes"
-  },
-  {
-    "description": "Six installable agent skills mapped to the six Nen categories \u2014 performance, refactoring, launch, reverse engineering, r",
-    "id": "rlaope/nen",
+    "description": "Turns AI coding tools into reliable software delivery systems. Drop a .gaai/ folder into any project \u2014 Discovery defines",
+    "id": "Fr-e-d/GAAI-framework",
     "language": "Shell",
-    "name": "rlaope/nen",
-    "stars": 0,
-    "updated_at": "2026-08-04T00:29:03Z",
-    "url": "https://github.com/rlaope/nen"
+    "name": "Fr-e-d/GAAI-framework",
+    "stars": 155,
+    "updated_at": "2026-08-04T00:45:11Z",
+    "url": "https://github.com/Fr-e-d/GAAI-framework"
   },
   {
-    "description": "Reply Radar \u2014 finds discussions worth replying to and drafts AI replies, built on DeepSpace.",
-    "id": "deepdotspace/threadhunt",
-    "language": "TypeScript",
-    "name": "deepdotspace/threadhunt",
-    "stars": 4,
-    "updated_at": "2026-08-04T00:28:57Z",
-    "url": "https://github.com/deepdotspace/threadhunt"
-  },
-  {
-    "description": "Taskspace \u2014 collaborative task manager built with DeepSpace",
-    "id": "deepdotspace/taskspace",
-    "language": "TypeScript",
-    "name": "deepdotspace/taskspace",
-    "stars": 5,
-    "updated_at": "2026-08-04T00:28:57Z",
-    "url": "https://github.com/deepdotspace/taskspace"
-  },
-  {
-    "description": "Pitchside '26 \u2014 a 2026 World Cup companion with live scores, bracket picks, and per-match fan chat, built on DeepSpace.",
-    "id": "deepdotspace/worldcup2026",
-    "language": "TypeScript",
-    "name": "deepdotspace/worldcup2026",
-    "stars": 1,
-    "updated_at": "2026-08-04T00:28:57Z",
-    "url": "https://github.com/deepdotspace/worldcup2026"
-  },
-  {
-    "description": "Story Nest \u2014 turns a one-line idea into an illustrated, narrated children\u2019s storybook, built on DeepSpace.",
-    "id": "deepdotspace/storynest",
-    "language": "TypeScript",
-    "name": "deepdotspace/storynest",
-    "stars": 7,
-    "updated_at": "2026-08-04T00:28:56Z",
-    "url": "https://github.com/deepdotspace/storynest"
-  },
-  {
-    "description": "Tally \u2014 live audience polls with QR-code joining and real-time results, built on DeepSpace.",
-    "id": "deepdotspace/tally",
-    "language": "TypeScript",
-    "name": "deepdotspace/tally",
-    "stars": 4,
-    "updated_at": "2026-08-04T00:28:56Z",
-    "url": "https://github.com/deepdotspace/tally"
-  },
-  {
-    "description": "Tangent: a Wikipedia speed-running game on DeepSpace. Race between articles in the fewest clicks, with a shared daily li",
-    "id": "deepdotspace/tangent",
-    "language": "TypeScript",
-    "name": "deepdotspace/tangent",
-    "stars": 0,
-    "updated_at": "2026-08-04T00:28:56Z",
-    "url": "https://github.com/deepdotspace/tangent"
-  },
-  {
-    "description": "AI-powered LaTeX resume builder with templates, live PDF preview, and job-description tailoring",
-    "id": "deepdotspace/resume",
-    "language": "TypeScript",
-    "name": "deepdotspace/resume",
-    "stars": 17,
-    "updated_at": "2026-08-04T00:28:55Z",
-    "url": "https://github.com/deepdotspace/resume"
-  },
-  {
-    "description": "Kahoot-style live quiz platform built on the DeepSpace SDK",
-    "id": "deepdotspace/popquiz",
-    "language": "TypeScript",
-    "name": "deepdotspace/popquiz",
-    "stars": 5,
-    "updated_at": "2026-08-04T00:28:55Z",
-    "url": "https://github.com/deepdotspace/popquiz"
-  },
-  {
-    "description": "Running Map -  lets runners draw, measure, and save custom routes by clicking points along streets and trails, with auto",
-    "id": "deepdotspace/runningmap",
-    "language": "TypeScript",
-    "name": "deepdotspace/runningmap",
-    "stars": 2,
-    "updated_at": "2026-08-04T00:28:55Z",
-    "url": "https://github.com/deepdotspace/runningmap"
-  },
-  {
-    "description": "Turn any article, PDF, or text into a two-host AI podcast. Built on the DeepSpace SDK.",
-    "id": "deepdotspace/podcastify",
-    "language": "TypeScript",
-    "name": "deepdotspace/podcastify",
-    "stars": 2,
-    "updated_at": "2026-08-04T00:28:55Z",
-    "url": "https://github.com/deepdotspace/podcastify"
-  },
-  {
-    "description": "Go down the research rabbit hole and keep the map \u2014 pull threads to dig, nested findings, two views of one tree. Live at",
-    "id": "deepdotspace/rabbithole",
-    "language": "TypeScript",
-    "name": "deepdotspace/rabbithole",
-    "stars": 0,
-    "updated_at": "2026-08-04T00:28:55Z",
-    "url": "https://github.com/deepdotspace/rabbithole"
-  },
-  {
-    "description": "Roundtable \u2014 real-time multiplayer AI workspace (DeepSpace). Live at roundtable.app.space",
-    "id": "deepdotspace/roundtable",
-    "language": "TypeScript",
-    "name": "deepdotspace/roundtable",
-    "stars": 0,
-    "updated_at": "2026-08-04T00:28:55Z",
-    "url": "https://github.com/deepdotspace/roundtable"
-  },
-  {
-    "description": "Scout \u2014 a personal AI newsletter studio that searches the web and emails you sourced issues, built on DeepSpace.",
-    "id": "deepdotspace/scout",
-    "language": "TypeScript",
-    "name": "deepdotspace/scout",
-    "stars": 4,
-    "updated_at": "2026-08-04T00:28:55Z",
-    "url": "https://github.com/deepdotspace/scout"
-  },
-  {
-    "description": "Scheduling app built on DeepSpace SDK",
-    "id": "deepdotspace/scheduling-app",
-    "language": "TypeScript",
-    "name": "deepdotspace/scheduling-app",
-    "stars": 0,
-    "updated_at": "2026-08-04T00:28:55Z",
-    "url": "https://github.com/deepdotspace/scheduling-app"
-  },
-  {
-    "description": "News Without Doom built with Deepspace SDK",
-    "id": "deepdotspace/news-without-doom",
-    "language": "TypeScript",
-    "name": "deepdotspace/news-without-doom",
-    "stars": 4,
-    "updated_at": "2026-08-04T00:28:54Z",
-    "url": "https://github.com/deepdotspace/news-without-doom"
-  },
-  {
-    "description": "Your year in code, wrapped. A Spotify-Wrapped-style scroll story for any public GitHub user. Live: githubwrapped.app.spa",
-    "id": "deepdotspace/githubwrapped",
-    "language": "TypeScript",
-    "name": "deepdotspace/githubwrapped",
-    "stars": 0,
-    "updated_at": "2026-08-04T00:28:54Z",
-    "url": "https://github.com/deepdotspace/githubwrapped"
-  },
-  {
-    "description": "drawspace \u2014 infinite AI drawing canvas on DeepSpace : AI-generated shapes, prompt-to-layout blocks, and instant diagram ",
-    "id": "deepdotspace/drawspace",
-    "language": "TypeScript",
-    "name": "deepdotspace/drawspace",
-    "stars": 0,
-    "updated_at": "2026-08-04T00:28:54Z",
-    "url": "https://github.com/deepdotspace/drawspace"
-  },
-  {
-    "description": "LinkedOut \u2014 a satirical LinkedIn for the unemployed, built on DeepSpace. Live at linkedout.app.space",
-    "id": "deepdotspace/linkedout",
-    "language": "TypeScript",
-    "name": "deepdotspace/linkedout",
-    "stars": 5,
-    "updated_at": "2026-08-04T00:28:54Z",
-    "url": "https://github.com/deepdotspace/linkedout"
-  },
-  {
-    "description": "Party Pack \u2014 three Jackbox-style party games (Wisecrack, Baloney, Pitch) in one app on the DeepSpace SDK. partypack.app.",
-    "id": "deepdotspace/partypack",
-    "language": "TypeScript",
-    "name": "deepdotspace/partypack",
-    "stars": 6,
-    "updated_at": "2026-08-04T00:28:54Z",
-    "url": "https://github.com/deepdotspace/partypack"
-  },
-  {
-    "description": "Spaced-repetition flashcard app with AI-generated cards, images, and audio for language learning",
-    "id": "deepdotspace/fluently",
-    "language": "TypeScript",
-    "name": "deepdotspace/fluently",
-    "stars": 4,
-    "updated_at": "2026-08-04T00:28:53Z",
-    "url": "https://github.com/deepdotspace/fluently"
-  },
-  {
-    "description": "Gist \u2014 read the gist of any YouTube video on DeepSpace: TL;DR, chapter breakdown with click-to-seek timestamps, key quot",
-    "id": "deepdotspace/gist",
-    "language": "TypeScript",
-    "name": "deepdotspace/gist",
-    "stars": 0,
-    "updated_at": "2026-08-04T00:28:53Z",
-    "url": "https://github.com/deepdotspace/gist"
-  },
-  {
-    "description": "The free, open bill splitter on DeepSpace: AI receipt scan to itemized split, real-time multi-currency groups, penny-exa",
-    "id": "deepdotspace/evenly",
-    "language": "TypeScript",
-    "name": "deepdotspace/evenly",
-    "stars": 0,
-    "updated_at": "2026-08-04T00:28:53Z",
-    "url": "https://github.com/deepdotspace/evenly"
-  },
-  {
-    "description": "Dialogue \u2014 AI mock-interview app on the DeepSpace SDK: live Tavus avatar interviewer (behavioral / coding / system-desig",
-    "id": "deepdotspace/dialogue",
-    "language": "TypeScript",
-    "name": "deepdotspace/dialogue",
-    "stars": 0,
-    "updated_at": "2026-08-04T00:28:52Z",
-    "url": "https://github.com/deepdotspace/dialogue"
-  },
-  {
-    "description": "Help Desk/Team ticket system built with Deepspace SDK",
-    "id": "deepdotspace/deepspace-helpdesk",
-    "language": "TypeScript",
-    "name": "deepdotspace/deepspace-helpdesk",
-    "stars": 2,
-    "updated_at": "2026-08-04T00:28:52Z",
-    "url": "https://github.com/deepdotspace/deepspace-helpdesk"
-  },
-  {
-    "description": "Recipe Tracker \u2014 save recipes from Instagram or any URL, with pantry and grocery list, built on DeepSpace.",
-    "id": "deepdotspace/Recipe-Tracker",
-    "language": "TypeScript",
-    "name": "deepdotspace/Recipe-Tracker",
-    "stars": 1,
-    "updated_at": "2026-08-04T00:28:52Z",
-    "url": "https://github.com/deepdotspace/Recipe-Tracker"
-  },
-  {
-    "description": "Doodle Chain \u2014 a draw-and-guess party game with four-letter room codes, built on DeepSpace.",
-    "id": "deepdotspace/doodlechain",
-    "language": "TypeScript",
-    "name": "deepdotspace/doodlechain",
-    "stars": 0,
-    "updated_at": "2026-08-04T00:28:52Z",
-    "url": "https://github.com/deepdotspace/doodlechain"
-  },
-  {
-    "description": "Bellwether \u2014 daily prediction-market brief on DeepSpace: trending markets, overnight odds movers, and closing-soon marke",
-    "id": "deepdotspace/bellwether",
-    "language": "TypeScript",
-    "name": "deepdotspace/bellwether",
-    "stars": 0,
-    "updated_at": "2026-08-04T00:28:52Z",
-    "url": "https://github.com/deepdotspace/bellwether"
-  },
-  {
-    "description": "TexPal - Agentic Latex Editor",
-    "id": "deepdotspace/TexPal",
-    "language": "TypeScript",
-    "name": "deepdotspace/TexPal",
-    "stars": 8,
-    "updated_at": "2026-08-04T00:28:52Z",
-    "url": "https://github.com/deepdotspace/TexPal"
-  },
-  {
-    "description": "Document editing app built on DeepSpace SDK",
-    "id": "deepdotspace/deepspace-docs",
-    "language": "TypeScript",
-    "name": "deepdotspace/deepspace-docs",
-    "stars": 2,
-    "updated_at": "2026-08-04T00:28:52Z",
-    "url": "https://github.com/deepdotspace/deepspace-docs"
-  },
-  {
-    "description": "Alfred \u2014 an honest, free early-career job copilot on DeepSpace: an overnight scan into a short morning brief of roles yo",
-    "id": "deepdotspace/alfred",
-    "language": "TypeScript",
-    "name": "deepdotspace/alfred",
-    "stars": 0,
-    "updated_at": "2026-08-04T00:28:52Z",
-    "url": "https://github.com/deepdotspace/alfred"
-  },
-  {
-    "description": "\u955c \u00b7 Four mirrors for a company of one: a Claude Code skill that audits you, not your code, from your own AI-collaboratio",
-    "id": "ai798-Lab/jing",
-    "language": "\u2014",
-    "name": "ai798-Lab/jing",
-    "stars": 0,
-    "updated_at": "2026-08-04T00:28:39Z",
-    "url": "https://github.com/ai798-Lab/jing"
-  },
-  {
-    "description": "A searchable catalog & auto-curator of AI agent skills for Claude Code and Codex",
-    "id": "Zita-Go/Skills-Atlas",
-    "language": "JavaScript",
-    "name": "Zita-Go/Skills-Atlas",
-    "stars": 6,
-    "updated_at": "2026-08-04T00:28:13Z",
-    "url": "https://github.com/Zita-Go/Skills-Atlas"
-  },
-  {
-    "description": "Native Claude Code AI code review + blocking pre-commit gate on your Claude subscription. Per-file reviewer subagents, s",
-    "id": "Jose-Ribeir/claude-code-review-gate",
+    "description": "Python SDK for Programmable Multi-Agent Orchestration",
+    "id": "h5i-dev/h5i-orchestra",
     "language": "Python",
-    "name": "Jose-Ribeir/claude-code-review-gate",
-    "stars": 3,
-    "updated_at": "2026-08-04T00:27:55Z",
-    "url": "https://github.com/Jose-Ribeir/claude-code-review-gate"
+    "name": "h5i-dev/h5i-orchestra",
+    "stars": 39,
+    "updated_at": "2026-08-04T00:45:11Z",
+    "url": "https://github.com/h5i-dev/h5i-orchestra"
   },
   {
-    "description": "Research notes from a filmmaker working with computational instruments. By Isma\u00ebl Joffroy Chandoutis.",
-    "id": "ismael-joffroy-chandoutis/deep-research",
-    "language": "HTML",
-    "name": "ismael-joffroy-chandoutis/deep-research",
-    "stars": 0,
-    "updated_at": "2026-08-04T00:27:46Z",
-    "url": "https://github.com/ismael-joffroy-chandoutis/deep-research"
-  },
-  {
-    "description": "The posting was closed the whole time. jobcube checks before you write a word.",
-    "id": "Existentialist-Robot/jobcube",
+    "description": "Qwen-VL vision MCP server - image understanding (describe + OCR) for Codex / Claude Code / Cursor via Alibaba DashScope",
+    "id": "FUXIN-zhang/qwen-vision-mcp",
     "language": "Python",
-    "name": "Existentialist-Robot/jobcube",
+    "name": "FUXIN-zhang/qwen-vision-mcp",
     "stars": 0,
-    "updated_at": "2026-08-04T00:27:41Z",
-    "url": "https://github.com/Existentialist-Robot/jobcube"
-  },
-  {
-    "description": "How I run my job and my life on Claude Code: 40+ production automations, sanitized skill examples, and the guardrail des",
-    "id": "njfulton/agentic-systems-portfolio",
-    "language": "\u2014",
-    "name": "njfulton/agentic-systems-portfolio",
-    "stars": 0,
-    "updated_at": "2026-08-04T00:27:36Z",
-    "url": "https://github.com/njfulton/agentic-systems-portfolio"
-  },
-  {
-    "description": "A smart attention router for developers running multiple AI coding agents.",
-    "id": "kookr-ai/kookr",
-    "language": "TypeScript",
-    "name": "kookr-ai/kookr",
-    "stars": 4,
-    "updated_at": "2026-08-04T00:28:25Z",
-    "url": "https://github.com/kookr-ai/kookr"
+    "updated_at": "2026-08-04T00:45:10Z",
+    "url": "https://github.com/FUXIN-zhang/qwen-vision-mcp"
   },
   {
     "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
@@ -401,52 +32,421 @@
     "language": "TypeScript",
     "name": "ihabkhaled/ClawAI",
     "stars": 22,
-    "updated_at": "2026-08-04T00:27:29Z",
+    "updated_at": "2026-08-04T00:45:08Z",
     "url": "https://github.com/ihabkhaled/ClawAI"
   },
   {
-    "description": "Modernizaci\u00f3n de proyecto Notaire (java) usando AI",
-    "id": "matiaspakua/notaire",
-    "language": "Java",
-    "name": "matiaspakua/notaire",
-    "stars": 0,
-    "updated_at": "2026-08-04T00:29:46Z",
-    "url": "https://github.com/matiaspakua/notaire"
+    "description": "Bob's Big Brain Registrar \u2014 the team's memory keeper. Decides what gets in (by code, not by a model), stores what's admi",
+    "id": "jeremylongshore/bobs-big-brain-registrar",
+    "language": "TypeScript",
+    "name": "jeremylongshore/bobs-big-brain-registrar",
+    "stars": 12,
+    "updated_at": "2026-08-04T00:45:08Z",
+    "url": "https://github.com/jeremylongshore/bobs-big-brain-registrar"
   },
   {
-    "description": "Cross-platform desktop dashboard for Claude Code usage \u2014 Windows, macOS & Linux. Live session & weekly limits with reset",
-    "id": "weltern/Clawdmeter",
-    "language": "Python",
-    "name": "weltern/Clawdmeter",
-    "stars": 14,
-    "updated_at": "2026-08-04T00:29:18Z",
-    "url": "https://github.com/weltern/Clawdmeter"
-  },
-  {
-    "description": "AI skill for managing findings on SonarCloud / SonarQube",
-    "id": "Nick2bad4u/SonarCloud-Skill",
-    "language": "Python",
-    "name": "Nick2bad4u/SonarCloud-Skill",
+    "description": "DX optimized GUI for high security AI development and work",
+    "id": "pathscale/agencyzero",
+    "language": "TypeScript",
+    "name": "pathscale/agencyzero",
     "stars": 2,
-    "updated_at": "2026-08-04T00:26:56Z",
-    "url": "https://github.com/Nick2bad4u/SonarCloud-Skill"
+    "updated_at": "2026-08-04T00:45:01Z",
+    "url": "https://github.com/pathscale/agencyzero"
   },
   {
-    "description": "Claude Code \u306e\u66f4\u65b0\u5c65\u6b74\u3092\u5206\u304b\u308a\u3084\u3059\u304f\u8868\u793a\u3059\u308b Web \u30b5\u30a4\u30c8\u3002",
-    "id": "Suntory-N-Water/claude-code-changelog-viewer",
+    "description": "Local-first analysis of Claude Code and Codex sessions: token spend, context windows, files touched, and cost.",
+    "id": "dosu-ai/decant",
     "language": "TypeScript",
-    "name": "Suntory-N-Water/claude-code-changelog-viewer",
+    "name": "dosu-ai/decant",
+    "stars": 4,
+    "updated_at": "2026-08-04T00:45:00Z",
+    "url": "https://github.com/dosu-ai/decant"
+  },
+  {
+    "description": "From-scratch, byte-matching decompilation of Super Mario 64 DS (sm64ds decomp) into C, with a live progress atlas and ma",
+    "id": "tangosdev/sm64ds-decomp",
+    "language": "C",
+    "name": "tangosdev/sm64ds-decomp",
+    "stars": 108,
+    "updated_at": "2026-08-04T00:44:57Z",
+    "url": "https://github.com/tangosdev/sm64ds-decomp"
+  },
+  {
+    "description": "The largest index of MCP servers. 18,146+ Model Context Protocol servers searchable at protodex.io",
+    "id": "LuciferForge/mcp-directory",
+    "language": "Python",
+    "name": "LuciferForge/mcp-directory",
+    "stars": 2,
+    "updated_at": "2026-08-04T00:44:55Z",
+    "url": "https://github.com/LuciferForge/mcp-directory"
+  },
+  {
+    "description": "Surface AI blindspots before you ship. Put up to 8 AI models on every research, design or coding task.",
+    "id": "nyldn/claude-octopus",
+    "language": "Shell",
+    "name": "nyldn/claude-octopus",
+    "stars": 3922,
+    "updated_at": "2026-08-04T00:44:44Z",
+    "url": "https://github.com/nyldn/claude-octopus"
+  },
+  {
+    "description": "Portable Goal-Based SDLC for Claude Code \u2014 interactive goal-mode + autonomous park-and-continue loop-mode, installable i",
+    "id": "swapnil-agrim/loopsmith",
+    "language": "Python",
+    "name": "swapnil-agrim/loopsmith",
+    "stars": 6,
+    "updated_at": "2026-08-04T00:44:40Z",
+    "url": "https://github.com/swapnil-agrim/loopsmith"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 8076,
+    "updated_at": "2026-08-04T00:44:37Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Curated GitHub Copilot plugin marketplace: 363 installable plugins plus a trust-scored discovery index across 3,862 plug",
+    "id": "fabioc-aloha/Alex_Skill_Mall",
+    "language": "JavaScript",
+    "name": "fabioc-aloha/Alex_Skill_Mall",
+    "stars": 4,
+    "updated_at": "2026-08-04T00:44:18Z",
+    "url": "https://github.com/fabioc-aloha/Alex_Skill_Mall"
+  },
+  {
+    "description": "Build guided interactive HTML demos with your coding agent.",
+    "id": "hyunghwan/showkit",
+    "language": "TypeScript",
+    "name": "hyunghwan/showkit",
     "stars": 0,
-    "updated_at": "2026-08-04T00:26:46Z",
-    "url": "https://github.com/Suntory-N-Water/claude-code-changelog-viewer"
+    "updated_at": "2026-08-04T00:44:17Z",
+    "url": "https://github.com/hyunghwan/showkit"
   },
   {
-    "description": "Multi-chat orchestration plugin for Claude Code. File-based inbox, peer messaging, cross-session search across all your ",
-    "id": "michalekz/claude-bridge",
+    "description": "An AI Assistant that\u2019s easy to setup, does your work 24/7, knows your preferences and gets better over time.",
+    "id": "vellum-ai/vellum-assistant",
     "language": "TypeScript",
-    "name": "michalekz/claude-bridge",
+    "name": "vellum-ai/vellum-assistant",
+    "stars": 999,
+    "updated_at": "2026-08-04T00:44:43Z",
+    "url": "https://github.com/vellum-ai/vellum-assistant"
+  },
+  {
+    "description": "Self-hosted AI agent that builds apps. Chat with a coding agent (Claude Code or Codex) that builds mini-apps, modifies i",
+    "id": "mobius-os/mobius",
+    "language": "Python",
+    "name": "mobius-os/mobius",
+    "stars": 16,
+    "updated_at": "2026-08-04T00:43:58Z",
+    "url": "https://github.com/mobius-os/mobius"
+  },
+  {
+    "description": "A rust-based proxy for LLM routing and translation of APIs. Similar to ccrouter.",
+    "id": "whit3rabbit/anyllm-proxy",
+    "language": "Rust",
+    "name": "whit3rabbit/anyllm-proxy",
+    "stars": 2,
+    "updated_at": "2026-08-04T00:45:20Z",
+    "url": "https://github.com/whit3rabbit/anyllm-proxy"
+  },
+  {
+    "description": "A graphing calculator that shows you how derivatives and integrals actually work: custom expression parser, symbolic dif",
+    "id": "franciscomendez114/Graphia",
+    "language": "JavaScript",
+    "name": "franciscomendez114/Graphia",
+    "stars": 0,
+    "updated_at": "2026-08-04T00:43:46Z",
+    "url": "https://github.com/franciscomendez114/Graphia"
+  },
+  {
+    "description": "A fully functional AI Agent desktop client that supports Webui access and can be creatively customized and expanded!",
+    "id": "Stack-Cairn/LiveAgent",
+    "language": "TypeScript",
+    "name": "Stack-Cairn/LiveAgent",
+    "stars": 1630,
+    "updated_at": "2026-08-04T00:43:43Z",
+    "url": "https://github.com/Stack-Cairn/LiveAgent"
+  },
+  {
+    "description": "Agent-aware terminal multiplexer with a remote web client",
+    "id": "VincentHanxiaoDu/oh-my-term",
+    "language": "Rust",
+    "name": "VincentHanxiaoDu/oh-my-term",
+    "stars": 0,
+    "updated_at": "2026-08-04T00:43:28Z",
+    "url": "https://github.com/VincentHanxiaoDu/oh-my-term"
+  },
+  {
+    "description": "Public builder and AI systems digest from George's morning routine",
+    "id": "georgewangyu/george-builder-radar",
+    "language": "TypeScript",
+    "name": "georgewangyu/george-builder-radar",
+    "stars": 0,
+    "updated_at": "2026-08-04T00:43:15Z",
+    "url": "https://github.com/georgewangyu/george-builder-radar"
+  },
+  {
+    "description": "My personal plugin marketplace and settings for Claude Code",
+    "id": "bendrucker/claude",
+    "language": "TypeScript",
+    "name": "bendrucker/claude",
+    "stars": 15,
+    "updated_at": "2026-08-04T00:43:09Z",
+    "url": "https://github.com/bendrucker/claude"
+  },
+  {
+    "description": "Monorepo for mattbutlerengineering.com \u2014 design system, React apps, Fastify services, Pulumi IaC. Built largely by AI ag",
+    "id": "mattbutlerengineering/mattbutlerengineering",
+    "language": "TypeScript",
+    "name": "mattbutlerengineering/mattbutlerengineering",
+    "stars": 2,
+    "updated_at": "2026-08-04T00:42:54Z",
+    "url": "https://github.com/mattbutlerengineering/mattbutlerengineering"
+  },
+  {
+    "description": "Agent Skills for DevOps: 88 SKILL.md field guides spanning CI/CD to FinOps. Works in Claude Code, Antigravity, and via n",
+    "id": "arjunprabhulal/devops-skills",
+    "language": "Python",
+    "name": "arjunprabhulal/devops-skills",
+    "stars": 0,
+    "updated_at": "2026-08-04T00:42:44Z",
+    "url": "https://github.com/arjunprabhulal/devops-skills"
+  },
+  {
+    "description": "Terminal pixel-art office for AI coding agents",
+    "id": "IvanWng97/pixtuoid",
+    "language": "Rust",
+    "name": "IvanWng97/pixtuoid",
+    "stars": 431,
+    "updated_at": "2026-08-04T00:42:42Z",
+    "url": "https://github.com/IvanWng97/pixtuoid"
+  },
+  {
+    "description": "Claude Code-native framework: meeting recording -> deployed Agentforce service agent with in-app feedback loop",
+    "id": "emailworksfdc-wq/forward-deployed-generalist",
+    "language": "Python",
+    "name": "emailworksfdc-wq/forward-deployed-generalist",
+    "stars": 0,
+    "updated_at": "2026-08-04T00:42:42Z",
+    "url": "https://github.com/emailworksfdc-wq/forward-deployed-generalist"
+  },
+  {
+    "description": "Resume your Codex/Claude Code Ghostty sessions after a power failure \u2014 crash-cluster detection, confidence-scored plans,",
+    "id": "Dicklesworthstone/power_failure_resumer",
+    "language": "Python",
+    "name": "Dicklesworthstone/power_failure_resumer",
+    "stars": 2,
+    "updated_at": "2026-08-04T00:42:36Z",
+    "url": "https://github.com/Dicklesworthstone/power_failure_resumer"
+  },
+  {
+    "description": "\u30ec\u30d3\u30e5\u30fc\u3092\u3001\u7d44\u7e54\u306e\u5224\u65ad\u8cc7\u7523\u3078\u3002Review Judgment as Code for AI-assisted development \u2014 codify your team's review standards as repo-owned s",
+    "id": "s977043/river-review",
+    "language": "JavaScript",
+    "name": "s977043/river-review",
     "stars": 3,
-    "updated_at": "2026-08-04T00:26:33Z",
-    "url": "https://github.com/michalekz/claude-bridge"
+    "updated_at": "2026-08-04T00:44:58Z",
+    "url": "https://github.com/s977043/river-review"
+  },
+  {
+    "description": "\u5206\u5c4f\u7ec8\u7aef\u5de5\u4f5c\u53f0 \u2014 split panes, embedded editor, Git graph, Claude Code agent collaboration. Tauri + Svelte + Rust.",
+    "id": "MySetsuna/ridge",
+    "language": "Rust",
+    "name": "MySetsuna/ridge",
+    "stars": 20,
+    "updated_at": "2026-08-04T00:42:50Z",
+    "url": "https://github.com/MySetsuna/ridge"
+  },
+  {
+    "description": "Durable memory, a peer message bus, and a Telegram channel to your human \u2014 for long-running coding agents. One Rust bina",
+    "id": "MGrin/paos",
+    "language": "Rust",
+    "name": "MGrin/paos",
+    "stars": 2,
+    "updated_at": "2026-08-04T00:42:24Z",
+    "url": "https://github.com/MGrin/paos"
+  },
+  {
+    "description": "A preflight gate for agent tool calls. Resolves what a call will actually touch before it runs, and blocks it when that ",
+    "id": "Neti-Security/neti",
+    "language": "Python",
+    "name": "Neti-Security/neti",
+    "stars": 0,
+    "updated_at": "2026-08-04T00:42:15Z",
+    "url": "https://github.com/Neti-Security/neti"
+  },
+  {
+    "description": "A laptop operated by voice: system-wide dictation, and voice missions handed to an agent end to end. Hyprland, systemd, ",
+    "id": "kabylesystem/king-kusaila",
+    "language": "Shell",
+    "name": "kabylesystem/king-kusaila",
+    "stars": 0,
+    "updated_at": "2026-08-04T00:42:06Z",
+    "url": "https://github.com/kabylesystem/king-kusaila"
+  },
+  {
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
+    "id": "stablyai/orca",
+    "language": "TypeScript",
+    "name": "stablyai/orca",
+    "stars": 36639,
+    "updated_at": "2026-08-04T00:42:03Z",
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "description": "A shared memory and collaboration tool for teams. Syncs context between Claude Code, Codex, Gemini, and any AI agent. ",
+    "id": "MembridgeAi/membridge",
+    "language": "JavaScript",
+    "name": "MembridgeAi/membridge",
+    "stars": 6,
+    "updated_at": "2026-08-04T00:43:41Z",
+    "url": "https://github.com/MembridgeAi/membridge"
+  },
+  {
+    "description": "Framework for building Agent Factories. CLI Native. Everything you will need!",
+    "id": "phnx-labs/agents-cli",
+    "language": "TypeScript",
+    "name": "phnx-labs/agents-cli",
+    "stars": 13,
+    "updated_at": "2026-08-04T00:45:17Z",
+    "url": "https://github.com/phnx-labs/agents-cli"
+  },
+  {
+    "description": "A new kind of IDE for agentic engineering",
+    "id": "fwdai/fletch",
+    "language": "Rust",
+    "name": "fwdai/fletch",
+    "stars": 11,
+    "updated_at": "2026-08-04T00:41:49Z",
+    "url": "https://github.com/fwdai/fletch"
+  },
+  {
+    "description": "Portable harness for autonomous, long-horizon, multi-agent workflows",
+    "id": "natb1/commons.systems",
+    "language": "TypeScript",
+    "name": "natb1/commons.systems",
+    "stars": 2,
+    "updated_at": "2026-08-04T00:41:49Z",
+    "url": "https://github.com/natb1/commons.systems"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 16,
+    "updated_at": "2026-08-04T00:41:43Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "MCP that delegates mechanical text tasks to a local OpenAI-compatible LLM endpoint to conserve Claude subscription quota",
+    "id": "ZahiriNatZuke/local-delegate",
+    "language": "Python",
+    "name": "ZahiriNatZuke/local-delegate",
+    "stars": 5,
+    "updated_at": "2026-08-04T00:41:39Z",
+    "url": "https://github.com/ZahiriNatZuke/local-delegate"
+  },
+  {
+    "description": "Modular AI agent skill arsenal for Gemini CLI and Claude Code",
+    "id": "firstsun-dev/skills",
+    "language": "JavaScript",
+    "name": "firstsun-dev/skills",
+    "stars": 0,
+    "updated_at": "2026-08-04T00:41:36Z",
+    "url": "https://github.com/firstsun-dev/skills"
+  },
+  {
+    "description": "OS-level safeguards layer for AI agent loops \u2014 runaway-kill, timeouts & resource limits so coding agents (Claude Code, C",
+    "id": "IgorGanapolsky/mac-yolo-safeguards",
+    "language": "JavaScript",
+    "name": "IgorGanapolsky/mac-yolo-safeguards",
+    "stars": 3,
+    "updated_at": "2026-08-04T00:41:48Z",
+    "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
+  },
+  {
+    "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitaski",
+    "id": "manaflow-ai/cmux",
+    "language": "Swift",
+    "name": "manaflow-ai/cmux",
+    "stars": 25538,
+    "updated_at": "2026-08-04T00:45:20Z",
+    "url": "https://github.com/manaflow-ai/cmux"
+  },
+  {
+    "description": "A color-graded statusline for Claude Code.",
+    "id": "carterptull/ampline-claude",
+    "language": "JavaScript",
+    "name": "carterptull/ampline-claude",
+    "stars": 0,
+    "updated_at": "2026-08-04T00:41:55Z",
+    "url": "https://github.com/carterptull/ampline-claude"
+  },
+  {
+    "description": "Switch between multiple Claude Code and Codex login accounts, locally and safely. A switcher, not a rotator.",
+    "id": "youdie006/swapdex",
+    "language": "Rust",
+    "name": "youdie006/swapdex",
+    "stars": 4,
+    "updated_at": "2026-08-04T00:41:07Z",
+    "url": "https://github.com/youdie006/swapdex"
+  },
+  {
+    "description": "A modern take on tmux",
+    "id": "indrasvat/shux",
+    "language": "Rust",
+    "name": "indrasvat/shux",
+    "stars": 2,
+    "updated_at": "2026-08-04T00:41:06Z",
+    "url": "https://github.com/indrasvat/shux"
+  },
+  {
+    "description": "Claude can't watch video. Flipbook records your web app while Claude drives it and hands back a flipbook of keyframes it",
+    "id": "ShubhenduVaid/flipbook",
+    "language": "JavaScript",
+    "name": "ShubhenduVaid/flipbook",
+    "stars": 0,
+    "updated_at": "2026-08-04T00:40:49Z",
+    "url": "https://github.com/ShubhenduVaid/flipbook"
+  },
+  {
+    "description": "Transparent self-hosted proxy for Claude Code: switch between Claude & MiniMax with automatic failover, context compress",
+    "id": "eroslifestyle/ai-router-switch",
+    "language": "Python",
+    "name": "eroslifestyle/ai-router-switch",
+    "stars": 1,
+    "updated_at": "2026-08-04T00:40:44Z",
+    "url": "https://github.com/eroslifestyle/ai-router-switch"
+  },
+  {
+    "description": "\u2697\ufe0f Experimental \u2014 A genius-builder brain for your AI coding tools: sharp defaults, real judgment, and the discipline to ",
+    "id": "mehrad-dm/mastermind",
+    "language": "JavaScript",
+    "name": "mehrad-dm/mastermind",
+    "stars": 14,
+    "updated_at": "2026-08-04T00:40:38Z",
+    "url": "https://github.com/mehrad-dm/mastermind"
+  },
+  {
+    "description": "Natively \u2014 Free open-source AI meeting assistant, interview copilot, and note taker. The best alternative to Cluely, Ott",
+    "id": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "language": "TypeScript",
+    "name": "Natively-AI-assistant/natively-cluely-ai-assistant",
+    "stars": 2110,
+    "updated_at": "2026-08-04T00:40:34Z",
+    "url": "https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant"
+  },
+  {
+    "description": "Author, scaffold, and debug multi-agent workflows for Claude Code's Workflow tool \u2014 a skills-only plugin plus @workflow-",
+    "id": "home-dev-lab/workflow-toolbox",
+    "language": "TypeScript",
+    "name": "home-dev-lab/workflow-toolbox",
+    "stars": 2,
+    "updated_at": "2026-08-04T00:40:26Z",
+    "url": "https://github.com/home-dev-lab/workflow-toolbox"
   }
 ]

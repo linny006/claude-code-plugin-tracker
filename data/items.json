@@ -1,5 +1,50 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 21,
+    "updated_at": "2026-08-05T03:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Private, safe, cross-machine lifecycle management for personal Agent Skills.",
+    "id": "Pursuer-Hsf/manage-my-skills",
+    "language": "Python",
+    "name": "Pursuer-Hsf/manage-my-skills",
+    "stars": 3,
+    "updated_at": "2026-08-05T03:30:00Z",
+    "url": "https://github.com/Pursuer-Hsf/manage-my-skills"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 3,
+    "updated_at": "2026-08-05T03:29:55Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "https://sureclaw.com.au/",
+    "id": "sureclaw-ai/copr",
+    "language": "Python",
+    "name": "sureclaw-ai/copr",
+    "stars": 1,
+    "updated_at": "2026-08-05T03:29:55Z",
+    "url": "https://github.com/sureclaw-ai/copr"
+  },
+  {
+    "description": "Reference docs as checkable claims \u2014 a Claude Code plugin for the documentation lifecycle: bootstrap \u2192 write \u2192 detect dr",
+    "id": "aj604/toolshed",
+    "language": "Python",
+    "name": "aj604/toolshed",
+    "stars": 2,
+    "updated_at": "2026-08-05T03:29:50Z",
+    "url": "https://github.com/aj604/toolshed"
+  },
+  {
     "description": "B\u1ed9 kit \u0111\u1ec3 IDE agentic (Claude Code, Antigravity) t\u1ef1 d\u1ef1ng agent n\u1ed9i dung: crawl \u2192 vi\u1ebft \u2192 c\u1ed5ng duy\u1ec7t \u2192 \u0111\u0103ng social. K\u00e8m pi",
     "id": "XuHo-IT/Content-Agent-Kit",
     "language": "JavaScript",
@@ -36,6 +81,15 @@
     "url": "https://github.com/jazzyalex/agent-sessions"
   },
   {
+    "description": "Agent skill that watches the tools your repo cares about \u2014 competitors, upstream projects, dependencies \u2014 and tells you ",
+    "id": "mralabs/radar",
+    "language": "TypeScript",
+    "name": "mralabs/radar",
+    "stars": 0,
+    "updated_at": "2026-08-05T03:30:00Z",
+    "url": "https://github.com/mralabs/radar"
+  },
+  {
     "description": "\ud83d\ude80 Longform Writing Plugin for Claude Code 2026 \u2013 AI Novel Editor & Repo",
     "id": "denidelapan7/longform-claude-extension",
     "language": "HTML",
@@ -70,15 +124,6 @@
     "stars": 19648,
     "updated_at": "2026-08-05T03:29:03Z",
     "url": "https://github.com/steipete/CodexBar"
-  },
-  {
-    "description": "Agent skill that watches the tools your repo cares about \u2014 competitors, upstream projects, dependencies \u2014 and tells you ",
-    "id": "mralabs/radar",
-    "language": "TypeScript",
-    "name": "mralabs/radar",
-    "stars": 0,
-    "updated_at": "2026-08-05T03:29:38Z",
-    "url": "https://github.com/mralabs/radar"
   },
   {
     "description": "Local shared memory for Claude Code, Cursor, Codex, Copilot, Kimi & Goose \u2014 plus opt-in token-savings proxy for Claude/C",
@@ -178,6 +223,15 @@
     "stars": 0,
     "updated_at": "2026-08-05T03:29:08Z",
     "url": "https://github.com/rtcode337/cc-tasks"
+  },
+  {
+    "description": "Universal provider proxy for OpenAI Codex & Claude Code \u2014 use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama\u2026) with Cod",
+    "id": "lidge-jun/opencodex",
+    "language": "TypeScript",
+    "name": "lidge-jun/opencodex",
+    "stars": 7272,
+    "updated_at": "2026-08-05T03:27:45Z",
+    "url": "https://github.com/lidge-jun/opencodex"
   },
   {
     "description": "Best Free LLM Autonomous Agent Plugin 2026 - Real-Time Security, Auto-Learn",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T03:24:06Z",
     "url": "https://github.com/jungdosa/QuotaDock"
-  },
-  {
-    "description": "Close a working session: append what happened to a growing record, re-derive a fixed-length summary at descending resolu",
-    "id": "OpenCnid/upsum",
-    "language": "Python",
-    "name": "OpenCnid/upsum",
-    "stars": 0,
-    "updated_at": "2026-08-05T03:24:05Z",
-    "url": "https://github.com/OpenCnid/upsum"
-  },
-  {
-    "description": "load-bearing, load-bearing, load-bearing, load-bearing, load-bearing, load-bearing, load-bearing, load-bearing.",
-    "id": "justinstimatze/cope",
-    "language": "Go",
-    "name": "justinstimatze/cope",
-    "stars": 0,
-    "updated_at": "2026-08-05T03:24:02Z",
-    "url": "https://github.com/justinstimatze/cope"
-  },
-  {
-    "description": "Future-first, self-sustaining Svelte 5 and SvelteKit guidance for AI Agents",
-    "id": "fifidayone/svelte-edge",
-    "language": "\u2014",
-    "name": "fifidayone/svelte-edge",
-    "stars": 0,
-    "updated_at": "2026-08-05T03:23:58Z",
-    "url": "https://github.com/fifidayone/svelte-edge"
-  },
-  {
-    "description": "Collaborative AI-human document editor \u2014 real-time annotations, suggestions, and review powered by Claude Code via MCP",
-    "id": "bloknayrb/tandem",
-    "language": "TypeScript",
-    "name": "bloknayrb/tandem",
-    "stars": 12,
-    "updated_at": "2026-08-05T03:23:53Z",
-    "url": "https://github.com/bloknayrb/tandem"
-  },
-  {
-    "description": "A self-hosted AI-Driven Development Lifecycle template for Claude Code",
-    "id": "kikrgbh/mkrdlc",
-    "language": "Shell",
-    "name": "kikrgbh/mkrdlc",
-    "stars": 0,
-    "updated_at": "2026-08-05T03:23:52Z",
-    "url": "https://github.com/kikrgbh/mkrdlc"
-  },
-  {
-    "description": "Coordinate your coding agents like a group chat \u2014 read receipts, delivery tracking, and remote ops from your phone. One ",
-    "id": "ChesterRa/cccc",
-    "language": "Python",
-    "name": "ChesterRa/cccc",
-    "stars": 1067,
-    "updated_at": "2026-08-05T03:23:50Z",
-    "url": "https://github.com/ChesterRa/cccc"
   }
 ]

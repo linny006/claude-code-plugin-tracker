@@ -1,11 +1,47 @@
 [
   {
+    "description": "A local dashboard over your own Claude Code usage: tokens, cost, prompts, sessions, tool calls and failures \u2014 parsed fro",
+    "id": "alihassanml/claude-code-monitor",
+    "language": "Python",
+    "name": "alihassanml/claude-code-monitor",
+    "stars": 1,
+    "updated_at": "2026-08-05T17:00:13Z",
+    "url": "https://github.com/alihassanml/claude-code-monitor"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 21,
+    "updated_at": "2026-08-05T17:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 3,
+    "updated_at": "2026-08-05T17:00:01Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Open-source, self-hosted Claude Code - a terminal AI assistant and the Python framework behind it. Tool-calling, sandbox",
+    "id": "vstorm-co/pydantic-deepagents",
+    "language": "Python",
+    "name": "vstorm-co/pydantic-deepagents",
+    "stars": 1013,
+    "updated_at": "2026-08-05T17:00:11Z",
+    "url": "https://github.com/vstorm-co/pydantic-deepagents"
+  },
+  {
     "description": "Track your AI coding assistant usage limits from the macOS menu bar",
     "id": "VincentShipsIt/meterbar.dev",
     "language": "Swift",
     "name": "VincentShipsIt/meterbar.dev",
     "stars": 8,
-    "updated_at": "2026-08-05T16:59:47Z",
+    "updated_at": "2026-08-05T17:00:04Z",
     "url": "https://github.com/VincentShipsIt/meterbar.dev"
   },
   {
@@ -43,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-05T16:59:24Z",
     "url": "https://github.com/schubydoo/claustodian"
-  },
-  {
-    "description": "A local dashboard over your own Claude Code usage: tokens, cost, prompts, sessions, tool calls and failures \u2014 parsed fro",
-    "id": "alihassanml/claude-code-monitor",
-    "language": "Python",
-    "name": "alihassanml/claude-code-monitor",
-    "stars": 1,
-    "updated_at": "2026-08-05T16:59:22Z",
-    "url": "https://github.com/alihassanml/claude-code-monitor"
   },
   {
     "description": "Your homelab's Claude Code launchpad. Self-hosted web UI that spawns & manages remote-control bridges on a remote host f",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-05T16:56:27Z",
     "url": "https://github.com/LanNguyenSi/agent-ops-dashboard"
-  },
-  {
-    "description": "Modernizaci\u00f3n de proyecto Notaire (java) usando AI",
-    "id": "matiaspakua/notaire",
-    "language": "Java",
-    "name": "matiaspakua/notaire",
-    "stars": 0,
-    "updated_at": "2026-08-05T16:56:20Z",
-    "url": "https://github.com/matiaspakua/notaire"
-  },
-  {
-    "description": "Personal Claude Code canon (rules/agents/skills) + a deterministic, transactional engine that packages it into immutable",
-    "id": "dewil/claude-toolkit",
-    "language": "Python",
-    "name": "dewil/claude-toolkit",
-    "stars": 8,
-    "updated_at": "2026-08-05T16:56:19Z",
-    "url": "https://github.com/dewil/claude-toolkit"
-  },
-  {
-    "description": "The local-first Agent OS \u2014 your AI partner lives on your own machine. Drive the official Claude Code, Codex & OpenCode f",
-    "id": "avibe-bot/avibe",
-    "language": "Python",
-    "name": "avibe-bot/avibe",
-    "stars": 490,
-    "updated_at": "2026-08-05T16:56:16Z",
-    "url": "https://github.com/avibe-bot/avibe"
   }
 ]

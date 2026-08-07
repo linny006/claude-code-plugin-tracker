@@ -1,5 +1,59 @@
 [
   {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 18,
+    "updated_at": "2026-08-07T18:30:41Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Tray widget showing Claude Code and Codex rate-limit usage and burn pace. Windows, local-only, MIT.",
+    "id": "silverdolphin863/claude-code-meter",
+    "language": "C++",
+    "name": "silverdolphin863/claude-code-meter",
+    "stars": 1,
+    "updated_at": "2026-08-07T18:30:32Z",
+    "url": "https://github.com/silverdolphin863/claude-code-meter"
+  },
+  {
+    "description": "Journal-specific Claude Code/Codex skill packs covering mainstream journals \u2014 AER, QJE, Nature, Cell, \u7ba1\u7406\u4e16\u754c, \u7ecf\u6d4e\u7814\u7a76 & 200+ ",
+    "id": "brycewang-stanford/Awesome-Journal-Skills",
+    "language": "Stata",
+    "name": "brycewang-stanford/Awesome-Journal-Skills",
+    "stars": 925,
+    "updated_at": "2026-08-07T18:30:31Z",
+    "url": "https://github.com/brycewang-stanford/Awesome-Journal-Skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 22,
+    "updated_at": "2026-08-07T18:30:20Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 3,
+    "updated_at": "2026-08-07T18:30:17Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Always-on-top bar showing what Claude Code is doing \u2014 and when it's silently waiting on a permission prompt. Built on Cl",
+    "id": "UtkarshloneyaITG/Sidelong",
+    "language": "TypeScript",
+    "name": "UtkarshloneyaITG/Sidelong",
+    "stars": 1,
+    "updated_at": "2026-08-07T18:30:08Z",
+    "url": "https://github.com/UtkarshloneyaITG/Sidelong"
+  },
+  {
     "description": "Stop your AI from shipping half-baked code. A disciplined senior-engineer workflow for Claude Code (spec, vet, build, pr",
     "id": "ViktorsBaikers/DevRites",
     "language": "Go",
@@ -7,6 +61,15 @@
     "stars": 1,
     "updated_at": "2026-08-07T18:30:04Z",
     "url": "https://github.com/ViktorsBaikers/DevRites"
+  },
+  {
+    "description": "Stacking Agent Development Environment (ADE) for the busy dev",
+    "id": "treq-dev/treq",
+    "language": "TypeScript",
+    "name": "treq-dev/treq",
+    "stars": 4,
+    "updated_at": "2026-08-07T18:29:58Z",
+    "url": "https://github.com/treq-dev/treq"
   },
   {
     "description": "Always-on companion for Claude that remembers your decisions and their evolution. Local-first memory       using SQLite ",
@@ -79,15 +142,6 @@
     "stars": 5,
     "updated_at": "2026-08-07T18:29:26Z",
     "url": "https://github.com/StefanoGuerrini/c9s"
-  },
-  {
-    "description": "Stacking Agent Development Environment (ADE) for the busy dev",
-    "id": "treq-dev/treq",
-    "language": "TypeScript",
-    "name": "treq-dev/treq",
-    "stars": 4,
-    "updated_at": "2026-08-07T18:29:58Z",
-    "url": "https://github.com/treq-dev/treq"
   },
   {
     "description": "AI-gen/NotebookLLM U.S. stock reports  and a suite of tools for downloading, organizing, and managing SEC financial fili",
@@ -220,7 +274,7 @@
     "id": "diegosouzapw/OmniRoute",
     "language": "TypeScript",
     "name": "diegosouzapw/OmniRoute",
-    "stars": 42373,
+    "stars": 42374,
     "updated_at": "2026-08-07T18:28:01Z",
     "url": "https://github.com/diegosouzapw/OmniRoute"
   },
@@ -239,7 +293,7 @@
     "language": "Python",
     "name": "NousResearch/hermes-agent",
     "stars": 227012,
-    "updated_at": "2026-08-07T18:27:49Z",
+    "updated_at": "2026-08-07T18:30:37Z",
     "url": "https://github.com/NousResearch/hermes-agent"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-07T18:26:16Z",
     "url": "https://github.com/LandonSchropp/agent-toolkit"
-  },
-  {
-    "description": "SPEC-First AI DevKit for Agentic Code 2026 \u2014 24 Agents, 52 Skills, TDD/DDD Gates",
-    "id": "leerhadz/moai-forge",
-    "language": "HTML",
-    "name": "leerhadz/moai-forge",
-    "stars": 0,
-    "updated_at": "2026-08-07T18:26:12Z",
-    "url": "https://github.com/leerhadz/moai-forge"
-  },
-  {
-    "description": "PR security review for business-logic vulnerabilities Snyk and Semgrep miss, auth bypass, IDOR, weak admin checks, env &",
-    "id": "tornidomaroc-web/fixor",
-    "language": "TypeScript",
-    "name": "tornidomaroc-web/fixor",
-    "stars": 0,
-    "updated_at": "2026-08-07T18:26:09Z",
-    "url": "https://github.com/tornidomaroc-web/fixor"
-  },
-  {
-    "description": "Transform Claude Code into a full development team. 11 specialized agents (Architect, Engineer, QA, Security, UX, DevOps",
-    "id": "Everyone-Needs-A-Copilot/claude-copilot",
-    "language": "Python",
-    "name": "Everyone-Needs-A-Copilot/claude-copilot",
-    "stars": 13,
-    "updated_at": "2026-08-07T18:25:57Z",
-    "url": "https://github.com/Everyone-Needs-A-Copilot/claude-copilot"
-  },
-  {
-    "description": "Stop re-explaining yourself",
-    "id": "akhayam99/goodboy",
-    "language": "TypeScript",
-    "name": "akhayam99/goodboy",
-    "stars": 89,
-    "updated_at": "2026-08-07T18:28:15Z",
-    "url": "https://github.com/akhayam99/goodboy"
-  },
-  {
-    "description": "MeowOps AI Analytics Dashboard 2026 - Self-Hosted Gamified Cody Colony & Pomodoro Timing",
-    "id": "herminio234/claw-track",
-    "language": "HTML",
-    "name": "herminio234/claw-track",
-    "stars": 0,
-    "updated_at": "2026-08-07T18:25:34Z",
-    "url": "https://github.com/herminio234/claw-track"
-  },
-  {
-    "description": "Encontr\u00e1 vulnerabilidades en cualquier proyecto antes de que lo haga un hacker. Sin saber programar y Gratis!",
-    "id": "luis-recalde/auditron",
-    "language": "\u2014",
-    "name": "luis-recalde/auditron",
-    "stars": 1,
-    "updated_at": "2026-08-07T18:25:28Z",
-    "url": "https://github.com/luis-recalde/auditron"
   }
 ]

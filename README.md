@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-08 03:00 UTC
+> ⏰ Last updated: 2026-08-08 03:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 22 | Python | 2026-08-08 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
-| 2 | [tae898/academic-de-llm](https://github.com/tae898/academic-de-llm) | 1 | Python | 2026-08-08 | Strip the markers that make text read as machine-generated. Ordered by measured frequency in agent-written prose: format |
-| 3 | [linny006/claude-code-plugin-tracker](https://github.com/linny006/claude-code-plugin-tracker) | 3 | Python | 2026-08-08 | Live index of Claude Code extensions, hooks, and plugins — refreshed every 15 minutes from GitHub |
-| 4 | [tertiarycourses/wsqskills](https://github.com/tertiarycourses/wsqskills) | 1 | Python | 2026-08-08 | Claude Code skills, slash commands, agent and hooks for building WSQ courseware (PPT / Lesson Plan / Learner Guide / ass |
-| 5 | [b3rys/b3rys-team-os](https://github.com/b3rys/b3rys-team-os) | 7 | TypeScript | 2026-08-08 | 내 맥에 상주하는 AI 팀. 텔레그램·슬랙에서 일을 맡기면 누가 담당인지 정하고, 진행이 대시보드에 남습니다. |
-| 6 | [Zanmmi/micro-agent-cli](https://github.com/Zanmmi/micro-agent-cli) | 2 | HTML | 2026-08-08 | 🏆 Ultralight AI Coding Agent 2026 — Blazing CLI, Tiny Codebase, Full Power Free |
-| 7 | [Wise-Ai-Org/inwise-agent-plugin](https://github.com/Wise-Ai-Org/inwise-agent-plugin) | 0 | — | 2026-08-08 | Portable Inwise meeting and workspace memory plugins for AI agents |
-| 8 | [Frun1753/claude-codecraft-toolkit](https://github.com/Frun1753/claude-codecraft-toolkit) | 1 | HTML | 2026-08-08 | 🚀 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits |
-| 9 | [nahidspace/tmux-alwayson](https://github.com/nahidspace/tmux-alwayson) | 0 | Go | 2026-08-08 | Install, run, and keep alive an AI coding agent's tmux session across reboots - Go installer + guard, interface-driven f |
-| 10 | [scoobydrew83/skills](https://github.com/scoobydrew83/skills) | 0 | Python | 2026-08-08 | A coordinated library of Claude skills with explicit phase/handoff routing, shared state, and a maker/checker loop. |
-| 11 | [revenantworks/citadel](https://github.com/revenantworks/citadel) | 0 | Python | 2026-08-08 | The Revenant packs marketplace — Agent Skills packs for Claude. |
-| 12 | [marckrenn/claude-code-changelog](https://github.com/marckrenn/claude-code-changelog) | 872 | — | 2026-08-08 | Tracking prompts, feature flags and metadata of Claude Code releases. Subscribe to ↓ |
-| 13 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | 36262 | Go | 2026-08-08 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 |
-| 14 | [mlorentedev/hive](https://github.com/mlorentedev/hive) | 9 | Python | 2026-08-08 | Context infrastructure for AI-assisted development — on-demand Obsidian vault access via MCP |
-| 15 | [gramaton-ai/gramaton](https://github.com/gramaton-ai/gramaton) | 5 | Go | 2026-08-08 | Versioned, epistemic memory for AI agents. |
-| 16 | [xichan96/dinotty](https://github.com/xichan96/dinotty) | 522 | Rust | 2026-08-08 | Multi-device terminal server for AI coding agents. Server-side VTE, session persistence, file browser, web preview, plug |
-| 17 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 50041 | TypeScript | 2026-08-08 | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs |
-| 18 | [get-bb/bb](https://github.com/get-bb/bb) | 1402 | TypeScript | 2026-08-08 | The agent IDE that builds itself |
-| 19 | [DazzleML/Claude-Session-Backup](https://github.com/DazzleML/Claude-Session-Backup) | 6 | Python | 2026-08-08 | Git-backed Claude Code session backup with timeline view, folder analysis, deletion detection, and session restore |
-| 20 | [heng1234/claude-web](https://github.com/heng1234/claude-web) | 56 | HTML | 2026-08-08 | Web UI for Claude Code CLI - token streaming, tool visualization, checkpoint, multi-session management |
-| 21 | [adm73/OpenBcon](https://github.com/adm73/OpenBcon) | 27 | TypeScript | 2026-08-08 | Open-source AI funding workspace for consultants, advisors, and incubators. Manage opportunities, companies, application |
-| 22 | [mrgeoffrich/FreeCADClaude](https://github.com/mrgeoffrich/FreeCADClaude) | 0 | Python | 2026-08-08 | Unofficial FreeCAD 1.1 workbench that docks a Claude chat panel — drives your own Claude Code CLI to inspect, view, and  |
-| 23 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 42612 | TypeScript | 2026-08-08 | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI |
-| 24 | [darkjokee-arch/binggupack](https://github.com/darkjokee-arch/binggupack) | 1 | Python | 2026-08-08 | AI와 일하며 쌓이는 내 판단·실수·취향·규칙을, 자동 저장 없이 내가 승인한 것만 내 PC 장부에 남기고 다음 작업 전에 다시 꺼내주는 로컬 우선 개인 기억 엔진. |
-| 25 | [agentprism/agentprism-workflows](https://github.com/agentprism/agentprism-workflows) | 2 | TypeScript | 2026-08-08 | AgentPrism Workflows — run dynamic agent()/parallel()/pipeline() workflow scripts over any ACP backend, as a stdio MCP s |
-| 26 | [jztan/pdf-mcp](https://github.com/jztan/pdf-mcp) | 99 | Python | 2026-08-08 | MCP server that lets Claude Code and other AI agents work through large PDFs, and whole folders of them, without overflo |
-| 27 | [anneschuth/claude-threads](https://github.com/anneschuth/claude-threads) | 38 | TypeScript | 2026-08-08 | Think of it as screen-sharing for AI pair programming, but everyone can type. |
-| 28 | [travellers-bflk/cc-my-opencode](https://github.com/travellers-bflk/cc-my-opencode) | 0 | TypeScript | 2026-08-08 | A lean discipline-agent plugin for opencode: persistent goals with auto-continue loops, model fallback chains, and per-s |
-| 29 | [BlockRunAI/blockrun-mcp](https://github.com/BlockRunAI/blockrun-mcp) | 474 | TypeScript | 2026-08-08 | Live data for AI agents — search, research, markets, crypto, X/Twitter. Pay-per-call via x402 micropayments. |
-| 30 | [dork-labs/dorkos](https://github.com/dork-labs/dorkos) | 7 | TypeScript | 2026-08-08 | You, multiplied. Mission control for Claude Code, Codex, and OpenCode: see every session, approve what your agents do, a |
-| 31 | [jdwillmsen/dotfiles](https://github.com/jdwillmsen/dotfiles) | 0 | Shell | 2026-08-08 | Personal dotfiles - Claude Code config, hooks, and tooling |
-| 32 | [reedchan7/claudex](https://github.com/reedchan7/claudex) | 0 | Rust | 2026-08-08 | A power-user toolkit that supercharges the Claude Code CLI |
-| 33 | [KyaniteLabs/kinocut](https://github.com/KyaniteLabs/kinocut) | 101 | Python | 2026-08-08 | Guardrailed video editing MCP server for AI agents. FFmpeg, Hyperframes, repurposing tools, Python client, and CLI. Loca |
-| 34 | [klinkoai/klinko-viral-pattern-analyzer](https://github.com/klinkoai/klinko-viral-pattern-analyzer) | 0 | — | 2026-08-08 | AI content research skill for identifying repeatable mechanisms behind high-performing and viral content. |
-| 35 | [klinkoai/klinko-startup-idea-validator](https://github.com/klinkoai/klinko-startup-idea-validator) | 0 | — | 2026-08-08 | AI market validation skill for testing startup assumptions, demand, alternatives, and willingness to change. |
-| 36 | [klinkoai/klinko-positioning-strategist](https://github.com/klinkoai/klinko-positioning-strategist) | 0 | — | 2026-08-08 | AI positioning skill for turning audience evidence, alternatives, and market gaps into testable messaging. |
-| 37 | [klinkoai/klinko-niche-audience-discovery](https://github.com/klinkoai/klinko-niche-audience-discovery) | 0 | — | 2026-08-08 | AI market research skill for discovering overlooked niches and underserved audience segments. |
-| 38 | [superoptimo/agentic_book_processor](https://github.com/superoptimo/agentic_book_processor) | 0 | Python | 2026-08-08 | A toolset for turning academic PDF books into didactic Obsidian wikis, driven by a pipeline of AI skills for Claude Code |
-| 39 | [klinkoai/klinko-market-opportunity-analyst](https://github.com/klinkoai/klinko-market-opportunity-analyst) | 0 | — | 2026-08-08 | AI market research skill for ranking market opportunities before committing product or growth resources. |
-| 40 | [klinkoai/klinko-early-adopter-finder](https://github.com/klinkoai/klinko-early-adopter-finder) | 0 | — | 2026-08-08 | AI market research skill for identifying early adopters through urgency, workarounds, and switching readiness. |
-| 41 | [stablyai/orca](https://github.com/stablyai/orca) | 39716 | TypeScript | 2026-08-08 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available  |
-| 42 | [klinkoai/klinko-customer-pain-point-analyst](https://github.com/klinkoai/klinko-customer-pain-point-analyst) | 0 | — | 2026-08-08 | AI research skill for separating commercially meaningful customer pain points from complaints and online noise. |
-| 43 | [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) | 9965 | JavaScript | 2026-08-08 | Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orch |
-| 44 | [klinkoai/klinko-creative-brief-generator](https://github.com/klinkoai/klinko-creative-brief-generator) | 0 | — | 2026-08-08 | AI creative strategy skill for turning audience evidence and positioning into an execution-ready creative brief. |
-| 45 | [klinkoai/klinko-content-strategy-builder](https://github.com/klinkoai/klinko-content-strategy-builder) | 0 | — | 2026-08-08 | AI content strategy skill for prioritizing themes, formats, distribution, and internal links from audience demand. |
-| 46 | [klinkoai/klinko-buyer-persona-builder](https://github.com/klinkoai/klinko-buyer-persona-builder) | 0 | — | 2026-08-08 | AI market research skill for building evidence-led buyer personas from needs, triggers, objections, and behavior. |
-| 47 | [johngbl/autonomous-engineer](https://github.com/johngbl/autonomous-engineer) | 1 | — | 2026-08-08 | Enterprise Loop Engineering Meta-Skill for coding agents (Claude Code, Roo Code, Cursor, OpenHands, Codex). Context Engi |
-| 48 | [klinkoai/klinko-audience-finder](https://github.com/klinkoai/klinko-audience-finder) | 0 | — | 2026-08-08 | AI market research skill for finding and ranking the audiences most worth serving first. |
-| 49 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 16 | TypeScript | 2026-08-08 | Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age |
-| 50 | [klinkoai/klinko-audience-comparator](https://github.com/klinkoai/klinko-audience-comparator) | 0 | — | 2026-08-08 | AI decision skill for comparing candidate audiences by demand, fit, whitespace, and reachability. |
+| 1 | [vcqr/ashell](https://github.com/vcqr/ashell) | 8 | Vue | 2026-08-08 | 一个现代化、跨平台的AI智能终端，支持SSH、SFTP、端口转发，通过与AI对话运维服务器，让小白也能成为运维高手 |
+| 2 | [bendrucker/claude](https://github.com/bendrucker/claude) | 16 | TypeScript | 2026-08-08 | My personal plugin marketplace and settings for Claude Code |
+| 3 | [vm0-ai/vm0](https://github.com/vm0-ai/vm0) | 1143 | TypeScript | 2026-08-08 | Zero, your trustworthy AI teammate for real work.  |
+| 4 | [Bizuayeu/Plugins-Weave](https://github.com/Bizuayeu/Plugins-Weave) | 6 | Python | 2026-08-08 | Claude Codeプラグインマーケットプレイス。ContextPreloader（初期文脈取込）、EpisodicRAG（階層的長期記憶）、EmailingEssay（AI駆動エッセイ配信）、VisualExpression（表情表現レ |
+| 5 | [artokun/comfyui-mcp-panel](https://github.com/artokun/comfyui-mcp-panel) | 74 | JavaScript | 2026-08-08 | The local-first sidebar AI agent for ComfyUI — runs on your own Claude OR ChatGPT subscription (no API keys, no extra LL |
+| 6 | [mi4646/my-skills](https://github.com/mi4646/my-skills) | 0 | HTML | 2026-08-08 | 个人整理的Codex / Claude Code 自定义技能插件集合 |
+| 7 | [miopea/swarm](https://github.com/miopea/swarm) | 9 | Python | 2026-08-08 | Web dashboard + autopilot for Claude Code agents — manage sessions, tasks, and approvals from your browser |
+| 8 | [bennyjo/phil](https://github.com/bennyjo/phil) | 4 | Python | 2026-08-08 | Phil is a self-improving trader: an AI agent that trades short-term prediction markets and rewrites his own strategy aft |
+| 9 | [stablyai/orca](https://github.com/stablyai/orca) | 39720 | TypeScript | 2026-08-08 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available  |
+| 10 | [rasatpetabit/masterplan](https://github.com/rasatpetabit/masterplan) | 9 | JavaScript | 2026-08-08 | Brainstorm → plan → execute development workflow plugin for Claude Code |
+| 11 | [kabehub/kabehub-prototype](https://github.com/kabehub/kabehub-prototype) | 2 | TypeScript | 2026-08-08 |  AI chat logger with public sharing, forking, and multi-model support.  Save your thinking process, not just the answers |
+| 12 | [rawsun007/claude-notch](https://github.com/rawsun007/claude-notch) | 21 | Swift | 2026-08-08 | Approve Claude Code from your Mac's notch. A native SwiftUI menu-bar app that surfaces Claude Code permission prompts, q |
+| 13 | [Gaurav890/everything-agentic-engineering](https://github.com/Gaurav890/everything-agentic-engineering) | 1 | Python | 2026-08-08 | A production-grade operating system for shipping software with AI coding agents: durable context, product design, skills |
+| 14 | [klinkoai/klinko-viral-pattern-analyzer](https://github.com/klinkoai/klinko-viral-pattern-analyzer) | 0 | — | 2026-08-08 | AI content research skill for identifying repeatable mechanisms behind high-performing and viral content. |
+| 15 | [klinkoai/klinko-startup-idea-validator](https://github.com/klinkoai/klinko-startup-idea-validator) | 0 | — | 2026-08-08 | AI market validation skill for testing startup assumptions, demand, alternatives, and willingness to change. |
+| 16 | [klinkoai/klinko-positioning-strategist](https://github.com/klinkoai/klinko-positioning-strategist) | 0 | — | 2026-08-08 | AI positioning skill for turning audience evidence, alternatives, and market gaps into testable messaging. |
+| 17 | [klinkoai/klinko-niche-audience-discovery](https://github.com/klinkoai/klinko-niche-audience-discovery) | 0 | — | 2026-08-08 | AI market research skill for discovering overlooked niches and underserved audience segments. |
+| 18 | [klinkoai/klinko-market-opportunity-analyst](https://github.com/klinkoai/klinko-market-opportunity-analyst) | 0 | — | 2026-08-08 | AI market research skill for ranking market opportunities before committing product or growth resources. |
+| 19 | [klinkoai/klinko-early-adopter-finder](https://github.com/klinkoai/klinko-early-adopter-finder) | 0 | — | 2026-08-08 | AI market research skill for identifying early adopters through urgency, workarounds, and switching readiness. |
+| 20 | [klinkoai/klinko-customer-pain-point-analyst](https://github.com/klinkoai/klinko-customer-pain-point-analyst) | 0 | — | 2026-08-08 | AI research skill for separating commercially meaningful customer pain points from complaints and online noise. |
+| 21 | [KyaniteLabs/kinocut](https://github.com/KyaniteLabs/kinocut) | 101 | Python | 2026-08-08 | Guardrailed video editing MCP server for AI agents. FFmpeg, Hyperframes, repurposing tools, Python client, and CLI. Loca |
+| 22 | [klinkoai/klinko-creative-brief-generator](https://github.com/klinkoai/klinko-creative-brief-generator) | 0 | — | 2026-08-08 | AI creative strategy skill for turning audience evidence and positioning into an execution-ready creative brief. |
+| 23 | [klinkoai/klinko-content-strategy-builder](https://github.com/klinkoai/klinko-content-strategy-builder) | 0 | — | 2026-08-08 | AI content strategy skill for prioritizing themes, formats, distribution, and internal links from audience demand. |
+| 24 | [klinkoai/klinko-buyer-persona-builder](https://github.com/klinkoai/klinko-buyer-persona-builder) | 0 | — | 2026-08-08 | AI market research skill for building evidence-led buyer personas from needs, triggers, objections, and behavior. |
+| 25 | [klinkoai/klinko-audience-finder](https://github.com/klinkoai/klinko-audience-finder) | 0 | — | 2026-08-08 | AI market research skill for finding and ranking the audiences most worth serving first. |
+| 26 | [timharris707/skills](https://github.com/timharris707/skills) | 0 | Python | 2026-08-08 | Portable skills for AI agents — a multi-model advisory board for hard decisions, and a five-skill team-workflow pack for |
+| 27 | [klinkoai/klinko-audience-comparator](https://github.com/klinkoai/klinko-audience-comparator) | 0 | — | 2026-08-08 | AI decision skill for comparing candidate audiences by demand, fit, whitespace, and reachability. |
+| 28 | [Rick-254/moodle-quizsmith](https://github.com/Rick-254/moodle-quizsmith) | 0 | HTML | 2026-08-08 | Claude Quiz Engine 2026 - Moodle MCQ Generator for GIFT XML Aiken |
+| 29 | [cell-observatory/claude-observatory](https://github.com/cell-observatory/claude-observatory) | 3 | TypeScript | 2026-08-08 | Per-edit Keep/Undo for Claude Code — surgical, git-free review in the terminal, VS Code, and PyCharm/JetBrains, with liv |
+| 30 | [revenantworks/citadel](https://github.com/revenantworks/citadel) | 0 | Python | 2026-08-08 | The Revenant packs marketplace — Agent Skills packs for Claude. |
+| 31 | [kwakuoseikwakye/alacran](https://github.com/kwakuoseikwakye/alacran) | 1 | TypeScript | 2026-08-08 | Give your AI a memory of your business — a local-first control panel for running an AI-native company on your own machin |
+| 32 | [scoobydrew83/skills](https://github.com/scoobydrew83/skills) | 0 | Python | 2026-08-08 | A coordinated library of Claude skills with explicit phase/handoff routing, shared state, and a maker/checker loop. |
+| 33 | [maileshwaran28/media-routing-mesh](https://github.com/maileshwaran28/media-routing-mesh) | 3 | HTML | 2026-08-08 | Routed Media OS 2026: 96 AI Skills, 13 Modes & 7 Agents for FFmpeg, OBS, DeckLink & Dolby Vision |
+| 34 | [corveil/crow](https://github.com/corveil/crow) | 15 | Swift | 2026-08-08 | Native macOS session manager for AI-powered development — orchestrates git worktrees, Claude Code, and GitHub/GitLab iss |
+| 35 | [everyapi-ai/everyapi-ai](https://github.com/everyapi-ai/everyapi-ai) | 2 | Go | 2026-08-08 | EveryAPI CLI: Claude Code / Codex / Gemini CLI integration + MCP server |
+| 36 | [yennanliu/finance_data](https://github.com/yennanliu/finance_data) | 2 | Python | 2026-08-08 | AI-gen/NotebookLLM U.S. stock reports  and a suite of tools for downloading, organizing, and managing SEC financial fili |
+| 37 | [dannykim32/worktable](https://github.com/dannykim32/worktable) | 0 | JavaScript | 2026-08-08 | A local browser canvas for terminal coding agents — the model renders its work as a page you can see, select, and ask ab |
+| 38 | [jposluns/grc_library](https://github.com/jposluns/grc_library) | 2 | Python | 2026-08-08 | A documentation library for governance, risk, compliance, cybersecurity, privacy, resilience, AI assurance, and operatio |
+| 39 | [kelleysd-apps/leadbench](https://github.com/kelleysd-apps/leadbench) | 0 | Python | 2026-08-08 | A markdown-based agent operating system for AI-assisted cold outbound. Draft-first: nothing sends without explicit human |
+| 40 | [scgopi/GraphCode](https://github.com/scgopi/GraphCode) | 11 | Swift | 2026-08-08 | Your coding agents, wired together: hand-offs, loops, and work that continues without you. |
+| 41 | [hashgraph-online/hol-guard](https://github.com/hashgraph-online/hol-guard) | 427 | Python | 2026-08-08 | Open-source antivirus for AI agents: block risky tools, secret access, prompt injection, malicious packages, MCP servers |
+| 42 | [52216108/agent-taskboard](https://github.com/52216108/agent-taskboard) | 3 | TypeScript | 2026-08-08 | A local-first board for every project on your machine — and a task queue your coding agents pull work from. Run 'board h |
+| 43 | [Akshat2634/CodelensAI-Website](https://github.com/Akshat2634/CodelensAI-Website) | 0 | TypeScript | 2026-08-08 | Agent Productivity-to-Cost Correlatorcodelens-ai  |
+| 44 | [ProblemFactory/vibespace](https://github.com/ProblemFactory/vibespace) | 4 | JavaScript | 2026-08-08 | A backend-agnostic web workspace for coding agents (Claude Code, Codex, …) — manage many concurrent agent CLI sessions w |
+| 45 | [khalilmaaouni/BrotherSBE](https://github.com/khalilmaaouni/BrotherSBE) | 0 | Python | 2026-08-08 | A design review tool that refuses to report success over anything it did not examine. |
+| 46 | [soluzka/antivirus-yara-rules](https://github.com/soluzka/antivirus-yara-rules) | 3 | Python | 2026-08-08 | fully equip AV Desktop App |
+| 47 | [receptron/mulmoterminal](https://github.com/receptron/mulmoterminal) | 103 | TypeScript | 2026-08-08 | Run multiple Claude Code and Codex sessions in parallel — a browser terminal grid that shows which agent needs you. Loca |
+| 48 | [dong-park/pharos](https://github.com/dong-park/pharos) | 0 | TypeScript | 2026-08-08 | xterm.js + Tauri macOS 터미널 멀티플렉서 — Claude Code·Codex 등 AI 에이전트 세션을 한 창에서 오갑니다 |
+| 49 | [burrow-cloud/burrow](https://github.com/burrow-cloud/burrow) | 6 | Go | 2026-08-08 | Your AI agent, safely operating your app in production, behind guardrails it can't cross. Deploy, scale, debug, and roll |
+| 50 | [zettacodetech/neuraai](https://github.com/zettacodetech/neuraai) | 0 | Python | 2026-08-08 | Nura ai |
 <!-- TRACKER_TABLE_END -->
 
 ---

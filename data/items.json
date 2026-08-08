@@ -1,5 +1,68 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 22,
+    "updated_at": "2026-08-08T17:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Agent skills that turn Claude Code (or any agent) into an award-winning multi-modal creative pipeline \u2014 art, music, vide",
+    "id": "LocalSymmetry/lofn",
+    "language": "Python",
+    "name": "LocalSymmetry/lofn",
+    "stars": 19,
+    "updated_at": "2026-08-08T17:45:08Z",
+    "url": "https://github.com/LocalSymmetry/lofn"
+  },
+  {
+    "description": "AI token usage & quota monitor for the macOS menu bar \u2014 native Swift, Liquid Glass, 3D contribution graph. Tracks Claude",
+    "id": "Nanako0129/TokenBar",
+    "language": "Rust",
+    "name": "Nanako0129/TokenBar",
+    "stars": 247,
+    "updated_at": "2026-08-08T17:45:05Z",
+    "url": "https://github.com/Nanako0129/TokenBar"
+  },
+  {
+    "description": "Repeatable agentic engineering. The workflow layer that turns AI coding agents into a disciplined factory: durable specs",
+    "id": "gmickel/flow-next",
+    "language": "Python",
+    "name": "gmickel/flow-next",
+    "stars": 674,
+    "updated_at": "2026-08-08T17:44:59Z",
+    "url": "https://github.com/gmickel/flow-next"
+  },
+  {
+    "description": "Versioned, machine-readable dataset answering: does a given Claude Code CLI flag, env var, or command exist in version X",
+    "id": "schubydoo/claustodian",
+    "language": "TypeScript",
+    "name": "schubydoo/claustodian",
+    "stars": 0,
+    "updated_at": "2026-08-08T17:44:58Z",
+    "url": "https://github.com/schubydoo/claustodian"
+  },
+  {
+    "description": "World's first local-only AI memory to break 74% retrieval and 60% zero-LLM on LoCoMo. No cloud, no APIs, no data leaves ",
+    "id": "qualixar/superlocalmemory",
+    "language": "Python",
+    "name": "qualixar/superlocalmemory",
+    "stars": 206,
+    "updated_at": "2026-08-08T17:44:52Z",
+    "url": "https://github.com/qualixar/superlocalmemory"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 3,
+    "updated_at": "2026-08-08T17:44:43Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
     "description": "A macOS desktop app for managing multiple Claude Code sessions",
     "id": "codika-io/clave",
     "language": "TypeScript",
@@ -63,15 +126,6 @@
     "url": "https://github.com/artokun/comfyui-mcp"
   },
   {
-    "description": "AI token usage & quota monitor for the macOS menu bar \u2014 native Swift, Liquid Glass, 3D contribution graph. Tracks Claude",
-    "id": "Nanako0129/TokenBar",
-    "language": "Rust",
-    "name": "Nanako0129/TokenBar",
-    "stars": 247,
-    "updated_at": "2026-08-08T17:44:16Z",
-    "url": "https://github.com/Nanako0129/TokenBar"
-  },
-  {
     "description": "Backend security Agent Skill that helps AI audit code, detect vulnerabilities, and generate secure-by-default backend ap",
     "id": "n-shadloo/secure-code-auditor",
     "language": "Python",
@@ -88,6 +142,15 @@
     "stars": 1,
     "updated_at": "2026-08-08T17:44:06Z",
     "url": "https://github.com/gitychzh/NVForge"
+  },
+  {
+    "description": "The agent that grows with you",
+    "id": "NousResearch/hermes-agent",
+    "language": "Python",
+    "name": "NousResearch/hermes-agent",
+    "stars": 227424,
+    "updated_at": "2026-08-08T17:44:03Z",
+    "url": "https://github.com/NousResearch/hermes-agent"
   },
   {
     "description": "5 Best Free OpenClaw Android AI Agents 2026 \u2013 No Root Full Linux",
@@ -185,7 +248,7 @@
     "language": "Rust",
     "name": "modelstat/modelstat",
     "stars": 9,
-    "updated_at": "2026-08-08T17:43:12Z",
+    "updated_at": "2026-08-08T17:44:56Z",
     "url": "https://github.com/modelstat/modelstat"
   },
   {
@@ -257,7 +320,7 @@
     "language": "TypeScript",
     "name": "schiz0x00/mcp-browser",
     "stars": 1,
-    "updated_at": "2026-08-08T17:44:33Z",
+    "updated_at": "2026-08-08T17:44:42Z",
     "url": "https://github.com/schiz0x00/mcp-browser"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-08T17:41:02Z",
     "url": "https://github.com/juanquiservin/trueloop"
-  },
-  {
-    "description": "Repository-centered instructions, skills, memory conventions, client adapters, and lifecycle safeguards for consistent w",
-    "id": "ImYourBoyRoy/agent-continuity-stack",
-    "language": "Python",
-    "name": "ImYourBoyRoy/agent-continuity-stack",
-    "stars": 0,
-    "updated_at": "2026-08-08T17:41:02Z",
-    "url": "https://github.com/ImYourBoyRoy/agent-continuity-stack"
-  },
-  {
-    "description": "AI-gen/NotebookLLM U.S. stock reports  and a suite of tools for downloading, organizing, and managing SEC financial fili",
-    "id": "yennanliu/finance_data",
-    "language": "Python",
-    "name": "yennanliu/finance_data",
-    "stars": 2,
-    "updated_at": "2026-08-08T17:40:58Z",
-    "url": "https://github.com/yennanliu/finance_data"
-  },
-  {
-    "description": "Governance framework for AI coding agents \u2014 enforces task traceability, structural gates, session continuity, and audit ",
-    "id": "DimitriGeelen/agentic-engineering-framework",
-    "language": "Shell",
-    "name": "DimitriGeelen/agentic-engineering-framework",
-    "stars": 13,
-    "updated_at": "2026-08-08T17:40:53Z",
-    "url": "https://github.com/DimitriGeelen/agentic-engineering-framework"
-  },
-  {
-    "description": "Cuts terminal noise 89% before your AI coding agent reads it. Fewer tokens, nothing ever lost, and it never invents a re",
-    "id": "fajarhide/omni",
-    "language": "Rust",
-    "name": "fajarhide/omni",
-    "stars": 320,
-    "updated_at": "2026-08-08T17:40:45Z",
-    "url": "https://github.com/fajarhide/omni"
-  },
-  {
-    "description": "The agent IDE that builds itself",
-    "id": "get-bb/bb",
-    "language": "TypeScript",
-    "name": "get-bb/bb",
-    "stars": 1453,
-    "updated_at": "2026-08-08T17:40:03Z",
-    "url": "https://github.com/get-bb/bb"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-08-08T17:39:53Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Dex is the agent-native analytics engineering toolkit. Point it at your warehouse and your dbt project. It learns the la",
-    "id": "exmergo/dex",
-    "language": "Python",
-    "name": "exmergo/dex",
-    "stars": 20,
-    "updated_at": "2026-08-08T17:42:32Z",
-    "url": "https://github.com/exmergo/dex"
   }
 ]

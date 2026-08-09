@@ -1,5 +1,86 @@
 [
   {
+    "description": "\u3010\u7701\u94b1\u5f00\u6e90\u5c0f\u5de5\u5177\u3011\u8ba9 Codex \u548c Claude \u7684\u6d88\u8017\uff0c\u53d8\u4e3a\u5b98\u7f51\u6a21\u578b\u4ef7\u683c\u7684 1 \u6298\u3002",
+    "id": "SailingLoong/LoongPort",
+    "language": "Rust",
+    "name": "SailingLoong/LoongPort",
+    "stars": 2,
+    "updated_at": "2026-08-09T21:00:50Z",
+    "url": "https://github.com/SailingLoong/LoongPort"
+  },
+  {
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
+    "id": "stablyai/orca",
+    "language": "TypeScript",
+    "name": "stablyai/orca",
+    "stars": 40732,
+    "updated_at": "2026-08-09T21:00:46Z",
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "description": "Auditable skills and verification gates for coding agents. Smaller diffs, evidence-first debugging, safer delivery, and ",
+    "id": "markoblogo/abvx-agent-skills",
+    "language": "Python",
+    "name": "markoblogo/abvx-agent-skills",
+    "stars": 11,
+    "updated_at": "2026-08-09T21:00:38Z",
+    "url": "https://github.com/markoblogo/abvx-agent-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 19,
+    "updated_at": "2026-08-09T21:00:29Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Self-hosted AI coding factory \u2014 sandboxed agents deliver tickets to merged code, gated by a human in a dashboard. Local-",
+    "id": "tmj-90/gaffer",
+    "language": "TypeScript",
+    "name": "tmj-90/gaffer",
+    "stars": 1,
+    "updated_at": "2026-08-09T21:00:26Z",
+    "url": "https://github.com/tmj-90/gaffer"
+  },
+  {
+    "description": "Claude Code / Codex \u306e\u30ab\u30b9\u30bf\u30e0\u30b9\u30ad\u30eb\u30fb\u30b3\u30de\u30f3\u30c9\u3092\u8907\u6570\u7aef\u672b\u3067 symlink \u540c\u671f\u3059\u308b\u500b\u4eba dotfiles",
+    "id": "kitepon-rgb/dotagents",
+    "language": "JavaScript",
+    "name": "kitepon-rgb/dotagents",
+    "stars": 0,
+    "updated_at": "2026-08-09T21:00:24Z",
+    "url": "https://github.com/kitepon-rgb/dotagents"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 3,
+    "updated_at": "2026-08-09T21:00:18Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "A deterministic, observable Spec-Driven Development harness for AI coding agents. Reliable workflows, enforceable gates,",
+    "id": "thiagocorreanet/mestre-yoda",
+    "language": "TypeScript",
+    "name": "thiagocorreanet/mestre-yoda",
+    "stars": 6,
+    "updated_at": "2026-08-09T21:00:17Z",
+    "url": "https://github.com/thiagocorreanet/mestre-yoda"
+  },
+  {
+    "description": "An agent composition framework that builds stacks and compiles specialized subagents for Claude Code",
+    "id": "agents-inc/agents-inc",
+    "language": "TypeScript",
+    "name": "agents-inc/agents-inc",
+    "stars": 5,
+    "updated_at": "2026-08-09T21:00:14Z",
+    "url": "https://github.com/agents-inc/agents-inc"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -9,6 +90,15 @@
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
+    "description": "A Claude Code skill set for writing through a specific persona \u2014 not generic AI voice. Pick who writes. The voice follow",
+    "id": "DurdeuVlad/persona-write",
+    "language": "\u2014",
+    "name": "DurdeuVlad/persona-write",
+    "stars": 1,
+    "updated_at": "2026-08-09T21:00:08Z",
+    "url": "https://github.com/DurdeuVlad/persona-write"
+  },
+  {
     "description": "\ud83e\udde0 Experience Avurna, an AI assistant that understands emotion and reasoning for genuine human-like interactions, ideal f",
     "id": "Bancroftencouraging198/avurna-ai",
     "language": "\u2014",
@@ -16,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-09T20:59:45Z",
     "url": "https://github.com/Bancroftencouraging198/avurna-ai"
-  },
-  {
-    "description": "Claude Code / Codex \u306e\u30ab\u30b9\u30bf\u30e0\u30b9\u30ad\u30eb\u30fb\u30b3\u30de\u30f3\u30c9\u3092\u8907\u6570\u7aef\u672b\u3067 symlink \u540c\u671f\u3059\u308b\u500b\u4eba dotfiles",
-    "id": "kitepon-rgb/dotagents",
-    "language": "JavaScript",
-    "name": "kitepon-rgb/dotagents",
-    "stars": 0,
-    "updated_at": "2026-08-09T20:59:40Z",
-    "url": "https://github.com/kitepon-rgb/dotagents"
   },
   {
     "description": "The agent that grows with you",
@@ -41,7 +122,7 @@
     "language": "TypeScript",
     "name": "vipentti/planlet",
     "stars": 1,
-    "updated_at": "2026-08-09T20:59:28Z",
+    "updated_at": "2026-08-09T21:01:10Z",
     "url": "https://github.com/vipentti/planlet"
   },
   {
@@ -59,7 +140,7 @@
     "language": "TypeScript",
     "name": "event4u-app/agent-config",
     "stars": 7,
-    "updated_at": "2026-08-09T20:59:19Z",
+    "updated_at": "2026-08-09T21:00:25Z",
     "url": "https://github.com/event4u-app/agent-config"
   },
   {
@@ -135,15 +216,6 @@
     "url": "https://github.com/benlmadan9-star/eco-mesh-sdk"
   },
   {
-    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
-    "id": "stablyai/orca",
-    "language": "TypeScript",
-    "name": "stablyai/orca",
-    "stars": 40732,
-    "updated_at": "2026-08-09T20:58:44Z",
-    "url": "https://github.com/stablyai/orca"
-  },
-  {
     "description": "AI-gen/NotebookLLM U.S. stock reports  and a suite of tools for downloading, organizing, and managing SEC financial fili",
     "id": "yennanliu/finance_data",
     "language": "Python",
@@ -169,6 +241,15 @@
     "stars": 140,
     "updated_at": "2026-08-09T20:58:23Z",
     "url": "https://github.com/AnastasiyaW/codex-claude-code-config"
+  },
+  {
+    "description": "Beads - A memory upgrade for your coding agent",
+    "id": "gastownhall/beads",
+    "language": "Go",
+    "name": "gastownhall/beads",
+    "stars": 26163,
+    "updated_at": "2026-08-09T20:58:14Z",
+    "url": "https://github.com/gastownhall/beads"
   },
   {
     "description": "Open-source AI website builder skill suite for creating fast, accessible, SEO-ready Astro websites with Claude Code, Cod",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-09T20:56:22Z",
     "url": "https://github.com/karnstack/flue"
-  },
-  {
-    "description": "Crosscode CLI \u2014 an MCP server for real-time codebase sync between coding agents",
-    "id": "amsultan2010/crosscode",
-    "language": "TypeScript",
-    "name": "amsultan2010/crosscode",
-    "stars": 1,
-    "updated_at": "2026-08-09T20:55:47Z",
-    "url": "https://github.com/amsultan2010/crosscode"
-  },
-  {
-    "description": "Local-first tool to visualize and analyze Claude Code, Cursor, Pi & OpenCode sessions \u2014 context tokens, LLM insights, go",
-    "id": "ZoheerAlmansoub/agent-session-intelligence",
-    "language": "TypeScript",
-    "name": "ZoheerAlmansoub/agent-session-intelligence",
-    "stars": 5,
-    "updated_at": "2026-08-09T20:55:36Z",
-    "url": "https://github.com/ZoheerAlmansoub/agent-session-intelligence"
-  },
-  {
-    "description": "Web, Desktop & Mobile client for Codex, Claude Code, OpenCode, Kimi, Augment Code, Qwen, fully end-to-end encrypted",
-    "id": "happier-dev/happier",
-    "language": "TypeScript",
-    "name": "happier-dev/happier",
-    "stars": 1450,
-    "updated_at": "2026-08-09T20:55:03Z",
-    "url": "https://github.com/happier-dev/happier"
-  },
-  {
-    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models \u2014 Kimi, Claude, GPT, OpenAI",
-    "id": "diegosouzapw/OmniRoute",
-    "language": "TypeScript",
-    "name": "diegosouzapw/OmniRoute",
-    "stars": 44180,
-    "updated_at": "2026-08-09T20:55:02Z",
-    "url": "https://github.com/diegosouzapw/OmniRoute"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 21,
-    "updated_at": "2026-08-09T20:54:58Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Literature-grounded plausibility checks for protein binding results.                              Cited verdicts from 77",
-    "id": "AMVamsi/adaptyv-target-intel",
-    "language": "Python",
-    "name": "AMVamsi/adaptyv-target-intel",
-    "stars": 0,
-    "updated_at": "2026-08-09T20:54:58Z",
-    "url": "https://github.com/AMVamsi/adaptyv-target-intel"
-  },
-  {
-    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
-    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "language": "HTML",
-    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "stars": 3,
-    "updated_at": "2026-08-09T20:54:51Z",
-    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "You, multiplied. Mission control for Claude Code, Codex, and OpenCode: see every session, approve what your agents do, a",
-    "id": "dork-labs/dorkos",
-    "language": "TypeScript",
-    "name": "dork-labs/dorkos",
-    "stars": 7,
-    "updated_at": "2026-08-09T20:54:49Z",
-    "url": "https://github.com/dork-labs/dorkos"
-  },
-  {
-    "description": "Self-hosted routing proxy for Claude Code and any Anthropic-format client: nine modes across Anthropic, MiniMax, GLM/z.a",
-    "id": "eroslifestyle/ai-router-switch",
-    "language": "Python",
-    "name": "eroslifestyle/ai-router-switch",
-    "stars": 0,
-    "updated_at": "2026-08-09T20:54:45Z",
-    "url": "https://github.com/eroslifestyle/ai-router-switch"
   }
 ]

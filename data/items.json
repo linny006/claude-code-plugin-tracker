@@ -1,5 +1,59 @@
 [
   {
+    "description": "Clean up typescript projects.",
+    "id": "finnmglas/desprawl",
+    "language": "TypeScript",
+    "name": "finnmglas/desprawl",
+    "stars": 3,
+    "updated_at": "2026-08-10T22:30:37Z",
+    "url": "https://github.com/finnmglas/desprawl"
+  },
+  {
+    "description": "Single-file HTML presentations that don't look generated. One .html you double-click, and it opens with the network off.",
+    "id": "uchimata2/htmldeck",
+    "language": "Python",
+    "name": "uchimata2/htmldeck",
+    "stars": 0,
+    "updated_at": "2026-08-10T22:30:35Z",
+    "url": "https://github.com/uchimata2/htmldeck"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 19,
+    "updated_at": "2026-08-10T22:30:33Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Top AI-Powered UI/UX Design Generator & Code Assistant 2026",
+    "id": "MichelSR25/Claude-Code-Agent-Design-Kit",
+    "language": "HTML",
+    "name": "MichelSR25/Claude-Code-Agent-Design-Kit",
+    "stars": 0,
+    "updated_at": "2026-08-10T22:30:30Z",
+    "url": "https://github.com/MichelSR25/Claude-Code-Agent-Design-Kit"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 4,
+    "updated_at": "2026-08-10T22:30:29Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
+    "language": "Python",
+    "name": "headroomlabs-ai/headroom",
+    "stars": 65810,
+    "updated_at": "2026-08-10T22:30:41Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -9,6 +63,15 @@
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
+    "description": "Framework for building Agent Factories. CLI Native. Everything you will need!",
+    "id": "phnx-labs/agents-cli",
+    "language": "TypeScript",
+    "name": "phnx-labs/agents-cli",
+    "stars": 14,
+    "updated_at": "2026-08-10T22:30:18Z",
+    "url": "https://github.com/phnx-labs/agents-cli"
+  },
+  {
     "description": "A little animal runs across your screen while your coding assistant works. macOS menu bar app for Claude Code, Gemini CL",
     "id": "b2narae/Gallop",
     "language": "Swift",
@@ -16,6 +79,15 @@
     "stars": 0,
     "updated_at": "2026-08-10T22:30:17Z",
     "url": "https://github.com/b2narae/Gallop"
+  },
+  {
+    "description": "A Roslyn-based static analysis linter designed to optimize C# (.NET 10) codebases for AI agents (Cursor, Claude Code) an",
+    "id": "RalfHuesing/AiNetLinter",
+    "language": "C#",
+    "name": "RalfHuesing/AiNetLinter",
+    "stars": 0,
+    "updated_at": "2026-08-10T22:30:16Z",
+    "url": "https://github.com/RalfHuesing/AiNetLinter"
   },
   {
     "description": "Centralized AI agent skills for Obsidian plugin and theme development.",
@@ -167,7 +239,7 @@
     "language": "TypeScript",
     "name": "lidge-jun/opencodex",
     "stars": 8924,
-    "updated_at": "2026-08-10T22:29:58Z",
+    "updated_at": "2026-08-10T22:30:34Z",
     "url": "https://github.com/lidge-jun/opencodex"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 7631,
     "updated_at": "2026-08-10T22:27:14Z",
     "url": "https://github.com/backnotprop/plannotator"
-  },
-  {
-    "description": "The agent that grows with you",
-    "id": "NousResearch/hermes-agent",
-    "language": "Python",
-    "name": "NousResearch/hermes-agent",
-    "stars": 228422,
-    "updated_at": "2026-08-10T22:27:11Z",
-    "url": "https://github.com/NousResearch/hermes-agent"
-  },
-  {
-    "description": "Your Ultimate AI Coding Toolkit 2026 \u2013 MCP Plugin for Pencil, Claude, Cursor & Gemini",
-    "id": "MontyGraphix/pencil-mcp-harmony",
-    "language": "HTML",
-    "name": "MontyGraphix/pencil-mcp-harmony",
-    "stars": 0,
-    "updated_at": "2026-08-10T22:27:09Z",
-    "url": "https://github.com/MontyGraphix/pencil-mcp-harmony"
-  },
-  {
-    "description": "Native Windows tray monitor for Claude Code usage \u2014 shows your rate-limit %, projects when you'll run out, and turns the",
-    "id": "alegauss/claude-tray",
-    "language": "C#",
-    "name": "alegauss/claude-tray",
-    "stars": 4,
-    "updated_at": "2026-08-10T22:27:07Z",
-    "url": "https://github.com/alegauss/claude-tray"
-  },
-  {
-    "description": "Local-first task tracking that humans and AI agents share without stepping on each other.",
-    "id": "gwendall/tasq",
-    "language": "TypeScript",
-    "name": "gwendall/tasq",
-    "stars": 0,
-    "updated_at": "2026-08-10T22:27:05Z",
-    "url": "https://github.com/gwendall/tasq"
-  },
-  {
-    "description": "Agent Almanac \u2014 a curated reference of executable skills, specialist agents, and teams for AI-assisted development, with",
-    "id": "pjt222/agent-almanac",
-    "language": "R",
-    "name": "pjt222/agent-almanac",
-    "stars": 30,
-    "updated_at": "2026-08-10T22:27:54Z",
-    "url": "https://github.com/pjt222/agent-almanac"
-  },
-  {
-    "description": "Like if Kubernetes and localhost had a magic, agentic baby \u2014 with a gorgeous UI.",
-    "id": "prosperity-solutions/veld",
-    "language": "Rust",
-    "name": "prosperity-solutions/veld",
-    "stars": 12,
-    "updated_at": "2026-08-10T22:27:02Z",
-    "url": "https://github.com/prosperity-solutions/veld"
-  },
-  {
-    "description": "AI-gen/NotebookLLM U.S. stock reports  and a suite of tools for downloading, organizing, and managing SEC financial fili",
-    "id": "yennanliu/finance_data",
-    "language": "Python",
-    "name": "yennanliu/finance_data",
-    "stars": 2,
-    "updated_at": "2026-08-10T22:26:58Z",
-    "url": "https://github.com/yennanliu/finance_data"
-  },
-  {
-    "description": "Silver Bullet Agentic Orchestrator 2026 - AI-Native DevOps Workflow Engine for Software Engineering",
-    "id": "raahimporno/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "raahimporno/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-10T22:26:56Z",
-    "url": "https://github.com/raahimporno/agentic-workflow-orchestrator"
   }
 ]

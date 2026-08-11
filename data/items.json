@@ -1,5 +1,86 @@
 [
   {
+    "description": "Superx Marketplace 2026 \u2013 Claude Plugins Hub for AI Automation",
+    "id": "astephenson660-lgtm/claude-plugin-hub",
+    "language": "HTML",
+    "name": "astephenson660-lgtm/claude-plugin-hub",
+    "stars": 0,
+    "updated_at": "2026-08-11T05:00:40Z",
+    "url": "https://github.com/astephenson660-lgtm/claude-plugin-hub"
+  },
+  {
+    "description": "Superpowers Security Ops 2026: OWASP Workflow Routing & Auto-Fix Red Team Engine",
+    "id": "toying78/supremeworkflow-orchestrator",
+    "language": "HTML",
+    "name": "toying78/supremeworkflow-orchestrator",
+    "stars": 2,
+    "updated_at": "2026-08-11T05:00:35Z",
+    "url": "https://github.com/toying78/supremeworkflow-orchestrator"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 19,
+    "updated_at": "2026-08-11T05:00:31Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "\ud83e\udde0 Always-on AI burn rate on your desktop \u2014 token bars, quota clocks, and a desk pet that knows when you're vibing with C",
+    "id": "TonPC64/ai-desktop-widgets",
+    "language": "JavaScript",
+    "name": "TonPC64/ai-desktop-widgets",
+    "stars": 0,
+    "updated_at": "2026-08-11T05:00:27Z",
+    "url": "https://github.com/TonPC64/ai-desktop-widgets"
+  },
+  {
+    "description": "Claude Code skill for moving an app from iVS (single container, embedded SQLite) to Hostinger Node hosting (LiteSpeed, M",
+    "id": "klodtun/ivstoHOSTINGER",
+    "language": "Shell",
+    "name": "klodtun/ivstoHOSTINGER",
+    "stars": 0,
+    "updated_at": "2026-08-11T05:00:22Z",
+    "url": "https://github.com/klodtun/ivstoHOSTINGER"
+  },
+  {
+    "description": "Memory for AI agents that learns what actually helped: lessons injected at the moment of action, credited by outcome, ch",
+    "id": "balanced7/akashic-aurora",
+    "language": "Python",
+    "name": "balanced7/akashic-aurora",
+    "stars": 6,
+    "updated_at": "2026-08-11T05:00:17Z",
+    "url": "https://github.com/balanced7/akashic-aurora"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 4,
+    "updated_at": "2026-08-11T05:00:17Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "The Ultimate AI Code Workflow 2026 \u2014 31 Hard-Contract PDLC Commands for Flawless GitOps",
+    "id": "24bsc244-svg/pdlc-forge",
+    "language": "HTML",
+    "name": "24bsc244-svg/pdlc-forge",
+    "stars": 3,
+    "updated_at": "2026-08-11T05:00:15Z",
+    "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 25,
+    "updated_at": "2026-08-11T05:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "A smart attention router for developers running multiple AI coding agents.",
     "id": "kookr-ai/kookr",
     "language": "TypeScript",
@@ -41,7 +122,7 @@
     "language": "Go",
     "name": "github/gh-aw",
     "stars": 4902,
-    "updated_at": "2026-08-11T04:59:47Z",
+    "updated_at": "2026-08-11T05:00:22Z",
     "url": "https://github.com/github/gh-aw"
   },
   {
@@ -230,7 +311,7 @@
     "language": "Python",
     "name": "zauberzeug/game-of-cards",
     "stars": 6,
-    "updated_at": "2026-08-11T04:58:44Z",
+    "updated_at": "2026-08-11T05:00:42Z",
     "url": "https://github.com/zauberzeug/game-of-cards"
   },
   {
@@ -247,7 +328,7 @@
     "id": "lidge-jun/opencodex",
     "language": "TypeScript",
     "name": "lidge-jun/opencodex",
-    "stars": 8990,
+    "stars": 8989,
     "updated_at": "2026-08-11T04:58:33Z",
     "url": "https://github.com/lidge-jun/opencodex"
   },
@@ -266,7 +347,7 @@
     "language": "JavaScript",
     "name": "atrislabs/atris",
     "stars": 67,
-    "updated_at": "2026-08-11T04:58:25Z",
+    "updated_at": "2026-08-11T05:00:48Z",
     "url": "https://github.com/atrislabs/atris"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-11T04:57:44Z",
     "url": "https://github.com/edsondviana8/ai-humanizer-core"
-  },
-  {
-    "description": "AI-Powered Customs Classification & Trade Compliance Platform 2026 - HTS Duty Calculator & PGA Screening",
-    "id": "RumetoBr/tariff-oracle",
-    "language": "HTML",
-    "name": "RumetoBr/tariff-oracle",
-    "stars": 0,
-    "updated_at": "2026-08-11T04:57:43Z",
-    "url": "https://github.com/RumetoBr/tariff-oracle"
-  },
-  {
-    "description": "Local, privacy-first live dashboard and voice for Claude Code. Watch and hear what your agent is doing as it works, no t",
-    "id": "mrktchris/fama",
-    "language": "JavaScript",
-    "name": "mrktchris/fama",
-    "stars": 0,
-    "updated_at": "2026-08-11T04:57:38Z",
-    "url": "https://github.com/mrktchris/fama"
-  },
-  {
-    "description": "AI-Powered Project Scaffolding 2026: From Design to Deploy in Seconds",
-    "id": "project9658/starter-anthill",
-    "language": "HTML",
-    "name": "project9658/starter-anthill",
-    "stars": 3,
-    "updated_at": "2026-08-11T04:57:33Z",
-    "url": "https://github.com/project9658/starter-anthill"
-  },
-  {
-    "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitaski",
-    "id": "manaflow-ai/cmux",
-    "language": "Swift",
-    "name": "manaflow-ai/cmux",
-    "stars": 25912,
-    "updated_at": "2026-08-11T05:00:01Z",
-    "url": "https://github.com/manaflow-ai/cmux"
-  },
-  {
-    "description": "Zen workspace for sidekick.nvim: code + AI CLI, one centered view at a time",
-    "id": "rashedInt32/sidekick-zen.nvim",
-    "language": "Lua",
-    "name": "rashedInt32/sidekick-zen.nvim",
-    "stars": 0,
-    "updated_at": "2026-08-11T04:57:10Z",
-    "url": "https://github.com/rashedInt32/sidekick-zen.nvim"
-  },
-  {
-    "description": "The Google Docs of Markdown \u2014 a fast, native markdown app for macOS with a built-in local MCP server for AI agents. Free",
-    "id": "zvndev/markie",
-    "language": "TypeScript",
-    "name": "zvndev/markie",
-    "stars": 0,
-    "updated_at": "2026-08-11T04:57:09Z",
-    "url": "https://github.com/zvndev/markie"
-  },
-  {
-    "description": "Provider-neutral skill pipeline (Claude + GitHub Copilot/GPT) for an autonomous plan -> build -> review -> ship workflow",
-    "id": "aberson/skill-mesh",
-    "language": "Python",
-    "name": "aberson/skill-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-11T04:57:06Z",
-    "url": "https://github.com/aberson/skill-mesh"
-  },
-  {
-    "description": "One microVM per git worktree (Lima/vz) with in-VM dockerd \u2014 parallel coding agents without DB, port, or image collisions",
-    "id": "rakutek/wtx",
-    "language": "Rust",
-    "name": "rakutek/wtx",
-    "stars": 0,
-    "updated_at": "2026-08-11T04:58:48Z",
-    "url": "https://github.com/rakutek/wtx"
-  },
-  {
-    "description": "A miniature agentic AI developer platform on AWS with QA baked in \u2014 one command scaffolds a governed agent with evals, g",
-    "id": "andaro74/agentpave",
-    "language": "Python",
-    "name": "andaro74/agentpave",
-    "stars": 0,
-    "updated_at": "2026-08-11T04:57:04Z",
-    "url": "https://github.com/andaro74/agentpave"
   }
 ]

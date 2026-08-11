@@ -1,5 +1,104 @@
 [
   {
+    "description": "Persistent session memory for AI coding agents \u2014 local-first, with on-device inference, associative recall, and drift de",
+    "id": "dcostenco/prism-coder",
+    "language": "TypeScript",
+    "name": "dcostenco/prism-coder",
+    "stars": 155,
+    "updated_at": "2026-08-11T23:00:51Z",
+    "url": "https://github.com/dcostenco/prism-coder"
+  },
+  {
+    "description": "Melodic Software \u2014 Claude Code plugin marketplace: reusable, repo-agnostic skills, hooks, agents, and MCP servers.",
+    "id": "melodic-software/claude-code-plugins",
+    "language": "Shell",
+    "name": "melodic-software/claude-code-plugins",
+    "stars": 6,
+    "updated_at": "2026-08-11T23:00:38Z",
+    "url": "https://github.com/melodic-software/claude-code-plugins"
+  },
+  {
+    "description": "Give your AI agents a git repo as a brain. Local-first persistent memory for OpenCode, Claude Code, Cursor & Codex \u2014 MCP",
+    "id": "JoaquimLegal/mnemo",
+    "language": "TypeScript",
+    "name": "JoaquimLegal/mnemo",
+    "stars": 1,
+    "updated_at": "2026-08-11T23:00:33Z",
+    "url": "https://github.com/JoaquimLegal/mnemo"
+  },
+  {
+    "description": "\ud83d\ude80 Longform Writing Plugin for Claude Code 2026 \u2013 AI Novel Editor & Repo",
+    "id": "denidelapan7/longform-claude-extension",
+    "language": "HTML",
+    "name": "denidelapan7/longform-claude-extension",
+    "stars": 0,
+    "updated_at": "2026-08-11T23:00:31Z",
+    "url": "https://github.com/denidelapan7/longform-claude-extension"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 19,
+    "updated_at": "2026-08-11T23:00:31Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "A lightweight persistent-memory companion for OpenCode & Claude",
+    "id": "kunickiaj/codemem",
+    "language": "TypeScript",
+    "name": "kunickiaj/codemem",
+    "stars": 61,
+    "updated_at": "2026-08-11T23:00:31Z",
+    "url": "https://github.com/kunickiaj/codemem"
+  },
+  {
+    "description": "No 'fixed' without receipts \u2014 a portable evidence gate for coding agents.",
+    "id": "lMysticl/bug-receipt",
+    "language": "CSS",
+    "name": "lMysticl/bug-receipt",
+    "stars": 0,
+    "updated_at": "2026-08-11T23:00:20Z",
+    "url": "https://github.com/lMysticl/bug-receipt"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 4,
+    "updated_at": "2026-08-11T23:00:16Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Open-core registry of animated React components, blocks, design systems, and templates. Real, editable code: install wit",
+    "id": "uiNerd16/aicanvas",
+    "language": "TypeScript",
+    "name": "uiNerd16/aicanvas",
+    "stars": 46,
+    "updated_at": "2026-08-11T23:00:15Z",
+    "url": "https://github.com/uiNerd16/aicanvas"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 25,
+    "updated_at": "2026-08-11T23:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The easiest way to start a second brain \u2014 an Obsidian vault Claude Code sets up in minutes and maintains for you",
+    "id": "nikolajhh2008-svg/brainwarden",
+    "language": "Python",
+    "name": "nikolajhh2008-svg/brainwarden",
+    "stars": 2,
+    "updated_at": "2026-08-11T23:00:14Z",
+    "url": "https://github.com/nikolajhh2008-svg/brainwarden"
+  },
+  {
     "description": "Session continuity for Claude Code: context-usage sensor, threshold alerts, HANDOFF state files, auto-recovery after com",
     "id": "turvodnik/pf-handoff",
     "language": "Shell",
@@ -25,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-08-11T22:59:42Z",
     "url": "https://github.com/yennanliu/finance_data"
-  },
-  {
-    "description": "Give your AI agents a git repo as a brain. Local-first persistent memory for OpenCode, Claude Code, Cursor & Codex \u2014 MCP",
-    "id": "JoaquimLegal/mnemo",
-    "language": "TypeScript",
-    "name": "JoaquimLegal/mnemo",
-    "stars": 1,
-    "updated_at": "2026-08-11T22:59:40Z",
-    "url": "https://github.com/JoaquimLegal/mnemo"
   },
   {
     "description": "[L0 CONSTITUTION] arifOS \u2014 constitutional MCP kernel. Law, identity, F1\u2013F13, VAULT999. Judges but never executes. DITEMP",
@@ -79,15 +169,6 @@
     "stars": 3,
     "updated_at": "2026-08-11T22:59:14Z",
     "url": "https://github.com/metraton/gaia"
-  },
-  {
-    "description": "No 'fixed' without receipts \u2014 a portable evidence gate for coding agents.",
-    "id": "lMysticl/bug-receipt",
-    "language": "CSS",
-    "name": "lMysticl/bug-receipt",
-    "stars": 0,
-    "updated_at": "2026-08-11T22:59:05Z",
-    "url": "https://github.com/lMysticl/bug-receipt"
   },
   {
     "description": "Autopilot for AI Coding Agents, supports OpenCode, Claude Code, pi.dev, Cursor, and many more",
@@ -230,7 +311,7 @@
     "language": "TypeScript",
     "name": "get-bb/bb",
     "stars": 1639,
-    "updated_at": "2026-08-11T22:57:24Z",
+    "updated_at": "2026-08-11T23:00:55Z",
     "url": "https://github.com/get-bb/bb"
   },
   {
@@ -329,7 +410,7 @@
     "language": "Python",
     "name": "hashgraph-online/hol-guard",
     "stars": 431,
-    "updated_at": "2026-08-11T22:59:37Z",
+    "updated_at": "2026-08-11T23:00:59Z",
     "url": "https://github.com/hashgraph-online/hol-guard"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-11T22:56:15Z",
     "url": "https://github.com/Neti-Security/neti"
-  },
-  {
-    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
-    "id": "stablyai/orca",
-    "language": "TypeScript",
-    "name": "stablyai/orca",
-    "stars": 42705,
-    "updated_at": "2026-08-11T22:56:07Z",
-    "url": "https://github.com/stablyai/orca"
-  },
-  {
-    "description": "\ud83d\ude80 Master Claude Code Skills 2026: AI-Powered PR Reviews & Security Audits",
-    "id": "Frun1753/claude-codecraft-toolkit",
-    "language": "HTML",
-    "name": "Frun1753/claude-codecraft-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-11T22:56:07Z",
-    "url": "https://github.com/Frun1753/claude-codecraft-toolkit"
-  },
-  {
-    "description": "kSQL Dashboard Pro \u306e\u8a2d\u5b9a JSON \u3092 AI(Claude Code + kSQL MCP)\u3067\u4f5c\u6210\u30fb\u7ba1\u7406\u3059\u308b\u30c6\u30f3\u30d7\u30ec\u30fc\u30c8",
-    "id": "rex0220/ksql-dashboard-pro-authoring",
-    "language": "\u2014",
-    "name": "rex0220/ksql-dashboard-pro-authoring",
-    "stars": 0,
-    "updated_at": "2026-08-11T22:55:58Z",
-    "url": "https://github.com/rex0220/ksql-dashboard-pro-authoring"
-  },
-  {
-    "description": "Self-hosted, tiled, persistent browser dashboard for host-run AI CLI terminals (Claude Code, Codex, opencode, ...)",
-    "id": "s3ntin3l8/mullion-session-manager",
-    "language": "TypeScript",
-    "name": "s3ntin3l8/mullion-session-manager",
-    "stars": 0,
-    "updated_at": "2026-08-11T23:00:06Z",
-    "url": "https://github.com/s3ntin3l8/mullion-session-manager"
-  },
-  {
-    "description": "Open-source, multi-platform harness for AI agents \u2014 a native, multi-threaded operator's console (JVM, not Electron) to r",
-    "id": "risa-labs-inc/BossConsole",
-    "language": "Kotlin",
-    "name": "risa-labs-inc/BossConsole",
-    "stars": 219,
-    "updated_at": "2026-08-11T22:55:54Z",
-    "url": "https://github.com/risa-labs-inc/BossConsole"
-  },
-  {
-    "description": "\ud83e\udde0 Ultimate AI Coding Agent 2026: Supercharge Your Dev Workflow for Faster, Cleaner Code",
-    "id": "qadeer-ux/oh-my-codex-remix",
-    "language": "HTML",
-    "name": "qadeer-ux/oh-my-codex-remix",
-    "stars": 1,
-    "updated_at": "2026-08-11T22:55:46Z",
-    "url": "https://github.com/qadeer-ux/oh-my-codex-remix"
-  },
-  {
-    "description": "Autonomous CI/CD for AI-written code: plans, builds, and adversarially audits changes to any repo \u2014 a different model re",
-    "id": "mickeyyaya/evolve-loop",
-    "language": "Go",
-    "name": "mickeyyaya/evolve-loop",
-    "stars": 5,
-    "updated_at": "2026-08-11T22:55:34Z",
-    "url": "https://github.com/mickeyyaya/evolve-loop"
-  },
-  {
-    "description": "Persistent Memory System for Claude Code 2026 - Bi-Temporal YAML Filesystem",
-    "id": "DocDeepakbhagat/mnemonic-yaml-persistence",
-    "language": "HTML",
-    "name": "DocDeepakbhagat/mnemonic-yaml-persistence",
-    "stars": 0,
-    "updated_at": "2026-08-11T22:55:30Z",
-    "url": "https://github.com/DocDeepakbhagat/mnemonic-yaml-persistence"
-  },
-  {
-    "description": "A lightweight persistent-memory companion for OpenCode & Claude",
-    "id": "kunickiaj/codemem",
-    "language": "TypeScript",
-    "name": "kunickiaj/codemem",
-    "stars": 61,
-    "updated_at": "2026-08-11T22:56:29Z",
-    "url": "https://github.com/kunickiaj/codemem"
   }
 ]

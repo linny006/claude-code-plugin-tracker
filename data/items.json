@@ -1,5 +1,113 @@
 [
   {
+    "description": "Klaude is a lightweight discipline layer for Claude Code sessions that keeps project context current, enforces explicit ",
+    "id": "Silverfell/klaude",
+    "language": "Shell",
+    "name": "Silverfell/klaude",
+    "stars": 0,
+    "updated_at": "2026-08-12T23:00:00Z",
+    "url": "https://github.com/Silverfell/klaude"
+  },
+  {
+    "description": "Free Claude Code packaged for NixOS - Anthropic-compatible local proxy fronting Claude Code with any model backend",
+    "id": "Daaboulex/free-claude-code-nix",
+    "language": "Shell",
+    "name": "Daaboulex/free-claude-code-nix",
+    "stars": 0,
+    "updated_at": "2026-08-12T22:59:52Z",
+    "url": "https://github.com/Daaboulex/free-claude-code-nix"
+  },
+  {
+    "description": "Interactive, read-only viewer for Claude Code session transcripts (like `claude --resume`, but read-only).",
+    "id": "tanghong123/claude-replay",
+    "language": "Rust",
+    "name": "tanghong123/claude-replay",
+    "stars": 2,
+    "updated_at": "2026-08-12T22:59:47Z",
+    "url": "https://github.com/tanghong123/claude-replay"
+  },
+  {
+    "description": "Cross-platform dotfiles for macOS and Linux. 33 configs, 141 Homebrew packages, Tokyo Night everywhere, modern CLI repla",
+    "id": "gufranco/dotfiles",
+    "language": "Shell",
+    "name": "gufranco/dotfiles",
+    "stars": 11,
+    "updated_at": "2026-08-12T22:59:46Z",
+    "url": "https://github.com/gufranco/dotfiles"
+  },
+  {
+    "description": "An runtime for agents who collaborate with each other from one terminal. Optimized for steerability.",
+    "id": "nmelo/initech",
+    "language": "Go",
+    "name": "nmelo/initech",
+    "stars": 30,
+    "updated_at": "2026-08-12T22:59:44Z",
+    "url": "https://github.com/nmelo/initech"
+  },
+  {
+    "description": "The agent IDE that builds itself",
+    "id": "get-bb/bb",
+    "language": "TypeScript",
+    "name": "get-bb/bb",
+    "stars": 1770,
+    "updated_at": "2026-08-12T22:59:50Z",
+    "url": "https://github.com/get-bb/bb"
+  },
+  {
+    "description": "IM-native multi-agent collaboration platform \u2014 @mention Claude Code, Codex, OpenCode like teammates",
+    "id": "TokenDanceLab/AgentHub",
+    "language": "Go",
+    "name": "TokenDanceLab/AgentHub",
+    "stars": 6,
+    "updated_at": "2026-08-12T22:59:41Z",
+    "url": "https://github.com/TokenDanceLab/AgentHub"
+  },
+  {
+    "description": "Melodic Software \u2014 Claude Code plugin marketplace: reusable, repo-agnostic skills, hooks, agents, and MCP servers.",
+    "id": "melodic-software/claude-code-plugins",
+    "language": "Shell",
+    "name": "melodic-software/claude-code-plugins",
+    "stars": 6,
+    "updated_at": "2026-08-12T23:00:04Z",
+    "url": "https://github.com/melodic-software/claude-code-plugins"
+  },
+  {
+    "description": "Build guided interactive HTML demos with your coding agent.",
+    "id": "hyunghwan/showkit",
+    "language": "TypeScript",
+    "name": "hyunghwan/showkit",
+    "stars": 0,
+    "updated_at": "2026-08-12T22:59:54Z",
+    "url": "https://github.com/hyunghwan/showkit"
+  },
+  {
+    "description": "A backend-agnostic web workspace for coding agents (Claude Code, Codex, \u2026) \u2014 manage many concurrent agent CLI sessions w",
+    "id": "ProblemFactory/vibespace",
+    "language": "JavaScript",
+    "name": "ProblemFactory/vibespace",
+    "stars": 4,
+    "updated_at": "2026-08-12T22:59:08Z",
+    "url": "https://github.com/ProblemFactory/vibespace"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 4,
+    "updated_at": "2026-08-12T22:59:08Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Musher Portable Agent Bundles for Local Coding Agents 2026",
+    "id": "HelenLopez07/mush-packman",
+    "language": "HTML",
+    "name": "HelenLopez07/mush-packman",
+    "stars": 0,
+    "updated_at": "2026-08-12T22:59:07Z",
+    "url": "https://github.com/HelenLopez07/mush-packman"
+  },
+  {
     "description": "\ud83d\ude80 Longform Writing Plugin for Claude Code 2026 \u2013 AI Novel Editor & Repo",
     "id": "denidelapan7/longform-claude-extension",
     "language": "HTML",
@@ -27,15 +135,6 @@
     "url": "https://github.com/ssamba1/untell"
   },
   {
-    "description": "An runtime for agents who collaborate with each other from one terminal. Optimized for steerability.",
-    "id": "nmelo/initech",
-    "language": "Go",
-    "name": "nmelo/initech",
-    "stars": 30,
-    "updated_at": "2026-08-12T22:58:48Z",
-    "url": "https://github.com/nmelo/initech"
-  },
-  {
     "description": "Turn Your AI Agent Into a Full Developer Team: Plan, Code, Test & Ship in One Sprint 2026",
     "id": "hassamwaleed/agent-orchestrator-framework",
     "language": "HTML",
@@ -61,15 +160,6 @@
     "stars": 3,
     "updated_at": "2026-08-12T22:58:18Z",
     "url": "https://github.com/Threadlines/threadlines"
-  },
-  {
-    "description": "A backend-agnostic web workspace for coding agents (Claude Code, Codex, \u2026) \u2014 manage many concurrent agent CLI sessions w",
-    "id": "ProblemFactory/vibespace",
-    "language": "JavaScript",
-    "name": "ProblemFactory/vibespace",
-    "stars": 4,
-    "updated_at": "2026-08-12T22:58:15Z",
-    "url": "https://github.com/ProblemFactory/vibespace"
   },
   {
     "description": "Parameterized multi-agent orchestration framework for Claude Code and Gemini",
@@ -194,7 +284,7 @@
     "language": "TypeScript",
     "name": "guillermoscript/calistenia-app",
     "stars": 2,
-    "updated_at": "2026-08-12T22:56:33Z",
+    "updated_at": "2026-08-12T22:59:40Z",
     "url": "https://github.com/guillermoscript/calistenia-app"
   },
   {
@@ -230,17 +320,8 @@
     "language": "Python",
     "name": "kevin-burns/claude-skills",
     "stars": 7,
-    "updated_at": "2026-08-12T22:58:16Z",
+    "updated_at": "2026-08-12T22:59:50Z",
     "url": "https://github.com/kevin-burns/claude-skills"
-  },
-  {
-    "description": "Melodic Software \u2014 Claude Code plugin marketplace: reusable, repo-agnostic skills, hooks, agents, and MCP servers.",
-    "id": "melodic-software/claude-code-plugins",
-    "language": "Shell",
-    "name": "melodic-software/claude-code-plugins",
-    "stars": 6,
-    "updated_at": "2026-08-12T22:56:18Z",
-    "url": "https://github.com/melodic-software/claude-code-plugins"
   },
   {
     "description": "Kelos - The Kubernetes-native framework for orchestrating autonomous AI coding agents.",
@@ -320,7 +401,7 @@
     "language": "TypeScript",
     "name": "artokun/comfyui-mcp",
     "stars": 574,
-    "updated_at": "2026-08-12T22:55:17Z",
+    "updated_at": "2026-08-12T23:00:04Z",
     "url": "https://github.com/artokun/comfyui-mcp"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T22:54:35Z",
     "url": "https://github.com/giostriquer/agent-workshop"
-  },
-  {
-    "description": "Stop re-explaining yourself to every AI. Your work, your priorities, and how you like things done \u2014 kept in one folder o",
-    "id": "filocosta46/dotaios",
-    "language": "JavaScript",
-    "name": "filocosta46/dotaios",
-    "stars": 5,
-    "updated_at": "2026-08-12T22:54:20Z",
-    "url": "https://github.com/filocosta46/dotaios"
-  },
-  {
-    "description": "Governance framework for AI coding agents \u2014 enforces task traceability, structural gates, session continuity, and audit ",
-    "id": "DimitriGeelen/agentic-engineering-framework",
-    "language": "Shell",
-    "name": "DimitriGeelen/agentic-engineering-framework",
-    "stars": 13,
-    "updated_at": "2026-08-12T22:54:19Z",
-    "url": "https://github.com/DimitriGeelen/agentic-engineering-framework"
-  },
-  {
-    "description": "Claude Code plugin that catches the bugs your agent shrugs at \u2014 enforced by hooks, auto-closed on merge.",
-    "id": "AltDoug/found-issues",
-    "language": "Shell",
-    "name": "AltDoug/found-issues",
-    "stars": 1,
-    "updated_at": "2026-08-12T22:54:24Z",
-    "url": "https://github.com/AltDoug/found-issues"
-  },
-  {
-    "description": "\ud83c\udfc6 Ultralight AI Coding Agent 2026 \u2014 Blazing CLI, Tiny Codebase, Full Power Free",
-    "id": "Zanmmi/micro-agent-cli",
-    "language": "HTML",
-    "name": "Zanmmi/micro-agent-cli",
-    "stars": 2,
-    "updated_at": "2026-08-12T22:54:16Z",
-    "url": "https://github.com/Zanmmi/micro-agent-cli"
-  },
-  {
-    "description": "",
-    "id": "Clawdi-AI/clawdi",
-    "language": "TypeScript",
-    "name": "Clawdi-AI/clawdi",
-    "stars": 98,
-    "updated_at": "2026-08-12T22:55:01Z",
-    "url": "https://github.com/Clawdi-AI/clawdi"
-  },
-  {
-    "description": "CLAUDE.md is the markdown-based project memory format used by Anthropic's Claude Code CLI to give the model persistent, ",
-    "id": "api-evangelist/claude-md",
-    "language": "\u2014",
-    "name": "api-evangelist/claude-md",
-    "stars": 0,
-    "updated_at": "2026-08-12T22:54:04Z",
-    "url": "https://github.com/api-evangelist/claude-md"
-  },
-  {
-    "description": "Run Claude Code sessions that know their own context and can run themselves: real context self-check, armed-pane auto-ca",
-    "id": "KijitoAI/kijito-claude",
-    "language": "JavaScript",
-    "name": "KijitoAI/kijito-claude",
-    "stars": 0,
-    "updated_at": "2026-08-12T22:53:40Z",
-    "url": "https://github.com/KijitoAI/kijito-claude"
-  },
-  {
-    "description": "Kimono AI 2026: Installable Claude Code Skill Catalog for Multi-Repo AI Development Lifecycle",
-    "id": "yadam119988/method-mosaic",
-    "language": "HTML",
-    "name": "yadam119988/method-mosaic",
-    "stars": 0,
-    "updated_at": "2026-08-12T22:53:40Z",
-    "url": "https://github.com/yadam119988/method-mosaic"
-  },
-  {
-    "description": "Manages parallel Claude Code sessions, so you don't have to.",
-    "id": "romp-on/romp",
-    "language": "Python",
-    "name": "romp-on/romp",
-    "stars": 10,
-    "updated_at": "2026-08-12T22:53:38Z",
-    "url": "https://github.com/romp-on/romp"
   }
 ]

@@ -1,5 +1,59 @@
 [
   {
+    "description": "Like if Kubernetes and localhost had a magic, agentic baby \u2014 with a gorgeous UI.",
+    "id": "prosperity-solutions/veld",
+    "language": "Rust",
+    "name": "prosperity-solutions/veld",
+    "stars": 12,
+    "updated_at": "2026-08-13T08:15:06Z",
+    "url": "https://github.com/prosperity-solutions/veld"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-08-13T08:14:57Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Top AI-Powered UI/UX Design Generator & Code Assistant 2026",
+    "id": "MichelSR25/Claude-Code-Agent-Design-Kit",
+    "language": "HTML",
+    "name": "MichelSR25/Claude-Code-Agent-Design-Kit",
+    "stars": 0,
+    "updated_at": "2026-08-13T08:14:53Z",
+    "url": "https://github.com/MichelSR25/Claude-Code-Agent-Design-Kit"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 4,
+    "updated_at": "2026-08-13T08:14:51Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Local-first, agent-native control plane for ComfyUI \u2014 MCP server + sidebar agent that generates images, video & audio, a",
+    "id": "artokun/comfyui-mcp",
+    "language": "TypeScript",
+    "name": "artokun/comfyui-mcp",
+    "stars": 581,
+    "updated_at": "2026-08-13T08:14:47Z",
+    "url": "https://github.com/artokun/comfyui-mcp"
+  },
+  {
+    "description": "Skill Package 2026: Ultimate AI Skills Deployment Tool \u2013 Plugin, ZIP & CI/CD",
+    "id": "blessings1234/skill-shipyard-pipeline",
+    "language": "HTML",
+    "name": "blessings1234/skill-shipyard-pipeline",
+    "stars": 2,
+    "updated_at": "2026-08-13T08:14:40Z",
+    "url": "https://github.com/blessings1234/skill-shipyard-pipeline"
+  },
+  {
     "description": "Turn Your AI Agent Into a Full Developer Team: Plan, Code, Test & Ship in One Sprint 2026",
     "id": "hassamwaleed/agent-orchestrator-framework",
     "language": "HTML",
@@ -32,7 +86,7 @@
     "language": "JavaScript",
     "name": "santifer/career-ops",
     "stars": 63676,
-    "updated_at": "2026-08-13T08:14:16Z",
+    "updated_at": "2026-08-13T08:14:56Z",
     "url": "https://github.com/santifer/career-ops"
   },
   {
@@ -43,6 +97,15 @@
     "stars": 385,
     "updated_at": "2026-08-13T08:14:08Z",
     "url": "https://github.com/caidaoli/ccLoad"
+  },
+  {
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
+    "id": "stablyai/orca",
+    "language": "TypeScript",
+    "name": "stablyai/orca",
+    "stars": 44356,
+    "updated_at": "2026-08-13T08:14:07Z",
+    "url": "https://github.com/stablyai/orca"
   },
   {
     "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
@@ -70,6 +133,24 @@
     "stars": 0,
     "updated_at": "2026-08-13T08:14:06Z",
     "url": "https://github.com/Antonod1988/what-are-the-bottlenecks"
+  },
+  {
+    "description": "Superpowers Security Ops 2026: OWASP Workflow Routing & Auto-Fix Red Team Engine",
+    "id": "toying78/supremeworkflow-orchestrator",
+    "language": "HTML",
+    "name": "toying78/supremeworkflow-orchestrator",
+    "stars": 2,
+    "updated_at": "2026-08-13T08:14:05Z",
+    "url": "https://github.com/toying78/supremeworkflow-orchestrator"
+  },
+  {
+    "description": "RepoKit \u2014 a reusable repo standard + /new-repo scaffolder, packaged as a Claude Code plugin",
+    "id": "PBNZ/repo-kit",
+    "language": "PowerShell",
+    "name": "PBNZ/repo-kit",
+    "stars": 1,
+    "updated_at": "2026-08-13T08:15:10Z",
+    "url": "https://github.com/PBNZ/repo-kit"
   },
   {
     "description": "Auditable agent skill for resolving protein queries, selecting references, and planning reproducible phylogenetic trees.",
@@ -115,6 +196,15 @@
     "stars": 3,
     "updated_at": "2026-08-13T08:13:56Z",
     "url": "https://github.com/24bsc244-svg/pdlc-forge"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 22,
+    "updated_at": "2026-08-13T08:14:59Z",
+    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Agent skills for building, optimizing, embedding, and exporting VectoJS projects with Codex, Claude Code, Cursor, and Gi",
@@ -176,7 +266,7 @@
     "language": "Python",
     "name": "gmickel/flow-next",
     "stars": 679,
-    "updated_at": "2026-08-13T08:13:13Z",
+    "updated_at": "2026-08-13T08:15:10Z",
     "url": "https://github.com/gmickel/flow-next"
   },
   {
@@ -196,15 +286,6 @@
     "stars": 56,
     "updated_at": "2026-08-13T08:13:05Z",
     "url": "https://github.com/Fractera/Agent-Engineering-Infrastructure"
-  },
-  {
-    "description": "RepoKit \u2014 a reusable repo standard + /new-repo scaffolder, packaged as a Claude Code plugin",
-    "id": "PBNZ/repo-kit",
-    "language": "PowerShell",
-    "name": "PBNZ/repo-kit",
-    "stars": 1,
-    "updated_at": "2026-08-13T08:14:02Z",
-    "url": "https://github.com/PBNZ/repo-kit"
   },
   {
     "description": "Superpowered Teams 2026: Parallel AI Agent Execution for Claude Code",
@@ -252,15 +333,6 @@
     "url": "https://github.com/Digital-Process-Tools/claude-supertool"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 22,
-    "updated_at": "2026-08-13T08:13:56Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "A local kanban board for one developer and their coding agent, where a card only moves to done when a command you declar",
     "id": "albertoclemente/shipward",
     "language": "JavaScript",
@@ -268,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T08:12:43Z",
     "url": "https://github.com/albertoclemente/shipward"
-  },
-  {
-    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
-    "id": "stablyai/orca",
-    "language": "TypeScript",
-    "name": "stablyai/orca",
-    "stars": 44353,
-    "updated_at": "2026-08-13T08:14:07Z",
-    "url": "https://github.com/stablyai/orca"
   },
   {
     "description": "Framework Agnostic 4px Grid Design Toolkit 2026 \u2013 Analyze, Audit, Transpile Code",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-13T08:11:45Z",
     "url": "https://github.com/MontyGraphix/pencil-mcp-harmony"
-  },
-  {
-    "description": "Minimal, evidence-gated agent harness for Codex and Claude Code.",
-    "id": "SeoNaRu/nulnul-harness",
-    "language": "Python",
-    "name": "SeoNaRu/nulnul-harness",
-    "stars": 3,
-    "updated_at": "2026-08-13T08:11:37Z",
-    "url": "https://github.com/SeoNaRu/nulnul-harness"
-  },
-  {
-    "description": " Stop burning your Claude or Codex limits on boilerplate. Delegate multi-file implementation to Cursor's Composer 2.5 ov",
-    "id": "andreilungeanu/cursor-delegate-mcp",
-    "language": "JavaScript",
-    "name": "andreilungeanu/cursor-delegate-mcp",
-    "stars": 3,
-    "updated_at": "2026-08-13T08:11:32Z",
-    "url": "https://github.com/andreilungeanu/cursor-delegate-mcp"
-  },
-  {
-    "description": "Silver Bullet Agentic Orchestrator 2026 - AI-Native DevOps Workflow Engine for Software Engineering",
-    "id": "raahimporno/agentic-workflow-orchestrator",
-    "language": "HTML",
-    "name": "raahimporno/agentic-workflow-orchestrator",
-    "stars": 1,
-    "updated_at": "2026-08-13T08:11:27Z",
-    "url": "https://github.com/raahimporno/agentic-workflow-orchestrator"
-  },
-  {
-    "description": "Project knowledge that loads only when it is needed. Rules, conventions and domain notes are matched against the prompt,",
-    "id": "Digital-Process-Tools/claude-jit-context",
-    "language": "Shell",
-    "name": "Digital-Process-Tools/claude-jit-context",
-    "stars": 1,
-    "updated_at": "2026-08-13T08:13:56Z",
-    "url": "https://github.com/Digital-Process-Tools/claude-jit-context"
-  },
-  {
-    "description": "Ultimate Rails CTO Toolkit 2026: Pro Opinionated Skills for Modern Apps",
-    "id": "bearth1050/rails-senior-architect",
-    "language": "HTML",
-    "name": "bearth1050/rails-senior-architect",
-    "stars": 0,
-    "updated_at": "2026-08-13T08:11:22Z",
-    "url": "https://github.com/bearth1050/rails-senior-architect"
-  },
-  {
-    "description": "\u88dc\u52a9\u91d1\u7533\u8acb\u306e\u4e8b\u696d\u8a08\u753b\u66f8\u3065\u304f\u308a\u3092\u3001\u81ea\u5206\u306e Claude Code \u3068\u516c\u5f0f\u516c\u52df\u8981\u9818\u3067\u30bb\u30eb\u30d5\u30b5\u30fc\u30d6\u3067\u56de\u3059\u7121\u6599 OSS \u30c6\u30f3\u30d7\u30ec\u30fc\u30c8\u3002\u7533\u8acb\u4ee3\u884c\u3067\u306f\u3042\u308a\u307e\u305b\u3093",
-    "id": "saita-kun/saita-kun-planner",
-    "language": "Shell",
-    "name": "saita-kun/saita-kun-planner",
-    "stars": 1,
-    "updated_at": "2026-08-13T08:11:22Z",
-    "url": "https://github.com/saita-kun/saita-kun-planner"
-  },
-  {
-    "description": "\ud83c\udfc6 Ultralight AI Coding Agent 2026 \u2014 Blazing CLI, Tiny Codebase, Full Power Free",
-    "id": "Zanmmi/micro-agent-cli",
-    "language": "HTML",
-    "name": "Zanmmi/micro-agent-cli",
-    "stars": 2,
-    "updated_at": "2026-08-13T08:11:22Z",
-    "url": "https://github.com/Zanmmi/micro-agent-cli"
   }
 ]

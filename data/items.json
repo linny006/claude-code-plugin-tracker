@@ -1,5 +1,68 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 25,
+    "updated_at": "2026-08-14T15:30:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Rooms for people and agents.",
+    "id": "alookai/alook",
+    "language": "TypeScript",
+    "name": "alookai/alook",
+    "stars": 1114,
+    "updated_at": "2026-08-14T15:30:15Z",
+    "url": "https://github.com/alookai/alook"
+  },
+  {
+    "description": "\u4e00\u500b\u7528 Telegram \u8ddf Claude \u5c0d\u8a71\u7684\u98f2\u98df\u65e5\u8a18\u3002\u50b3\u5f35\u98df\u7269\u7167\u7247\u6216\u6587\u5b57\u63cf\u8ff0\uff0cbot \u5e6b\u4f60\u4f30\u71b1\u91cf\u8207\u86cb\u767d\u8cea\uff0f\u78b3\u6c34\uff0f\u8102\u80aa\uff0c\u5beb\u9032\u672c\u5730 CSV\u2014\u2014\u8a18\u98f2\u98df\u4e09\u5929\u5c31\u653e\u68c4\u7684\u4eba\u5c08\u7528\u3002",
+    "id": "didiowen/diet-coach",
+    "language": "Python",
+    "name": "didiowen/diet-coach",
+    "stars": 0,
+    "updated_at": "2026-08-14T15:30:07Z",
+    "url": "https://github.com/didiowen/diet-coach"
+  },
+  {
+    "description": "Visual engineering skills for planning and explaining technical work.",
+    "id": "joehaddad2000/schematics",
+    "language": "JavaScript",
+    "name": "joehaddad2000/schematics",
+    "stars": 0,
+    "updated_at": "2026-08-14T15:30:07Z",
+    "url": "https://github.com/joehaddad2000/schematics"
+  },
+  {
+    "description": "Claude Code forgets a project when you move or rename its folder. Commonbook binds its memory to the repo's git identity",
+    "id": "erfanhabibipanah/commonbook",
+    "language": "Python",
+    "name": "erfanhabibipanah/commonbook",
+    "stars": 0,
+    "updated_at": "2026-08-14T15:30:06Z",
+    "url": "https://github.com/erfanhabibipanah/commonbook"
+  },
+  {
+    "description": "AI-assisted development workflow orchestrator \u2014 Spec \u2192 Plan \u2192 Code with quality gates.",
+    "id": "lhpaul/helm",
+    "language": "TypeScript",
+    "name": "lhpaul/helm",
+    "stars": 0,
+    "updated_at": "2026-08-14T15:30:02Z",
+    "url": "https://github.com/lhpaul/helm"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 4,
+    "updated_at": "2026-08-14T15:30:00Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
     "description": "Stop Guessing Your Code: 2026's 7-Step AI Dev Workflow for Perfect Repos",
     "id": "shammahchikapa02-debug/claude-code-workshop",
     "language": "HTML",
@@ -9,12 +72,21 @@
     "url": "https://github.com/shammahchikapa02-debug/claude-code-workshop"
   },
   {
+    "description": "untell \u2014 free, open-source AI humanizer that closes the loop: iteratively rewrites AI text against live detector scores ",
+    "id": "ssamba1/untell",
+    "language": "Python",
+    "name": "ssamba1/untell",
+    "stars": 12,
+    "updated_at": "2026-08-14T15:30:17Z",
+    "url": "https://github.com/ssamba1/untell"
+  },
+  {
     "description": "Local-first, agent-native control plane for ComfyUI \u2014 MCP server + sidebar agent that generates images, video & audio, a",
     "id": "artokun/comfyui-mcp",
     "language": "TypeScript",
     "name": "artokun/comfyui-mcp",
     "stars": 588,
-    "updated_at": "2026-08-14T15:29:48Z",
+    "updated_at": "2026-08-14T15:30:00Z",
     "url": "https://github.com/artokun/comfyui-mcp"
   },
   {
@@ -36,15 +108,6 @@
     "url": "https://github.com/Zeus-Deus/codemux"
   },
   {
-    "description": "untell \u2014 free, open-source AI humanizer that closes the loop: iteratively rewrites AI text against live detector scores ",
-    "id": "ssamba1/untell",
-    "language": "Python",
-    "name": "ssamba1/untell",
-    "stars": 12,
-    "updated_at": "2026-08-14T15:29:49Z",
-    "url": "https://github.com/ssamba1/untell"
-  },
-  {
     "description": "Best Claude Code Memory Toolkit Alternative 2026 \u2013 Smart Markdown Session Manager",
     "id": "Abdo2011-Mahmoud/claude-session-memory-core",
     "language": "HTML",
@@ -59,7 +122,7 @@
     "language": "Shell",
     "name": "onlooker-community/ecosystem",
     "stars": 0,
-    "updated_at": "2026-08-14T15:29:50Z",
+    "updated_at": "2026-08-14T15:30:05Z",
     "url": "https://github.com/onlooker-community/ecosystem"
   },
   {
@@ -79,6 +142,15 @@
     "stars": 1,
     "updated_at": "2026-08-14T15:29:17Z",
     "url": "https://github.com/PerryLink/dsh-output-styles"
+  },
+  {
+    "description": "You, multiplied. Mission control for Claude Code, Codex, and OpenCode: see every session, approve what your agents do, a",
+    "id": "dork-labs/dorkos",
+    "language": "TypeScript",
+    "name": "dork-labs/dorkos",
+    "stars": 7,
+    "updated_at": "2026-08-14T15:29:15Z",
+    "url": "https://github.com/dork-labs/dorkos"
   },
   {
     "description": "A task conductor for Claude Code that gets better the more you use it. Multi-agent orchestration with an evidence contra",
@@ -126,13 +198,13 @@
     "url": "https://github.com/diazoxide/charter"
   },
   {
-    "description": "You, multiplied. Mission control for Claude Code, Codex, and OpenCode: see every session, approve what your agents do, a",
-    "id": "dork-labs/dorkos",
-    "language": "TypeScript",
-    "name": "dork-labs/dorkos",
-    "stars": 7,
-    "updated_at": "2026-08-14T15:29:15Z",
-    "url": "https://github.com/dork-labs/dorkos"
+    "description": "Open source knowledge management pipeline \u2014 passive recall, append-only intake, tiered compilation, configurable schemas",
+    "id": "Kromatic-Innovation/athenaeum",
+    "language": "Python",
+    "name": "Kromatic-Innovation/athenaeum",
+    "stars": 11,
+    "updated_at": "2026-08-14T15:28:58Z",
+    "url": "https://github.com/Kromatic-Innovation/athenaeum"
   },
   {
     "description": "Agent skills that make a model report what it cannot do. root-cause forbids a causal claim without evidence; sitrep puts",
@@ -162,6 +234,15 @@
     "url": "https://github.com/chaitanya-aws/mjlab-ai-migration-toolkit"
   },
   {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 25,
+    "updated_at": "2026-08-14T15:28:46Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
     "description": "Git. Ship. Done - Core",
     "id": "open-gsd/gsd-core",
     "language": "JavaScript",
@@ -185,7 +266,7 @@
     "language": "Rust",
     "name": "x7c1/delta",
     "stars": 0,
-    "updated_at": "2026-08-14T15:28:38Z",
+    "updated_at": "2026-08-14T15:30:18Z",
     "url": "https://github.com/x7c1/delta"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-14T15:27:22Z",
     "url": "https://github.com/cahenesy/gnome-shell-extension-aiquota"
-  },
-  {
-    "description": "AI-Powered Jira-to-PR Mobile Workflow Plugin 2026 \u2013 Streamline Developer Pipelines",
-    "id": "esfanaticadelosensual/edge-mobile-ai-workflow-provisioner",
-    "language": "HTML",
-    "name": "esfanaticadelosensual/edge-mobile-ai-workflow-provisioner",
-    "stars": 0,
-    "updated_at": "2026-08-14T15:27:17Z",
-    "url": "https://github.com/esfanaticadelosensual/edge-mobile-ai-workflow-provisioner"
-  },
-  {
-    "description": "File-backed workflow harness for reliable Claude Code and Codex sessions.",
-    "id": "Ancienttwo/repo-harness",
-    "language": "TypeScript",
-    "name": "Ancienttwo/repo-harness",
-    "stars": 405,
-    "updated_at": "2026-08-14T15:27:15Z",
-    "url": "https://github.com/Ancienttwo/repo-harness"
-  },
-  {
-    "description": "XUUnity MCP is a lightweight Unity MCP server for safe Unity Editor automation.",
-    "id": "FoxsterDev/xuunity-mcp",
-    "language": "Python",
-    "name": "FoxsterDev/xuunity-mcp",
-    "stars": 3,
-    "updated_at": "2026-08-14T15:27:15Z",
-    "url": "https://github.com/FoxsterDev/xuunity-mcp"
-  },
-  {
-    "description": "Measured results for common AGENTS.md rules \u2014 real agent runs, published data, null results included.",
-    "id": "erickdronski/contexttest-findings",
-    "language": "HTML",
-    "name": "erickdronski/contexttest-findings",
-    "stars": 0,
-    "updated_at": "2026-08-14T15:27:14Z",
-    "url": "https://github.com/erickdronski/contexttest-findings"
-  },
-  {
-    "description": "Turn Claude Code and Codex from chat assistants into autonomous coding systems",
-    "id": "shenxingy/Clade",
-    "language": "Python",
-    "name": "shenxingy/Clade",
-    "stars": 8,
-    "updated_at": "2026-08-14T15:27:14Z",
-    "url": "https://github.com/shenxingy/Clade"
-  },
-  {
-    "description": "Practice the technical screen a company actually runs. Paste a posting, it researches the format, then gives you real fi",
-    "id": "chrisjacksonn/interview-sim",
-    "language": "Python",
-    "name": "chrisjacksonn/interview-sim",
-    "stars": 2,
-    "updated_at": "2026-08-14T15:27:04Z",
-    "url": "https://github.com/chrisjacksonn/interview-sim"
-  },
-  {
-    "description": "\uc5ec\ub7ec AI \ucf54\ub529 \uc5d0\uc774\uc804\ud2b8\uac00 \uac19\uc740 \ud30c\uc77c\uc744 \ub3d9\uc2dc\uc5d0 \uace0\uccd0 \uc791\uc5c5\uc774 \ub0a0\uc544\uac00\ub294 \uac78 \ub9c9\ub294 \ud30c\uc77c \ub77d. \uc758\uc874\uc131 \uc5c6\uc74c, \ud30c\uc774\uc36c \ub2e8\uc77c \ud30c\uc77c.",
-    "id": "gachi-dev/agentlock",
-    "language": "Python",
-    "name": "gachi-dev/agentlock",
-    "stars": 0,
-    "updated_at": "2026-08-14T15:26:49Z",
-    "url": "https://github.com/gachi-dev/agentlock"
-  },
-  {
-    "description": "A clean, mobile-friendly home page and theme pack for the Hermes Agent web dashboard.",
-    "id": "adamotte/iris-dashboard",
-    "language": "Shell",
-    "name": "adamotte/iris-dashboard",
-    "stars": 1,
-    "updated_at": "2026-08-14T15:26:43Z",
-    "url": "https://github.com/adamotte/iris-dashboard"
-  },
-  {
-    "description": "The open-source skill registry for AI coding agents. Create, manage, and distribute SKILL.md files across Openclaw, Clau",
-    "id": "luna-prompts/skillnote",
-    "language": "TypeScript",
-    "name": "luna-prompts/skillnote",
-    "stars": 57,
-    "updated_at": "2026-08-14T15:29:49Z",
-    "url": "https://github.com/luna-prompts/skillnote"
   }
 ]

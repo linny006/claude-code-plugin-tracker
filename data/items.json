@@ -1,5 +1,23 @@
 [
   {
+    "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
+    "id": "yanacuti1121/Yana-AI",
+    "language": "Python",
+    "name": "yanacuti1121/Yana-AI",
+    "stars": 2,
+    "updated_at": "2026-08-16T14:00:01Z",
+    "url": "https://github.com/yanacuti1121/Yana-AI"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 4,
+    "updated_at": "2026-08-16T13:59:59Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
     "description": "Fail-closed Claude Code Stop hook for zero or thin thinking, with optional current-turn stream integration.",
     "id": "hanasakimishio/claude-code-cot-guard",
     "language": "Python",
@@ -18,6 +36,15 @@
     "url": "https://github.com/hanasakimishio/no-sleep-nag"
   },
   {
+    "description": "Deploys your OS, databases, and SSL on your VPS in just 10 minutes. Orchestrates a team of AI agents for coding, marketi",
+    "id": "Fractera/Agent-Engineering-Infrastructure",
+    "language": "TypeScript",
+    "name": "Fractera/Agent-Engineering-Infrastructure",
+    "stars": 56,
+    "updated_at": "2026-08-16T13:59:42Z",
+    "url": "https://github.com/Fractera/Agent-Engineering-Infrastructure"
+  },
+  {
     "description": "AI-Native Bash Runtime with LSP & MCP | 2,000+ pure bash functions | Zero dependencies | Safe execution, structured outp",
     "id": "gtwatts/mainframe",
     "language": "Shell",
@@ -25,6 +52,15 @@
     "stars": 10,
     "updated_at": "2026-08-16T13:59:42Z",
     "url": "https://github.com/gtwatts/mainframe"
+  },
+  {
+    "description": "Observe your Claude Code sessions across machines \u2014 a read-only monitor (TUI + web). The lookout watches and signals, ne",
+    "id": "haribo/claude-vigie",
+    "language": "Go",
+    "name": "haribo/claude-vigie",
+    "stars": 0,
+    "updated_at": "2026-08-16T13:59:40Z",
+    "url": "https://github.com/haribo/claude-vigie"
   },
   {
     "description": "A terminal UI for browsing coding sessions across multiple tools from local transcripts, session logs, and databases. It",
@@ -52,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T13:59:20Z",
     "url": "https://github.com/Walksu/ya-pai"
-  },
-  {
-    "description": "Yana AI \ud83d\udc30  One runtime. Any AI. Human-governed.  A local-first, cross-platform system for running, connecting, orchestra",
-    "id": "yanacuti1121/Yana-AI",
-    "language": "Python",
-    "name": "yanacuti1121/Yana-AI",
-    "stars": 2,
-    "updated_at": "2026-08-16T13:59:19Z",
-    "url": "https://github.com/yanacuti1121/Yana-AI"
   },
   {
     "description": "\ud83d\ude80 Neo4j Knowledge Agents: Next-Gen Cypher Tools 2026",
@@ -266,7 +293,7 @@
     "language": "TypeScript",
     "name": "youngminnnn/wooi",
     "stars": 4,
-    "updated_at": "2026-08-16T13:59:02Z",
+    "updated_at": "2026-08-16T14:00:12Z",
     "url": "https://github.com/youngminnnn/wooi"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 8,
     "updated_at": "2026-08-16T13:56:16Z",
     "url": "https://github.com/alp82/curia"
-  },
-  {
-    "description": "Physical controller & multi-surface dashboard for AI coding agents \u2014 Stream Deck+, Android, iOS/macOS, ESP32 displays, T",
-    "id": "puritysb/AgentDeck",
-    "language": "C",
-    "name": "puritysb/AgentDeck",
-    "stars": 199,
-    "updated_at": "2026-08-16T13:56:15Z",
-    "url": "https://github.com/puritysb/AgentDeck"
-  },
-  {
-    "description": "Configure your AI coding CLIs from one Git repo you can diff and revert: author AGENTS.md, MCP config, and Markdown memo",
-    "id": "matteopasseri407/NeXgen-Engine",
-    "language": "Python",
-    "name": "matteopasseri407/NeXgen-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-16T13:56:14Z",
-    "url": "https://github.com/matteopasseri407/NeXgen-Engine"
-  },
-  {
-    "description": "Coordinate your coding agents like a group chat \u2014 read receipts, delivery tracking, and remote ops from your phone. One ",
-    "id": "ChesterRa/cccc",
-    "language": "Python",
-    "name": "ChesterRa/cccc",
-    "stars": 1076,
-    "updated_at": "2026-08-16T13:56:14Z",
-    "url": "https://github.com/ChesterRa/cccc"
   }
 ]

@@ -1,12 +1,66 @@
 [
   {
+    "description": "Pace Claude Code background work against its own usage windows, so unattended work yields budget to your foreground sess",
+    "id": "JEL-LL/niceclaude",
+    "language": "Python",
+    "name": "JEL-LL/niceclaude",
+    "stars": 0,
+    "updated_at": "2026-08-17T15:30:39Z",
+    "url": "https://github.com/JEL-LL/niceclaude"
+  },
+  {
     "description": "Multi-account Claude proxy with automatic quota-based rotation",
     "id": "KarpelesLab/teamclaude",
     "language": "JavaScript",
     "name": "KarpelesLab/teamclaude",
     "stars": 246,
-    "updated_at": "2026-08-17T15:30:07Z",
+    "updated_at": "2026-08-17T15:30:36Z",
     "url": "https://github.com/KarpelesLab/teamclaude"
+  },
+  {
+    "description": "Claude Code skill for managing the full software development lifecycle",
+    "id": "DarrenBenson/sdlc-studio",
+    "language": "Python",
+    "name": "DarrenBenson/sdlc-studio",
+    "stars": 21,
+    "updated_at": "2026-08-17T15:30:35Z",
+    "url": "https://github.com/DarrenBenson/sdlc-studio"
+  },
+  {
+    "description": "Copy-ready AI workflow packs for Codex, Claude Code, Gemini, and GitHub Copilot.",
+    "id": "shinjaehyun20/ai-workflow-kits",
+    "language": "Python",
+    "name": "shinjaehyun20/ai-workflow-kits",
+    "stars": 3,
+    "updated_at": "2026-08-17T15:30:31Z",
+    "url": "https://github.com/shinjaehyun20/ai-workflow-kits"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 23,
+    "updated_at": "2026-08-17T15:30:31Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 4,
+    "updated_at": "2026-08-17T15:30:20Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 29,
+    "updated_at": "2026-08-17T15:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "An intel layer for AI coding agents that assumes its own rules might be wrong \u2014 and keeps the evidence. Authoritative no",
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "alex-roc/zotero-agent",
     "stars": 2,
-    "updated_at": "2026-08-17T15:29:58Z",
+    "updated_at": "2026-08-17T15:30:46Z",
     "url": "https://github.com/alex-roc/zotero-agent"
   },
   {
@@ -54,6 +108,15 @@
     "url": "https://github.com/Usaid22/swarm-factory"
   },
   {
+    "description": "UIKit Expert Skill 2026 - Best Practices & High Performance Swift Code",
+    "id": "Trentobobbi/uikit-mastery-playbook",
+    "language": "HTML",
+    "name": "Trentobobbi/uikit-mastery-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-17T15:29:55Z",
+    "url": "https://github.com/Trentobobbi/uikit-mastery-playbook"
+  },
+  {
     "description": "CLI tool & agent skill for Huly project management \u2014 zero-install, works with Claude Code, Cursor, and 40+ AI agents",
     "id": "fioenix/huly-skill",
     "language": "JavaScript",
@@ -72,15 +135,6 @@
     "url": "https://github.com/Araaf7/swarm-factory"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 23,
-    "updated_at": "2026-08-17T15:29:48Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "Voice-First Writing with AI 2026 \u2013 Real-Time Speech-to-Text for Claude Code & Cowork",
     "id": "naveenkumarnavin/vocal-composer",
     "language": "HTML",
@@ -88,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-17T15:29:45Z",
     "url": "https://github.com/naveenkumarnavin/vocal-composer"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 29,
-    "updated_at": "2026-08-17T15:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "2026 Guide: Auto-Generate AI-Native Developer READMEs Shared Privately",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-17T15:26:32Z",
     "url": "https://github.com/dheanvh14/Session-Forge"
-  },
-  {
-    "description": "A monorepo of official modules for Legion \u2014 self-contained Claude Code projects (agent + optional skills) that plug into",
-    "id": "luk-s12/legion-modules",
-    "language": "\u2014",
-    "name": "luk-s12/legion-modules",
-    "stars": 0,
-    "updated_at": "2026-08-17T15:26:31Z",
-    "url": "https://github.com/luk-s12/legion-modules"
-  },
-  {
-    "description": "Claude Memory X 2026: Persistent AI Plugin for Smarter Coding Workflows",
-    "id": "samuel85194-ux/tycana-claude-hivemind",
-    "language": "HTML",
-    "name": "samuel85194-ux/tycana-claude-hivemind",
-    "stars": 2,
-    "updated_at": "2026-08-17T15:26:23Z",
-    "url": "https://github.com/samuel85194-ux/tycana-claude-hivemind"
-  },
-  {
-    "description": "Best Free PEV Harness Plugin 2026 - Claude Code AI Pipeline Tool",
-    "id": "Sathvikkrishna2520/pev-framework-ts",
-    "language": "HTML",
-    "name": "Sathvikkrishna2520/pev-framework-ts",
-    "stars": 1,
-    "updated_at": "2026-08-17T15:26:22Z",
-    "url": "https://github.com/Sathvikkrishna2520/pev-framework-ts"
-  },
-  {
-    "description": "Best Free AI Agent Quality Engineering Tools 2026 \u2013 Proven Skills & Hacks",
-    "id": "rgyan25/qa-forge",
-    "language": "HTML",
-    "name": "rgyan25/qa-forge",
-    "stars": 2,
-    "updated_at": "2026-08-17T15:26:19Z",
-    "url": "https://github.com/rgyan25/qa-forge"
-  },
-  {
-    "description": "HEWN 2.0 2026: AI Output Router for Precision Summaries & Polished Code",
-    "id": "kaderkck/hewn-forge",
-    "language": "HTML",
-    "name": "kaderkck/hewn-forge",
-    "stars": 117,
-    "updated_at": "2026-08-17T15:26:16Z",
-    "url": "https://github.com/kaderkck/hewn-forge"
   }
 ]

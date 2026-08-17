@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 4,
+    "updated_at": "2026-08-17T23:44:43Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
     "description": "Rules, multi-session project memory, task templates, and a reviewed multi-agent chain for AI coding CLIs. Issue to PR wh",
     "id": "Mohammed-Abdelhady/hyperflow",
     "language": "JavaScript",
@@ -25,6 +34,15 @@
     "stars": 30,
     "updated_at": "2026-08-17T23:44:20Z",
     "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Replace Claude Code's loading spinners with tasbih phrases and the 99 Names of Allah for a mindful dhikr experience.",
+    "id": "denominational-pianist606/claude-tasbih",
+    "language": "\u2014",
+    "name": "denominational-pianist606/claude-tasbih",
+    "stars": 0,
+    "updated_at": "2026-08-17T23:44:12Z",
+    "url": "https://github.com/denominational-pianist606/claude-tasbih"
   },
   {
     "description": "The agentic debugger for Claude Code \u2014 live context-window memory map, INSPECT/REPLAY, cache economics, subagent drill-i",
@@ -176,7 +194,7 @@
     "language": "Python",
     "name": "NousResearch/hermes-agent",
     "stars": 232010,
-    "updated_at": "2026-08-17T23:44:22Z",
+    "updated_at": "2026-08-17T23:45:11Z",
     "url": "https://github.com/NousResearch/hermes-agent"
   },
   {
@@ -247,7 +265,7 @@
     "id": "stablyai/orca",
     "language": "TypeScript",
     "name": "stablyai/orca",
-    "stars": 47380,
+    "stars": 47381,
     "updated_at": "2026-08-17T23:41:57Z",
     "url": "https://github.com/stablyai/orca"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T23:40:33Z",
     "url": "https://github.com/dslsdzc/rev-skills"
-  },
-  {
-    "description": "Best Free Claude Code Plugins for Marketplace 2026 \u2013 Instant Setup Guide",
-    "id": "nereasanmartinsanchez-max/howar31-plugin-hub",
-    "language": "HTML",
-    "name": "nereasanmartinsanchez-max/howar31-plugin-hub",
-    "stars": 0,
-    "updated_at": "2026-08-17T23:40:29Z",
-    "url": "https://github.com/nereasanmartinsanchez-max/howar31-plugin-hub"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 1,
-    "updated_at": "2026-08-17T23:40:27Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
   }
 ]

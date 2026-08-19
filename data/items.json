@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 4,
+    "updated_at": "2026-08-19T03:30:05Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
     "description": "AI-gen/NotebookLLM U.S. stock reports  and a suite of tools for downloading, organizing, and managing SEC financial fili",
     "id": "yennanliu/finance_data",
     "language": "Python",
@@ -61,6 +70,15 @@
     "stars": 4,
     "updated_at": "2026-08-19T03:29:07Z",
     "url": "https://github.com/ldbumble/taskuary"
+  },
+  {
+    "description": "Self-hosted enterprise AI workspace and governance platform",
+    "id": "open-ace/open-ace",
+    "language": "Python",
+    "name": "open-ace/open-ace",
+    "stars": 45,
+    "updated_at": "2026-08-19T03:29:06Z",
+    "url": "https://github.com/open-ace/open-ace"
   },
   {
     "description": "Memory for coding agents. Indexes the sessions 18 agents already wrote to disk, including months from before you install",
@@ -196,6 +214,15 @@
     "stars": 1,
     "updated_at": "2026-08-19T03:28:11Z",
     "url": "https://github.com/assinsxol/intent-signal-scout"
+  },
+  {
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
+    "id": "vitali87/code-graph-rag",
+    "language": "Python",
+    "name": "vitali87/code-graph-rag",
+    "stars": 4634,
+    "updated_at": "2026-08-19T03:28:06Z",
+    "url": "https://github.com/vitali87/code-graph-rag"
   },
   {
     "description": "\u767c\u7968\u5b58\u647a Invoice MCP \u2014\u2014 \u7528\u4f60\u81ea\u5df1\u7684 AI \u5de5\u5177\uff08Claude Code / Codex / Gemini CLI\uff09\u67e5\u8a62\u53f0\u7063\u96fb\u5b50\u767c\u7968\u3002\u9700\u8981\u300c\u767c\u7968\u5b58\u647a\u300dApp \u5e33\u865f\u3002",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-19T03:25:47Z",
     "url": "https://github.com/kingkddew/claude-code-engineering-orchestrator"
-  },
-  {
-    "description": "Open-source GRC toolkit from the GRC Engineering Club. Claude Code plugins for evidence collection, SCF crosswalks, mult",
-    "id": "GRCEngClub/claude-grc-engineering",
-    "language": "JavaScript",
-    "name": "GRCEngClub/claude-grc-engineering",
-    "stars": 380,
-    "updated_at": "2026-08-19T03:25:44Z",
-    "url": "https://github.com/GRCEngClub/claude-grc-engineering"
-  },
-  {
-    "description": "AI Code Agent Taming 2026: Master 15K+ Line Repos Without Context Overflow Errors",
-    "id": "naxonwear/large-codebase-command",
-    "language": "HTML",
-    "name": "naxonwear/large-codebase-command",
-    "stars": 2,
-    "updated_at": "2026-08-19T03:25:34Z",
-    "url": "https://github.com/naxonwear/large-codebase-command"
-  },
-  {
-    "description": "A Bash compatible shell written in Rust by Claude",
-    "id": "jdstanhope/huck",
-    "language": "Rust",
-    "name": "jdstanhope/huck",
-    "stars": 1,
-    "updated_at": "2026-08-19T03:25:33Z",
-    "url": "https://github.com/jdstanhope/huck"
   }
 ]

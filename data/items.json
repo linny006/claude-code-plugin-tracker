@@ -1,5 +1,68 @@
 [
   {
+    "description": "Plugin jur\u00eddico para Claude Code com Skills processuais, RAG legislativo h\u00edbrido, valida\u00e7\u00e3o de cita\u00e7\u00f5es, proveni\u00eancia fa",
+    "id": "lmgentil/ede-legal-plugin",
+    "language": "\u2014",
+    "name": "lmgentil/ede-legal-plugin",
+    "stars": 0,
+    "updated_at": "2026-08-19T23:45:08Z",
+    "url": "https://github.com/lmgentil/ede-legal-plugin"
+  },
+  {
+    "description": "Self-contained agentic development harness for Claude Code \u2014 one command runs the full feature pipeline (plan \u2192 execute ",
+    "id": "jdanigo/hydraia",
+    "language": "Python",
+    "name": "jdanigo/hydraia",
+    "stars": 8,
+    "updated_at": "2026-08-19T23:44:57Z",
+    "url": "https://github.com/jdanigo/hydraia"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-08-19T23:44:53Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "The Obsidian MCP server that needs no plugin, no running Obsidian app \u2014 and doesn't blow your context window. Filesystem",
+    "id": "shaqmughal/seekstone",
+    "language": "TypeScript",
+    "name": "shaqmughal/seekstone",
+    "stars": 22,
+    "updated_at": "2026-08-19T23:44:50Z",
+    "url": "https://github.com/shaqmughal/seekstone"
+  },
+  {
+    "description": "Node-based terminal manager for AI coding agents \u2014 tmux-backed terminals and parallel agent sessions as draggable nodes ",
+    "id": "eneskirca/nodeterm",
+    "language": "TypeScript",
+    "name": "eneskirca/nodeterm",
+    "stars": 955,
+    "updated_at": "2026-08-19T23:44:46Z",
+    "url": "https://github.com/eneskirca/nodeterm"
+  },
+  {
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
+    "id": "stablyai/orca",
+    "language": "TypeScript",
+    "name": "stablyai/orca",
+    "stars": 49081,
+    "updated_at": "2026-08-19T23:44:45Z",
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "description": "Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.",
+    "id": "superset-sh/superset",
+    "language": "TypeScript",
+    "name": "superset-sh/superset",
+    "stars": 13101,
+    "updated_at": "2026-08-19T23:44:43Z",
+    "url": "https://github.com/superset-sh/superset"
+  },
+  {
     "description": "471 plugins, 3,069 skills, 347 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI pac",
     "id": "jeremylongshore/claude-code-plugins-plus-skills",
     "language": "Python",
@@ -18,15 +81,6 @@
     "url": "https://github.com/adianiz/claude-code-legacy-migration"
   },
   {
-    "description": "Plugin jur\u00eddico para Claude Code com Skills processuais, RAG legislativo h\u00edbrido, valida\u00e7\u00e3o de cita\u00e7\u00f5es, proveni\u00eancia fa",
-    "id": "lmgentil/ede-legal-plugin",
-    "language": "\u2014",
-    "name": "lmgentil/ede-legal-plugin",
-    "stars": 0,
-    "updated_at": "2026-08-19T23:44:29Z",
-    "url": "https://github.com/lmgentil/ede-legal-plugin"
-  },
-  {
     "description": "Small, bite-sized Claude Code tools for native Windows",
     "id": "sushiHex/sushi-bar",
     "language": "Python",
@@ -34,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T23:44:14Z",
     "url": "https://github.com/sushiHex/sushi-bar"
-  },
-  {
-    "description": "Self-contained agentic development harness for Claude Code \u2014 one command runs the full feature pipeline (plan \u2192 execute ",
-    "id": "jdanigo/hydraia",
-    "language": "Python",
-    "name": "jdanigo/hydraia",
-    "stars": 8,
-    "updated_at": "2026-08-19T23:44:02Z",
-    "url": "https://github.com/jdanigo/hydraia"
   },
   {
     "description": "Personal Claude Code setup: launcher, session hooks, custom system prompt, skills, slash commands, and a statusline. One",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-19T23:41:00Z",
     "url": "https://github.com/mishahanin/heading-os-marketplace"
-  },
-  {
-    "description": "Nexus Memory AI Plugin: OpenClaw & Hermes MCP Integration for Persistent Context 2026",
-    "id": "saekulhadi12-design/nexus-parallel-memory",
-    "language": "HTML",
-    "name": "saekulhadi12-design/nexus-parallel-memory",
-    "stars": 0,
-    "updated_at": "2026-08-19T23:40:59Z",
-    "url": "https://github.com/saekulhadi12-design/nexus-parallel-memory"
-  },
-  {
-    "description": "Fast CLI for Claude Code and OpenAI Codex token/cost usage analytics",
-    "id": "majiayu000/ccstats",
-    "language": "Rust",
-    "name": "majiayu000/ccstats",
-    "stars": 11,
-    "updated_at": "2026-08-19T23:42:08Z",
-    "url": "https://github.com/majiayu000/ccstats"
-  },
-  {
-    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
-    "id": "stablyai/orca",
-    "language": "TypeScript",
-    "name": "stablyai/orca",
-    "stars": 49080,
-    "updated_at": "2026-08-19T23:44:45Z",
-    "url": "https://github.com/stablyai/orca"
-  },
-  {
-    "description": "OpenClaude 2026: AI Coding Agent in Your Pocket \u2013 No Server, No PC",
-    "id": "ricardozmt/claude-in-your-pocket",
-    "language": "HTML",
-    "name": "ricardozmt/claude-in-your-pocket",
-    "stars": 3,
-    "updated_at": "2026-08-19T23:40:53Z",
-    "url": "https://github.com/ricardozmt/claude-in-your-pocket"
-  },
-  {
-    "description": "The operating system an executive runs their company from \u2014 research, communications, CRM, content, and operations. Clau",
-    "id": "mishahanin/heading-os",
-    "language": "Python",
-    "name": "mishahanin/heading-os",
-    "stars": 11,
-    "updated_at": "2026-08-19T23:40:43Z",
-    "url": "https://github.com/mishahanin/heading-os"
   }
 ]

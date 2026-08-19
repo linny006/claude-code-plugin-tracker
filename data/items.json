@@ -1,5 +1,59 @@
 [
   {
+    "description": "A standalone skill manager for AI coding agents \u2014 see, clean up, and safely add the skills your agents consume.",
+    "id": "MarcoHerten/skill-ninja",
+    "language": "JavaScript",
+    "name": "MarcoHerten/skill-ninja",
+    "stars": 0,
+    "updated_at": "2026-08-19T08:01:04Z",
+    "url": "https://github.com/MarcoHerten/skill-ninja"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 24,
+    "updated_at": "2026-08-19T08:00:39Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Give DeepSeek (text-only) models **vision** in Claude Code and Codex by routing image files to any OpenAI-compatible vis",
+    "id": "limccn/deepseek-vl-support",
+    "language": "TypeScript",
+    "name": "limccn/deepseek-vl-support",
+    "stars": 1,
+    "updated_at": "2026-08-19T08:00:37Z",
+    "url": "https://github.com/limccn/deepseek-vl-support"
+  },
+  {
+    "description": "From-scratch, byte-matching decompilation of Super Mario 64 DS (sm64ds decomp) into C, with a live progress atlas and ma",
+    "id": "tangosdev/sm64ds-decomp",
+    "language": "C",
+    "name": "tangosdev/sm64ds-decomp",
+    "stars": 132,
+    "updated_at": "2026-08-19T08:00:27Z",
+    "url": "https://github.com/tangosdev/sm64ds-decomp"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-08-19T08:00:22Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Open source tool for backtesting and forward testing websites and apps, built to be driven by your coding agent. It acts",
+    "id": "JASGENIUS/AppBacktest",
+    "language": "TypeScript",
+    "name": "JASGENIUS/AppBacktest",
+    "stars": 1,
+    "updated_at": "2026-08-19T08:00:19Z",
+    "url": "https://github.com/JASGENIUS/AppBacktest"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -9,13 +63,13 @@
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
-    "description": "From-scratch, byte-matching decompilation of Super Mario 64 DS (sm64ds decomp) into C, with a live progress atlas and ma",
-    "id": "tangosdev/sm64ds-decomp",
-    "language": "C",
-    "name": "tangosdev/sm64ds-decomp",
-    "stars": 132,
-    "updated_at": "2026-08-19T07:59:27Z",
-    "url": "https://github.com/tangosdev/sm64ds-decomp"
+    "description": "\u4e1c\u65b9\u795e\u7947\u5fa1\u517d\u5723\u50cf Agent Skill\uff1a\u4e00\u53e5\u8bdd\u6269\u6210\u5de5\u7b14\u91cd\u5f69\u795e\u50cf\u56fe\u5377\u63d0\u793a\u8bcd\uff0c\u795e\u7947+\u5f02\u517d\u53cc\u4e3b\u4f53\uff0c\u9644\u6b63\u7edf\u914d\u5bf9\u5e93\u4e0e\u51fa\u56fe\u6392\u9519\u8868",
+    "id": "charleshan7/eastern-deity-beast-portrait",
+    "language": "\u2014",
+    "name": "charleshan7/eastern-deity-beast-portrait",
+    "stars": 0,
+    "updated_at": "2026-08-19T08:01:08Z",
+    "url": "https://github.com/charleshan7/eastern-deity-beast-portrait"
   },
   {
     "description": "Music Dossier \u00b7 \u542c\u6b4c\u6863\u6848 \u2014 a Claude-powered music critic for Apple Music: editor's notes, people, gallery, anecdotes, timeli",
@@ -122,7 +176,7 @@
     "language": "Python",
     "name": "NousResearch/hermes-agent",
     "stars": 232718,
-    "updated_at": "2026-08-19T07:58:02Z",
+    "updated_at": "2026-08-19T08:01:01Z",
     "url": "https://github.com/NousResearch/hermes-agent"
   },
   {
@@ -131,7 +185,7 @@
     "language": "TypeScript",
     "name": "stablyai/orca",
     "stars": 48605,
-    "updated_at": "2026-08-19T07:57:49Z",
+    "updated_at": "2026-08-19T08:01:00Z",
     "url": "https://github.com/stablyai/orca"
   },
   {
@@ -311,7 +365,7 @@
     "language": "TypeScript",
     "name": "artokun/comfyui-mcp",
     "stars": 604,
-    "updated_at": "2026-08-19T07:58:52Z",
+    "updated_at": "2026-08-19T08:00:32Z",
     "url": "https://github.com/artokun/comfyui-mcp"
   },
   {
@@ -365,7 +419,7 @@
     "language": "JavaScript",
     "name": "artokun/comfyui-mcp-panel",
     "stars": 87,
-    "updated_at": "2026-08-19T07:57:40Z",
+    "updated_at": "2026-08-19T08:00:24Z",
     "url": "https://github.com/artokun/comfyui-mcp-panel"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-19T07:56:01Z",
     "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "Premium AI execution systems, workflows, GEO infrastructure, automation playbooks, and real-world implementation labs by",
-    "id": "asquaresolutions-beep/ai-execution-lab",
-    "language": "MDX",
-    "name": "asquaresolutions-beep/ai-execution-lab",
-    "stars": 0,
-    "updated_at": "2026-08-19T07:55:59Z",
-    "url": "https://github.com/asquaresolutions-beep/ai-execution-lab"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 1,
-    "updated_at": "2026-08-19T07:55:52Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Best Free Claude Code Plugins for Marketplace 2026 \u2013 Instant Setup Guide",
-    "id": "nereasanmartinsanchez-max/howar31-plugin-hub",
-    "language": "HTML",
-    "name": "nereasanmartinsanchez-max/howar31-plugin-hub",
-    "stars": 0,
-    "updated_at": "2026-08-19T07:55:49Z",
-    "url": "https://github.com/nereasanmartinsanchez-max/howar31-plugin-hub"
-  },
-  {
-    "description": "Self-hosted runtime for AI coding agents. Real Linux containers, your hardware, your keys, your data.",
-    "id": "crewship-ai/crewship",
-    "language": "Go",
-    "name": "crewship-ai/crewship",
-    "stars": 4,
-    "updated_at": "2026-08-19T08:00:14Z",
-    "url": "https://github.com/crewship-ai/crewship"
-  },
-  {
-    "description": "SPEC-First AI DevKit for Agentic Code 2026 \u2014 24 Agents, 52 Skills, TDD/DDD Gates",
-    "id": "leerhadz/moai-forge",
-    "language": "HTML",
-    "name": "leerhadz/moai-forge",
-    "stars": 0,
-    "updated_at": "2026-08-19T07:55:41Z",
-    "url": "https://github.com/leerhadz/moai-forge"
-  },
-  {
-    "description": "Know before it breaks \u2014 a deterministic + AI-aided scanner that finds dying third-party API integrations (retiring vendo",
-    "id": "TOPSinfo/drift-detector-scan",
-    "language": "Python",
-    "name": "TOPSinfo/drift-detector-scan",
-    "stars": 0,
-    "updated_at": "2026-08-19T07:55:37Z",
-    "url": "https://github.com/TOPSinfo/drift-detector-scan"
   }
 ]

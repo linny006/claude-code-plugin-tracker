@@ -1,5 +1,59 @@
 [
   {
+    "description": "Every AI coding-agent CLI (Claude Code, Codex, Gemini, Qwen, Vibe) reviews your diff in parallel, read-only, for one shi",
+    "id": "Softeria/postmortemthis",
+    "language": "Rust",
+    "name": "Softeria/postmortemthis",
+    "stars": 1,
+    "updated_at": "2026-08-20T05:44:56Z",
+    "url": "https://github.com/Softeria/postmortemthis"
+  },
+  {
+    "description": "Open-source security for AI agents: kernel-enforced egress control on macOS and Linux, keys only the operator holds, tam",
+    "id": "eriknewton/sanctuary-framework",
+    "language": "TypeScript",
+    "name": "eriknewton/sanctuary-framework",
+    "stars": 8,
+    "updated_at": "2026-08-20T05:44:56Z",
+    "url": "https://github.com/eriknewton/sanctuary-framework"
+  },
+  {
+    "description": "Claude Code \u5916\u639b\u5e02\u96c6 \u2014 MCP \u4f3a\u670d\u5668\u3001Skills \u8207\u8de8\u5c08\u6848\u958b\u767c\u7d93\u9a57\u6a21\u5f0f",
+    "id": "jurislm/jurislm-tools",
+    "language": "JavaScript",
+    "name": "jurislm/jurislm-tools",
+    "stars": 0,
+    "updated_at": "2026-08-20T05:44:45Z",
+    "url": "https://github.com/jurislm/jurislm-tools"
+  },
+  {
+    "description": "Unattended GitHub issue-to-PR worker running Claude Code inside a strict containment boundary",
+    "id": "stSoftwareAU/VibeCoder",
+    "language": "TypeScript",
+    "name": "stSoftwareAU/VibeCoder",
+    "stars": 2,
+    "updated_at": "2026-08-20T05:44:45Z",
+    "url": "https://github.com/stSoftwareAU/VibeCoder"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-08-20T05:44:43Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Agent skills we run every day building Cavuno.",
+    "id": "wollemiahq/skills",
+    "language": "JavaScript",
+    "name": "wollemiahq/skills",
+    "stars": 2,
+    "updated_at": "2026-08-20T05:44:27Z",
+    "url": "https://github.com/wollemiahq/skills"
+  },
+  {
     "description": "Governed Claude Code harness for an Agent-operated Warehouse. 46 enforced rules, 6 commands, deterministic fail-closed g",
     "id": "lostinheaven-knt/chatbi-harness",
     "language": "Python",
@@ -14,7 +68,7 @@
     "language": "TypeScript",
     "name": "kookr-ai/kookr",
     "stars": 3,
-    "updated_at": "2026-08-20T05:44:08Z",
+    "updated_at": "2026-08-20T05:44:48Z",
     "url": "https://github.com/kookr-ai/kookr"
   },
   {
@@ -34,6 +88,24 @@
     "stars": 24,
     "updated_at": "2026-08-20T05:43:51Z",
     "url": "https://github.com/geml-spec/geml"
+  },
+  {
+    "description": "Open-source Flutter desktop app for monitoring Codex and Claude usage limits from the macOS menu bar and Windows taskbar",
+    "id": "farhans-codes/ai_limit_status",
+    "language": "Dart",
+    "name": "farhans-codes/ai_limit_status",
+    "stars": 0,
+    "updated_at": "2026-08-20T05:43:43Z",
+    "url": "https://github.com/farhans-codes/ai_limit_status"
+  },
+  {
+    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 31,
+    "updated_at": "2026-08-20T05:43:42Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
   },
   {
     "description": "A Windows tray app showing how much of your Claude Code and Codex quota is left. It asks each CLI about its own usage \u2014 ",
@@ -212,7 +284,7 @@
     "language": "Python",
     "name": "NousResearch/hermes-agent",
     "stars": 233167,
-    "updated_at": "2026-08-20T05:42:31Z",
+    "updated_at": "2026-08-20T05:44:56Z",
     "url": "https://github.com/NousResearch/hermes-agent"
   },
   {
@@ -266,7 +338,7 @@
     "language": "Python",
     "name": "MK023/agentic-os",
     "stars": 0,
-    "updated_at": "2026-08-20T05:42:13Z",
+    "updated_at": "2026-08-20T05:44:44Z",
     "url": "https://github.com/MK023/agentic-os"
   },
   {
@@ -351,21 +423,12 @@
     "url": "https://github.com/jorasingh5672/claude-cooldown-alert"
   },
   {
-    "description": "fak \u2014 the Fused Agent Kernel for Claude Code, Codex, Cursor, and MCP: use fewer tokens and do less repeated work with ca",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 31,
-    "updated_at": "2026-08-20T05:43:42Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
     "description": "13 Claude Code skills for video production (transcribe / translate / dub / multicam / subtitles / reframe) + WeChat publ",
     "id": "jianshuo/claude-skills",
     "language": "Python",
     "name": "jianshuo/claude-skills",
     "stars": 122,
-    "updated_at": "2026-08-20T05:41:03Z",
+    "updated_at": "2026-08-20T05:45:00Z",
     "url": "https://github.com/jianshuo/claude-skills"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-20T05:40:59Z",
     "url": "https://github.com/GeReV/ghidra-iterative-re"
-  },
-  {
-    "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
-    "id": "makecindy/cindy",
-    "language": "TypeScript",
-    "name": "makecindy/cindy",
-    "stars": 2221,
-    "updated_at": "2026-08-20T05:43:02Z",
-    "url": "https://github.com/makecindy/cindy"
-  },
-  {
-    "description": "Discord\uc5d0\uc11c AI \ucf54\ub529 \uc138\uc158\u00b7\uc0ac\ub78c \uc2b9\uc778 \uac8c\uc774\ud2b8\u00b7GitHub/Sentry/Vercel \uc54c\ub9bc\u00b7uptime\uc744 \ud1b5\ud569\ud558\ub294 TypeScript \uc6b4\uc601 \ubd07",
-    "id": "Todari/todari-ops",
-    "language": "TypeScript",
-    "name": "Todari/todari-ops",
-    "stars": 0,
-    "updated_at": "2026-08-20T05:40:55Z",
-    "url": "https://github.com/Todari/todari-ops"
-  },
-  {
-    "description": "Herdr-backed task dispatch for Claude Code: run implementation work in a session rooted in your app's own directory, sin",
-    "id": "wayne930242/straw-boss",
-    "language": "Python",
-    "name": "wayne930242/straw-boss",
-    "stars": 3,
-    "updated_at": "2026-08-20T05:40:44Z",
-    "url": "https://github.com/wayne930242/straw-boss"
-  },
-  {
-    "description": "Remote agent control from chat Drive acpx agent sessions \u2014 Codex, Claude Code, Gemini \u2014 from WeChat, Feishu, Yuanbao, an",
-    "id": "gadzan/xacpx",
-    "language": "TypeScript",
-    "name": "gadzan/xacpx",
-    "stars": 13,
-    "updated_at": "2026-08-20T05:40:36Z",
-    "url": "https://github.com/gadzan/xacpx"
-  },
-  {
-    "description": "Sub2API \u4e00\u7ad9\u5f0f\u5f00\u6e90\u4e2d\u8f6c\u670d\u52a1\uff0c\u8ba9 Claude\u3001Openai \u3001Gemini\u3001Grok\u8ba2\u9605\u7edf\u4e00\u63a5\u5165\uff0c\u652f\u6301\u62fc\u8f66\u5171\u4eab\uff0c\u66f4\u9ad8\u6548\u5206\u644a\u6210\u672c\uff0c\u539f\u751f\u5de5\u5177\u65e0\u7f1d\u4f7f\u7528\u3002",
-    "id": "Wei-Shaw/sub2api",
-    "language": "Go",
-    "name": "Wei-Shaw/sub2api",
-    "stars": 37725,
-    "updated_at": "2026-08-20T05:40:35Z",
-    "url": "https://github.com/Wei-Shaw/sub2api"
-  },
-  {
-    "description": "\ud83c\uddf0\ud83c\uddf7 400+ Korean AI Coding Agent Skills \u2014 Claude Code, Gemini CLI, Codex, Cursor \uc2a4\ud0ac\uc744 \uae30\ub2a5\ubcc4\ub85c \ubaa8\uc740 \ud050\ub808\uc774\uc158",
-    "id": "J-nowcow/awesome-korean-agent-skills",
-    "language": "\u2014",
-    "name": "J-nowcow/awesome-korean-agent-skills",
-    "stars": 34,
-    "updated_at": "2026-08-20T05:40:07Z",
-    "url": "https://github.com/J-nowcow/awesome-korean-agent-skills"
-  },
-  {
-    "description": "AgentWorks: the open-source control plane for running, measuring, and improving AI agent workflows across your company.",
-    "id": "manishiitg/coding-agent-loop",
-    "language": "Go",
-    "name": "manishiitg/coding-agent-loop",
-    "stars": 12,
-    "updated_at": "2026-08-20T05:39:46Z",
-    "url": "https://github.com/manishiitg/coding-agent-loop"
   }
 ]

@@ -1,5 +1,32 @@
 [
   {
+    "description": "agent skills for production Rust \u2014 unsafe, atomics, FFI/JNI/UniFFI, sanitizers, profiling, supply chain, etc",
+    "id": "po4yka/rust-skills",
+    "language": "Python",
+    "name": "po4yka/rust-skills",
+    "stars": 0,
+    "updated_at": "2026-08-20T09:15:38Z",
+    "url": "https://github.com/po4yka/rust-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 24,
+    "updated_at": "2026-08-20T09:15:28Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-08-20T09:15:20Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -23,8 +50,26 @@
     "language": "Python",
     "name": "aiskillstore/marketplace",
     "stars": 412,
-    "updated_at": "2026-08-20T09:14:22Z",
+    "updated_at": "2026-08-20T09:15:49Z",
     "url": "https://github.com/aiskillstore/marketplace"
+  },
+  {
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-S",
+    "id": "asgeirtj/system_prompts_leaks",
+    "language": "JavaScript",
+    "name": "asgeirtj/system_prompts_leaks",
+    "stars": 63223,
+    "updated_at": "2026-08-20T09:14:20Z",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "description": "Cloud FinOps Skill & MCP by OptimNow. FinOps Foundation aligned knowledge for AI agents: cloud cost (AWS/Azure/GCP/OCI),",
+    "id": "OptimNow/cloud-finops-skills",
+    "language": "Python",
+    "name": "OptimNow/cloud-finops-skills",
+    "stars": 46,
+    "updated_at": "2026-08-20T09:14:14Z",
+    "url": "https://github.com/OptimNow/cloud-finops-skills"
   },
   {
     "description": "Turn a fresh LXC into an AI homelab command center. One command installs Claude Code + a web UI, preloaded with skills, ",
@@ -52,6 +97,15 @@
     "stars": 1,
     "updated_at": "2026-08-20T09:14:01Z",
     "url": "https://github.com/shoto290/OpenNest"
+  },
+  {
+    "description": "Several coding agents, one repository, no collisions \u2014 leases with a TTL, race-free id reservation, a run journal and a ",
+    "id": "ssheleg/agent-sync",
+    "language": "Python",
+    "name": "ssheleg/agent-sync",
+    "stars": 1,
+    "updated_at": "2026-08-20T09:13:25Z",
+    "url": "https://github.com/ssheleg/agent-sync"
   },
   {
     "description": "A coliseum for AI coding models. They race on the same task in isolated git worktrees, the best solution wins and auto-a",
@@ -90,6 +144,15 @@
     "url": "https://github.com/Zhangs-11/codex-draft-inbox"
   },
   {
+    "description": "Harness-agnostic agentic ways of working: one canonical principles doc, per-tool adapters, skills, and hooks. Extracted ",
+    "id": "nino-chavez/agentic-ways-of-working",
+    "language": "Python",
+    "name": "nino-chavez/agentic-ways-of-working",
+    "stars": 2,
+    "updated_at": "2026-08-20T09:12:57Z",
+    "url": "https://github.com/nino-chavez/agentic-ways-of-working"
+  },
+  {
     "description": "Tessera \u2014 a workspace for organizing AI coding sessions across projects, collections, tabs, panes, and Git worktrees",
     "id": "horang-labs/tessera",
     "language": "TypeScript",
@@ -104,8 +167,17 @@
     "language": "TypeScript",
     "name": "y49/tlive",
     "stars": 203,
-    "updated_at": "2026-08-20T09:12:50Z",
+    "updated_at": "2026-08-20T09:15:29Z",
     "url": "https://github.com/y49/tlive"
+  },
+  {
+    "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+    "id": "steipete/CodexBar",
+    "language": "Swift",
+    "name": "steipete/CodexBar",
+    "stars": 20367,
+    "updated_at": "2026-08-20T09:12:39Z",
+    "url": "https://github.com/steipete/CodexBar"
   },
   {
     "description": "\u7522\u54c1\u7d93\u7406\u5982\u4f55\u628a\u5546\u696d\u601d\u7dad\u8207\u5c08\u6848\u7ba1\u7406\u7d00\u5f8b\u5c0e\u5165 Claude Code\u3002star-report \u8f38\u51fa\u98a8\u683c\uff1a\u6539\u52d5\u7528 STAR \u8aaa\u660e\u3001\u984d\u5916\u767c\u73fe\u53e6\u7acb\u5340\u584a\u3001\u5c08\u6709\u540d\u8a5e\u9644\u767d\u8a71\u89e3\u91cb\u3002\u7e41\u9ad4\u4e2d\u6587\u3002",
@@ -220,7 +292,7 @@
     "id": "NousResearch/hermes-agent",
     "language": "Python",
     "name": "NousResearch/hermes-agent",
-    "stars": 233267,
+    "stars": 233269,
     "updated_at": "2026-08-20T09:11:35Z",
     "url": "https://github.com/NousResearch/hermes-agent"
   },
@@ -311,7 +383,7 @@
     "language": "Rust",
     "name": "ChronoAIProject/NyxID",
     "stars": 36,
-    "updated_at": "2026-08-20T09:10:47Z",
+    "updated_at": "2026-08-20T09:15:22Z",
     "url": "https://github.com/ChronoAIProject/NyxID"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 10496,
     "updated_at": "2026-08-20T09:10:13Z",
     "url": "https://github.com/cobusgreyling/loop-engineering"
-  },
-  {
-    "description": "Node-based terminal manager for AI coding agents \u2014 tmux-backed terminals and parallel agent sessions as draggable nodes ",
-    "id": "eneskirca/nodeterm",
-    "language": "TypeScript",
-    "name": "eneskirca/nodeterm",
-    "stars": 969,
-    "updated_at": "2026-08-20T09:14:43Z",
-    "url": "https://github.com/eneskirca/nodeterm"
-  },
-  {
-    "description": "Claude Code skills that turn an AI agent into a meticulous QA engineer. Evidence or it didn't happen.",
-    "id": "akovalion/paranoid-qa",
-    "language": "Python",
-    "name": "akovalion/paranoid-qa",
-    "stars": 9,
-    "updated_at": "2026-08-20T09:09:57Z",
-    "url": "https://github.com/akovalion/paranoid-qa"
-  },
-  {
-    "description": "Batched file operations for autonomous Claude Code runs. Collapses N reads/greps/globs into one Bash round-trip \u2014 fewer ",
-    "id": "Digital-Process-Tools/claude-supertool",
-    "language": "Python",
-    "name": "Digital-Process-Tools/claude-supertool",
-    "stars": 16,
-    "updated_at": "2026-08-20T09:09:53Z",
-    "url": "https://github.com/Digital-Process-Tools/claude-supertool"
-  },
-  {
-    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
-    "id": "stablyai/orca",
-    "language": "TypeScript",
-    "name": "stablyai/orca",
-    "stars": 49545,
-    "updated_at": "2026-08-20T09:09:50Z",
-    "url": "https://github.com/stablyai/orca"
-  },
-  {
-    "description": "An exclusive Long-term memory & full-context AI agent method combine with Superpowers for everyday Software Development",
-    "id": "dfuc-630/Regressor",
-    "language": "\u2014",
-    "name": "dfuc-630/Regressor",
-    "stars": 0,
-    "updated_at": "2026-08-20T09:09:50Z",
-    "url": "https://github.com/dfuc-630/Regressor"
-  },
-  {
-    "description": "Repo-agnostic engine for running Claude Code autonomy loops against any target repo",
-    "id": "Luke-Bradford/autonomy-engine",
-    "language": "TypeScript",
-    "name": "Luke-Bradford/autonomy-engine",
-    "stars": 0,
-    "updated_at": "2026-08-20T09:09:43Z",
-    "url": "https://github.com/Luke-Bradford/autonomy-engine"
-  },
-  {
-    "description": "Control local Codex and Claude Code from OpenClaw through shared tmux terminals, with seamless human-agent handoff.",
-    "id": "scotthuang/agent-knock-knock",
-    "language": "TypeScript",
-    "name": "scotthuang/agent-knock-knock",
-    "stars": 4,
-    "updated_at": "2026-08-20T09:09:30Z",
-    "url": "https://github.com/scotthuang/agent-knock-knock"
-  },
-  {
-    "description": "Personal knowledge management system for Claude Code. Obsidian vault as external memory that grows with every session. 5",
-    "id": "dmitrax/second-brain-setup",
-    "language": "Shell",
-    "name": "dmitrax/second-brain-setup",
-    "stars": 1,
-    "updated_at": "2026-08-20T09:09:28Z",
-    "url": "https://github.com/dmitrax/second-brain-setup"
   }
 ]

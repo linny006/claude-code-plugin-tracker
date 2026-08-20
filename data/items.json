@@ -1,5 +1,23 @@
 [
   {
+    "description": "Offline-first CLI for generating safe AI coding agent context, task-first workflows, repo hygiene reports, and multi-age",
+    "id": "Cynrath/agent-context-kit",
+    "language": "C#",
+    "name": "Cynrath/agent-context-kit",
+    "stars": 8,
+    "updated_at": "2026-08-20T15:15:22Z",
+    "url": "https://github.com/Cynrath/agent-context-kit"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-08-20T15:15:21Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -40,7 +58,7 @@
     "id": "santifer/career-ops",
     "language": "JavaScript",
     "name": "santifer/career-ops",
-    "stars": 66346,
+    "stars": 66347,
     "updated_at": "2026-08-20T15:13:33Z",
     "url": "https://github.com/santifer/career-ops"
   },
@@ -79,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T15:12:42Z",
     "url": "https://github.com/tangwenhai839-create/agent-contract-test"
-  },
-  {
-    "description": "Offline-first CLI for generating safe AI coding agent context, task-first workflows, repo hygiene reports, and multi-age",
-    "id": "Cynrath/agent-context-kit",
-    "language": "C#",
-    "name": "Cynrath/agent-context-kit",
-    "stars": 8,
-    "updated_at": "2026-08-20T15:14:44Z",
-    "url": "https://github.com/Cynrath/agent-context-kit"
   },
   {
     "description": "One authenticated SSH window to a SLURM cluster: optional VPN, optional TOTP 2FA, connection multiplexing, and job submi",
@@ -207,6 +216,15 @@
     "url": "https://github.com/husniadil/codex-cc-proxy"
   },
   {
+    "description": "Self-hosted runtime for AI coding agents. Real Linux containers, your hardware, your keys, your data.",
+    "id": "crewship-ai/crewship",
+    "language": "Go",
+    "name": "crewship-ai/crewship",
+    "stars": 4,
+    "updated_at": "2026-08-20T15:09:53Z",
+    "url": "https://github.com/crewship-ai/crewship"
+  },
+  {
     "description": "Desktop app for running a team of Claude Code agents you manage like colleagues. Hire them, give them a project, watch t",
     "id": "BENZOOgataga/StaffordAI",
     "language": "TypeScript",
@@ -315,6 +333,15 @@
     "url": "https://github.com/itsvedantkumar/vstack"
   },
   {
+    "description": "VHK \u2014 AI \ucf54\ub529 \uc138\uc158\uc744 \ubaa9\ud45c\u00b7\uc99d\uac70\u00b7\uae30\uc5b5\u00b7\uaddc\uce59\uc73c\ub85c \ubb36\ub294 \ud55c\uad6d\uc5b4 CLI. \uaddc\uce59 \ub3d9\uae30\ud654, MCP 35 tools, verify/review/preflight \uac8c\uc774\ud2b8.",
+    "id": "byh3071-cpu/vhk",
+    "language": "TypeScript",
+    "name": "byh3071-cpu/vhk",
+    "stars": 12,
+    "updated_at": "2026-08-20T15:07:50Z",
+    "url": "https://github.com/byh3071-cpu/vhk"
+  },
+  {
     "description": "Persistent Memory System for Claude Code 2026 - Bi-Temporal YAML Filesystem",
     "id": "DocDeepakbhagat/mnemonic-yaml-persistence",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 68,
     "updated_at": "2026-08-20T15:05:58Z",
     "url": "https://github.com/escoffier-labs/brigade"
-  },
-  {
-    "description": "Zero, your trustworthy AI teammate for real work. ",
-    "id": "vm0-ai/vm0",
-    "language": "TypeScript",
-    "name": "vm0-ai/vm0",
-    "stars": 1150,
-    "updated_at": "2026-08-20T15:14:01Z",
-    "url": "https://github.com/vm0-ai/vm0"
-  },
-  {
-    "description": "Open-source control plane for AI coding agents \u2014 run, monitor & orchestrate dozens of parallel Claude Code, Codex & Gemi",
-    "id": "mixpeek/amux",
-    "language": "HTML",
-    "name": "mixpeek/amux",
-    "stars": 361,
-    "updated_at": "2026-08-20T15:05:41Z",
-    "url": "https://github.com/mixpeek/amux"
-  },
-  {
-    "description": "Convoke extends BMAD Method AI agents with two types of installable modules: Teams bring new agents for a domain, Skills",
-    "id": "amalik/convoke-agents",
-    "language": "JavaScript",
-    "name": "amalik/convoke-agents",
-    "stars": 63,
-    "updated_at": "2026-08-20T15:05:37Z",
-    "url": "https://github.com/amalik/convoke-agents"
   }
 ]

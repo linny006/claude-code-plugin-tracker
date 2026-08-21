@@ -1,5 +1,59 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 32,
+    "updated_at": "2026-08-21T17:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Best Free AI Job Application Bot 2026 - Auto Fill LinkedIn, Greenhouse & Workday",
+    "id": "kyrie789-a/automated-application-pipeline",
+    "language": "HTML",
+    "name": "kyrie789-a/automated-application-pipeline",
+    "stars": 2,
+    "updated_at": "2026-08-21T17:00:06Z",
+    "url": "https://github.com/kyrie789-a/automated-application-pipeline"
+  },
+  {
+    "description": "Markdown to Rich HTML Copy 2026 - Clipboard for Docs, Mail, Slack & Word",
+    "id": "andiyoga/clippy-md",
+    "language": "HTML",
+    "name": "andiyoga/clippy-md",
+    "stars": 0,
+    "updated_at": "2026-08-21T17:00:04Z",
+    "url": "https://github.com/andiyoga/clippy-md"
+  },
+  {
+    "description": "Local-first runtime for verifiable coding-agent loops.",
+    "id": "gateship-dev/gateship",
+    "language": "TypeScript",
+    "name": "gateship-dev/gateship",
+    "stars": 0,
+    "updated_at": "2026-08-21T16:59:49Z",
+    "url": "https://github.com/gateship-dev/gateship"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-08-21T16:59:43Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool pa",
+    "id": "raullenchai/Rapid-MLX",
+    "language": "Python",
+    "name": "raullenchai/Rapid-MLX",
+    "stars": 3523,
+    "updated_at": "2026-08-21T16:59:40Z",
+    "url": "https://github.com/raullenchai/Rapid-MLX"
+  },
+  {
     "description": "Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.",
     "id": "superset-sh/superset",
     "language": "TypeScript",
@@ -67,7 +121,7 @@
     "id": "diegosouzapw/OmniRoute",
     "language": "TypeScript",
     "name": "diegosouzapw/OmniRoute",
-    "stars": 52487,
+    "stars": 52488,
     "updated_at": "2026-08-21T16:59:04Z",
     "url": "https://github.com/diegosouzapw/OmniRoute"
   },
@@ -77,7 +131,7 @@
     "language": "Go",
     "name": "portpowered/you-agent-factory",
     "stars": 14,
-    "updated_at": "2026-08-21T16:59:02Z",
+    "updated_at": "2026-08-21T17:00:02Z",
     "url": "https://github.com/portpowered/you-agent-factory"
   },
   {
@@ -198,6 +252,15 @@
     "url": "https://github.com/johncwaters/glissa"
   },
   {
+    "description": "Compile long agent requests into lean, reviewable prompt packets with explicit constraint and authority mapping.",
+    "id": "SpannDaMan/prompt-optimizer",
+    "language": "Python",
+    "name": "SpannDaMan/prompt-optimizer",
+    "stars": 0,
+    "updated_at": "2026-08-21T16:57:51Z",
+    "url": "https://github.com/SpannDaMan/prompt-optimizer"
+  },
+  {
     "description": "Embedded MQTT broker + MCP server for multi-agent coordination",
     "id": "swoofer/mcp-coordinator",
     "language": "TypeScript",
@@ -234,6 +297,15 @@
     "url": "https://github.com/Aditya9412/reddit-mcp-gateway"
   },
   {
+    "description": "A composable dev process for agentic coding harnesses, packaged as modular skills. Turbo has sibling editions for Claude",
+    "id": "tobihagemann/turbo",
+    "language": "Shell",
+    "name": "tobihagemann/turbo",
+    "stars": 399,
+    "updated_at": "2026-08-21T16:57:01Z",
+    "url": "https://github.com/tobihagemann/turbo"
+  },
+  {
     "description": "Verified free LLM API list \u2014 no-card options, direct API key links, rate limits, OpenAI-compatible endpoints, and coding",
     "id": "xyzs996/free-llm-api",
     "language": "JavaScript",
@@ -259,15 +331,6 @@
     "stars": 646,
     "updated_at": "2026-08-21T16:58:11Z",
     "url": "https://github.com/qf-studio/pilot"
-  },
-  {
-    "description": "Compile long agent requests into lean, reviewable prompt packets with explicit constraint and authority mapping.",
-    "id": "SpannDaMan/prompt-optimizer",
-    "language": "Python",
-    "name": "SpannDaMan/prompt-optimizer",
-    "stars": 0,
-    "updated_at": "2026-08-21T16:57:51Z",
-    "url": "https://github.com/SpannDaMan/prompt-optimizer"
   },
   {
     "description": "AI-Powered Jira-to-PR Mobile Workflow Plugin 2026 \u2013 Streamline Developer Pipelines",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T16:55:57Z",
     "url": "https://github.com/Lander-Parren/spar"
-  },
-  {
-    "description": "MCP server for Unity Editor \u2014 160 tools for scene, assets, animation, VFX, playtest & more",
-    "id": "german-krasnikov/unity-biome-mcp",
-    "language": "C#",
-    "name": "german-krasnikov/unity-biome-mcp",
-    "stars": 27,
-    "updated_at": "2026-08-21T16:57:20Z",
-    "url": "https://github.com/german-krasnikov/unity-biome-mcp"
-  },
-  {
-    "description": "Local-first AI company operating system with a Codex lead, Claude and OpenCode workers, and a live pixel office.",
-    "id": "MuratKomurcu1/BarkOS",
-    "language": "TypeScript",
-    "name": "MuratKomurcu1/BarkOS",
-    "stars": 0,
-    "updated_at": "2026-08-21T16:59:35Z",
-    "url": "https://github.com/MuratKomurcu1/BarkOS"
-  },
-  {
-    "description": "Anti-hallucination guardrails for AI coding agents. A hybrid Agent Plugins 1.0.0 plugin (Skill + MCP Server) that verifi",
-    "id": "weed33834/AgentSeed",
-    "language": "Python",
-    "name": "weed33834/AgentSeed",
-    "stars": 20,
-    "updated_at": "2026-08-21T16:55:43Z",
-    "url": "https://github.com/weed33834/AgentSeed"
-  },
-  {
-    "description": "Plan-first parallel execution for Claude Code: rigorous plan documents, wave-based subagent execution with disjoint file",
-    "id": "TakasiVenkataSandeep-08/drydock",
-    "language": "JavaScript",
-    "name": "TakasiVenkataSandeep-08/drydock",
-    "stars": 0,
-    "updated_at": "2026-08-21T16:55:40Z",
-    "url": "https://github.com/TakasiVenkataSandeep-08/drydock"
-  },
-  {
-    "description": "Top Token-Saving AI Coding Tools 2026: Local Memory MCP Cuts Costs 90%",
-    "id": "imhamzakhan/context-flow-compressor",
-    "language": "HTML",
-    "name": "imhamzakhan/context-flow-compressor",
-    "stars": 0,
-    "updated_at": "2026-08-21T16:55:36Z",
-    "url": "https://github.com/imhamzakhan/context-flow-compressor"
-  },
-  {
-    "description": "Go REST API template and Golang microservice boilerplate, AI-native for coding agents, with OpenAPI, PostgreSQL, sqlc, o",
-    "id": "Dankosik/go-service-template-rest",
-    "language": "Go",
-    "name": "Dankosik/go-service-template-rest",
-    "stars": 5,
-    "updated_at": "2026-08-21T16:55:28Z",
-    "url": "https://github.com/Dankosik/go-service-template-rest"
-  },
-  {
-    "description": "A Return on Context Harness",
-    "id": "SandmanCircles/4SYNC-ARCH",
-    "language": "Python",
-    "name": "SandmanCircles/4SYNC-ARCH",
-    "stars": 0,
-    "updated_at": "2026-08-21T16:55:27Z",
-    "url": "https://github.com/SandmanCircles/4SYNC-ARCH"
   }
 ]

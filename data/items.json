@@ -1,5 +1,50 @@
 [
   {
+    "description": "Modernizing Legacy Code with Claude Real-World Guide 2026",
+    "id": "adianiz/claude-code-legacy-migration",
+    "language": "HTML",
+    "name": "adianiz/claude-code-legacy-migration",
+    "stars": 0,
+    "updated_at": "2026-08-21T19:45:33Z",
+    "url": "https://github.com/adianiz/claude-code-legacy-migration"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 25,
+    "updated_at": "2026-08-21T19:45:32Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "One identical instruction file for Claude Code, Codex and Grok - plus session memory that crosses between them. 950 line",
+    "id": "byensitmagnus/ai-memory",
+    "language": "JavaScript",
+    "name": "byensitmagnus/ai-memory",
+    "stars": 0,
+    "updated_at": "2026-08-21T19:45:28Z",
+    "url": "https://github.com/byensitmagnus/ai-memory"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-08-21T19:45:19Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "TRACE protocol for auditing decision-provenance in AI-assisted scientific workflows ",
+    "id": "Thru-Echoes/TRACE",
+    "language": "Python",
+    "name": "Thru-Echoes/TRACE",
+    "stars": 22,
+    "updated_at": "2026-08-21T19:45:18Z",
+    "url": "https://github.com/Thru-Echoes/TRACE"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -18,6 +63,24 @@
     "url": "https://github.com/JingbiaoMei/Tokdash"
   },
   {
+    "description": "Agent skills for Spec Kit",
+    "id": "dceoy/speckit-agent-skills",
+    "language": "Shell",
+    "name": "dceoy/speckit-agent-skills",
+    "stars": 126,
+    "updated_at": "2026-08-21T19:45:23Z",
+    "url": "https://github.com/dceoy/speckit-agent-skills"
+  },
+  {
+    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
+    "id": "event4u-app/agent-config",
+    "language": "TypeScript",
+    "name": "event4u-app/agent-config",
+    "stars": 7,
+    "updated_at": "2026-08-21T19:45:07Z",
+    "url": "https://github.com/event4u-app/agent-config"
+  },
+  {
     "description": "Batched file operations for autonomous Claude Code runs. Collapses N reads/greps/globs into one Bash round-trip \u2014 fewer ",
     "id": "Digital-Process-Tools/claude-supertool",
     "language": "Python",
@@ -34,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-21T19:44:59Z",
     "url": "https://github.com/prjct-app/cli"
-  },
-  {
-    "description": "Every claim machine-checked, including \"zero runtime daemon\" \u2014 governed skills, rules and replayable state. One contract",
-    "id": "event4u-app/agent-config",
-    "language": "TypeScript",
-    "name": "event4u-app/agent-config",
-    "stars": 7,
-    "updated_at": "2026-08-21T19:45:07Z",
-    "url": "https://github.com/event4u-app/agent-config"
   },
   {
     "description": "Agent skills that make a model report what it cannot do. root-cause forbids a causal claim without evidence; sitrep puts",
@@ -117,6 +171,15 @@
     "url": "https://github.com/Fighter90/career-ops-ui"
   },
   {
+    "description": "Launch any coding-agent harness (Claude Code, Codex, OpenCode, Pi, ...) against your own inference provider",
+    "id": "elecnix/launch-harness",
+    "language": "\u2014",
+    "name": "elecnix/launch-harness",
+    "stars": 0,
+    "updated_at": "2026-08-21T19:44:22Z",
+    "url": "https://github.com/elecnix/launch-harness"
+  },
+  {
     "description": "MCP review engine with 182 + rules (taint tracking, OWASP LLM01, concept model) + universal IR compiler: .kern compiles ",
     "id": "KERNlang/kern",
     "language": "TypeScript",
@@ -133,6 +196,15 @@
     "stars": 3,
     "updated_at": "2026-08-21T19:44:12Z",
     "url": "https://github.com/albertwujj/agent-term"
+  },
+  {
+    "description": "Visual, fuzzy-searchable browser for every Claude Code session on your machine \u2014 across all projects and worktrees, with",
+    "id": "maxhayim/claude-code-sessions-viewer",
+    "language": "Python",
+    "name": "maxhayim/claude-code-sessions-viewer",
+    "stars": 1,
+    "updated_at": "2026-08-21T19:44:12Z",
+    "url": "https://github.com/maxhayim/claude-code-sessions-viewer"
   },
   {
     "description": "A personal LeetCode coach: Chrome extension + local Python service for Socratic hints, mastery tracking, and target-comp",
@@ -162,21 +234,12 @@
     "url": "https://github.com/Abderrahmane-msd/mcp-bench-report"
   },
   {
-    "description": "Visual, fuzzy-searchable browser for every Claude Code session on your machine \u2014 across all projects and worktrees, with",
-    "id": "maxhayim/claude-code-sessions-viewer",
-    "language": "Python",
-    "name": "maxhayim/claude-code-sessions-viewer",
-    "stars": 1,
-    "updated_at": "2026-08-21T19:44:12Z",
-    "url": "https://github.com/maxhayim/claude-code-sessions-viewer"
-  },
-  {
     "description": "High-rigor multi-agent engineering skill, visual-production system, and reliability layer for AI coding agents",
     "id": "LUC4N3X/antigravity-thalarch",
     "language": "Python",
     "name": "LUC4N3X/antigravity-thalarch",
     "stars": 0,
-    "updated_at": "2026-08-21T19:45:06Z",
+    "updated_at": "2026-08-21T19:45:28Z",
     "url": "https://github.com/LUC4N3X/antigravity-thalarch"
   },
   {
@@ -270,6 +333,15 @@
     "url": "https://github.com/aviscaerulea/sysmeters"
   },
   {
+    "description": "OpenACP 2026 Guide: Self-Hosted AI Agent Bridge for Telegram, Discord & More",
+    "id": "oprounak34-cpu/agent-bridge-core",
+    "language": "HTML",
+    "name": "oprounak34-cpu/agent-bridge-core",
+    "stars": 0,
+    "updated_at": "2026-08-21T19:42:50Z",
+    "url": "https://github.com/oprounak34-cpu/agent-bridge-core"
+  },
+  {
     "description": "Tool-verified GitHub Actions agent skills: optimize, secure, and re-architect workflows with actionlint + zizmor instead",
     "id": "austenstone/actions-agent-skills",
     "language": "Shell",
@@ -320,7 +392,7 @@
     "language": "TypeScript",
     "name": "superset-sh/superset",
     "stars": 13191,
-    "updated_at": "2026-08-21T19:43:07Z",
+    "updated_at": "2026-08-21T19:45:37Z",
     "url": "https://github.com/superset-sh/superset"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 31334,
     "updated_at": "2026-08-21T19:42:08Z",
     "url": "https://github.com/herdrdev/herdr"
-  },
-  {
-    "description": "Musher Portable Agent Bundles for Local Coding Agents 2026",
-    "id": "HelenLopez07/mush-packman",
-    "language": "HTML",
-    "name": "HelenLopez07/mush-packman",
-    "stars": 0,
-    "updated_at": "2026-08-21T19:41:55Z",
-    "url": "https://github.com/HelenLopez07/mush-packman"
-  },
-  {
-    "description": "Give the agent a cage, not your keys. One-command Docker sandbox for AI coding agents: full autonomous permissions, per-",
-    "id": "cleatdev/cleat",
-    "language": "Shell",
-    "name": "cleatdev/cleat",
-    "stars": 10,
-    "updated_at": "2026-08-21T19:41:54Z",
-    "url": "https://github.com/cleatdev/cleat"
-  },
-  {
-    "description": "Recall what \u00b7 where \u00b7 when. Sync your AI coding agents across machines: git config-sync + a peer-to-peer transcript rela",
-    "id": "henba1/scrubjay",
-    "language": "Shell",
-    "name": "henba1/scrubjay",
-    "stars": 13,
-    "updated_at": "2026-08-21T19:42:11Z",
-    "url": "https://github.com/henba1/scrubjay"
-  },
-  {
-    "description": "Skill Heaven -- for real software engineers. Agent Plugin that treats your skills like RAM, not Storage. Summon skills w",
-    "id": "gaia-research/gaia-skill-heaven",
-    "language": "JavaScript",
-    "name": "gaia-research/gaia-skill-heaven",
-    "stars": 4,
-    "updated_at": "2026-08-21T19:41:52Z",
-    "url": "https://github.com/gaia-research/gaia-skill-heaven"
-  },
-  {
-    "description": "MCP server for Unity Editor \u2014 160 tools for scene, assets, animation, VFX, playtest & more",
-    "id": "german-krasnikov/unity-biome-mcp",
-    "language": "C#",
-    "name": "german-krasnikov/unity-biome-mcp",
-    "stars": 27,
-    "updated_at": "2026-08-21T19:42:50Z",
-    "url": "https://github.com/german-krasnikov/unity-biome-mcp"
-  },
-  {
-    "description": "macOS AI Coding Usage Meter 2026: Track Claude, Codex & Antigravity with Live Liquid Gauges",
-    "id": "Fie345/orbital-usage-gauges",
-    "language": "HTML",
-    "name": "Fie345/orbital-usage-gauges",
-    "stars": 0,
-    "updated_at": "2026-08-21T19:41:49Z",
-    "url": "https://github.com/Fie345/orbital-usage-gauges"
-  },
-  {
-    "description": "An AI-maintained knowledge base for running a job search. Interviews you about what you actually do, scores roles agains",
-    "id": "sachajackson/career-wiki",
-    "language": "Python",
-    "name": "sachajackson/career-wiki",
-    "stars": 0,
-    "updated_at": "2026-08-21T19:41:48Z",
-    "url": "https://github.com/sachajackson/career-wiki"
-  },
-  {
-    "description": "Stop solving the same code twice \u2014 a local-first distributed reasoning cache: anonymous compatibility evidence from real",
-    "id": "r2cuerdame/CodeSampleX",
-    "language": "Go",
-    "name": "r2cuerdame/CodeSampleX",
-    "stars": 2,
-    "updated_at": "2026-08-21T19:41:46Z",
-    "url": "https://github.com/r2cuerdame/CodeSampleX"
   }
 ]

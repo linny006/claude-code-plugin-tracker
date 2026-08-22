@@ -1,5 +1,32 @@
 [
   {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-08-22T11:15:18Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 32,
+    "updated_at": "2026-08-22T11:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\u958b\u6e90\u7684 AEO \u7a3d\u6838\u5de5\u5177\u7d44,\u65b9\u6cd5\u8ad6\u516c\u958b\u53ef\u7a3d\u6838\u3002\u91cf\u6e2c\u7db2\u7ad9\u80fd\u5426\u88ab AI \u641c\u5c0b\u5f15\u64ce\u6293\u53d6,\u4ee5\u53ca\u54c1\u724c\u5728 AI \u7b54\u6848\u4e2d\u88ab\u5f15\u7528\u7684\u6a5f\u7387\u3002",
+    "id": "WayneSHC/aeo-audit",
+    "language": "Python",
+    "name": "WayneSHC/aeo-audit",
+    "stars": 0,
+    "updated_at": "2026-08-22T11:15:13Z",
+    "url": "https://github.com/WayneSHC/aeo-audit"
+  },
+  {
     "description": "Top AI-Powered UI/UX Design Generator & Code Assistant 2026",
     "id": "MichelSR25/Claude-Code-Agent-Design-Kit",
     "language": "HTML",
@@ -52,6 +79,24 @@
     "stars": 0,
     "updated_at": "2026-08-22T11:14:41Z",
     "url": "https://github.com/rshankar8935-crypto/golem-rotate"
+  },
+  {
+    "description": "Claude Pirate Speak Plugin 2026 - Best Free Avast Ye Translator GitHub",
+    "id": "teguhimanulloh47/pirate-talk-for-claude",
+    "language": "HTML",
+    "name": "teguhimanulloh47/pirate-talk-for-claude",
+    "stars": 1,
+    "updated_at": "2026-08-22T11:14:38Z",
+    "url": "https://github.com/teguhimanulloh47/pirate-talk-for-claude"
+  },
+  {
+    "description": "Superx Marketplace 2026 \u2013 Claude Plugins Hub for AI Automation",
+    "id": "astephenson660-lgtm/claude-plugin-hub",
+    "language": "HTML",
+    "name": "astephenson660-lgtm/claude-plugin-hub",
+    "stars": 0,
+    "updated_at": "2026-08-22T11:14:37Z",
+    "url": "https://github.com/astephenson660-lgtm/claude-plugin-hub"
   },
   {
     "description": "Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini ",
@@ -401,52 +446,7 @@
     "language": "Rust",
     "name": "mindsers/ohmyharness",
     "stars": 3,
-    "updated_at": "2026-08-22T11:12:44Z",
+    "updated_at": "2026-08-22T11:15:27Z",
     "url": "https://github.com/mindsers/ohmyharness"
-  },
-  {
-    "description": "Turn photos into quiet source-aware humanist geometry, four layout modes, and coordinated device wallpaper packs.",
-    "id": "nevertoday/xxd-panel-026",
-    "language": "Python",
-    "name": "nevertoday/xxd-panel-026",
-    "stars": 0,
-    "updated_at": "2026-08-22T11:12:39Z",
-    "url": "https://github.com/nevertoday/xxd-panel-026"
-  },
-  {
-    "description": "Batched file operations for autonomous Claude Code runs. Collapses N reads/greps/globs into one Bash round-trip \u2014 fewer ",
-    "id": "Digital-Process-Tools/claude-supertool",
-    "language": "Python",
-    "name": "Digital-Process-Tools/claude-supertool",
-    "stars": 16,
-    "updated_at": "2026-08-22T11:14:22Z",
-    "url": "https://github.com/Digital-Process-Tools/claude-supertool"
-  },
-  {
-    "description": "Senior-developer discipline for AI coding agents. A commit gate that counts unchecked as failing, quality controllers th",
-    "id": "azrtydxb/procoder",
-    "language": "Go",
-    "name": "azrtydxb/procoder",
-    "stars": 137,
-    "updated_at": "2026-08-22T11:12:35Z",
-    "url": "https://github.com/azrtydxb/procoder"
-  },
-  {
-    "description": "Code security analysis built for LLM collaboration. Traces complete data-flow paths from input to sink, outputs structur",
-    "id": "BlkSword/CTX-Audit",
-    "language": "Rust",
-    "name": "BlkSword/CTX-Audit",
-    "stars": 6,
-    "updated_at": "2026-08-22T11:12:35Z",
-    "url": "https://github.com/BlkSword/CTX-Audit"
-  },
-  {
-    "description": "Helping the Agents Compose the Things",
-    "id": "yschimke/compose-ai-tools",
-    "language": "Kotlin",
-    "name": "yschimke/compose-ai-tools",
-    "stars": 108,
-    "updated_at": "2026-08-22T11:14:24Z",
-    "url": "https://github.com/yschimke/compose-ai-tools"
   }
 ]

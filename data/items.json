@@ -1,12 +1,75 @@
 [
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
+    "description": "Local-first flight recorder for AI agents: every LLM call, tool call, cost, and loop captured by a transparent proxy. Ze",
+    "id": "ShekharBhardwaj/AgenticLedger",
     "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 32,
-    "updated_at": "2026-08-22T22:45:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "name": "ShekharBhardwaj/AgenticLedger",
+    "stars": 5,
+    "updated_at": "2026-08-22T22:45:52Z",
+    "url": "https://github.com/ShekharBhardwaj/AgenticLedger"
+  },
+  {
+    "description": "Open-source mission control for running multiple Claude Code agents across projects - one dashboard, a scheduler, cross-",
+    "id": "ronle/clayrune",
+    "language": "Python",
+    "name": "ronle/clayrune",
+    "stars": 10,
+    "updated_at": "2026-08-22T22:45:39Z",
+    "url": "https://github.com/ronle/clayrune"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 25,
+    "updated_at": "2026-08-22T22:45:31Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Modernizing Legacy Code with Claude Real-World Guide 2026",
+    "id": "adianiz/claude-code-legacy-migration",
+    "language": "HTML",
+    "name": "adianiz/claude-code-legacy-migration",
+    "stars": 0,
+    "updated_at": "2026-08-22T22:45:29Z",
+    "url": "https://github.com/adianiz/claude-code-legacy-migration"
+  },
+  {
+    "description": "Claude Code efficiency and hygiene toolkit \u2014 token spend analysis across the 5h / 7d / Sonnet-7d billing windows plus co",
+    "id": "glitchwerks/claude-prospector",
+    "language": "Python",
+    "name": "glitchwerks/claude-prospector",
+    "stars": 1,
+    "updated_at": "2026-08-22T22:45:23Z",
+    "url": "https://github.com/glitchwerks/claude-prospector"
+  },
+  {
+    "description": "A documentation library for governance, risk, compliance, cybersecurity, privacy, resilience, AI assurance, and operatio",
+    "id": "jposluns/grc_library",
+    "language": "Python",
+    "name": "jposluns/grc_library",
+    "stars": 2,
+    "updated_at": "2026-08-22T22:45:19Z",
+    "url": "https://github.com/jposluns/grc_library"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-08-22T22:45:18Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "AI-gen/NotebookLLM U.S. stock reports  and a suite of tools for downloading, organizing, and managing SEC financial fili",
+    "id": "yennanliu/finance_data",
+    "language": "Python",
+    "name": "yennanliu/finance_data",
+    "stars": 2,
+    "updated_at": "2026-08-22T22:45:18Z",
+    "url": "https://github.com/yennanliu/finance_data"
   },
   {
     "description": "A shelf-top AMOLED screen showing your Claude Code & Codex usage, live agent activity, and a NEEDS YOU alert when an age",
@@ -16,6 +79,15 @@
     "stars": 149,
     "updated_at": "2026-08-22T22:45:14Z",
     "url": "https://github.com/niclasvestlund-YT/vibepulse"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 32,
+    "updated_at": "2026-08-22T22:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Best Free Multi-Agent macOS Console for AI Coding Agents 2026 - Enhanced Chinese Docs",
@@ -34,6 +106,15 @@
     "stars": 1,
     "updated_at": "2026-08-22T22:44:59Z",
     "url": "https://github.com/kingkddew/claude-code-engineering-orchestrator"
+  },
+  {
+    "description": "Spec-driven process kit for repo-local AI agents (Cursor and Claude Code adapters today): written goals, structural stop",
+    "id": "luizssantiago92/spec-guardrails",
+    "language": "JavaScript",
+    "name": "luizssantiago92/spec-guardrails",
+    "stars": 2,
+    "updated_at": "2026-08-22T22:44:58Z",
+    "url": "https://github.com/luizssantiago92/spec-guardrails"
   },
   {
     "description": "SPEC-First AI DevKit for Agentic Code 2026 \u2014 24 Agents, 52 Skills, TDD/DDD Gates",
@@ -122,7 +203,7 @@
     "language": "JavaScript",
     "name": "michaelinghilterra-creator/trajecktory",
     "stars": 2,
-    "updated_at": "2026-08-22T22:43:33Z",
+    "updated_at": "2026-08-22T22:45:23Z",
     "url": "https://github.com/michaelinghilterra-creator/trajecktory"
   },
   {
@@ -160,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-22T22:43:08Z",
     "url": "https://github.com/RahmanFirmansyah/page-turner-ai"
-  },
-  {
-    "description": "Spec-driven process kit for repo-local AI agents (Cursor and Claude Code adapters today): written goals, structural stop",
-    "id": "luizssantiago92/spec-guardrails",
-    "language": "JavaScript",
-    "name": "luizssantiago92/spec-guardrails",
-    "stars": 2,
-    "updated_at": "2026-08-22T22:44:58Z",
-    "url": "https://github.com/luizssantiago92/spec-guardrails"
   },
   {
     "description": "Eval-driven agentic harness for building production Stellar dApps. 6 specialist agents, 5 eval definitions, full contrac",
@@ -241,15 +313,6 @@
     "stars": 28,
     "updated_at": "2026-08-22T22:42:25Z",
     "url": "https://github.com/jedbjorn/subfloor"
-  },
-  {
-    "description": "AI-gen/NotebookLLM U.S. stock reports  and a suite of tools for downloading, organizing, and managing SEC financial fili",
-    "id": "yennanliu/finance_data",
-    "language": "Python",
-    "name": "yennanliu/finance_data",
-    "stars": 2,
-    "updated_at": "2026-08-22T22:42:24Z",
-    "url": "https://github.com/yennanliu/finance_data"
   },
   {
     "description": "AI-Powered Persistent Project Memory for Devs 2026 \u2013 Nova Alternative",
@@ -385,68 +448,5 @@
     "stars": 774,
     "updated_at": "2026-08-22T22:40:55Z",
     "url": "https://github.com/ddalcu/mlx-serve"
-  },
-  {
-    "description": "Catch false-positive Claude Code safety/policy blocks, scrub PII, and auto-file clean GitHub issues. FOSS.",
-    "id": "sworrl/ClAudit",
-    "language": "Python",
-    "name": "sworrl/ClAudit",
-    "stars": 4,
-    "updated_at": "2026-08-22T22:40:38Z",
-    "url": "https://github.com/sworrl/ClAudit"
-  },
-  {
-    "description": "\ud83d\ude80 Neo4j Knowledge Agents: Next-Gen Cypher Tools 2026",
-    "id": "Bateelco/neo4j-agent-toolkit",
-    "language": "HTML",
-    "name": "Bateelco/neo4j-agent-toolkit",
-    "stars": 0,
-    "updated_at": "2026-08-22T22:40:27Z",
-    "url": "https://github.com/Bateelco/neo4j-agent-toolkit"
-  },
-  {
-    "description": "Claude Code Mortgage Plugin 2026 - AI-Powered Refinancing Pricing Tool",
-    "id": "Baber002/mortgage-pricing-plugin-blueprint",
-    "language": "HTML",
-    "name": "Baber002/mortgage-pricing-plugin-blueprint",
-    "stars": 0,
-    "updated_at": "2026-08-22T22:40:21Z",
-    "url": "https://github.com/Baber002/mortgage-pricing-plugin-blueprint"
-  },
-  {
-    "description": "Build production-grade LLM agents from patterns distilled from real agent codebases.",
-    "id": "alfredzhang98/agent-creator-skill",
-    "language": "Python",
-    "name": "alfredzhang98/agent-creator-skill",
-    "stars": 1,
-    "updated_at": "2026-08-22T22:40:14Z",
-    "url": "https://github.com/alfredzhang98/agent-creator-skill"
-  },
-  {
-    "description": "A direct manipulation motion design layer for projects built with AI coding agents.",
-    "id": "jhn-kim/motionworks",
-    "language": "TypeScript",
-    "name": "jhn-kim/motionworks",
-    "stars": 0,
-    "updated_at": "2026-08-22T22:40:11Z",
-    "url": "https://github.com/jhn-kim/motionworks"
-  },
-  {
-    "description": "\ubaa8\ubc14\uc77c \uc6f9/\uc571 UX/UI \uc218\uc11d \uae30\ud68d\uc790 \uc2a4\ud0ac \u2014 Claude Code \u00b7 Codex \u00b7 Antigravity \uc5d0\uc11c IA \uc640 PPT \uc2a4\ud0c0\uc77c \ud654\uba74\uc124\uacc4\uc11c(HTML)\ub97c \uc0dd\uc131\ud569\ub2c8\ub2e4",
-    "id": "LeeYudok/doksam-skills",
-    "language": "Python",
-    "name": "LeeYudok/doksam-skills",
-    "stars": 10,
-    "updated_at": "2026-08-22T22:40:05Z",
-    "url": "https://github.com/LeeYudok/doksam-skills"
-  },
-  {
-    "description": "Persistent Memory System for Claude Code 2026 - Bi-Temporal YAML Filesystem",
-    "id": "DocDeepakbhagat/mnemonic-yaml-persistence",
-    "language": "HTML",
-    "name": "DocDeepakbhagat/mnemonic-yaml-persistence",
-    "stars": 0,
-    "updated_at": "2026-08-22T22:39:41Z",
-    "url": "https://github.com/DocDeepakbhagat/mnemonic-yaml-persistence"
   }
 ]

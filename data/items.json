@@ -1,5 +1,32 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 32,
+    "updated_at": "2026-08-23T05:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-08-23T05:00:02Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Modernizing Legacy Code with Claude Real-World Guide 2026",
+    "id": "adianiz/claude-code-legacy-migration",
+    "language": "HTML",
+    "name": "adianiz/claude-code-legacy-migration",
+    "stars": 0,
+    "updated_at": "2026-08-23T04:59:56Z",
+    "url": "https://github.com/adianiz/claude-code-legacy-migration"
+  },
+  {
     "description": "Autonomous AI employee (Digital FTE) \u2014 7 Python watchers, 5 Node MCP servers, 10 agent skills, human-in-the-loop approva",
     "id": "SirHamza/gold-tier",
     "language": "Python",
@@ -7,6 +34,15 @@
     "stars": 1,
     "updated_at": "2026-08-23T04:59:53Z",
     "url": "https://github.com/SirHamza/gold-tier"
+  },
+  {
+    "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
+    "id": "makecindy/cindy",
+    "language": "TypeScript",
+    "name": "makecindy/cindy",
+    "stars": 2256,
+    "updated_at": "2026-08-23T04:59:50Z",
+    "url": "https://github.com/makecindy/cindy"
   },
   {
     "description": "Self-hosted remote terminal for iPhone, iPad & browser \u2014 attach tmux and run Claude Code, Codex, or any CLI agent from a",
@@ -126,12 +162,30 @@
     "url": "https://github.com/craigstoller/claude-code-sessions"
   },
   {
+    "description": "AI-Powered German Procurement Search Engine 2026 - OCDS Tender Matching & Company Profiles",
+    "id": "zohaamalik/ocds-procura-semantic-nexus",
+    "language": "HTML",
+    "name": "zohaamalik/ocds-procura-semantic-nexus",
+    "stars": 1,
+    "updated_at": "2026-08-23T04:58:38Z",
+    "url": "https://github.com/zohaamalik/ocds-procura-semantic-nexus"
+  },
+  {
+    "description": "The Claude-native foundation you build your whole app on. React frontend handled, your backend builds on top. Strict too",
+    "id": "gaia-react/gaia",
+    "language": "Shell",
+    "name": "gaia-react/gaia",
+    "stars": 22,
+    "updated_at": "2026-08-23T04:58:35Z",
+    "url": "https://github.com/gaia-react/gaia"
+  },
+  {
     "description": "One window for every coding agent you own. Claude Code, Codex, Gemini CLI, Qwen, Ollama and more, each in its own termin",
     "id": "robertiuoras/PaneForge",
     "language": "TypeScript",
     "name": "robertiuoras/PaneForge",
     "stars": 0,
-    "updated_at": "2026-08-23T04:58:26Z",
+    "updated_at": "2026-08-23T05:00:15Z",
     "url": "https://github.com/robertiuoras/PaneForge"
   },
   {
@@ -140,7 +194,7 @@
     "language": "JavaScript",
     "name": "vocino/claudemaxxing",
     "stars": 0,
-    "updated_at": "2026-08-23T04:58:22Z",
+    "updated_at": "2026-08-23T05:00:14Z",
     "url": "https://github.com/vocino/claudemaxxing"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T04:55:53Z",
     "url": "https://github.com/DocDeepakbhagat/mnemonic-yaml-persistence"
-  },
-  {
-    "description": "Zero-runtime, agent-agnostic governance scaffold: run ANY AI agents in parallel on one GitHub repo, enforced by strict C",
-    "id": "3900563672/ai-contributing",
-    "language": "Shell",
-    "name": "3900563672/ai-contributing",
-    "stars": 0,
-    "updated_at": "2026-08-23T04:55:49Z",
-    "url": "https://github.com/3900563672/ai-contributing"
-  },
-  {
-    "description": "AGI CLI ~ a meta-harness for building Agent Factories",
-    "id": "phnx-labs/agi-cli",
-    "language": "TypeScript",
-    "name": "phnx-labs/agi-cli",
-    "stars": 16,
-    "updated_at": "2026-08-23T04:55:40Z",
-    "url": "https://github.com/phnx-labs/agi-cli"
-  },
-  {
-    "description": "AI-Powered Persistent Project Memory for Devs 2026 \u2013 Nova Alternative",
-    "id": "AhmedRayat/project-echo-memory",
-    "language": "HTML",
-    "name": "AhmedRayat/project-echo-memory",
-    "stars": 1,
-    "updated_at": "2026-08-23T04:55:35Z",
-    "url": "https://github.com/AhmedRayat/project-echo-memory"
-  },
-  {
-    "description": "An index of Claude and agent skills for academic work, from literature search to peer review. Organized by where each sk",
-    "id": "O0000-code/awesome-academic-skills",
-    "language": "Python",
-    "name": "O0000-code/awesome-academic-skills",
-    "stars": 16,
-    "updated_at": "2026-08-23T04:55:24Z",
-    "url": "https://github.com/O0000-code/awesome-academic-skills"
-  },
-  {
-    "description": "Tools, prompts, workflows, and practical ideas for building better vibe-coded apps with less guesswork and more reusable",
-    "id": "imMamdouhaboammar/Riftbook",
-    "language": "JavaScript",
-    "name": "imMamdouhaboammar/Riftbook",
-    "stars": 3,
-    "updated_at": "2026-08-23T04:55:15Z",
-    "url": "https://github.com/imMamdouhaboammar/Riftbook"
-  },
-  {
-    "description": "FreePascal / UnicodeString modernization of TR4W. Isolated from TR4W/TR4W (which stays on D7 for production/monthly buil",
-    "id": "TR4W/TR4W-D12",
-    "language": "Pascal",
-    "name": "TR4W/TR4W-D12",
-    "stars": 1,
-    "updated_at": "2026-08-23T04:55:14Z",
-    "url": "https://github.com/TR4W/TR4W-D12"
   }
 ]

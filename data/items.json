@@ -1,5 +1,41 @@
 [
   {
+    "description": "Your private clique of CLIs \u2014 folder-organised, CLI-agnostic coding sessions in a browser, kept alive in tmux",
+    "id": "thejdubb02/clique",
+    "language": "Python",
+    "name": "thejdubb02/clique",
+    "stars": 1,
+    "updated_at": "2026-08-23T15:45:08Z",
+    "url": "https://github.com/thejdubb02/clique"
+  },
+  {
+    "description": "Opinionated plugins and workflow extensions for Claude Code.",
+    "id": "bengous/claude-code-plugins",
+    "language": "TypeScript",
+    "name": "bengous/claude-code-plugins",
+    "stars": 4,
+    "updated_at": "2026-08-23T15:45:04Z",
+    "url": "https://github.com/bengous/claude-code-plugins"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-08-23T15:44:57Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Best MCP Server Testing & Evaluation Toolkit 2026 \u2013 Token Cost Analysis & Visual Reports",
+    "id": "Abderrahmane-msd/mcp-bench-report",
+    "language": "HTML",
+    "name": "Abderrahmane-msd/mcp-bench-report",
+    "stars": 0,
+    "updated_at": "2026-08-23T15:44:52Z",
+    "url": "https://github.com/Abderrahmane-msd/mcp-bench-report"
+  },
+  {
     "description": "Fail-closed merge control and evidence receipts for AI coding agents.",
     "id": "sulmusic2-star/agent-vigil",
     "language": "TypeScript",
@@ -14,7 +50,7 @@
     "language": "TypeScript",
     "name": "CherryHQ/cherry-studio",
     "stars": 50949,
-    "updated_at": "2026-08-23T15:44:40Z",
+    "updated_at": "2026-08-23T15:44:59Z",
     "url": "https://github.com/CherryHQ/cherry-studio"
   },
   {
@@ -34,6 +70,15 @@
     "stars": 14,
     "updated_at": "2026-08-23T15:44:35Z",
     "url": "https://github.com/its-ahoh/codey"
+  },
+  {
+    "description": "Run your entire job search from one local, AI-powered dashboard: find the roles worth your time, tailor for each, work t",
+    "id": "michaelinghilterra-creator/trajecktory",
+    "language": "JavaScript",
+    "name": "michaelinghilterra-creator/trajecktory",
+    "stars": 2,
+    "updated_at": "2026-08-23T15:44:32Z",
+    "url": "https://github.com/michaelinghilterra-creator/trajecktory"
   },
   {
     "description": "Reusable skills, commands, and rules for coding agents (Cursor, Claude Code, Codex).",
@@ -403,50 +448,5 @@
     "stars": 48,
     "updated_at": "2026-08-23T15:43:37Z",
     "url": "https://github.com/hrygo/hotplex"
-  },
-  {
-    "description": "Ship Atomic Commits & Retain Workflow Knowledge: Best Free Zero-Dependency Dev Kit 2026",
-    "id": "tjq001/hv-code-templates",
-    "language": "HTML",
-    "name": "tjq001/hv-code-templates",
-    "stars": 1,
-    "updated_at": "2026-08-23T15:42:05Z",
-    "url": "https://github.com/tjq001/hv-code-templates"
-  },
-  {
-    "description": "Local AI Ticket Manager 2026: Single-User Help Desk Tool for Developers",
-    "id": "RahmanFirmansyah/page-turner-ai",
-    "language": "HTML",
-    "name": "RahmanFirmansyah/page-turner-ai",
-    "stars": 0,
-    "updated_at": "2026-08-23T15:42:03Z",
-    "url": "https://github.com/RahmanFirmansyah/page-turner-ai"
-  },
-  {
-    "description": "Verification harness for AI coding agents \u2014 completion judged by deterministic gates (tests, run-ledger, regression memo",
-    "id": "su-record/vibe",
-    "language": "TypeScript",
-    "name": "su-record/vibe",
-    "stars": 0,
-    "updated_at": "2026-08-23T15:42:02Z",
-    "url": "https://github.com/su-record/vibe"
-  },
-  {
-    "description": "Turn Your AI Agent Into a Full Developer Team: Plan, Code, Test & Ship in One Sprint 2026",
-    "id": "hassamwaleed/agent-orchestrator-framework",
-    "language": "HTML",
-    "name": "hassamwaleed/agent-orchestrator-framework",
-    "stars": 2,
-    "updated_at": "2026-08-23T15:42:01Z",
-    "url": "https://github.com/hassamwaleed/agent-orchestrator-framework"
-  },
-  {
-    "description": "Musher Portable Agent Bundles for Local Coding Agents 2026",
-    "id": "HelenLopez07/mush-packman",
-    "language": "HTML",
-    "name": "HelenLopez07/mush-packman",
-    "stars": 0,
-    "updated_at": "2026-08-23T15:41:55Z",
-    "url": "https://github.com/HelenLopez07/mush-packman"
   }
 ]

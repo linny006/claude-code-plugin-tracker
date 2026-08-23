@@ -1,5 +1,32 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 32,
+    "updated_at": "2026-08-23T17:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Local-first MCP server that runs isolated mutation testing against a codebase to expose the gaps its test suite does not",
+    "id": "AraneaDev/Chaos-MCP",
+    "language": "TypeScript",
+    "name": "AraneaDev/Chaos-MCP",
+    "stars": 3,
+    "updated_at": "2026-08-23T17:00:14Z",
+    "url": "https://github.com/AraneaDev/Chaos-MCP"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-08-23T16:59:56Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
     "description": "Multi-agent governance for parallel AI coding agents on GitHub: claim-based task market, strict CI/CD gates, zero-runtim",
     "id": "3900563672/ai-contributing",
     "language": "Shell",
@@ -49,7 +76,7 @@
     "id": "duty1g/x64dbg-mcp-server",
     "language": "Zig",
     "name": "duty1g/x64dbg-mcp-server",
-    "stars": 495,
+    "stars": 496,
     "updated_at": "2026-08-23T16:59:33Z",
     "url": "https://github.com/duty1g/x64dbg-mcp-server"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T16:56:03Z",
     "url": "https://github.com/Abdo2011-Mahmoud/claude-session-memory-core"
-  },
-  {
-    "description": "Orchestrate multiple coding agents from desktop and mobile",
-    "id": "getpaseo/paseo",
-    "language": "TypeScript",
-    "name": "getpaseo/paseo",
-    "stars": 14773,
-    "updated_at": "2026-08-23T16:55:58Z",
-    "url": "https://github.com/getpaseo/paseo"
-  },
-  {
-    "description": "Cross-agent permission policy for AI coding agents. MCP sync daemon, CLI, codecs, and evaluator. One .agents/permissions",
-    "id": "Mearman/agent-permissions",
-    "language": "TypeScript",
-    "name": "Mearman/agent-permissions",
-    "stars": 2,
-    "updated_at": "2026-08-23T16:55:51Z",
-    "url": "https://github.com/Mearman/agent-permissions"
-  },
-  {
-    "description": "Claude Newton: AI Reasoning Partner 2026 - Calibrated Pushback & Current Sources",
-    "id": "Darkmalan-1987/sparring-reason",
-    "language": "HTML",
-    "name": "Darkmalan-1987/sparring-reason",
-    "stars": 1,
-    "updated_at": "2026-08-23T16:55:47Z",
-    "url": "https://github.com/Darkmalan-1987/sparring-reason"
   }
 ]

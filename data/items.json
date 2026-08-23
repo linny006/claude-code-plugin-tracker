@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-08-23T07:59:56Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Stop Guessing Your Code: 2026's 7-Step AI Dev Workflow for Perfect Repos",
+    "id": "shammahchikapa02-debug/claude-code-workshop",
+    "language": "HTML",
+    "name": "shammahchikapa02-debug/claude-code-workshop",
+    "stars": 0,
+    "updated_at": "2026-08-23T07:59:56Z",
+    "url": "https://github.com/shammahchikapa02-debug/claude-code-workshop"
+  },
+  {
+    "description": "Index Any Local Documentation as AI Skill \u2013 Claude Code Knowledge 2026",
+    "id": "camilemuz/local-doc-rag-skill",
+    "language": "HTML",
+    "name": "camilemuz/local-doc-rag-skill",
+    "stars": 2,
+    "updated_at": "2026-08-23T07:59:56Z",
+    "url": "https://github.com/camilemuz/local-doc-rag-skill"
+  },
+  {
+    "description": "One Works application monorepo for AI agents, plugins, desktop, web, CLI, and Relay.",
+    "id": "oneworks-ai/app",
+    "language": "TypeScript",
+    "name": "oneworks-ai/app",
+    "stars": 16,
+    "updated_at": "2026-08-23T07:59:54Z",
+    "url": "https://github.com/oneworks-ai/app"
+  },
+  {
     "description": "\ud83d\udee1\ufe0f Local daemon that guards & observes coding-agent hooks \u2014 one policy for Claude, Cursor, Codex & more",
     "id": "macrox-pro/agentd",
     "language": "Go",
@@ -256,7 +292,7 @@
     "id": "NousResearch/hermes-agent",
     "language": "Python",
     "name": "NousResearch/hermes-agent",
-    "stars": 234499,
+    "stars": 234501,
     "updated_at": "2026-08-23T07:57:05Z",
     "url": "https://github.com/NousResearch/hermes-agent"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T07:56:04Z",
     "url": "https://github.com/zai-one/grok-mcp"
-  },
-  {
-    "description": "One Works application monorepo for AI agents, plugins, desktop, web, CLI, and Relay.",
-    "id": "oneworks-ai/app",
-    "language": "TypeScript",
-    "name": "oneworks-ai/app",
-    "stars": 16,
-    "updated_at": "2026-08-23T07:59:53Z",
-    "url": "https://github.com/oneworks-ai/app"
-  },
-  {
-    "description": "Evidence-tested knowledge base for the agentic transformation. Answers the CTO question with practitioner evidence, not ",
-    "id": "anttitevanlinna/agents-102",
-    "language": "HTML",
-    "name": "anttitevanlinna/agents-102",
-    "stars": 1,
-    "updated_at": "2026-08-23T07:55:58Z",
-    "url": "https://github.com/anttitevanlinna/agents-102"
-  },
-  {
-    "description": "Turn a PDF or PowerPoint deck into one self-contained interactive HTML presentation \u2014 a Claude Skill. Native animated SV",
-    "id": "hunkim/deck-to-html",
-    "language": "CSS",
-    "name": "hunkim/deck-to-html",
-    "stars": 0,
-    "updated_at": "2026-08-23T07:55:42Z",
-    "url": "https://github.com/hunkim/deck-to-html"
-  },
-  {
-    "description": "Coldrig \u2014 cold email infrastructure run entirely by your coding agent (Claude Code / Codex / Cursor / Cline). One token,",
-    "id": "YS-projectcalc/agent-cold-email",
-    "language": "TypeScript",
-    "name": "YS-projectcalc/agent-cold-email",
-    "stars": 1,
-    "updated_at": "2026-08-23T07:56:38Z",
-    "url": "https://github.com/YS-projectcalc/agent-cold-email"
   }
 ]

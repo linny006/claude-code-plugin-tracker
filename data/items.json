@@ -1,5 +1,50 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 32,
+    "updated_at": "2026-08-23T16:00:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Track work, verify results, carry memory, and sync tools across coding agents. Local files, no daemon.",
+    "id": "escoffier-labs/brigade",
+    "language": "Python",
+    "name": "escoffier-labs/brigade",
+    "stars": 68,
+    "updated_at": "2026-08-23T16:00:04Z",
+    "url": "https://github.com/escoffier-labs/brigade"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-08-23T16:00:04Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Provider-neutral control plane for durable-state agent swarms: subprocess workers, leases, artifacts, memory, and determ",
+    "id": "professorpalmer/Puppetmaster",
+    "language": "Python",
+    "name": "professorpalmer/Puppetmaster",
+    "stars": 333,
+    "updated_at": "2026-08-23T16:00:05Z",
+    "url": "https://github.com/professorpalmer/Puppetmaster"
+  },
+  {
+    "description": "Best MCP Server Testing & Evaluation Toolkit 2026 \u2013 Token Cost Analysis & Visual Reports",
+    "id": "Abderrahmane-msd/mcp-bench-report",
+    "language": "HTML",
+    "name": "Abderrahmane-msd/mcp-bench-report",
+    "stars": 0,
+    "updated_at": "2026-08-23T16:00:01Z",
+    "url": "https://github.com/Abderrahmane-msd/mcp-bench-report"
+  },
+  {
     "description": "Musher Portable Agent Bundles for Local Coding Agents 2026",
     "id": "HelenLopez07/mush-packman",
     "language": "HTML",
@@ -97,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-08-23T15:58:40Z",
     "url": "https://github.com/r2cuerdame/CodeSampleX"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 32,
-    "updated_at": "2026-08-23T15:58:30Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "Multi-Agent Cowork MCP Server \u2014 cross-platform AI agent coordination with Web UI Dashboard. Ships as Cowork Pro on Gumro",
@@ -412,41 +448,5 @@
     "stars": 98,
     "updated_at": "2026-08-23T15:56:15Z",
     "url": "https://github.com/Clawdi-AI/clawdi"
-  },
-  {
-    "description": "A Claude Code / agent authoring skill for Carve markup",
-    "id": "markup-carve/carve-skill",
-    "language": "JavaScript",
-    "name": "markup-carve/carve-skill",
-    "stars": 0,
-    "updated_at": "2026-08-23T15:56:11Z",
-    "url": "https://github.com/markup-carve/carve-skill"
-  },
-  {
-    "description": "Your private clique of CLIs \u2014 folder-organised, CLI-agnostic coding sessions in a browser, kept alive in tmux",
-    "id": "thejdubb02/clique",
-    "language": "Python",
-    "name": "thejdubb02/clique",
-    "stars": 1,
-    "updated_at": "2026-08-23T15:56:06Z",
-    "url": "https://github.com/thejdubb02/clique"
-  },
-  {
-    "description": "Claude Code hooks that guard secrets and PII before they reach the Anthropic API",
-    "id": "coo-quack/sensitive-canary",
-    "language": "TypeScript",
-    "name": "coo-quack/sensitive-canary",
-    "stars": 22,
-    "updated_at": "2026-08-23T15:55:51Z",
-    "url": "https://github.com/coo-quack/sensitive-canary"
-  },
-  {
-    "description": "Defeasible experiment notebook as a Claude skill \u2014 immutable notes in a justification graph; a later experiment that ref",
-    "id": "yiidtw/adef-skill",
-    "language": "Python",
-    "name": "yiidtw/adef-skill",
-    "stars": 0,
-    "updated_at": "2026-08-23T15:55:49Z",
-    "url": "https://github.com/yiidtw/adef-skill"
   }
 ]

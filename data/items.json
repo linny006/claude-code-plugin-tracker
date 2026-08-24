@@ -1,5 +1,77 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 33,
+    "updated_at": "2026-08-24T23:45:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Semantic code discovery and symbol-aware navigation for Claude Code and Codex",
+    "id": "vkuprin/local-code-navigator",
+    "language": "Python",
+    "name": "vkuprin/local-code-navigator",
+    "stars": 0,
+    "updated_at": "2026-08-24T23:45:11Z",
+    "url": "https://github.com/vkuprin/local-code-navigator"
+  },
+  {
+    "description": "Ask GPT from inside Claude Code. Adversarial code review via your ChatGPT subscription - no API key.",
+    "id": "thumplik/ask-gpt",
+    "language": "Python",
+    "name": "thumplik/ask-gpt",
+    "stars": 0,
+    "updated_at": "2026-08-24T23:45:04Z",
+    "url": "https://github.com/thumplik/ask-gpt"
+  },
+  {
+    "description": "learning/research project AV Desktop App",
+    "id": "soluzka/Isolation_Bytes",
+    "language": "Python",
+    "name": "soluzka/Isolation_Bytes",
+    "stars": 1,
+    "updated_at": "2026-08-24T23:44:57Z",
+    "url": "https://github.com/soluzka/Isolation_Bytes"
+  },
+  {
+    "description": "Best Claude Code Memory Toolkit Alternative 2026 \u2013 Smart Markdown Session Manager",
+    "id": "Abdo2011-Mahmoud/claude-session-memory-core",
+    "language": "HTML",
+    "name": "Abdo2011-Mahmoud/claude-session-memory-core",
+    "stars": 0,
+    "updated_at": "2026-08-24T23:44:48Z",
+    "url": "https://github.com/Abdo2011-Mahmoud/claude-session-memory-core"
+  },
+  {
+    "description": "Open-source architectural drift prevention for the AI SDLC. Deterministic ADR guardrails across coding agents and CI.",
+    "id": "MnemeHQ/mneme",
+    "language": "Python",
+    "name": "MnemeHQ/mneme",
+    "stars": 18,
+    "updated_at": "2026-08-24T23:44:47Z",
+    "url": "https://github.com/MnemeHQ/mneme"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-08-24T23:44:32Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
+    "id": "vitali87/code-graph-rag",
+    "language": "Python",
+    "name": "vitali87/code-graph-rag",
+    "stars": 4809,
+    "updated_at": "2026-08-24T23:44:29Z",
+    "url": "https://github.com/vitali87/code-graph-rag"
+  },
+  {
     "description": "Modernizing Legacy Code with Claude Real-World Guide 2026",
     "id": "adianiz/claude-code-legacy-migration",
     "language": "HTML",
@@ -23,7 +95,7 @@
     "language": "TypeScript",
     "name": "EuVinicios/vibeHarness",
     "stars": 1,
-    "updated_at": "2026-08-24T23:44:26Z",
+    "updated_at": "2026-08-24T23:45:16Z",
     "url": "https://github.com/EuVinicios/vibeHarness"
   },
   {
@@ -88,6 +160,15 @@
     "stars": 0,
     "updated_at": "2026-08-24T23:42:56Z",
     "url": "https://github.com/M1LL4r3S-Droid/notion-sync-nexus"
+  },
+  {
+    "description": "Orchestrate multiple coding agents from desktop and mobile",
+    "id": "getpaseo/paseo",
+    "language": "TypeScript",
+    "name": "getpaseo/paseo",
+    "stars": 14928,
+    "updated_at": "2026-08-24T23:42:53Z",
+    "url": "https://github.com/getpaseo/paseo"
   },
   {
     "description": "Create polished product demo videos with AI coding agents and Remotion. The UI is code, not a screen recording.",
@@ -158,7 +239,7 @@
     "language": "Swift",
     "name": "manaflow-ai/cmux",
     "stars": 26420,
-    "updated_at": "2026-08-24T23:44:00Z",
+    "updated_at": "2026-08-24T23:44:32Z",
     "url": "https://github.com/manaflow-ai/cmux"
   },
   {
@@ -333,15 +414,6 @@
     "url": "https://github.com/Valentino-Moreno/claude-code-pace-guard"
   },
   {
-    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
-    "id": "vitali87/code-graph-rag",
-    "language": "Python",
-    "name": "vitali87/code-graph-rag",
-    "stars": 4809,
-    "updated_at": "2026-08-24T23:40:11Z",
-    "url": "https://github.com/vitali87/code-graph-rag"
-  },
-  {
     "description": "Keep practitioner-directed AI work in Git. Decide what starts, what stops, who builds it, who judges it, and when it lea",
     "id": "shobman/remit",
     "language": "Shell",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-24T23:39:53Z",
     "url": "https://github.com/kingkddew/claude-code-engineering-orchestrator"
-  },
-  {
-    "description": "Your Ultimate Claude Skills Library & Hub 2026 \u2013 Integrate & Organize AI Workflows",
-    "id": "phuati/claude-skills-arsenal",
-    "language": "HTML",
-    "name": "phuati/claude-skills-arsenal",
-    "stars": 1,
-    "updated_at": "2026-08-24T23:39:53Z",
-    "url": "https://github.com/phuati/claude-skills-arsenal"
-  },
-  {
-    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
-    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "language": "HTML",
-    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "stars": 3,
-    "updated_at": "2026-08-24T23:39:53Z",
-    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "Git. Ship. Done - Core",
-    "id": "open-gsd/gsd-core",
-    "language": "JavaScript",
-    "name": "open-gsd/gsd-core",
-    "stars": 8669,
-    "updated_at": "2026-08-24T23:39:53Z",
-    "url": "https://github.com/open-gsd/gsd-core"
-  },
-  {
-    "description": "\ud83d\ude80 Interactive Planning 2026: File-Based Task DAG with Spec-Driven Gates & Dependency Graphs",
-    "id": "nirajkyros-Editor/flow-gated-planning",
-    "language": "HTML",
-    "name": "nirajkyros-Editor/flow-gated-planning",
-    "stars": 1,
-    "updated_at": "2026-08-24T23:39:50Z",
-    "url": "https://github.com/nirajkyros-Editor/flow-gated-planning"
-  },
-  {
-    "description": "Best Token-Efficient AI Coding Tools 2026 \u2013 Reduce Costs 90% with Local Memory & MCP",
-    "id": "tuantranute-it/icm-graph-context-flow",
-    "language": "HTML",
-    "name": "tuantranute-it/icm-graph-context-flow",
-    "stars": 1,
-    "updated_at": "2026-08-24T23:39:45Z",
-    "url": "https://github.com/tuantranute-it/icm-graph-context-flow"
-  },
-  {
-    "description": "Run parallel Claude Code and Codex agents in isolated git worktrees",
-    "id": "lcsmas/orchestra",
-    "language": "TypeScript",
-    "name": "lcsmas/orchestra",
-    "stars": 0,
-    "updated_at": "2026-08-24T23:39:45Z",
-    "url": "https://github.com/lcsmas/orchestra"
-  },
-  {
-    "description": "A terminal multiplexer for AI coding agents: one keyboard cockpit for the whole fleet, with work items, a task queue, an",
-    "id": "cmj0121/baton",
-    "language": "Go",
-    "name": "cmj0121/baton",
-    "stars": 2,
-    "updated_at": "2026-08-24T23:39:44Z",
-    "url": "https://github.com/cmj0121/baton"
-  },
-  {
-    "description": "Best Free Claude Code Plugins for Marketplace 2026 \u2013 Instant Setup Guide",
-    "id": "nereasanmartinsanchez-max/howar31-plugin-hub",
-    "language": "HTML",
-    "name": "nereasanmartinsanchez-max/howar31-plugin-hub",
-    "stars": 0,
-    "updated_at": "2026-08-24T23:39:32Z",
-    "url": "https://github.com/nereasanmartinsanchez-max/howar31-plugin-hub"
   }
 ]

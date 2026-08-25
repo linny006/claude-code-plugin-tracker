@@ -1,5 +1,86 @@
 [
   {
+    "description": "\u4e00\u672c\u7b14\u8bb0\u7ed9\u6240\u6709 AI \u770b\u3002\u6a21\u578b\u53ea\u80fd\u63d0\u6848\uff0c\u4f60\u70b9\u5934\u624d\u5199\u5165\u3002",
+    "id": "hc-ui/cross-ai-memory",
+    "language": "Python",
+    "name": "hc-ui/cross-ai-memory",
+    "stars": 0,
+    "updated_at": "2026-08-25T16:00:45Z",
+    "url": "https://github.com/hc-ui/cross-ai-memory"
+  },
+  {
+    "description": "A level-3 agentic harness \u2014 the companion code to Appendix A of the book Agentic Programming.",
+    "id": "jerodw/level-five",
+    "language": "Python",
+    "name": "jerodw/level-five",
+    "stars": 0,
+    "updated_at": "2026-08-25T16:00:46Z",
+    "url": "https://github.com/jerodw/level-five"
+  },
+  {
+    "description": "Claude Code plugin: records token usage per task into a private per-project ledger, and shows it as a table with /token-",
+    "id": "peiris/token-cost",
+    "language": "Python",
+    "name": "peiris/token-cost",
+    "stars": 1,
+    "updated_at": "2026-08-25T16:00:41Z",
+    "url": "https://github.com/peiris/token-cost"
+  },
+  {
+    "description": "Portable Agent Skills and plugins for using Priorify through MCP across Codex, Claude Code, Cursor, Gemini CLI, Grok, an",
+    "id": "toba-solutions/priorify-agent-kit",
+    "language": "JavaScript",
+    "name": "toba-solutions/priorify-agent-kit",
+    "stars": 0,
+    "updated_at": "2026-08-25T16:00:23Z",
+    "url": "https://github.com/toba-solutions/priorify-agent-kit"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 26,
+    "updated_at": "2026-08-25T16:00:21Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Fornida-curated Claude Code/Cowork plugin marketplace. Org-wide plugins distributed via Org Settings > Plugins (GitHub s",
+    "id": "Fornida-Dev/fornida-claude-plugins",
+    "language": "TypeScript",
+    "name": "Fornida-Dev/fornida-claude-plugins",
+    "stars": 0,
+    "updated_at": "2026-08-25T16:00:18Z",
+    "url": "https://github.com/Fornida-Dev/fornida-claude-plugins"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-08-25T16:00:17Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 33,
+    "updated_at": "2026-08-25T16:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Podium is an ADE with built-in cross-harness subagents and agent communication. It runs on desktop, mobile and VPS.",
+    "id": "madeinorbit/podium",
+    "language": "TypeScript",
+    "name": "madeinorbit/podium",
+    "stars": 12,
+    "updated_at": "2026-08-25T16:00:11Z",
+    "url": "https://github.com/madeinorbit/podium"
+  },
+  {
     "description": "Turn a product idea into an executable SaaS spec for Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and other Agent S",
     "id": "Megaleios/saas-spec-generator",
     "language": "\u2014",
@@ -18,6 +99,15 @@
     "url": "https://github.com/Abdk4Moura/xats-setup"
   },
   {
+    "description": "Agent OS: the agent gets smarter on its own. We just hold the line: the grading command and expected result never make i",
+    "id": "Q00/ouroboros",
+    "language": "Python",
+    "name": "Q00/ouroboros",
+    "stars": 5661,
+    "updated_at": "2026-08-25T15:59:17Z",
+    "url": "https://github.com/Q00/ouroboros"
+  },
+  {
     "description": "Zero-trust subagent architecture for Claude Code \u2014 context-aware, token-efficient AI software engineering.",
     "id": "GstMirabal/Token-Optimized-Agent-Pipeline",
     "language": "Python",
@@ -25,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T15:58:52Z",
     "url": "https://github.com/GstMirabal/Token-Optimized-Agent-Pipeline"
-  },
-  {
-    "description": "Standalone attributed mirror of Matt Pocock\u2019s writing-for-agents skill (MIT)",
-    "id": "nineofoursyrup/writing-for-agents",
-    "language": "\u2014",
-    "name": "nineofoursyrup/writing-for-agents",
-    "stars": 0,
-    "updated_at": "2026-08-25T15:58:52Z",
-    "url": "https://github.com/nineofoursyrup/writing-for-agents"
   },
   {
     "description": "Product-to-engineering team skills for Codex and Claude Code",
@@ -54,15 +135,6 @@
     "url": "https://github.com/dizcorvus/flop-airdrop-skill"
   },
   {
-    "description": "Claude Code plugin: records token usage per task into a private per-project ledger, and shows it as a table with /token-",
-    "id": "peiris/token-cost",
-    "language": "Python",
-    "name": "peiris/token-cost",
-    "stars": 1,
-    "updated_at": "2026-08-25T15:57:59Z",
-    "url": "https://github.com/peiris/token-cost"
-  },
-  {
     "description": "Low-latency Rust terminal overlay for Codex and Claude Code with local Whisper STT, PTY passthrough, wake words, macros,",
     "id": "jguida941/voiceterm",
     "language": "Rust",
@@ -70,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-25T15:57:23Z",
     "url": "https://github.com/jguida941/voiceterm"
-  },
-  {
-    "description": "\u4e00\u672c\u7b14\u8bb0\u7ed9\u6240\u6709 AI \u770b\u3002\u6a21\u578b\u53ea\u80fd\u63d0\u6848\uff0c\u4f60\u70b9\u5934\u624d\u5199\u5165\u3002",
-    "id": "hc-ui/cross-ai-memory",
-    "language": "Python",
-    "name": "hc-ui/cross-ai-memory",
-    "stars": 0,
-    "updated_at": "2026-08-25T15:57:23Z",
-    "url": "https://github.com/hc-ui/cross-ai-memory"
   },
   {
     "description": "Spring Boot Skill for Claude Code and Codex",
@@ -124,6 +187,15 @@
     "stars": 0,
     "updated_at": "2026-08-25T15:55:34Z",
     "url": "https://github.com/vadimvitvickiy/vv-agent-kit"
+  },
+  {
+    "description": "Sandbox for agents with podman",
+    "id": "thomaspeklak/agent-sandbox",
+    "language": "Rust",
+    "name": "thomaspeklak/agent-sandbox",
+    "stars": 12,
+    "updated_at": "2026-08-25T15:55:24Z",
+    "url": "https://github.com/thomaspeklak/agent-sandbox"
   },
   {
     "description": "An AI-maintained knowledge base for running a job search. Interviews you about what you actually do, scores roles agains",
@@ -221,7 +293,7 @@
     "language": "Shell",
     "name": "The01Geek/prflow",
     "stars": 115,
-    "updated_at": "2026-08-25T16:00:03Z",
+    "updated_at": "2026-08-25T16:00:54Z",
     "url": "https://github.com/The01Geek/prflow"
   },
   {
@@ -360,6 +432,15 @@
     "url": "https://github.com/devYRPauli/podium"
   },
   {
+    "description": "Obsidian Dev Dashboard 2026: Build a Centralized AI Workflow Hub",
+    "id": "mittalananya2006/Obsidian-Workflow-Atelier",
+    "language": "HTML",
+    "name": "mittalananya2006/Obsidian-Workflow-Atelier",
+    "stars": 119,
+    "updated_at": "2026-08-25T15:50:37Z",
+    "url": "https://github.com/mittalananya2006/Obsidian-Workflow-Atelier"
+  },
+  {
     "description": "Skills that take a SaaS product from a briefing to merged features",
     "id": "grenzkamm/kaitersberg",
     "language": "Python",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-25T15:50:36Z",
     "url": "https://github.com/grenzkamm/kaitersberg"
-  },
-  {
-    "description": "Reclaim GBs of disk space on macOS from Playwright/Puppeteer/Cypress/Selenium test-browser caches and macOS code_sign_cl",
-    "id": "Rayan-and-beyond/cleanup-chromes",
-    "language": "Shell",
-    "name": "Rayan-and-beyond/cleanup-chromes",
-    "stars": 0,
-    "updated_at": "2026-08-25T15:50:30Z",
-    "url": "https://github.com/Rayan-and-beyond/cleanup-chromes"
-  },
-  {
-    "description": "\u30d5\u30a1\u30a4\u30eb\u306e\u5dee\u5206\u78ba\u8a8d\u306b\u96c6\u4e2d\u3067\u304d\u308b\u30b7\u30f3\u30d7\u30eb\u306aGit\u30af\u30e9\u30a4\u30a2\u30f3\u30c8\u300cStella\u300d",
-    "id": "ishiguro-junya/stella",
-    "language": "TypeScript",
-    "name": "ishiguro-junya/stella",
-    "stars": 0,
-    "updated_at": "2026-08-25T15:50:27Z",
-    "url": "https://github.com/ishiguro-junya/stella"
-  },
-  {
-    "description": "AGI CLI ~ a meta-harness for building Agent Factories",
-    "id": "phnx-labs/agi-cli",
-    "language": "TypeScript",
-    "name": "phnx-labs/agi-cli",
-    "stars": 16,
-    "updated_at": "2026-08-25T15:50:02Z",
-    "url": "https://github.com/phnx-labs/agi-cli"
-  },
-  {
-    "description": "Launch Codex & Claude Code with a clean, selective context on macOS.",
-    "id": "ewgenij87snwork/clean-room-launcher",
-    "language": "Rust",
-    "name": "ewgenij87snwork/clean-room-launcher",
-    "stars": 0,
-    "updated_at": "2026-08-25T15:49:52Z",
-    "url": "https://github.com/ewgenij87snwork/clean-room-launcher"
-  },
-  {
-    "description": "Top Free Terraform LSP Plugin 2026: Secure IaC Automation & Cloud Compliance \ud83d\udd25",
-    "id": "pedrinhogameplay-123/terraform-ls-hub",
-    "language": "HTML",
-    "name": "pedrinhogameplay-123/terraform-ls-hub",
-    "stars": 0,
-    "updated_at": "2026-08-25T15:49:42Z",
-    "url": "https://github.com/pedrinhogameplay-123/terraform-ls-hub"
-  },
-  {
-    "description": "Ship better Java with your coding agent.",
-    "id": "JAIPilot/jaipilot",
-    "language": "Python",
-    "name": "JAIPilot/jaipilot",
-    "stars": 4,
-    "updated_at": "2026-08-25T15:50:00Z",
-    "url": "https://github.com/JAIPilot/jaipilot"
-  },
-  {
-    "description": "Revolutionize Your Dev Workflow 2026: Auto-Scan & Optimize 100+ Tech Stacks Instantly",
-    "id": "Vectorion/codestack-automator",
-    "language": "HTML",
-    "name": "Vectorion/codestack-automator",
-    "stars": 0,
-    "updated_at": "2026-08-25T15:49:32Z",
-    "url": "https://github.com/Vectorion/codestack-automator"
-  },
-  {
-    "description": "an agentic IDE in your terminal, markdown tasks with YAML frontmatter, git-native, zero infrastructure. Works with Claud",
-    "id": "beyondeye/aitasks",
-    "language": "Python",
-    "name": "beyondeye/aitasks",
-    "stars": 7,
-    "updated_at": "2026-08-25T15:58:58Z",
-    "url": "https://github.com/beyondeye/aitasks"
-  },
-  {
-    "description": "A starter kit that provides guardrails for production codebases where AI agents do the writing. Includes review gates an",
-    "id": "MaximSTH/meta-layer-starter",
-    "language": "Shell",
-    "name": "MaximSTH/meta-layer-starter",
-    "stars": 2,
-    "updated_at": "2026-08-25T15:59:44Z",
-    "url": "https://github.com/MaximSTH/meta-layer-starter"
   }
 ]

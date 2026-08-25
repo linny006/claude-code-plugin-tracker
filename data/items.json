@@ -1,5 +1,68 @@
 [
   {
+    "description": "Policies that stop your coding agent from doing the thing you would have caught in review. The policy catalog for Chock:",
+    "id": "open-coder-ai/chock-catalog",
+    "language": "Python",
+    "name": "open-coder-ai/chock-catalog",
+    "stars": 1,
+    "updated_at": "2026-08-25T02:45:11Z",
+    "url": "https://github.com/open-coder-ai/chock-catalog"
+  },
+  {
+    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
+    "id": "omnigent-ai/omnigent",
+    "language": "Python",
+    "name": "omnigent-ai/omnigent",
+    "stars": 9242,
+    "updated_at": "2026-08-25T02:45:06Z",
+    "url": "https://github.com/omnigent-ai/omnigent"
+  },
+  {
+    "description": "Claude Code Mortgage Plugin 2026 - AI-Powered Refinancing Pricing Tool",
+    "id": "Baber002/mortgage-pricing-plugin-blueprint",
+    "language": "HTML",
+    "name": "Baber002/mortgage-pricing-plugin-blueprint",
+    "stars": 0,
+    "updated_at": "2026-08-25T02:44:55Z",
+    "url": "https://github.com/Baber002/mortgage-pricing-plugin-blueprint"
+  },
+  {
+    "description": "Your agent says it\u2019s done. Check the evidence.",
+    "id": "eissasoubhi/PRTruth",
+    "language": "TypeScript",
+    "name": "eissasoubhi/PRTruth",
+    "stars": 0,
+    "updated_at": "2026-08-25T02:44:53Z",
+    "url": "https://github.com/eissasoubhi/PRTruth"
+  },
+  {
+    "description": "Open-source AI gateway for policy, model routing, redaction, and usage/cost evidence across Codex and Claude Code.",
+    "id": "Xpounder-com/hormuz",
+    "language": "Python",
+    "name": "Xpounder-com/hormuz",
+    "stars": 0,
+    "updated_at": "2026-08-25T02:44:38Z",
+    "url": "https://github.com/Xpounder-com/hormuz"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-08-25T02:44:31Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "A native, performance-first ADE built with Flutter, Rust, and Ghostty. Run Claude Code, Codex, Amp, and other CLI coding",
+    "id": "leynier/alera",
+    "language": "Dart",
+    "name": "leynier/alera",
+    "stars": 17,
+    "updated_at": "2026-08-25T02:44:29Z",
+    "url": "https://github.com/leynier/alera"
+  },
+  {
     "description": "Evidence-based software architecture guidance across project types",
     "id": "qinyu765/evolve-software-architecture",
     "language": "Python",
@@ -27,6 +90,24 @@
     "url": "https://github.com/jposluns/grc_library"
   },
   {
+    "description": "Claude Code plugins lab \u2014 Gmail, YouTube, Apple Notes, image generation, and Teams monitoring",
+    "id": "weirdapps/plessas-lab",
+    "language": "TypeScript",
+    "name": "weirdapps/plessas-lab",
+    "stars": 1,
+    "updated_at": "2026-08-25T02:44:15Z",
+    "url": "https://github.com/weirdapps/plessas-lab"
+  },
+  {
+    "description": "FreePascal / UnicodeString modernization of TR4W. Isolated from TR4W/TR4W (which stays on D7 for production/monthly buil",
+    "id": "TR4W/TR4W-D12",
+    "language": "Pascal",
+    "name": "TR4W/TR4W-D12",
+    "stars": 1,
+    "updated_at": "2026-08-25T02:44:13Z",
+    "url": "https://github.com/TR4W/TR4W-D12"
+  },
+  {
     "description": "Consort keeps AI-written code clean and correct: a coordinated ensemble of role agents, spec-first and test-driven, driv",
     "id": "databricks-solutions/consort",
     "language": "TypeScript",
@@ -36,15 +117,6 @@
     "url": "https://github.com/databricks-solutions/consort"
   },
   {
-    "description": "Cross-platform Claude Code plugins for productivity: decks, mail, meetings, chat, excel, docs.",
-    "id": "weirdapps/plessas-marketplace",
-    "language": "Python",
-    "name": "weirdapps/plessas-marketplace",
-    "stars": 0,
-    "updated_at": "2026-08-25T02:44:08Z",
-    "url": "https://github.com/weirdapps/plessas-marketplace"
-  },
-  {
     "description": "Twelve Greek gods. One command. A working SaaS. 98 skills + 49 agents + 13 hooks for Claude Code + Codex CLI + Gemini CL",
     "id": "Dannykkh/skill-olympus",
     "language": "Python",
@@ -52,6 +124,15 @@
     "stars": 5,
     "updated_at": "2026-08-25T02:44:09Z",
     "url": "https://github.com/Dannykkh/skill-olympus"
+  },
+  {
+    "description": "Cross-platform Claude Code plugins for productivity: decks, mail, meetings, chat, excel, docs.",
+    "id": "weirdapps/plessas-marketplace",
+    "language": "Python",
+    "name": "weirdapps/plessas-marketplace",
+    "stars": 0,
+    "updated_at": "2026-08-25T02:44:08Z",
+    "url": "https://github.com/weirdapps/plessas-marketplace"
   },
   {
     "description": "Building blocks for frontier OpenAI agents in Rust. Nanocodex empowers you with Codex-level performance anywhere.",
@@ -72,6 +153,15 @@
     "url": "https://github.com/bunhine0452/Ocul-PM"
   },
   {
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
+    "id": "stablyai/orca",
+    "language": "TypeScript",
+    "name": "stablyai/orca",
+    "stars": 52912,
+    "updated_at": "2026-08-25T02:43:47Z",
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
     "description": "A human-in-the-loop tool for reading and reproducing arXiv papers (FastAPI + Next.js), built by applying CCAR-F architec",
     "id": "ChestnutForest/paper-repro",
     "language": "TypeScript",
@@ -88,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T02:43:35Z",
     "url": "https://github.com/DocDeepakbhagat/mnemonic-yaml-persistence"
-  },
-  {
-    "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
-    "id": "omnigent-ai/omnigent",
-    "language": "Python",
-    "name": "omnigent-ai/omnigent",
-    "stars": 9242,
-    "updated_at": "2026-08-25T02:43:35Z",
-    "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "description": "Cat\u00e1logo vivo de features reusables para plugins multi-CLI (Claude Code, OpenCode, Gemini CLI). Versionado autom\u00e1tico, g",
@@ -176,7 +257,7 @@
     "language": "Python",
     "name": "braedensc/claude-project-kit",
     "stars": 0,
-    "updated_at": "2026-08-25T02:42:42Z",
+    "updated_at": "2026-08-25T02:44:58Z",
     "url": "https://github.com/braedensc/claude-project-kit"
   },
   {
@@ -270,15 +351,6 @@
     "url": "https://github.com/yennanliu/finance_data"
   },
   {
-    "description": "A native, performance-first ADE built with Flutter, Rust, and Ghostty. Run Claude Code, Codex, Amp, and other CLI coding",
-    "id": "leynier/alera",
-    "language": "Dart",
-    "name": "leynier/alera",
-    "stars": 17,
-    "updated_at": "2026-08-25T02:44:27Z",
-    "url": "https://github.com/leynier/alera"
-  },
-  {
     "description": "Memory for AI agents that learns what actually helped: lessons injected at the moment of action, credited by outcome, ch",
     "id": "balanced7/akashic-aurora",
     "language": "Python",
@@ -369,15 +441,6 @@
     "url": "https://github.com/tstapler/stapler-squad"
   },
   {
-    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
-    "id": "stablyai/orca",
-    "language": "TypeScript",
-    "name": "stablyai/orca",
-    "stars": 52911,
-    "updated_at": "2026-08-25T02:43:47Z",
-    "url": "https://github.com/stablyai/orca"
-  },
-  {
     "description": "Cross-machine store of durable lessons a Claude Code agent learns from real work - graded candidates, git-synced domains",
     "id": "mwgrant21/agent-improvement",
     "language": "PowerShell",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T02:41:00Z",
     "url": "https://github.com/mwgrant21/agent-improvement"
-  },
-  {
-    "description": "Cortex Agent \u6846\u67b6\uff1a\u4e3a AI \u7f16\u7a0b\u52a9\u624b\uff08Cursor / Claude Code / Windsurf \u7b49\uff09\u8bbe\u8ba1\u7684\u6cbb\u7406\u4e0e\u6307\u4ee4\u6846\u67b6\u3002\u89c4\u5219\u3001\u5de5\u4f5c\u6d41\u3001\u6280\u80fd\u3001Sub-agent \u4e00\u7ad9\u5f0f\u3002",
-    "id": "Kucell/cortex-agent",
-    "language": "JavaScript",
-    "name": "Kucell/cortex-agent",
-    "stars": 1,
-    "updated_at": "2026-08-25T02:40:30Z",
-    "url": "https://github.com/Kucell/cortex-agent"
-  },
-  {
-    "description": "A safe-by-default, batteries-included Claude Code harness starter pack \u2014 guardrails, a wiki-grounded quality loop, and a",
-    "id": "choiyounggi/groundwork",
-    "language": "Shell",
-    "name": "choiyounggi/groundwork",
-    "stars": 3,
-    "updated_at": "2026-08-25T02:40:07Z",
-    "url": "https://github.com/choiyounggi/groundwork"
-  },
-  {
-    "description": "Create your Agentic AIs.",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 32,
-    "updated_at": "2026-08-25T02:39:48Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "TDD methodology skill for Claude Code (& any AI agent): any model orchestrates under an internal contract, Sonnet 5 impl",
-    "id": "santischurmann/VibeCodeProtocols",
-    "language": "JavaScript",
-    "name": "santischurmann/VibeCodeProtocols",
-    "stars": 0,
-    "updated_at": "2026-08-25T02:39:46Z",
-    "url": "https://github.com/santischurmann/VibeCodeProtocols"
-  },
-  {
-    "description": "Every new AI session starts from zero. This one doesn't. Session-handover workflow for Claude Code \u2014 auto-loads the task",
-    "id": "johnhowl/still-here",
-    "language": "Shell",
-    "name": "johnhowl/still-here",
-    "stars": 0,
-    "updated_at": "2026-08-25T02:39:44Z",
-    "url": "https://github.com/johnhowl/still-here"
-  },
-  {
-    "description": "Multiplayer markdown rooms with agents in them \u2014 collaborate on anything, in an agent-friendly way",
-    "id": "rohanrichards/pairdown",
-    "language": "TypeScript",
-    "name": "rohanrichards/pairdown",
-    "stars": 0,
-    "updated_at": "2026-08-25T02:39:40Z",
-    "url": "https://github.com/rohanrichards/pairdown"
-  },
-  {
-    "description": "A self-checking Obsidian vault for AI coding agents: persistent memory that proves it works \u2014 health score, dead-link sc",
-    "id": "secondbrainstarter/verified-memory-vault",
-    "language": "Python",
-    "name": "secondbrainstarter/verified-memory-vault",
-    "stars": 1,
-    "updated_at": "2026-08-25T02:40:16Z",
-    "url": "https://github.com/secondbrainstarter/verified-memory-vault"
   }
 ]

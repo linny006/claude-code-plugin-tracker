@@ -1,5 +1,41 @@
 [
   {
+    "description": "Claude Code plugin for Meta Ads \u2014 AI-powered Facebook & Instagram ads analysis, account audits, optimization playbooks, ",
+    "id": "aaronpdoherty/meta-ads-genius",
+    "language": "\u2014",
+    "name": "aaronpdoherty/meta-ads-genius",
+    "stars": 0,
+    "updated_at": "2026-08-25T15:14:35Z",
+    "url": "https://github.com/aaronpdoherty/meta-ads-genius"
+  },
+  {
+    "description": "\ud83e\udd16 Specialized plugins for Claude Code CLI with expert AI agents. \ud83e\udd80 Rust plugin included: agents for architecture, develo",
+    "id": "bug-ops/claude-plugins",
+    "language": "Shell",
+    "name": "bug-ops/claude-plugins",
+    "stars": 11,
+    "updated_at": "2026-08-25T15:14:32Z",
+    "url": "https://github.com/bug-ops/claude-plugins"
+  },
+  {
+    "description": "AGI CLI ~ a meta-harness for building Agent Factories",
+    "id": "phnx-labs/agi-cli",
+    "language": "TypeScript",
+    "name": "phnx-labs/agi-cli",
+    "stars": 16,
+    "updated_at": "2026-08-25T15:14:21Z",
+    "url": "https://github.com/phnx-labs/agi-cli"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-08-25T15:13:40Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
     "description": "Work doesn't fail at random \u2014 it fails at whichever genius got skipped. The Six Working Geniuses (Wonder, Invention, Dis",
     "id": "donald-ada/workinggenius",
     "language": "\u2014",
@@ -7,6 +43,15 @@
     "stars": 5,
     "updated_at": "2026-08-25T15:13:32Z",
     "url": "https://github.com/donald-ada/workinggenius"
+  },
+  {
+    "description": "mARC \u00b7 Multi-Agent Relay Control \u2014 an installable AI engineering team for Claude Code. A tech-lead orchestrates speciali",
+    "id": "NexaDuo/mARC",
+    "language": "Python",
+    "name": "NexaDuo/mARC",
+    "stars": 6,
+    "updated_at": "2026-08-25T15:13:20Z",
+    "url": "https://github.com/NexaDuo/mARC"
   },
   {
     "description": "A Diet Coke can that drains as you use your Claude limits \u2014 Claude Code status line, a live can in the terminal, and a f",
@@ -23,8 +68,17 @@
     "language": "TypeScript",
     "name": "Rabithua/FeedbackServerPlugin",
     "stars": 0,
-    "updated_at": "2026-08-25T15:13:02Z",
+    "updated_at": "2026-08-25T15:13:37Z",
     "url": "https://github.com/Rabithua/FeedbackServerPlugin"
+  },
+  {
+    "description": "Evidence-tested knowledge base for the agentic transformation. Answers the CTO question with practitioner evidence, not ",
+    "id": "anttitevanlinna/agents-102",
+    "language": "HTML",
+    "name": "anttitevanlinna/agents-102",
+    "stars": 1,
+    "updated_at": "2026-08-25T15:12:49Z",
+    "url": "https://github.com/anttitevanlinna/agents-102"
   },
   {
     "description": "Multi-protocol LLM API gateway \u2014 OpenAI, Anthropic Claude & Gemini native formats. Save up to 80% vs official, 468+ mode",
@@ -45,6 +99,15 @@
     "url": "https://github.com/JAIPilot/jaipilot"
   },
   {
+    "description": "Eight agent skills, one command, every agent. Umbrella installer for the ssheleg family \u2014 super-ux, task-pipeline, agent",
+    "id": "ssheleg/sshlg-skills",
+    "language": "JavaScript",
+    "name": "ssheleg/sshlg-skills",
+    "stars": 2,
+    "updated_at": "2026-08-25T15:12:17Z",
+    "url": "https://github.com/ssheleg/sshlg-skills"
+  },
+  {
     "description": "Local control desk for your Claude Code environment: session replay, context-window reconstruction, usage diagnostics, a",
     "id": "Shaenn/aura",
     "language": "TypeScript",
@@ -63,6 +126,15 @@
     "url": "https://github.com/IgorGanapolsky/mac-yolo-safeguards"
   },
   {
+    "description": "\ud83c\udfc6 Ultralight AI Coding Agent 2026 \u2014 Blazing CLI, Tiny Codebase, Full Power Free",
+    "id": "Zanmmi/micro-agent-cli",
+    "language": "HTML",
+    "name": "Zanmmi/micro-agent-cli",
+    "stars": 3,
+    "updated_at": "2026-08-25T15:12:07Z",
+    "url": "https://github.com/Zanmmi/micro-agent-cli"
+  },
+  {
     "description": "Let any coding agent guide you through a codebase by navigating your Neovim \u2014 an MCP server for guided code tours",
     "id": "KarthikRaju391/docent.nvim",
     "language": "Python",
@@ -77,7 +149,7 @@
     "language": "JavaScript",
     "name": "CodeNexus404/Nexference",
     "stars": 0,
-    "updated_at": "2026-08-25T15:12:15Z",
+    "updated_at": "2026-08-25T15:14:29Z",
     "url": "https://github.com/CodeNexus404/Nexference"
   },
   {
@@ -88,6 +160,15 @@
     "stars": 2,
     "updated_at": "2026-08-25T15:11:10Z",
     "url": "https://github.com/max-listov/ccmux"
+  },
+  {
+    "description": "DSH \u5b98\u65b9\u516c\u4f17\u53f7\u6536\u5f55\u7684 TUI \u8865\u4f4d\u63d2\u4ef6\uff1aClaude Code \u98ce\uff0c\u9cb8\u9c7c\u9876\u680f/\u5b9e\u65f6\u72b6\u6001/\u6d41\u5f0f\u601d\u8003/\u53cc\u51fb Esc \u56de\u6eda/\u4e0a\u4e0b\u6587\u8fdb\u5ea6+TPS\u3002npm \u4e00\u952e\u88c5\u3002  DSH official WeChat featured TUI plugin",
+    "id": "ccch1mneyyy/dsh-TUI",
+    "language": "TypeScript",
+    "name": "ccch1mneyyy/dsh-TUI",
+    "stars": 2536,
+    "updated_at": "2026-08-25T15:15:12Z",
+    "url": "https://github.com/ccch1mneyyy/dsh-TUI"
   },
   {
     "description": "File-first, human-gated delivery bus for solo builders orchestrating multiple AI coding sessions.",
@@ -234,6 +315,15 @@
     "url": "https://github.com/Gremelinn0/productivity-claude-code-system-pack"
   },
   {
+    "description": "Self-hosted personal memory RAG. Distills Claude Code sessions into a local, human-readable wiki and recalls on demand. ",
+    "id": "jazz1x/ohmyboring",
+    "language": "Rust",
+    "name": "jazz1x/ohmyboring",
+    "stars": 3,
+    "updated_at": "2026-08-25T15:06:55Z",
+    "url": "https://github.com/jazz1x/ohmyboring"
+  },
+  {
     "description": "Reclaim GBs of disk space on macOS from Playwright/Puppeteer/Cypress/Selenium test-browser caches and macOS code_sign_cl",
     "id": "Rayan-and-beyond/cleanup-chromes",
     "language": "Shell",
@@ -250,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T15:06:37Z",
     "url": "https://github.com/rhyspatt/stay-on-task"
-  },
-  {
-    "description": "Eight agent skills, one command, every agent. Umbrella installer for the ssheleg family \u2014 super-ux, task-pipeline, agent",
-    "id": "ssheleg/sshlg-skills",
-    "language": "JavaScript",
-    "name": "ssheleg/sshlg-skills",
-    "stars": 2,
-    "updated_at": "2026-08-25T15:12:17Z",
-    "url": "https://github.com/ssheleg/sshlg-skills"
   },
   {
     "description": "Diagnose & fix MCP server failures across Claude Code, Cursor, VS Code, opencode & Codex \u2014 real JSON-RPC handshakes, exa",
@@ -311,7 +392,7 @@
     "language": "TypeScript",
     "name": "nanocoai/nanoclaw",
     "stars": 30617,
-    "updated_at": "2026-08-25T15:05:58Z",
+    "updated_at": "2026-08-25T15:14:26Z",
     "url": "https://github.com/nanocoai/nanoclaw"
   },
   {
@@ -320,7 +401,7 @@
     "language": "TypeScript",
     "name": "Hananahsan/umg",
     "stars": 1,
-    "updated_at": "2026-08-25T15:05:52Z",
+    "updated_at": "2026-08-25T15:14:30Z",
     "url": "https://github.com/Hananahsan/umg"
   },
   {
@@ -329,7 +410,7 @@
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 33,
-    "updated_at": "2026-08-25T15:05:42Z",
+    "updated_at": "2026-08-25T15:15:15Z",
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 26,
     "updated_at": "2026-08-25T15:05:34Z",
     "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Let AI watch YouTube for you \u2014 verified working knowledge from transcripts, screens, slides, UI, numbers, and actions.",
-    "id": "dingmon1019/YoutubeAnalyzer",
-    "language": "Python",
-    "name": "dingmon1019/YoutubeAnalyzer",
-    "stars": 1,
-    "updated_at": "2026-08-25T15:05:28Z",
-    "url": "https://github.com/dingmon1019/YoutubeAnalyzer"
-  },
-  {
-    "description": "Agent Native Experience and SDK onboarding audit skills for agents.",
-    "id": "apostl-dev/apostl-skills",
-    "language": "Python",
-    "name": "apostl-dev/apostl-skills",
-    "stars": 2,
-    "updated_at": "2026-08-25T15:04:59Z",
-    "url": "https://github.com/apostl-dev/apostl-skills"
-  },
-  {
-    "description": "A Claude Code status line built for ADHD brains: usage limits, git state, cross-session attribution, and an alarm you ca",
-    "id": "kubalajiri/claude-squirrel",
-    "language": "\u2014",
-    "name": "kubalajiri/claude-squirrel",
-    "stars": 0,
-    "updated_at": "2026-08-25T15:04:42Z",
-    "url": "https://github.com/kubalajiri/claude-squirrel"
-  },
-  {
-    "description": "Cliente desktop all-black para o Claude Code. Tauri + React + Rust, com streaming token a token, dashboard de uso e graf",
-    "id": "leconcre/mega-brain",
-    "language": "\u2014",
-    "name": "leconcre/mega-brain",
-    "stars": 0,
-    "updated_at": "2026-08-25T15:04:29Z",
-    "url": "https://github.com/leconcre/mega-brain"
-  },
-  {
-    "description": "The open-source cloud for the agentic era. Don't pick a database, a region, or a RAM slider - your coding agent and Bay ",
-    "id": "thebaycloud/bay",
-    "language": "TypeScript",
-    "name": "thebaycloud/bay",
-    "stars": 18,
-    "updated_at": "2026-08-25T15:09:12Z",
-    "url": "https://github.com/thebaycloud/bay"
-  },
-  {
-    "description": "A self-improving harness for terminal AI agents \u2014 it learns from failures and runs your tasks to a verified done. Plain ",
-    "id": "caty-ai/caty-agent-harness",
-    "language": "Shell",
-    "name": "caty-ai/caty-agent-harness",
-    "stars": 1,
-    "updated_at": "2026-08-25T15:13:20Z",
-    "url": "https://github.com/caty-ai/caty-agent-harness"
-  },
-  {
-    "description": "A Codex skill for thermal-fluid mechanical engineering research, proposal development, technical writing, data analysis,",
-    "id": "hanhuark/mechanical-engineering-research-skill",
-    "language": "Python",
-    "name": "hanhuark/mechanical-engineering-research-skill",
-    "stars": 15,
-    "updated_at": "2026-08-25T15:04:10Z",
-    "url": "https://github.com/hanhuark/mechanical-engineering-research-skill"
-  },
-  {
-    "description": "tia-cli - Drive Siemens TIA Portal from the command line via Openness. 99 verbs, dry-run by default. A Claude Code / AI ",
-    "id": "Codyte/Tia-Portal-CLI",
-    "language": "C#",
-    "name": "Codyte/Tia-Portal-CLI",
-    "stars": 2,
-    "updated_at": "2026-08-25T15:10:05Z",
-    "url": "https://github.com/Codyte/Tia-Portal-CLI"
-  },
-  {
-    "description": "Run multiple Claude Desktop / Claude Code accounts on one Mac at the same time \u2014 no VMs. Works generically for any macOS",
-    "id": "artsu281-ai/double-bubble",
-    "language": "Swift",
-    "name": "artsu281-ai/double-bubble",
-    "stars": 0,
-    "updated_at": "2026-08-25T15:03:38Z",
-    "url": "https://github.com/artsu281-ai/double-bubble"
   }
 ]

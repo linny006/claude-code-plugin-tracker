@@ -1,5 +1,41 @@
 [
   {
+    "description": "Evidence-driven production readiness checklist for shipping web applications with confidence",
+    "id": "MarinJursic/production-readiness-checklist",
+    "language": "Go",
+    "name": "MarinJursic/production-readiness-checklist",
+    "stars": 38,
+    "updated_at": "2026-08-26T13:14:59Z",
+    "url": "https://github.com/MarinJursic/production-readiness-checklist"
+  },
+  {
+    "description": "Stop Claude Code before your plan usage runs out. Halts at a percentage you choose and waits for you to decide.",
+    "id": "epogonii/cclimit",
+    "language": "JavaScript",
+    "name": "epogonii/cclimit",
+    "stars": 0,
+    "updated_at": "2026-08-26T13:14:54Z",
+    "url": "https://github.com/epogonii/cclimit"
+  },
+  {
+    "description": "Session ritual for coding agents: durable git-committed memory, a start rite, a wrap rite, and the guards that keep them",
+    "id": "spscream/ai-floppy",
+    "language": "Shell",
+    "name": "spscream/ai-floppy",
+    "stars": 0,
+    "updated_at": "2026-08-26T13:14:47Z",
+    "url": "https://github.com/spscream/ai-floppy"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-08-26T13:14:36Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
     "description": "A documentation library for governance, risk, compliance, cybersecurity, privacy, resilience, AI assurance, and operatio",
     "id": "jposluns/grc_library",
     "language": "Python",
@@ -86,7 +122,7 @@
     "language": "Shell",
     "name": "tomharris/engineer-agent",
     "stars": 0,
-    "updated_at": "2026-08-26T13:12:28Z",
+    "updated_at": "2026-08-26T13:15:04Z",
     "url": "https://github.com/tomharris/engineer-agent"
   },
   {
@@ -97,6 +133,15 @@
     "stars": 2,
     "updated_at": "2026-08-26T13:11:50Z",
     "url": "https://github.com/rabee-elkholy/android-harness-kit"
+  },
+  {
+    "description": "\ud83e\udda6 ADHDev \u2014 Agent Dashboard Hub. Monitor & control AI coding agents from a single dashboard. Self-hosted, open-source.",
+    "id": "vilmire/adhdev",
+    "language": "TypeScript",
+    "name": "vilmire/adhdev",
+    "stars": 80,
+    "updated_at": "2026-08-26T13:11:40Z",
+    "url": "https://github.com/vilmire/adhdev"
   },
   {
     "description": "GitHub Agentic Workflows",
@@ -153,6 +198,15 @@
     "url": "https://github.com/FrancyJGLisboa/agent-skill-creator"
   },
   {
+    "description": "AI for Accelerating Research: experiments, analysis, writing, and review",
+    "id": "vanzll/ai-research-accelerator",
+    "language": "Python",
+    "name": "vanzll/ai-research-accelerator",
+    "stars": 1,
+    "updated_at": "2026-08-26T13:11:13Z",
+    "url": "https://github.com/vanzll/ai-research-accelerator"
+  },
+  {
     "description": "Claude Code plugin and skill that turns research into a three-document decision package \u2014 an evidence base, a smallest f",
     "id": "Kirchlive/the-3md-concept",
     "language": "Python",
@@ -171,6 +225,15 @@
     "url": "https://github.com/termio-sh/termio"
   },
   {
+    "description": "Claude Code, given a screen. A desktop app for running a team of Claude Code agents.",
+    "id": "rayforvideos/Zetrem",
+    "language": "TypeScript",
+    "name": "rayforvideos/Zetrem",
+    "stars": 2,
+    "updated_at": "2026-08-26T13:10:56Z",
+    "url": "https://github.com/rayforvideos/Zetrem"
+  },
+  {
     "description": "An AI Assistant that\u2019s easy to setup, does your work 24/7, knows your preferences and gets better over time.",
     "id": "vellum-ai/vellum-assistant",
     "language": "TypeScript",
@@ -185,7 +248,7 @@
     "language": "Swift",
     "name": "manaflow-ai/cmux",
     "stars": 26490,
-    "updated_at": "2026-08-26T13:10:31Z",
+    "updated_at": "2026-08-26T13:15:16Z",
     "url": "https://github.com/manaflow-ai/cmux"
   },
   {
@@ -351,6 +414,15 @@
     "url": "https://github.com/piligrimnick/messrequess"
   },
   {
+    "description": "Claude Code Command Center 2026: AI Agent Ops, Session Intelligence, and MCP Mastery Dashboard",
+    "id": "jijibangying/claude-ops-console",
+    "language": "HTML",
+    "name": "jijibangying/claude-ops-console",
+    "stars": 0,
+    "updated_at": "2026-08-26T13:07:56Z",
+    "url": "https://github.com/jijibangying/claude-ops-console"
+  },
+  {
     "description": "Generate CLAUDE.md and AGENTS.md files from composable, SOLID-inspired templates",
     "id": "braboj/solid-ai-templates",
     "language": "Python",
@@ -376,77 +448,5 @@
     "stars": 11,
     "updated_at": "2026-08-26T13:07:18Z",
     "url": "https://github.com/kangig94/coral"
-  },
-  {
-    "description": "Detect & Counter Pickup Artist Tactics 2026 \u2013 AI-Powered Social Defense Toolkit",
-    "id": "jatinloey1598-dot/social-signals-analyzer",
-    "language": "HTML",
-    "name": "jatinloey1598-dot/social-signals-analyzer",
-    "stars": 1,
-    "updated_at": "2026-08-26T13:07:17Z",
-    "url": "https://github.com/jatinloey1598-dot/social-signals-analyzer"
-  },
-  {
-    "description": "Cross-platform GPUI app for parallel coding agents.",
-    "id": "arthjean/paneflow",
-    "language": "Rust",
-    "name": "arthjean/paneflow",
-    "stars": 63,
-    "updated_at": "2026-08-26T13:07:13Z",
-    "url": "https://github.com/arthjean/paneflow"
-  },
-  {
-    "description": "Landing site for Claude Code Ultimate Guide - The most comprehensive documentation for Anthropic's CLI",
-    "id": "FlorianBruniaux/claude-code-ultimate-guide-landing",
-    "language": "TypeScript",
-    "name": "FlorianBruniaux/claude-code-ultimate-guide-landing",
-    "stars": 11,
-    "updated_at": "2026-08-26T13:07:10Z",
-    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide-landing"
-  },
-  {
-    "description": "Everything on the record: a requirement is an issue, a decision is an approval comment, work is a PR, rationale is that ",
-    "id": "tokenmaxxxer/on-the-record",
-    "language": "Python",
-    "name": "tokenmaxxxer/on-the-record",
-    "stars": 1,
-    "updated_at": "2026-08-26T13:07:02Z",
-    "url": "https://github.com/tokenmaxxxer/on-the-record"
-  },
-  {
-    "description": "One-click from GitHub PR / issue / repo pages to your Mac terminal (iTerm2, WezTerm, Warp) \u2014 check out branches, create ",
-    "id": "dazebug/terminal-checkout",
-    "language": "Swift",
-    "name": "dazebug/terminal-checkout",
-    "stars": 0,
-    "updated_at": "2026-08-26T13:06:56Z",
-    "url": "https://github.com/dazebug/terminal-checkout"
-  },
-  {
-    "description": "Your coding agent starts every session with amnesia \u2014 memo fixes that, 100% on your machine. Persistent memory for Claud",
-    "id": "jagoff/memo",
-    "language": "Python",
-    "name": "jagoff/memo",
-    "stars": 14,
-    "updated_at": "2026-08-26T13:06:56Z",
-    "url": "https://github.com/jagoff/memo"
-  },
-  {
-    "description": "Agent skills for social media intelligence, powered by Xpoz. Compatible with Claude Code, Codex CLI, and ChatGPT.",
-    "id": "XPOZpublic/xpoz-agent-skills",
-    "language": "\u2014",
-    "name": "XPOZpublic/xpoz-agent-skills",
-    "stars": 15,
-    "updated_at": "2026-08-26T13:06:54Z",
-    "url": "https://github.com/XPOZpublic/xpoz-agent-skills"
-  },
-  {
-    "description": "The AI harness for Autoware development \u2014 portable Skills and Commands that inject Autoware's architecture, interfaces, ",
-    "id": "autowarefoundation/autoware-harness",
-    "language": "Dockerfile",
-    "name": "autowarefoundation/autoware-harness",
-    "stars": 1,
-    "updated_at": "2026-08-26T13:06:51Z",
-    "url": "https://github.com/autowarefoundation/autoware-harness"
   }
 ]

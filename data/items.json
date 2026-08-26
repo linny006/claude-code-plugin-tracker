@@ -1,5 +1,50 @@
 [
   {
+    "description": "Your AI marketing team for B2B SaaS: 73 specialist agents and 19 Claude Code skills \u2014 SEO/AEO/GEO, content, paid media, ",
+    "id": "shalintripathi/saas-marketing-agents",
+    "language": "Markdown",
+    "name": "shalintripathi/saas-marketing-agents",
+    "stars": 5,
+    "updated_at": "2026-08-26T07:30:41Z",
+    "url": "https://github.com/shalintripathi/saas-marketing-agents"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 26,
+    "updated_at": "2026-08-26T07:30:35Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Claim verification for AI coding agents \u2014 7 structural + 7 adversarial logic-primitive probes against design docs & refa",
+    "id": "AmethystLuna/logicprobe",
+    "language": "JavaScript",
+    "name": "AmethystLuna/logicprobe",
+    "stars": 2,
+    "updated_at": "2026-08-26T07:30:32Z",
+    "url": "https://github.com/AmethystLuna/logicprobe"
+  },
+  {
+    "description": "Prebuilt release binaries for amon \u2014 the AgentMon CLI that watches local AI coding-agent logs and ships cost-enriched Op",
+    "id": "codenotary/amon",
+    "language": "\u2014",
+    "name": "codenotary/amon",
+    "stars": 0,
+    "updated_at": "2026-08-26T07:30:27Z",
+    "url": "https://github.com/codenotary/amon"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-08-26T07:30:19Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -9,7 +54,7 @@
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
-    "description": "RCLL \u2014 self-hosted shared memory for a team of AI agents. Read-only mirror: the canonical repository is https://godcrm.a",
+    "description": "RCLL \u2014 self-hosted shared memory for a team of AI agents. Rooms, hierarchical L0-L3 depth, MCP. The read path never invo",
     "id": "Holetron-lab/fleet-memory",
     "language": "Python",
     "name": "Holetron-lab/fleet-memory",
@@ -18,13 +63,13 @@
     "url": "https://github.com/Holetron-lab/fleet-memory"
   },
   {
-    "description": "Prebuilt release binaries for amon \u2014 the AgentMon CLI that watches local AI coding-agent logs and ships cost-enriched Op",
-    "id": "codenotary/amon",
-    "language": "\u2014",
-    "name": "codenotary/amon",
-    "stars": 0,
-    "updated_at": "2026-08-26T07:29:59Z",
-    "url": "https://github.com/codenotary/amon"
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
+    "id": "stablyai/orca",
+    "language": "TypeScript",
+    "name": "stablyai/orca",
+    "stars": 53821,
+    "updated_at": "2026-08-26T07:30:09Z",
+    "url": "https://github.com/stablyai/orca"
   },
   {
     "description": "\uc720\ud29c\ube0c \uc601\uc0c1\uc744 Claude\uac00 \ub300\uc2e0 \ubcf4\uace0 \ud310\uc815\uae4c\uc9c0 \u2014 \uc124\uce58 \ud55c \uc904 | Give Claude a YouTube link, get back a report you can trust (Claude Code skill)",
@@ -34,6 +79,15 @@
     "stars": 0,
     "updated_at": "2026-08-26T07:29:34Z",
     "url": "https://github.com/promotoa/youtube-absorb"
+  },
+  {
+    "description": "Public-safe runtime profiles and routing templates for Claude Code Router and AI client wrappers",
+    "id": "LZong-tw/ai-runtime-kit",
+    "language": "JavaScript",
+    "name": "LZong-tw/ai-runtime-kit",
+    "stars": 0,
+    "updated_at": "2026-08-26T07:29:33Z",
+    "url": "https://github.com/LZong-tw/ai-runtime-kit"
   },
   {
     "description": "Reusable Claude Code dev harness plugin \u2014 agents, commands, skills, hooks, opt-in stack modules",
@@ -97,6 +151,15 @@
     "stars": 0,
     "updated_at": "2026-08-26T07:28:27Z",
     "url": "https://github.com/Rafin31/aws-aged-care-check-in"
+  },
+  {
+    "description": "Run the Claude Code CLI on OpenCode Zen & Go plans - a free Anthropic API alternative. Zero-dependency local proxy trans",
+    "id": "dimassfeb-09/opencodeclaude",
+    "language": "JavaScript",
+    "name": "dimassfeb-09/opencodeclaude",
+    "stars": 1,
+    "updated_at": "2026-08-26T07:28:17Z",
+    "url": "https://github.com/dimassfeb-09/opencodeclaude"
   },
   {
     "description": "Self-hosted, tiled, persistent browser dashboard for host-run AI CLI terminals (Claude Code, Codex, opencode, ...)",
@@ -167,7 +230,7 @@
     "language": "TypeScript",
     "name": "shoto290/OpenNest",
     "stars": 1,
-    "updated_at": "2026-08-26T07:27:48Z",
+    "updated_at": "2026-08-26T07:30:52Z",
     "url": "https://github.com/shoto290/OpenNest"
   },
   {
@@ -187,15 +250,6 @@
     "stars": 59,
     "updated_at": "2026-08-26T07:27:26Z",
     "url": "https://github.com/tsaijamey/frago"
-  },
-  {
-    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
-    "id": "stablyai/orca",
-    "language": "TypeScript",
-    "name": "stablyai/orca",
-    "stars": 53820,
-    "updated_at": "2026-08-26T07:30:09Z",
-    "url": "https://github.com/stablyai/orca"
   },
   {
     "description": "Deterministic SEO audit for Claude Code: a fixed 217-check registry, a status on every item, and coverage reported separ",
@@ -302,7 +356,7 @@
     "language": "Shell",
     "name": "The01Geek/prflow",
     "stars": 115,
-    "updated_at": "2026-08-26T07:26:51Z",
+    "updated_at": "2026-08-26T07:30:26Z",
     "url": "https://github.com/The01Geek/prflow"
   },
   {
@@ -333,6 +387,15 @@
     "url": "https://github.com/eugenelim/agent-ready-repo"
   },
   {
+    "description": "Community Claude Code plugin marketplace",
+    "id": "nullorder/agenthub",
+    "language": "Astro",
+    "name": "nullorder/agenthub",
+    "stars": 3,
+    "updated_at": "2026-08-26T07:26:28Z",
+    "url": "https://github.com/nullorder/agenthub"
+  },
+  {
     "description": "OpenClaude 2026: AI Coding Agent in Your Pocket \u2013 No Server, No PC",
     "id": "ricardozmt/claude-in-your-pocket",
     "language": "HTML",
@@ -355,7 +418,7 @@
     "id": "santifer/career-ops",
     "language": "JavaScript",
     "name": "santifer/career-ops",
-    "stars": 68503,
+    "stars": 68504,
     "updated_at": "2026-08-26T07:26:27Z",
     "url": "https://github.com/santifer/career-ops"
   },
@@ -378,15 +441,6 @@
     "url": "https://github.com/omnigent-ai/omnigent"
   },
   {
-    "description": "Community Claude Code plugin marketplace",
-    "id": "nullorder/agenthub",
-    "language": "Astro",
-    "name": "nullorder/agenthub",
-    "stars": 3,
-    "updated_at": "2026-08-26T07:26:28Z",
-    "url": "https://github.com/nullorder/agenthub"
-  },
-  {
     "description": "Local fine-tuning for your own work. A provider-neutral kit that turns project experience into reusable criteria for AI ",
     "id": "andresanemic/lore-plugin",
     "language": "JavaScript",
@@ -394,59 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-26T07:25:57Z",
     "url": "https://github.com/andresanemic/lore-plugin"
-  },
-  {
-    "description": "AI-Powered Monorepo 2026: Design System, React Apps, Fastify APIs & Pulumi IaC",
-    "id": "ACHRAF-A/mattbutler-ai-agent-toolkit",
-    "language": "HTML",
-    "name": "ACHRAF-A/mattbutler-ai-agent-toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-26T07:25:55Z",
-    "url": "https://github.com/ACHRAF-A/mattbutler-ai-agent-toolkit"
-  },
-  {
-    "description": "MCP server for your Obsidian vault \u2014 no plugin, no Obsidian running. Point Claude at a folder of markdown: it reads, sea",
-    "id": "JeremiahM37/grimoire",
-    "language": "Go",
-    "name": "JeremiahM37/grimoire",
-    "stars": 0,
-    "updated_at": "2026-08-26T07:25:54Z",
-    "url": "https://github.com/JeremiahM37/grimoire"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 26,
-    "updated_at": "2026-08-26T07:25:49Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Awesome Claude Code And Agent Tools",
-    "id": "cooler333/cool-claude-code",
-    "language": "Python",
-    "name": "cooler333/cool-claude-code",
-    "stars": 8,
-    "updated_at": "2026-08-26T07:25:46Z",
-    "url": "https://github.com/cooler333/cool-claude-code"
-  },
-  {
-    "description": "Harness layer for Claude Code & Codex: plan-first development, independent review, durable long-running orchestration, a",
-    "id": "Sungmin-Cho/deep-suite",
-    "language": "JavaScript",
-    "name": "Sungmin-Cho/deep-suite",
-    "stars": 8,
-    "updated_at": "2026-08-26T07:25:43Z",
-    "url": "https://github.com/Sungmin-Cho/deep-suite"
-  },
-  {
-    "description": "An interactive Three.js gallery hosting NASA's Astronomy Picture of the Day",
-    "id": "CypherPoet/THREE-JS-APOD-Air-and-Space-Museum",
-    "language": "JavaScript",
-    "name": "CypherPoet/THREE-JS-APOD-Air-and-Space-Museum",
-    "stars": 0,
-    "updated_at": "2026-08-26T07:25:42Z",
-    "url": "https://github.com/CypherPoet/THREE-JS-APOD-Air-and-Space-Museum"
   }
 ]

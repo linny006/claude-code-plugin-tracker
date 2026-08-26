@@ -1,5 +1,86 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-26T20:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "A creature for every git worktree, living in your coding agent's status line. Deterministic species, rarity bands, and o",
+    "id": "TevvvB/parallel-harness-pets",
+    "language": "Go",
+    "name": "TevvvB/parallel-harness-pets",
+    "stars": 10,
+    "updated_at": "2026-08-26T20:30:12Z",
+    "url": "https://github.com/TevvvB/parallel-harness-pets"
+  },
+  {
+    "description": "A spec-driven harness for coding agents (and, humans)",
+    "id": "nevenincs/vaultspec-core",
+    "language": "Python",
+    "name": "nevenincs/vaultspec-core",
+    "stars": 1,
+    "updated_at": "2026-08-26T20:30:05Z",
+    "url": "https://github.com/nevenincs/vaultspec-core"
+  },
+  {
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
+    "id": "stablyai/orca",
+    "language": "TypeScript",
+    "name": "stablyai/orca",
+    "stars": 54227,
+    "updated_at": "2026-08-26T20:29:46Z",
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "description": "Bind Claude Code accounts to directories \u2014 the right account activates on cd. Rust CLI + shell, macOS/Linux/Windows.",
+    "id": "Nemo-Illusionist/claude-code-account-switcher",
+    "language": "Rust",
+    "name": "Nemo-Illusionist/claude-code-account-switcher",
+    "stars": 16,
+    "updated_at": "2026-08-26T20:29:48Z",
+    "url": "https://github.com/Nemo-Illusionist/claude-code-account-switcher"
+  },
+  {
+    "description": "Local-first orchestrator for AI coding-agent workloads",
+    "id": "lezli01/vincent",
+    "language": "Go",
+    "name": "lezli01/vincent",
+    "stars": 10,
+    "updated_at": "2026-08-26T20:29:06Z",
+    "url": "https://github.com/lezli01/vincent"
+  },
+  {
+    "description": "One review engine, four checkpoints. A provider-neutral, review-only code review harness with shared verdict memory.",
+    "id": "gtsbahamas/gauntlet",
+    "language": "TypeScript",
+    "name": "gtsbahamas/gauntlet",
+    "stars": 0,
+    "updated_at": "2026-08-26T20:28:42Z",
+    "url": "https://github.com/gtsbahamas/gauntlet"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-08-26T20:28:18Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
+    "id": "inkatze/planwright",
+    "language": "Shell",
+    "name": "inkatze/planwright",
+    "stars": 3,
+    "updated_at": "2026-08-26T20:27:18Z",
+    "url": "https://github.com/inkatze/planwright"
+  },
+  {
     "description": "Codex-style computer use for Claude Code. Drives Windows and macOS apps through the accessibility tree, ~20x cheaper tha",
     "id": "ridelink0/claude-computer-use",
     "language": "C#",
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "jeremylongshore/tons-of-skills-marketplace",
     "stars": 2678,
-    "updated_at": "2026-08-26T20:28:01Z",
+    "updated_at": "2026-08-26T20:30:04Z",
     "url": "https://github.com/jeremylongshore/tons-of-skills-marketplace"
   },
   {
@@ -63,6 +144,15 @@
     "url": "https://github.com/gavishap/cortex"
   },
   {
+    "description": "Cross-device AI usage, token, and cost analytics for developer AI tools.",
+    "id": "starkdmi/statsai",
+    "language": "Rust",
+    "name": "starkdmi/statsai",
+    "stars": 0,
+    "updated_at": "2026-08-26T20:25:14Z",
+    "url": "https://github.com/starkdmi/statsai"
+  },
+  {
     "description": "Agent Skills for Laravel Livewire v4 + Alpine.js v3. Recipes EXECUTED against a real install (14 tests), a 21-rule revie",
     "id": "olgunozoktas/livewire-alpine-skills",
     "language": "Shell",
@@ -70,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-08-26T20:25:11Z",
     "url": "https://github.com/olgunozoktas/livewire-alpine-skills"
-  },
-  {
-    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
-    "id": "stablyai/orca",
-    "language": "TypeScript",
-    "name": "stablyai/orca",
-    "stars": 54225,
-    "updated_at": "2026-08-26T20:25:05Z",
-    "url": "https://github.com/stablyai/orca"
   },
   {
     "description": "Claude Code plugin that blocks the write when it breaks your architecture. Same rules in your hooks and your CI. DDD, Cl",
@@ -122,7 +203,7 @@
     "language": "TypeScript",
     "name": "Hezaerd/noyau",
     "stars": 0,
-    "updated_at": "2026-08-26T20:23:42Z",
+    "updated_at": "2026-08-26T20:28:17Z",
     "url": "https://github.com/Hezaerd/noyau"
   },
   {
@@ -176,7 +257,7 @@
     "language": "Python",
     "name": "ssheleg/task-pipeline",
     "stars": 3,
-    "updated_at": "2026-08-26T20:26:14Z",
+    "updated_at": "2026-08-26T20:30:00Z",
     "url": "https://github.com/ssheleg/task-pipeline"
   },
   {
@@ -189,12 +270,30 @@
     "url": "https://github.com/ssheleg/agent-sync"
   },
   {
+    "description": "The IT and HR department for AI agents \u2014 manage AI agents like employees: identity, isolated sandbox, brokered credentia",
+    "id": "benjaminLedel/covey",
+    "language": "Go",
+    "name": "benjaminLedel/covey",
+    "stars": 3,
+    "updated_at": "2026-08-26T20:22:31Z",
+    "url": "https://github.com/benjaminLedel/covey"
+  },
+  {
+    "description": "Coordination ledger for coding agents: what was decided, what's still open, where you parked \u2014 durable across sessions, ",
+    "id": "colinsurprenant/director",
+    "language": "Go",
+    "name": "colinsurprenant/director",
+    "stars": 12,
+    "updated_at": "2026-08-26T20:22:06Z",
+    "url": "https://github.com/colinsurprenant/director"
+  },
+  {
     "description": "Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tai",
     "id": "santifer/career-ops",
     "language": "JavaScript",
     "name": "santifer/career-ops",
     "stars": 68657,
-    "updated_at": "2026-08-26T20:21:53Z",
+    "updated_at": "2026-08-26T20:30:01Z",
     "url": "https://github.com/santifer/career-ops"
   },
   {
@@ -248,7 +347,7 @@
     "language": "JavaScript",
     "name": "First-Touch-Inc/firsttouch-agent",
     "stars": 0,
-    "updated_at": "2026-08-26T20:20:04Z",
+    "updated_at": "2026-08-26T20:28:36Z",
     "url": "https://github.com/First-Touch-Inc/firsttouch-agent"
   },
   {
@@ -302,7 +401,7 @@
     "language": "Rust",
     "name": "brightwave-inc/tidebreak",
     "stars": 18,
-    "updated_at": "2026-08-26T20:21:26Z",
+    "updated_at": "2026-08-26T20:30:09Z",
     "url": "https://github.com/brightwave-inc/tidebreak"
   },
   {
@@ -320,7 +419,7 @@
     "language": "TypeScript",
     "name": "vellum-ai/vellum-assistant",
     "stars": 1129,
-    "updated_at": "2026-08-26T20:26:35Z",
+    "updated_at": "2026-08-26T20:29:58Z",
     "url": "https://github.com/vellum-ai/vellum-assistant"
   },
   {
@@ -333,6 +432,15 @@
     "url": "https://github.com/chaitanyagiri/munder-difflin"
   },
   {
+    "description": "TUI and CLI for browsing AI models, benchmarks, coding agents, and statuses for AI providers.",
+    "id": "reyamira/models",
+    "language": "Rust",
+    "name": "reyamira/models",
+    "stars": 500,
+    "updated_at": "2026-08-26T20:18:14Z",
+    "url": "https://github.com/reyamira/models"
+  },
+  {
     "description": "Scheduled, LLM-written email digests that run on your machine, read your own files, and send from your own inbox. Determ",
     "id": "ariaxhan/agentmailkit",
     "language": "Python",
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T20:22:09Z",
     "url": "https://github.com/ariaxhan/agentmailkit"
-  },
-  {
-    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
-    "id": "vitali87/code-graph-rag",
-    "language": "Python",
-    "name": "vitali87/code-graph-rag",
-    "stars": 4828,
-    "updated_at": "2026-08-26T20:17:28Z",
-    "url": "https://github.com/vitali87/code-graph-rag"
-  },
-  {
-    "description": "Evidence-driven engineering control plane for AI coding agents. Full Codex workflows, Claude Code MCP preview, bounded g",
-    "id": "JarodFroneman/jstack",
-    "language": "Python",
-    "name": "JarodFroneman/jstack",
-    "stars": 2,
-    "updated_at": "2026-08-26T20:17:48Z",
-    "url": "https://github.com/JarodFroneman/jstack"
-  },
-  {
-    "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoin",
-    "id": "workweave/router",
-    "language": "Go",
-    "name": "workweave/router",
-    "stars": 1136,
-    "updated_at": "2026-08-26T20:21:50Z",
-    "url": "https://github.com/workweave/router"
-  },
-  {
-    "description": "Watches your coding-agent session and warns before the context window runs out, escalating as it fills up.",
-    "id": "TahaSheikh-SH/warden",
-    "language": "JavaScript",
-    "name": "TahaSheikh-SH/warden",
-    "stars": 0,
-    "updated_at": "2026-08-26T20:16:53Z",
-    "url": "https://github.com/TahaSheikh-SH/warden"
-  },
-  {
-    "description": "From-scratch, byte-matching decompilation of Super Mario 64 DS (sm64ds decomp) into C, with a live progress atlas and ma",
-    "id": "tangosdev/sm64ds-decomp",
-    "language": "C",
-    "name": "tangosdev/sm64ds-decomp",
-    "stars": 135,
-    "updated_at": "2026-08-26T20:16:45Z",
-    "url": "https://github.com/tangosdev/sm64ds-decomp"
-  },
-  {
-    "description": "Cloud, desktop and mobile coding agent orchestration",
-    "id": "gannonh/kata-code",
-    "language": "TypeScript",
-    "name": "gannonh/kata-code",
-    "stars": 1,
-    "updated_at": "2026-08-26T20:16:45Z",
-    "url": "https://github.com/gannonh/kata-code"
-  },
-  {
-    "description": "Autopilot for spec-driven development on Claude Code: sign off a spec and a guardrailed agent fleet builds, reviews, and",
-    "id": "inkatze/planwright",
-    "language": "Shell",
-    "name": "inkatze/planwright",
-    "stars": 3,
-    "updated_at": "2026-08-26T20:27:18Z",
-    "url": "https://github.com/inkatze/planwright"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 27,
-    "updated_at": "2026-08-26T20:15:33Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Local-first orchestrator for AI coding-agent workloads",
-    "id": "lezli01/vincent",
-    "language": "Go",
-    "name": "lezli01/vincent",
-    "stars": 10,
-    "updated_at": "2026-08-26T20:15:27Z",
-    "url": "https://github.com/lezli01/vincent"
-  },
-  {
-    "description": "SciMigo Visuals Claude Code plugin \u2014 checked visual plans and exact math/CS figures over MCP",
-    "id": "thinkinginmath/scimigo-visuals-plugin",
-    "language": "Python",
-    "name": "thinkinginmath/scimigo-visuals-plugin",
-    "stars": 0,
-    "updated_at": "2026-08-26T20:18:15Z",
-    "url": "https://github.com/thinkinginmath/scimigo-visuals-plugin"
-  },
-  {
-    "description": "Claw is a local-first AI control plane that runs powerful open models on your machine and connects to top LLM providers.",
-    "id": "ihabkhaled/ClawAI",
-    "language": "TypeScript",
-    "name": "ihabkhaled/ClawAI",
-    "stars": 22,
-    "updated_at": "2026-08-26T20:15:19Z",
-    "url": "https://github.com/ihabkhaled/ClawAI"
-  },
-  {
-    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
-    "id": "linny006/claude-code-plugin-tracker",
-    "language": "Python",
-    "name": "linny006/claude-code-plugin-tracker",
-    "stars": 5,
-    "updated_at": "2026-08-26T20:15:19Z",
-    "url": "https://github.com/linny006/claude-code-plugin-tracker"
   }
 ]

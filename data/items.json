@@ -1,5 +1,32 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 34,
+    "updated_at": "2026-08-31T01:30:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "\u273a Ship better code with your coding agent.",
+    "id": "FJRG2007/enigma",
+    "language": "Ruby",
+    "name": "FJRG2007/enigma",
+    "stars": 2,
+    "updated_at": "2026-08-31T01:29:48Z",
+    "url": "https://github.com/FJRG2007/enigma"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-08-31T01:29:35Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
     "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowle",
     "id": "vitali87/code-graph-rag",
     "language": "Python",
@@ -36,6 +63,15 @@
     "url": "https://github.com/The01Geek/prflow"
   },
   {
+    "description": "The operating system for AI engineering.  Coordinate models, agents, tools, repositories, and long-running work from one",
+    "id": "hurttlocker/o8",
+    "language": "TypeScript",
+    "name": "hurttlocker/o8",
+    "stars": 15,
+    "updated_at": "2026-08-31T01:29:05Z",
+    "url": "https://github.com/hurttlocker/o8"
+  },
+  {
     "description": "One captain for all your coding agents. Direct the work, follow every session, and jump in at any time.",
     "id": "RiadMefti/agentlab",
     "language": "TypeScript",
@@ -61,6 +97,15 @@
     "stars": 73,
     "updated_at": "2026-08-31T01:28:56Z",
     "url": "https://github.com/gtapps/claude-code-hermit"
+  },
+  {
+    "description": "Plugin for Claude Code that dispatches tasks in parallel across multiple Claude sessions in tmux. Watchdog, auto-retry, ",
+    "id": "felmarv/-claude-dispatch",
+    "language": "Shell",
+    "name": "felmarv/-claude-dispatch",
+    "stars": 0,
+    "updated_at": "2026-08-31T01:28:54Z",
+    "url": "https://github.com/felmarv/-claude-dispatch"
   },
   {
     "description": "Claude Code plugin: execution doctrine \u2014 parallel agents in phases and waves, adversarial red-teaming, looping until con",
@@ -158,7 +203,7 @@
     "language": "TypeScript",
     "name": "dcouple/Pane",
     "stars": 428,
-    "updated_at": "2026-08-31T01:28:14Z",
+    "updated_at": "2026-08-31T01:30:06Z",
     "url": "https://github.com/dcouple/Pane"
   },
   {
@@ -167,7 +212,7 @@
     "language": "Python",
     "name": "adammatthewsteinberger/vibey",
     "stars": 3,
-    "updated_at": "2026-08-31T01:28:17Z",
+    "updated_at": "2026-08-31T01:29:57Z",
     "url": "https://github.com/adammatthewsteinberger/vibey"
   },
   {
@@ -178,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T01:28:06Z",
     "url": "https://github.com/possibilities/agentusage"
-  },
-  {
-    "description": "Plugin for Claude Code that dispatches tasks in parallel across multiple Claude sessions in tmux. Watchdog, auto-retry, ",
-    "id": "felmarv/-claude-dispatch",
-    "language": "Shell",
-    "name": "felmarv/-claude-dispatch",
-    "stars": 0,
-    "updated_at": "2026-08-31T01:28:54Z",
-    "url": "https://github.com/felmarv/-claude-dispatch"
   },
   {
     "description": "Curated, trusted open catalog of AI agent skills for OpenClaw, Claude Code, Codex, GitHub Copilot, Gemini, Cursor, MCP, ",
@@ -205,15 +241,6 @@
     "stars": 3,
     "updated_at": "2026-08-31T01:27:44Z",
     "url": "https://github.com/VirajMishra1/loadout"
-  },
-  {
-    "description": "The operating system for AI engineering.  Coordinate models, agents, tools, repositories, and long-running work from one",
-    "id": "hurttlocker/o8",
-    "language": "TypeScript",
-    "name": "hurttlocker/o8",
-    "stars": 15,
-    "updated_at": "2026-08-31T01:29:05Z",
-    "url": "https://github.com/hurttlocker/o8"
   },
   {
     "description": "Self-hosted personal memory RAG. Distills Claude Code sessions into a local, human-readable wiki and recalls on demand. ",
@@ -320,7 +347,7 @@
     "language": "TypeScript",
     "name": "stablyai/orca",
     "stars": 57449,
-    "updated_at": "2026-08-31T01:29:23Z",
+    "updated_at": "2026-08-31T01:30:09Z",
     "url": "https://github.com/stablyai/orca"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T01:25:58Z",
     "url": "https://github.com/open-coder-ai/chock-claude-plugins"
-  },
-  {
-    "description": "Reusable AI agent skills, coding standards, and multi-engine safety execution toolkit for Prolog (Scryer, SWI, Trealla, ",
-    "id": "dougransom/prolog-agent-toolkit",
-    "language": "Python",
-    "name": "dougransom/prolog-agent-toolkit",
-    "stars": 0,
-    "updated_at": "2026-08-31T01:25:56Z",
-    "url": "https://github.com/dougransom/prolog-agent-toolkit"
-  },
-  {
-    "description": "Run / Wait / Switch headroom for Claude Code and Codex on macOS",
-    "id": "jadru/homebrew-cc-overlay",
-    "language": "Swift",
-    "name": "jadru/homebrew-cc-overlay",
-    "stars": 5,
-    "updated_at": "2026-08-31T01:26:05Z",
-    "url": "https://github.com/jadru/homebrew-cc-overlay"
-  },
-  {
-    "description": "Plugin de Claude Code que convierte a un agente IA en un estudio de videojuegos completo (dise\u00f1o, Unity, arte 3D/2D, ani",
-    "id": "MichaelH14/el-estudio",
-    "language": "Python",
-    "name": "MichaelH14/el-estudio",
-    "stars": 1,
-    "updated_at": "2026-08-31T01:25:37Z",
-    "url": "https://github.com/MichaelH14/el-estudio"
   }
 ]

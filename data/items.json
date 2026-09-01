@@ -5,8 +5,44 @@
     "language": "C#",
     "name": "uniqueplume/AI-Token-Optimizer-Claude-Codex-Cursor",
     "stars": 8,
-    "updated_at": "2026-09-01T15:00:17Z",
+    "updated_at": "2026-09-01T15:00:49Z",
     "url": "https://github.com/uniqueplume/AI-Token-Optimizer-Claude-Codex-Cursor"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 28,
+    "updated_at": "2026-09-01T15:00:39Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Field report of one 8-agent Claude Code pipeline. The Monty Hall explainer is the test article, not the product.",
+    "id": "gabriel-dg/multi-agent-pipeline-study",
+    "language": "JavaScript",
+    "name": "gabriel-dg/multi-agent-pipeline-study",
+    "stars": 1,
+    "updated_at": "2026-09-01T15:00:27Z",
+    "url": "https://github.com/gabriel-dg/multi-agent-pipeline-study"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 35,
+    "updated_at": "2026-09-01T15:00:26Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-09-01T15:00:24Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
   },
   {
     "description": "A terminal built for coding agents. Take it and grow it further.",
@@ -99,12 +135,21 @@
     "url": "https://github.com/DeusData/codebase-memory-mcp"
   },
   {
+    "description": "Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding spec",
+    "id": "trailhq/Graft",
+    "language": "TypeScript",
+    "name": "trailhq/Graft",
+    "stars": 5312,
+    "updated_at": "2026-09-01T14:56:55Z",
+    "url": "https://github.com/trailhq/Graft"
+  },
+  {
     "description": "Open-source Claude Managed Agents API implementation and self-hosted Claude Tag-style agent runtime. Drop-in compatible;",
     "id": "openma-ai/open-managed-agents",
     "language": "TypeScript",
     "name": "openma-ai/open-managed-agents",
     "stars": 252,
-    "updated_at": "2026-09-01T14:56:51Z",
+    "updated_at": "2026-09-01T15:00:41Z",
     "url": "https://github.com/openma-ai/open-managed-agents"
   },
   {
@@ -220,7 +265,7 @@
     "id": "stablyai/orca",
     "language": "TypeScript",
     "name": "stablyai/orca",
-    "stars": 58963,
+    "stars": 58964,
     "updated_at": "2026-09-01T14:55:05Z",
     "url": "https://github.com/stablyai/orca"
   },
@@ -232,24 +277,6 @@
     "stars": 353,
     "updated_at": "2026-09-01T14:57:28Z",
     "url": "https://github.com/scaccogatto/okf-skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 35,
-    "updated_at": "2026-09-01T14:54:29Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 28,
-    "updated_at": "2026-09-01T14:54:29Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "local multi-agent harness",
@@ -346,7 +373,7 @@
     "id": "BytePioneer-AI/codex-host",
     "language": "TypeScript",
     "name": "BytePioneer-AI/codex-host",
-    "stars": 1619,
+    "stars": 1620,
     "updated_at": "2026-09-01T14:53:05Z",
     "url": "https://github.com/BytePioneer-AI/codex-host"
   },
@@ -358,6 +385,15 @@
     "stars": 705,
     "updated_at": "2026-09-01T14:52:56Z",
     "url": "https://github.com/gotempsh/temps"
+  },
+  {
+    "description": "Myco is the nervous system for AI-assisted software teams. Works automatically alongside the coding agents, subagents, a",
+    "id": "goondocks-co/myco",
+    "language": "TypeScript",
+    "name": "goondocks-co/myco",
+    "stars": 12,
+    "updated_at": "2026-09-01T14:52:56Z",
+    "url": "https://github.com/goondocks-co/myco"
   },
   {
     "description": "Make Claude Code and Cursor explain technical work in plain language",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T14:51:31Z",
     "url": "https://github.com/blueprint-conformance/bce"
-  },
-  {
-    "description": "A documentation library for governance, risk, compliance, cybersecurity, privacy, resilience, AI assurance, and operatio",
-    "id": "jposluns/grc_library",
-    "language": "Python",
-    "name": "jposluns/grc_library",
-    "stars": 2,
-    "updated_at": "2026-09-01T14:51:20Z",
-    "url": "https://github.com/jposluns/grc_library"
-  },
-  {
-    "description": "Agent skills for running software work as a factory, not a conversation: a four-stage pipeline where no agent reviews it",
-    "id": "vraj-ai/skills",
-    "language": "JavaScript",
-    "name": "vraj-ai/skills",
-    "stars": 4,
-    "updated_at": "2026-09-01T14:51:14Z",
-    "url": "https://github.com/vraj-ai/skills"
-  },
-  {
-    "description": "Open-source AI agent operating system: one file-native brain (230+ skills, 160+ specialist agents) run across many seale",
-    "id": "CarlosCaPe/octorato",
-    "language": "Python",
-    "name": "CarlosCaPe/octorato",
-    "stars": 15,
-    "updated_at": "2026-09-01T14:51:11Z",
-    "url": "https://github.com/CarlosCaPe/octorato"
-  },
-  {
-    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a gro",
-    "id": "mvanhorn/last30days-skill",
-    "language": "Python",
-    "name": "mvanhorn/last30days-skill",
-    "stars": 60864,
-    "updated_at": "2026-09-01T14:51:10Z",
-    "url": "https://github.com/mvanhorn/last30days-skill"
   }
 ]

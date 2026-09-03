@@ -1,5 +1,41 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 36,
+    "updated_at": "2026-09-03T15:00:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-09-03T14:59:00Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "MCP servers that let Claude and other AI tools drive AutoCAD 2022 (49 tools, via COM) and Trimble Connect for Desktop (3",
+    "id": "xuantinhnbs-rgb/autocad-trimble-mcp",
+    "language": "Python",
+    "name": "xuantinhnbs-rgb/autocad-trimble-mcp",
+    "stars": 1,
+    "updated_at": "2026-09-03T15:00:18Z",
+    "url": "https://github.com/xuantinhnbs-rgb/autocad-trimble-mcp"
+  },
+  {
+    "description": "MAC\u7248\u7075\u52a8\u5c9b--Agent\u8fd0\u884c\u76d1\u6d4b\uff1a\u672c\u5730\u67e5\u770b Codex\u3001Claude Code\u3001VS Code \u7b49 AI Agent \u7684\u8fd0\u884c\u72b6\u6001\u3001\u5de5\u4f5c\u65f6\u957f\u3001\u5bf9\u8bdd\u4e0e Token \u7528\u91cf\u3002",
+    "id": "kiki-lgtm-dot/mac-agent-monitor-app",
+    "language": "Shell",
+    "name": "kiki-lgtm-dot/mac-agent-monitor-app",
+    "stars": 10,
+    "updated_at": "2026-09-03T14:58:34Z",
+    "url": "https://github.com/kiki-lgtm-dot/mac-agent-monitor-app"
+  },
+  {
     "description": "Turns AI sessions into compounding work \u2014 every session more correct, cheaper, and smarter than the last. Right > Cheap-",
     "id": "williamblair333/Uncle-J-s-Refinery",
     "language": "Shell",
@@ -7,6 +43,15 @@
     "stars": 3,
     "updated_at": "2026-09-03T14:58:29Z",
     "url": "https://github.com/williamblair333/Uncle-J-s-Refinery"
+  },
+  {
+    "description": "CRBRO \u2014 persistent neural memory for AI agents (MCP server): a file-based brain with neurons, synapses and heat scores t",
+    "id": "Octonove/crbro-memory",
+    "language": "TypeScript",
+    "name": "Octonove/crbro-memory",
+    "stars": 4,
+    "updated_at": "2026-09-03T14:58:22Z",
+    "url": "https://github.com/Octonove/crbro-memory"
   },
   {
     "description": "Token-aware multi-agent orchestration plugin for Claude Code",
@@ -23,7 +68,7 @@
     "language": "Go",
     "name": "zelentsov-dev/apple-ads-mcp",
     "stars": 4,
-    "updated_at": "2026-09-03T14:58:10Z",
+    "updated_at": "2026-09-03T15:00:00Z",
     "url": "https://github.com/zelentsov-dev/apple-ads-mcp"
   },
   {
@@ -61,6 +106,15 @@
     "stars": 1181,
     "updated_at": "2026-09-03T14:57:35Z",
     "url": "https://github.com/vellum-ai/vellum-assistant"
+  },
+  {
+    "description": "SYNK LAB \uc6b4\uc601\u00b7\uad50\uc721 \uc5d4\uc9c4 \u2014 \ubabd\uace8 \ud55c\uad6d\uc5b4 \ud559\uc6d0\uc758 \uc218\uc5c5\u00b7\uc6b4\uc601 (Apps Script + \uc2a4\ud504\ub808\ub4dc\uc2dc\ud2b8)",
+    "id": "unmet23-lab/synk-appsscript",
+    "language": "JavaScript",
+    "name": "unmet23-lab/synk-appsscript",
+    "stars": 0,
+    "updated_at": "2026-09-03T14:57:33Z",
+    "url": "https://github.com/unmet23-lab/synk-appsscript"
   },
   {
     "description": "Helping the Agents Compose the Things",
@@ -126,6 +180,15 @@
     "url": "https://github.com/wisnuwiry/padu"
   },
   {
+    "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini,",
+    "id": "diegosouzapw/OmniRoute",
+    "language": "TypeScript",
+    "name": "diegosouzapw/OmniRoute",
+    "stars": 60735,
+    "updated_at": "2026-09-03T14:56:47Z",
+    "url": "https://github.com/diegosouzapw/OmniRoute"
+  },
+  {
     "description": "EPLAN Electric P8 2026  2027 + AI: MCP servers, docs RAG, and a Claude Code skill for EPLAN scripting/API development. E",
     "id": "covagashi/eplan-rag-mcp",
     "language": "Python",
@@ -162,6 +225,15 @@
     "url": "https://github.com/mrsladoje/sweet-search"
   },
   {
+    "description": "Shift definitions and automation for Committed Nightly \u2014 Richmond builds at night, Jen reviews in the morning.",
+    "id": "committed-nightly/ops",
+    "language": "Python",
+    "name": "committed-nightly/ops",
+    "stars": 0,
+    "updated_at": "2026-09-03T14:56:15Z",
+    "url": "https://github.com/committed-nightly/ops"
+  },
+  {
     "description": "You, multiplied. Mission control for Claude Code, Codex, and OpenCode: see every session, approve what your agents do, a",
     "id": "dork-labs/dorkos",
     "language": "TypeScript",
@@ -185,7 +257,7 @@
     "language": "TypeScript",
     "name": "Jasowills/adversary",
     "stars": 0,
-    "updated_at": "2026-09-03T14:55:58Z",
+    "updated_at": "2026-09-03T14:59:51Z",
     "url": "https://github.com/Jasowills/adversary"
   },
   {
@@ -203,7 +275,7 @@
     "language": "Go",
     "name": "shipking-ai/omniharness",
     "stars": 1,
-    "updated_at": "2026-09-03T14:55:55Z",
+    "updated_at": "2026-09-03T14:59:01Z",
     "url": "https://github.com/shipking-ai/omniharness"
   },
   {
@@ -230,7 +302,7 @@
     "language": "TypeScript",
     "name": "phahadek/claude-orchestrator",
     "stars": 1,
-    "updated_at": "2026-09-03T14:56:13Z",
+    "updated_at": "2026-09-03T14:59:34Z",
     "url": "https://github.com/phahadek/claude-orchestrator"
   },
   {
@@ -266,7 +338,7 @@
     "language": "Rust",
     "name": "cdavid817/vanehub-ai",
     "stars": 109,
-    "updated_at": "2026-09-03T14:58:20Z",
+    "updated_at": "2026-09-03T14:59:51Z",
     "url": "https://github.com/cdavid817/vanehub-ai"
   },
   {
@@ -277,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T14:56:11Z",
     "url": "https://github.com/dandovdub/residoo"
-  },
-  {
-    "description": "MCP servers that let Claude and other AI tools drive AutoCAD 2022 (49 tools, via COM) and Trimble Connect for Desktop (3",
-    "id": "xuantinhnbs-rgb/autocad-trimble-mcp",
-    "language": "Python",
-    "name": "xuantinhnbs-rgb/autocad-trimble-mcp",
-    "stars": 1,
-    "updated_at": "2026-09-03T14:58:46Z",
-    "url": "https://github.com/xuantinhnbs-rgb/autocad-trimble-mcp"
   },
   {
     "description": "Skills Board, the agent-native skills registry for teams. Free forever.",
@@ -347,17 +410,8 @@
     "language": "Python",
     "name": "IgnatRozhkoTR/governed-workflow",
     "stars": 8,
-    "updated_at": "2026-09-03T14:54:11Z",
+    "updated_at": "2026-09-03T14:59:21Z",
     "url": "https://github.com/IgnatRozhkoTR/governed-workflow"
-  },
-  {
-    "description": "Shift definitions and automation for Committed Nightly \u2014 Richmond builds at night, Jen reviews in the morning.",
-    "id": "committed-nightly/ops",
-    "language": "Python",
-    "name": "committed-nightly/ops",
-    "stars": 0,
-    "updated_at": "2026-09-03T14:56:15Z",
-    "url": "https://github.com/committed-nightly/ops"
   },
   {
     "description": "Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, sp",
@@ -387,66 +441,12 @@
     "url": "https://github.com/Memstem/memstem"
   },
   {
-    "description": "an AI system analyst with grounded tools and a workflow for development",
-    "id": "yanisapths/sa-agent",
-    "language": "HTML",
-    "name": "yanisapths/sa-agent",
-    "stars": 0,
-    "updated_at": "2026-09-03T14:53:42Z",
-    "url": "https://github.com/yanisapths/sa-agent"
-  },
-  {
-    "description": "Goal-centric AI harness. Markdown slash-commands that keep the current goal visible to you and your agent \u2014 zero runtime",
-    "id": "opellen/OpenGoal",
-    "language": "TypeScript",
-    "name": "opellen/OpenGoal",
-    "stars": 0,
-    "updated_at": "2026-09-03T14:53:14Z",
-    "url": "https://github.com/opellen/OpenGoal"
-  },
-  {
-    "description": "Claude Language Assessment Research Kit (CLARK) for language-assessment & applied-linguistics researchers: discover \u2192 re",
-    "id": "Shalice-in-AIland/claude-language-assessment-research-kit",
+    "description": "My DOTFILES CONFIG for ARCH LINUX",
+    "id": "D4rkDr4gon/dotfiles",
     "language": "Python",
-    "name": "Shalice-in-AIland/claude-language-assessment-research-kit",
-    "stars": 8,
-    "updated_at": "2026-09-03T14:53:13Z",
-    "url": "https://github.com/Shalice-in-AIland/claude-language-assessment-research-kit"
-  },
-  {
-    "description": "An autonomous business intelligence agent specializing in Canadian demographic shifts and consumer behavior. The agent p",
-    "id": "shayeeboy/Financial-Intelligence-Strategy-Agent",
-    "language": "JavaScript",
-    "name": "shayeeboy/Financial-Intelligence-Strategy-Agent",
+    "name": "D4rkDr4gon/dotfiles",
     "stars": 1,
-    "updated_at": "2026-09-03T14:53:13Z",
-    "url": "https://github.com/shayeeboy/Financial-Intelligence-Strategy-Agent"
-  },
-  {
-    "description": "Agentic Runtime",
-    "id": "anthony-chaudhary/fak",
-    "language": "Go",
-    "name": "anthony-chaudhary/fak",
-    "stars": 36,
-    "updated_at": "2026-09-03T14:57:27Z",
-    "url": "https://github.com/anthony-chaudhary/fak"
-  },
-  {
-    "description": "Stdlib-only Python CLI that orchestrates universal AI agent providers (Claude Code, Codex, Antigravity, OpenRouter, Deep",
-    "id": "berkayturanci/ai-jury",
-    "language": "Python",
-    "name": "berkayturanci/ai-jury",
-    "stars": 7,
-    "updated_at": "2026-09-03T14:52:57Z",
-    "url": "https://github.com/berkayturanci/ai-jury"
-  },
-  {
-    "description": "Install and update nine Agent Skills packs for UX, delivery, design, integrations, SEO, agent systems, Telegram, coordin",
-    "id": "ssheleg/sshlg-skills",
-    "language": "JavaScript",
-    "name": "ssheleg/sshlg-skills",
-    "stars": 6,
-    "updated_at": "2026-09-03T14:56:34Z",
-    "url": "https://github.com/ssheleg/sshlg-skills"
+    "updated_at": "2026-09-03T14:53:50Z",
+    "url": "https://github.com/D4rkDr4gon/dotfiles"
   }
 ]

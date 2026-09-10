@@ -5,413 +5,89 @@
     "language": "C#",
     "name": "uniqueplume/AI-Token-Optimizer-Claude-Codex-Cursor",
     "stars": 3,
-    "updated_at": "2026-09-10T14:00:15Z",
+    "updated_at": "2026-09-10T14:15:17Z",
     "url": "https://github.com/uniqueplume/AI-Token-Optimizer-Claude-Codex-Cursor"
   },
   {
-    "description": "Your coding agent. Your changes. One terminal. A live review workspace for Codex and Claude Code, built in Go.",
-    "id": "nccapo/stvena",
-    "language": "Go",
-    "name": "nccapo/stvena",
-    "stars": 5,
-    "updated_at": "2026-09-10T14:00:00Z",
-    "url": "https://github.com/nccapo/stvena"
-  },
-  {
-    "description": "Taking a freshly installed Fedora desktop and getting it ready for development",
-    "id": "LongTermSupport/fedora-desktop",
-    "language": "Shell",
-    "name": "LongTermSupport/fedora-desktop",
-    "stars": 6,
-    "updated_at": "2026-09-10T13:59:37Z",
-    "url": "https://github.com/LongTermSupport/fedora-desktop"
-  },
-  {
-    "description": "The Complete AI Development Toolkit for Claude Code. 106 skills, 36 agents, 171 hooks. Install `ork` for stable (v9.x), ",
-    "id": "yonatangross/orchestkit",
-    "language": "TypeScript",
-    "name": "yonatangross/orchestkit",
-    "stars": 229,
-    "updated_at": "2026-09-10T13:59:35Z",
-    "url": "https://github.com/yonatangross/orchestkit"
-  },
-  {
-    "description": "macOS menu-bar widget for Codex and Claude Code quota, weekly utilization, and usage history \u00b7 \u83dc\u5355\u680f\u67e5\u770b Codex / Claude Code",
-    "id": "redbson/TokenTide",
-    "language": "\u2014",
-    "name": "redbson/TokenTide",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:59:31Z",
-    "url": "https://github.com/redbson/TokenTide"
-  },
-  {
-    "description": "Local-first agent memory for multi-tool workflows. Markdown vault, session capture, compile-to-notes \u2014 OpenCode, Claude ",
-    "id": "Ekgardt/llm-wiki",
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
     "language": "Python",
-    "name": "Ekgardt/llm-wiki",
-    "stars": 3,
-    "updated_at": "2026-09-10T13:59:38Z",
-    "url": "https://github.com/Ekgardt/llm-wiki"
+    "name": "linny006/trending-claude-skills",
+    "stars": 37,
+    "updated_at": "2026-09-10T14:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
-    "description": "Open-source Chrome assistant for Codex, Claude Code, and OrcaRouter, with browser tools and local workspaces",
-    "id": "wintc23/web-agent-mate",
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
+    "id": "stablyai/orca",
     "language": "TypeScript",
-    "name": "wintc23/web-agent-mate",
+    "name": "stablyai/orca",
+    "stars": 65665,
+    "updated_at": "2026-09-10T14:14:57Z",
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "description": "Give Claude a persistent, cross-device memory \u2014 a private git repo that IS the brain. Template + guide, zero infrastruct",
+    "id": "generalOtto/claude-brain-kit",
+    "language": "TypeScript",
+    "name": "generalOtto/claude-brain-kit",
+    "stars": 0,
+    "updated_at": "2026-09-10T14:14:55Z",
+    "url": "https://github.com/generalOtto/claude-brain-kit"
+  },
+  {
+    "description": "A complete QA department for your coding agent: 29 testing skills, an orchestrator that refuses to call anything green w",
+    "id": "CaduS0uza/qa-supreme",
+    "language": "JavaScript",
+    "name": "CaduS0uza/qa-supreme",
     "stars": 1,
-    "updated_at": "2026-09-10T13:59:28Z",
-    "url": "https://github.com/wintc23/web-agent-mate"
+    "updated_at": "2026-09-10T14:14:39Z",
+    "url": "https://github.com/CaduS0uza/qa-supreme"
   },
   {
-    "description": "The governance layer of a one-person, four-Mac agent fleet, published as text: doctrine, protocol, and the mesh/base/man",
-    "id": "cactusaudio/cactus-fleet-doctrine",
-    "language": "\u2014",
-    "name": "cactusaudio/cactus-fleet-doctrine",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:59:06Z",
-    "url": "https://github.com/cactusaudio/cactus-fleet-doctrine"
-  },
-  {
-    "description": "\u4e2a\u4eba AI coding agent skills \u96c6\u5408\uff08ddgs-web-access / theme-commit / deep-research\uff09+ \u4ed3\u5e93\u7ea7\u7ef4\u62a4\u811a\u672c",
-    "id": "GitZhiQing/skills",
-    "language": "\u2014",
-    "name": "GitZhiQing/skills",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:59:05Z",
-    "url": "https://github.com/GitZhiQing/skills"
-  },
-  {
-    "description": "Model Context Protocol (MCP) server for zip archives: create, inspect and extract. Make a zip, look inside one, and unpa",
-    "id": "theluckystrike/mcp-zip",
-    "language": "TypeScript",
-    "name": "theluckystrike/mcp-zip",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:58:37Z",
-    "url": "https://github.com/theluckystrike/mcp-zip"
-  },
-  {
-    "description": "Model Context Protocol (MCP) server for work orders and job cards for trades and field service. Job orders for trades an",
-    "id": "theluckystrike/mcp-work-order",
-    "language": "TypeScript",
-    "name": "theluckystrike/mcp-work-order",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:58:30Z",
-    "url": "https://github.com/theluckystrike/mcp-work-order"
-  },
-  {
-    "description": "Credential-scoped AI quota, context, and cache in Herdr for Claude, Codex, Grok, Agy, OpenCode, Pi, omp, and Devin.",
-    "id": "levi-qiao/herdr-agent-quota",
-    "language": "Rust",
-    "name": "levi-qiao/herdr-agent-quota",
-    "stars": 93,
-    "updated_at": "2026-09-10T13:58:28Z",
-    "url": "https://github.com/levi-qiao/herdr-agent-quota"
-  },
-  {
-    "description": "Continuous improvement for AI coding agents: Penelopa analyzes real Codex and Claude Code sessions, finds repeated workf",
-    "id": "chigwell/Penelopa.ai",
-    "language": "JavaScript",
-    "name": "chigwell/Penelopa.ai",
-    "stars": 114,
-    "updated_at": "2026-09-10T13:58:26Z",
-    "url": "https://github.com/chigwell/Penelopa.ai"
-  },
-  {
-    "description": "Model Context Protocol (MCP) server for timezone conversion and meeting planning across time zones. Find meeting slots i",
-    "id": "theluckystrike/mcp-timezone",
-    "language": "TypeScript",
-    "name": "theluckystrike/mcp-timezone",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:58:24Z",
-    "url": "https://github.com/theluckystrike/mcp-timezone"
-  },
-  {
-    "description": "Model Context Protocol (MCP) server for time tracking, a timesheet and billable hours tracker. Track billable time witho",
-    "id": "theluckystrike/mcp-time-tracker",
-    "language": "JavaScript",
-    "name": "theluckystrike/mcp-time-tracker",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:58:15Z",
-    "url": "https://github.com/theluckystrike/mcp-time-tracker"
-  },
-  {
-    "description": "Coding-agent skill (Claude Code, Codex, Cursor) + standalone Node scripts to rebuild a frontend pixel-identical to a vis",
-    "id": "Filtar2000/match-reference",
-    "language": "JavaScript",
-    "name": "Filtar2000/match-reference",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:58:09Z",
-    "url": "https://github.com/Filtar2000/match-reference"
-  },
-  {
-    "description": "One desktop app for every coding agent. Pick the harness per session and any model it can reach.",
-    "id": "vocsong/VocsCode",
-    "language": "TypeScript",
-    "name": "vocsong/VocsCode",
-    "stars": 2,
-    "updated_at": "2026-09-10T13:58:09Z",
-    "url": "https://github.com/vocsong/VocsCode"
-  },
-  {
-    "description": "Model Context Protocol (MCP) server for customer statements of account, accounts receivable and invoice aging. The one d",
-    "id": "theluckystrike/mcp-statement-of-account",
-    "language": "TypeScript",
-    "name": "theluckystrike/mcp-statement-of-account",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:58:08Z",
-    "url": "https://github.com/theluckystrike/mcp-statement-of-account"
-  },
-  {
-    "description": "Hearting \u2014 the agent setting for Claude Code, Codex, and OpenCode. One portable contract projected onto all three, with ",
-    "id": "dmlguq456/hearting",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
+    "id": "headroomlabs-ai/headroom",
     "language": "Python",
-    "name": "dmlguq456/hearting",
-    "stars": 7,
-    "updated_at": "2026-09-10T13:58:01Z",
-    "url": "https://github.com/dmlguq456/hearting"
+    "name": "headroomlabs-ai/headroom",
+    "stars": 71262,
+    "updated_at": "2026-09-10T14:15:15Z",
+    "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
-    "description": "Model Context Protocol (MCP) server for spreadsheets: read, query, edit and convert xlsx, csv and Excel files. Read, que",
-    "id": "theluckystrike/mcp-spreadsheet",
-    "language": "TypeScript",
-    "name": "theluckystrike/mcp-spreadsheet",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:58:00Z",
-    "url": "https://github.com/theluckystrike/mcp-spreadsheet"
-  },
-  {
-    "description": "AI SDLC harness framework for predictable, secure, and reviewable AI-assisted software delivery with OpenCode, Claude Co",
-    "id": "FledsonChagas/AutoCast",
-    "language": "JavaScript",
-    "name": "FledsonChagas/AutoCast",
-    "stars": 1,
-    "updated_at": "2026-09-10T13:58:43Z",
-    "url": "https://github.com/FledsonChagas/AutoCast"
-  },
-  {
-    "description": "Pragmatic, Agent-Controlled, Terminal-based \u2014 a spec-driven software-engineering methodology for Claude Code: spec \u2192 pla",
-    "id": "melchimaelran/pact",
-    "language": "\u2014",
-    "name": "melchimaelran/pact",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:57:58Z",
-    "url": "https://github.com/melchimaelran/pact"
-  },
-  {
-    "description": "Model Context Protocol (MCP) server for resume and cover letter writing, CV documents in Word format. Resumes and cover ",
-    "id": "theluckystrike/mcp-resume",
-    "language": "TypeScript",
-    "name": "theluckystrike/mcp-resume",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:57:53Z",
-    "url": "https://github.com/theluckystrike/mcp-resume"
-  },
-  {
-    "description": "Model Context Protocol (MCP) server for recurring invoices and subscription billing. Scheduled invoices, generated into ",
-    "id": "theluckystrike/mcp-recurring",
-    "language": "TypeScript",
-    "name": "theluckystrike/mcp-recurring",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:57:46Z",
-    "url": "https://github.com/theluckystrike/mcp-recurring"
-  },
-  {
-    "description": "Model Context Protocol (MCP) server for price quotes, estimates and proposals. Priced, VAT-correct quotes from chat, and",
-    "id": "theluckystrike/mcp-quotes",
-    "language": "TypeScript",
-    "name": "theluckystrike/mcp-quotes",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:57:39Z",
-    "url": "https://github.com/theluckystrike/mcp-quotes"
-  },
-  {
-    "description": "Model Context Protocol (MCP) server for price tracking, a price tracker and price drop watcher for shop pages. Check and",
-    "id": "theluckystrike/mcp-price-tracker",
-    "language": "TypeScript",
-    "name": "theluckystrike/mcp-price-tracker",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:57:32Z",
-    "url": "https://github.com/theluckystrike/mcp-price-tracker"
-  },
-  {
-    "description": "Open-source native iPhone/iPad client for OpenAI Codex CLI and Claude Code \u2014 review diffs, approve actions, steer sessio",
-    "id": "gaixianggeng/mimi-remote",
-    "language": "Swift",
-    "name": "gaixianggeng/mimi-remote",
-    "stars": 99,
-    "updated_at": "2026-09-10T13:57:26Z",
-    "url": "https://github.com/gaixianggeng/mimi-remote"
-  },
-  {
-    "description": "Model Context Protocol (MCP) server for a petty cash float on the imprest system. A petty cash float on the imprest syst",
-    "id": "theluckystrike/mcp-petty-cash",
-    "language": "JavaScript",
-    "name": "theluckystrike/mcp-petty-cash",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:57:24Z",
-    "url": "https://github.com/theluckystrike/mcp-petty-cash"
-  },
-  {
-    "description": "CLI for Fibery \u2014 query, create, comment and attach files from a shell or a Claude Code session",
-    "id": "iamnikolie/fibery-cli",
-    "language": "Go",
-    "name": "iamnikolie/fibery-cli",
-    "stars": 0,
-    "updated_at": "2026-09-10T14:00:13Z",
-    "url": "https://github.com/iamnikolie/fibery-cli"
-  },
-  {
-    "description": "Intelligence pack for software engineering based on Ainova Systems best practices",
-    "id": "ainova-systems/intelligence-dev-packs",
-    "language": "Shell",
-    "name": "ainova-systems/intelligence-dev-packs",
-    "stars": 2,
-    "updated_at": "2026-09-10T13:57:22Z",
-    "url": "https://github.com/ainova-systems/intelligence-dev-packs"
-  },
-  {
-    "description": "Model Context Protocol (MCP) server for per diem travel allowances. Statutory travel allowances on the rate tables the t",
-    "id": "theluckystrike/mcp-per-diem",
-    "language": "TypeScript",
-    "name": "theluckystrike/mcp-per-diem",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:57:18Z",
-    "url": "https://github.com/theluckystrike/mcp-per-diem"
-  },
-  {
-    "description": "Model Context Protocol (MCP) server for PDF tools: merge, split, stamp and read PDF files. Merge, split, stamp and read ",
-    "id": "theluckystrike/mcp-pdf",
-    "language": "TypeScript",
-    "name": "theluckystrike/mcp-pdf",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:57:10Z",
-    "url": "https://github.com/theluckystrike/mcp-pdf"
-  },
-  {
-    "description": "Real-time token usage & cost status bar for OpenSquilla \u2014 zero-server-change web HUD (hot-updatable), read-only CLI, and",
-    "id": "malosusu/osq-usage-statusbar",
-    "language": "JavaScript",
-    "name": "malosusu/osq-usage-statusbar",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:57:04Z",
-    "url": "https://github.com/malosusu/osq-usage-statusbar"
-  },
-  {
-    "description": "Model Context Protocol (MCP) server for back office work: invoices, PDFs, spreadsheets, Word documents, time tracking an",
-    "id": "theluckystrike/mcp-office-suite",
-    "language": "JavaScript",
-    "name": "theluckystrike/mcp-office-suite",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:57:02Z",
-    "url": "https://github.com/theluckystrike/mcp-office-suite"
-  },
-  {
-    "description": "Cuts what your coding assistant spends per task, and shows you the numbers. Works with Codex, Claude Code, Hermes, GG Co",
-    "id": "Supersynergy/agent-token-saver",
+    "description": "One durable plan, atomic claims, and proof-gated completion for AI coding agents. Works under Claude Code, Codex, Cursor",
+    "id": "firstbitelabsllc/shadow",
     "language": "Python",
-    "name": "Supersynergy/agent-token-saver",
-    "stars": 7,
-    "updated_at": "2026-09-10T13:56:59Z",
-    "url": "https://github.com/Supersynergy/agent-token-saver"
-  },
-  {
-    "description": "Model Context Protocol (MCP) server for a kanban task board and project board. A task board per project that hands off t",
-    "id": "theluckystrike/mcp-kanban",
-    "language": "TypeScript",
-    "name": "theluckystrike/mcp-kanban",
+    "name": "firstbitelabsllc/shadow",
     "stars": 0,
-    "updated_at": "2026-09-10T13:56:54Z",
-    "url": "https://github.com/theluckystrike/mcp-kanban"
+    "updated_at": "2026-09-10T14:13:45Z",
+    "url": "https://github.com/firstbitelabsllc/shadow"
   },
   {
-    "description": "Model Context Protocol (MCP) server for invoice generation, a PDF invoice generator with VAT and sequential numbering. N",
-    "id": "theluckystrike/mcp-invoice",
-    "language": "JavaScript",
-    "name": "theluckystrike/mcp-invoice",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:56:47Z",
-    "url": "https://github.com/theluckystrike/mcp-invoice"
-  },
-  {
-    "description": "Autonomous backend delivery agent - assign a ticket, get a tested pull request. Multi-worker fan-out, sandboxed validati",
-    "id": "FreePeak/devagent",
-    "language": "Go",
-    "name": "FreePeak/devagent",
-    "stars": 4,
-    "updated_at": "2026-09-10T13:56:46Z",
-    "url": "https://github.com/FreePeak/devagent"
-  },
-  {
-    "description": "Cross-agent, cross-OS guardrails + scaffold that make AI coding agents behave like a disciplined senior engineer. Works ",
-    "id": "azizakmal97/vibe-coding-template",
-    "language": "JavaScript",
-    "name": "azizakmal97/vibe-coding-template",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:56:45Z",
-    "url": "https://github.com/azizakmal97/vibe-coding-template"
-  },
-  {
-    "description": "git for running agents \u2014 inspect, replay, share, fork AI coding sessions",
-    "id": "agitHQ/agit",
-    "language": "TypeScript",
-    "name": "agitHQ/agit",
-    "stars": 4,
-    "updated_at": "2026-09-10T13:59:26Z",
-    "url": "https://github.com/agitHQ/agit"
-  },
-  {
-    "description": "DSH \u5b98\u65b9\u516c\u4f17\u53f7\u6536\u5f55\u7684 TUI \u8865\u4f4d\u63d2\u4ef6\uff1aClaude Code \u98ce\uff0c\u9cb8\u9c7c\u9876\u680f/\u5b9e\u65f6\u72b6\u6001/\u6d41\u5f0f\u601d\u8003/\u53cc\u51fb Esc \u56de\u6eda/\u4e0a\u4e0b\u6587\u8fdb\u5ea6+TPS\u3002npm \u4e00\u952e\u88c5\u3002  DSH official WeChat featured TUI plugin",
-    "id": "ccch1mneyyy/dsh-TUI",
-    "language": "TypeScript",
-    "name": "ccch1mneyyy/dsh-TUI",
-    "stars": 2932,
-    "updated_at": "2026-09-10T13:56:43Z",
-    "url": "https://github.com/ccch1mneyyy/dsh-TUI"
-  },
-  {
-    "description": "Model Context Protocol (MCP) server for image resizing, conversion, compression and watermarking. Resize, convert, compr",
-    "id": "theluckystrike/mcp-image",
-    "language": "JavaScript",
-    "name": "theluckystrike/mcp-image",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:56:39Z",
-    "url": "https://github.com/theluckystrike/mcp-image"
-  },
-  {
-    "description": "Turns Claude Code best practices into enforced gates: no ungrounded claims, no false \"done\", no disabled tests, no rewri",
-    "id": "IsthisLee/claude-grounded",
-    "language": "Shell",
-    "name": "IsthisLee/claude-grounded",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:56:39Z",
-    "url": "https://github.com/IsthisLee/claude-grounded"
-  },
-  {
-    "description": "Open-source agentic engineering platform. Orchestrate coding agent workflows powered by Claude Code & Codex with GitHub ",
-    "id": "syntropic137/syntropic137",
+    "description": "Agent Skills for automated Python Big-O profiling, line profiling, and corrective test loops for AI coding agents.",
+    "id": "shridharyadav88/project-code-optimization",
     "language": "Python",
-    "name": "syntropic137/syntropic137",
-    "stars": 4,
-    "updated_at": "2026-09-10T13:56:34Z",
-    "url": "https://github.com/syntropic137/syntropic137"
-  },
-  {
-    "description": "The index of my trading skills for Claude Code, packaged as one plugin marketplace",
-    "id": "yushiran/My-trading-skills",
-    "language": "\u2014",
-    "name": "yushiran/My-trading-skills",
+    "name": "shridharyadav88/project-code-optimization",
     "stars": 0,
-    "updated_at": "2026-09-10T13:56:32Z",
-    "url": "https://github.com/yushiran/My-trading-skills"
+    "updated_at": "2026-09-10T14:13:42Z",
+    "url": "https://github.com/shridharyadav88/project-code-optimization"
   },
   {
-    "description": "Model Context Protocol (MCP) server for expense tracking, an expense tracker for receipts and mileage. Receipts, mileage",
-    "id": "theluckystrike/mcp-expense-tracker",
+    "description": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing ",
+    "id": "smithersai/smithers",
+    "language": "TypeScript",
+    "name": "smithersai/smithers",
+    "stars": 409,
+    "updated_at": "2026-09-10T14:13:40Z",
+    "url": "https://github.com/smithersai/smithers"
+  },
+  {
+    "description": "See what keeps going wrong in your AI coding sessions, and what's yours to fix.",
+    "id": "gmggyyds/agents-deep-insights",
     "language": "JavaScript",
-    "name": "theluckystrike/mcp-expense-tracker",
+    "name": "gmggyyds/agents-deep-insights",
     "stars": 0,
-    "updated_at": "2026-09-10T13:56:31Z",
-    "url": "https://github.com/theluckystrike/mcp-expense-tracker"
+    "updated_at": "2026-09-10T14:13:39Z",
+    "url": "https://github.com/gmggyyds/agents-deep-insights"
   },
   {
     "description": "Your skills, anywhere. Live Agent Skills provider for DeepSeek Harness (dsh): every agent's skill dirs (Claude Code, Cod",
@@ -419,34 +95,358 @@
     "language": "TypeScript",
     "name": "noteflowai/dsh-skills-anywhere",
     "stars": 1,
-    "updated_at": "2026-09-10T13:56:26Z",
+    "updated_at": "2026-09-10T14:12:51Z",
     "url": "https://github.com/noteflowai/dsh-skills-anywhere"
   },
   {
-    "description": "Model Context Protocol (MCP) server for Word documents: create and edit docx files. Real Word documents from chat: propo",
-    "id": "theluckystrike/mcp-docx",
+    "description": "Plan-first parallel execution for Claude Code: rigorous plan documents, wave-based subagent execution with disjoint file",
+    "id": "SandeepTakasi/drydock",
+    "language": "JavaScript",
+    "name": "SandeepTakasi/drydock",
+    "stars": 0,
+    "updated_at": "2026-09-10T14:12:25Z",
+    "url": "https://github.com/SandeepTakasi/drydock"
+  },
+  {
+    "description": "Run any local LLM engine, auto-tuned to your GPU \u2014 polished web UI + OpenAI/Anthropic-compatible API. Point Claude Code ",
+    "id": "mohitsoni48/TurboLLM",
     "language": "TypeScript",
-    "name": "theluckystrike/mcp-docx",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:56:23Z",
-    "url": "https://github.com/theluckystrike/mcp-docx"
+    "name": "mohitsoni48/TurboLLM",
+    "stars": 263,
+    "updated_at": "2026-09-10T14:12:20Z",
+    "url": "https://github.com/mohitsoni48/TurboLLM"
   },
   {
-    "description": "Model Context Protocol (MCP) server for security and retainer deposits. Security and retainer deposits, held per client,",
-    "id": "theluckystrike/mcp-deposits",
-    "language": "JavaScript",
-    "name": "theluckystrike/mcp-deposits",
-    "stars": 0,
-    "updated_at": "2026-09-10T13:56:16Z",
-    "url": "https://github.com/theluckystrike/mcp-deposits"
+    "description": "Skybridge is a full-stack TypeScript framework for MCP Apps and ChatGPT Apps. Type-safe. React-powered. Platform-agnosti",
+    "id": "alpic-ai/skybridge",
+    "language": "TypeScript",
+    "name": "alpic-ai/skybridge",
+    "stars": 1994,
+    "updated_at": "2026-09-10T14:12:18Z",
+    "url": "https://github.com/alpic-ai/skybridge"
   },
   {
-    "description": "codebuddy-first bridge for DeepSeek Harness (DSH): dispatch real work to the local codebuddy CLI first in every mode, wi",
-    "id": "new-256/codebuddy-bridge",
-    "language": "JavaScript",
-    "name": "new-256/codebuddy-bridge",
+    "description": "Claude Code / Codex / ChatGPT plugin marketplace for Bankstatemently \u2014 install the MCP server as a plugin.",
+    "id": "bankstatemently/plugins",
+    "language": "\u2014",
+    "name": "bankstatemently/plugins",
+    "stars": 1,
+    "updated_at": "2026-09-10T14:12:08Z",
+    "url": "https://github.com/bankstatemently/plugins"
+  },
+  {
+    "description": "A procedural Agent Skill that teaches custom-provider models how to discover, use, verify, and recover from Claude Deskt",
+    "id": "Abolfazlshahi/claude-capability-bridge-skill",
+    "language": "Python",
+    "name": "Abolfazlshahi/claude-capability-bridge-skill",
+    "stars": 8,
+    "updated_at": "2026-09-10T14:11:54Z",
+    "url": "https://github.com/Abolfazlshahi/claude-capability-bridge-skill"
+  },
+  {
+    "description": "Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, we",
+    "id": "Untrivial-ai/agent-orchestrator",
+    "language": "Go",
+    "name": "Untrivial-ai/agent-orchestrator",
+    "stars": 11199,
+    "updated_at": "2026-09-10T14:13:50Z",
+    "url": "https://github.com/Untrivial-ai/agent-orchestrator"
+  },
+  {
+    "description": "Agent-aware tmux window picker with a built-in fuzzy finder for Claude Code and Codex",
+    "id": "3axap4eHko/tmux-select",
+    "language": "Rust",
+    "name": "3axap4eHko/tmux-select",
+    "stars": 2,
+    "updated_at": "2026-09-10T14:11:34Z",
+    "url": "https://github.com/3axap4eHko/tmux-select"
+  },
+  {
+    "description": "Rust MCP/HTTP log aggregation platform for homelab syslog, Docker logs, OTLP ingest, SQLite/FTS search, and AI transcrip",
+    "id": "dinglebear-ai/cortex",
+    "language": "Rust",
+    "name": "dinglebear-ai/cortex",
+    "stars": 3,
+    "updated_at": "2026-09-10T14:11:19Z",
+    "url": "https://github.com/dinglebear-ai/cortex"
+  },
+  {
+    "description": "Every Claude account in one menu bar \u2014 swap before you stall. Native macOS app for the claude-swap engine.",
+    "id": "deathemperor/infinitus",
+    "language": "TypeScript",
+    "name": "deathemperor/infinitus",
+    "stars": 5,
+    "updated_at": "2026-09-10T14:15:02Z",
+    "url": "https://github.com/deathemperor/infinitus"
+  },
+  {
+    "description": "An installable, cross-framework AI organization: C-suite agents, expert subagents, curated skills, independent review, a",
+    "id": "aAAaqwq/AGI-Super-Team",
+    "language": "Python",
+    "name": "aAAaqwq/AGI-Super-Team",
+    "stars": 91,
+    "updated_at": "2026-09-10T14:13:16Z",
+    "url": "https://github.com/aAAaqwq/AGI-Super-Team"
+  },
+  {
+    "description": "Agent-facing Slack CLI (slk) \u2014 transcripts, search, posting and files with token-lean output for Claude Code and shell w",
+    "id": "iamnikolie/slack-cli",
+    "language": "Go",
+    "name": "iamnikolie/slack-cli",
     "stars": 0,
-    "updated_at": "2026-09-10T13:56:17Z",
-    "url": "https://github.com/new-256/codebuddy-bridge"
+    "updated_at": "2026-09-10T14:11:03Z",
+    "url": "https://github.com/iamnikolie/slack-cli"
+  },
+  {
+    "description": "Turns Claude Code best practices into enforced gates: no ungrounded claims, no false \"done\", no disabled tests, no rewri",
+    "id": "IsthisLee/claude-grounded",
+    "language": "Shell",
+    "name": "IsthisLee/claude-grounded",
+    "stars": 0,
+    "updated_at": "2026-09-10T14:11:53Z",
+    "url": "https://github.com/IsthisLee/claude-grounded"
+  },
+  {
+    "description": "Bug Hunt Bench: 105 real bugs in two production repos, frontier coding models (GPT-6, Claude, Grok, Gemini, DeepSeek...)",
+    "id": "phuryn/bug-hunt-bench",
+    "language": "JavaScript",
+    "name": "phuryn/bug-hunt-bench",
+    "stars": 41,
+    "updated_at": "2026-09-10T14:10:56Z",
+    "url": "https://github.com/phuryn/bug-hunt-bench"
+  },
+  {
+    "description": "Pragmatic, Agent-Controlled, Terminal-based \u2014 a spec-driven software-engineering methodology for Claude Code: spec \u2192 pla",
+    "id": "melchimaelran/pact",
+    "language": "\u2014",
+    "name": "melchimaelran/pact",
+    "stars": 0,
+    "updated_at": "2026-09-10T14:10:48Z",
+    "url": "https://github.com/melchimaelran/pact"
+  },
+  {
+    "description": "AI governance infrastructure for agentic systems. Rust library behind systemprompt.io \u2014 MCP, A2A, OAuth2, audit trails, ",
+    "id": "systempromptio/systemprompt-core",
+    "language": "Rust",
+    "name": "systempromptio/systemprompt-core",
+    "stars": 8,
+    "updated_at": "2026-09-10T14:10:46Z",
+    "url": "https://github.com/systempromptio/systemprompt-core"
+  },
+  {
+    "description": "Keeps a project's roadmap, changelog, improvements and strategy files to one format - a schema at the point of insertion",
+    "id": "alegauss/roadkeep",
+    "language": "Python",
+    "name": "alegauss/roadkeep",
+    "stars": 1,
+    "updated_at": "2026-09-10T14:10:39Z",
+    "url": "https://github.com/alegauss/roadkeep"
+  },
+  {
+    "description": "A decentralized cooperative memory & research layer for AI agents \u2014 collectively and cooperatively learning and advancin",
+    "id": "usefolklore/folklore",
+    "language": "TypeScript",
+    "name": "usefolklore/folklore",
+    "stars": 3,
+    "updated_at": "2026-09-10T14:10:37Z",
+    "url": "https://github.com/usefolklore/folklore"
+  },
+  {
+    "description": "An open-source Harness Engineering platform for coding agents\u2014define harnesses as code, run controlled experiments, insp",
+    "id": "QoderAI/better-harness",
+    "language": "JavaScript",
+    "name": "QoderAI/better-harness",
+    "stars": 2243,
+    "updated_at": "2026-09-10T14:10:36Z",
+    "url": "https://github.com/QoderAI/better-harness"
+  },
+  {
+    "description": "\u628a PDF \u8f6c\u6210\u53ef\u7f16\u8f91\u7684 PowerPoint\uff1a\u771f\u6587\u672c\u6846\u3001\u771f\u77e2\u91cf\u5f62\u72b6\uff0c\u4e0d\u662f\u6bcf\u9875\u4e00\u5f20\u622a\u56fe\uff1b\u987a\u624b\u4fee\u6389 LibreOffice \u5bf9\u4e2d\u6587\u7684 4 \u7c7b\u5751\u3002\u901a\u7528 CLI\uff0c\u4e5f\u662f agent skill\u3002Editable PDF\u2192PPTX with CJK ",
+    "id": "yuna78/pdf-to-pptx",
+    "language": "Python",
+    "name": "yuna78/pdf-to-pptx",
+    "stars": 0,
+    "updated_at": "2026-09-10T14:10:36Z",
+    "url": "https://github.com/yuna78/pdf-to-pptx"
+  },
+  {
+    "description": "Top Autonomous Research Multi-Agent System for 2026 Lab Experiments",
+    "id": "Usaid22/swarm-factory",
+    "language": "HTML",
+    "name": "Usaid22/swarm-factory",
+    "stars": 90,
+    "updated_at": "2026-09-10T14:10:27Z",
+    "url": "https://github.com/Usaid22/swarm-factory"
+  },
+  {
+    "description": "The Complete AI Development Toolkit for Claude Code. 106 skills, 36 agents, 171 hooks. Install `ork` for stable (v9.x), ",
+    "id": "yonatangross/orchestkit",
+    "language": "TypeScript",
+    "name": "yonatangross/orchestkit",
+    "stars": 229,
+    "updated_at": "2026-09-10T14:10:26Z",
+    "url": "https://github.com/yonatangross/orchestkit"
+  },
+  {
+    "description": "Repo-native content governance for AI agents. Extract, review, and deliver UI text, docs, and structured content from Gi",
+    "id": "Contentrain/ai",
+    "language": "TypeScript",
+    "name": "Contentrain/ai",
+    "stars": 4,
+    "updated_at": "2026-09-10T14:13:14Z",
+    "url": "https://github.com/Contentrain/ai"
+  },
+  {
+    "description": "Composable tools for autonomous coding with Codex and Claude.",
+    "id": "mistakenot/auto-stack",
+    "language": "Go",
+    "name": "mistakenot/auto-stack",
+    "stars": 0,
+    "updated_at": "2026-09-10T14:10:23Z",
+    "url": "https://github.com/mistakenot/auto-stack"
+  },
+  {
+    "description": "Unofficial PWA client for Claude Code \u2014 drive the CLI from your phone over Tailscale: multi-session chat, push notificat",
+    "id": "Synforger/claude-pwa-client",
+    "language": "Python",
+    "name": "Synforger/claude-pwa-client",
+    "stars": 0,
+    "updated_at": "2026-09-10T14:10:14Z",
+    "url": "https://github.com/Synforger/claude-pwa-client"
+  },
+  {
+    "description": "Tells you whether a startup idea is worth building. Research agents argue with each other \u2014 one tries to kill it, one tr",
+    "id": "rishabhrawat35/idea-research",
+    "language": "Python",
+    "name": "rishabhrawat35/idea-research",
+    "stars": 1,
+    "updated_at": "2026-09-10T14:10:14Z",
+    "url": "https://github.com/rishabhrawat35/idea-research"
+  },
+  {
+    "description": "SEO Superpower 2026: Bootstrap, Audit & Refresh Stale Content with Free GSC Tools",
+    "id": "munexor/seo-opportunity-nexus",
+    "language": "HTML",
+    "name": "munexor/seo-opportunity-nexus",
+    "stars": 0,
+    "updated_at": "2026-09-10T14:10:09Z",
+    "url": "https://github.com/munexor/seo-opportunity-nexus"
+  },
+  {
+    "description": "Minimalistic, project-agnostic skills and rules for AI coding agents",
+    "id": "eai-org/agent-toolkit",
+    "language": "Shell",
+    "name": "eai-org/agent-toolkit",
+    "stars": 46,
+    "updated_at": "2026-09-10T14:10:06Z",
+    "url": "https://github.com/eai-org/agent-toolkit"
+  },
+  {
+    "description": "AI-Powered Test Engineering Agent 2026 - Auto-Generate Test Strategies & Security Checklists",
+    "id": "vithushamobilerepair/test-agent-copilot",
+    "language": "HTML",
+    "name": "vithushamobilerepair/test-agent-copilot",
+    "stars": 0,
+    "updated_at": "2026-09-10T14:10:00Z",
+    "url": "https://github.com/vithushamobilerepair/test-agent-copilot"
+  },
+  {
+    "description": "The Autonomous DevOps Engine 2026: Self-Optimizing Backlog for AI-Disciplined Teams",
+    "id": "zyra23/ai-agent-pipeline-keeper",
+    "language": "HTML",
+    "name": "zyra23/ai-agent-pipeline-keeper",
+    "stars": 0,
+    "updated_at": "2026-09-10T14:09:59Z",
+    "url": "https://github.com/zyra23/ai-agent-pipeline-keeper"
+  },
+  {
+    "description": "Swift-UIKit-Pro 2026: Build Production-Ready Programmatic iOS Apps with Advanced Architecture & Data Flow Patterns",
+    "id": "arnoldalberto007-sys/Swift-UIKit-Components",
+    "language": "HTML",
+    "name": "arnoldalberto007-sys/Swift-UIKit-Components",
+    "stars": 0,
+    "updated_at": "2026-09-10T14:09:58Z",
+    "url": "https://github.com/arnoldalberto007-sys/Swift-UIKit-Components"
+  },
+  {
+    "description": "Kelos - The Kubernetes-native framework for orchestrating autonomous AI coding agents.",
+    "id": "kelos-dev/kelos",
+    "language": "Go",
+    "name": "kelos-dev/kelos",
+    "stars": 308,
+    "updated_at": "2026-09-10T14:09:50Z",
+    "url": "https://github.com/kelos-dev/kelos"
+  },
+  {
+    "description": "Groundwork \u2014 a project operating system you copy, not a starter app. Work model, living docs, and a /system dashboard de",
+    "id": "ShawnTalvacchia/groundwork-template",
+    "language": "TypeScript",
+    "name": "ShawnTalvacchia/groundwork-template",
+    "stars": 0,
+    "updated_at": "2026-09-10T14:09:40Z",
+    "url": "https://github.com/ShawnTalvacchia/groundwork-template"
+  },
+  {
+    "description": "Model Context Protocol (MCP) server for timezone conversion and meeting planning: schedule a meeting across time zones. ",
+    "id": "theluckystrike/mcp-timezone",
+    "language": "TypeScript",
+    "name": "theluckystrike/mcp-timezone",
+    "stars": 0,
+    "updated_at": "2026-09-10T14:09:37Z",
+    "url": "https://github.com/theluckystrike/mcp-timezone"
+  },
+  {
+    "description": "Model Context Protocol (MCP) server for time tracking: timesheets, a timesheet and a billable hours tracker. Track billa",
+    "id": "theluckystrike/mcp-time-tracker",
+    "language": "JavaScript",
+    "name": "theluckystrike/mcp-time-tracker",
+    "stars": 0,
+    "updated_at": "2026-09-10T14:09:30Z",
+    "url": "https://github.com/theluckystrike/mcp-time-tracker"
+  },
+  {
+    "description": "Model Context Protocol (MCP) server for spreadsheets: read, query, edit and convert xlsx, csv and Excel files, and build",
+    "id": "theluckystrike/mcp-spreadsheet",
+    "language": "TypeScript",
+    "name": "theluckystrike/mcp-spreadsheet",
+    "stars": 0,
+    "updated_at": "2026-09-10T14:09:22Z",
+    "url": "https://github.com/theluckystrike/mcp-spreadsheet"
+  },
+  {
+    "description": "The control plane for proof-based Claude Code SDLC, built for production teams. Agent loops that self-correct, not self-",
+    "id": "dwarvesf/dwarves-kit",
+    "language": "Shell",
+    "name": "dwarvesf/dwarves-kit",
+    "stars": 11,
+    "updated_at": "2026-09-10T14:09:16Z",
+    "url": "https://github.com/dwarvesf/dwarves-kit"
+  },
+  {
+    "description": "Model Context Protocol (MCP) server for recurring invoices and subscription billing: handles scheduled invoice documents",
+    "id": "theluckystrike/mcp-recurring",
+    "language": "TypeScript",
+    "name": "theluckystrike/mcp-recurring",
+    "stars": 0,
+    "updated_at": "2026-09-10T14:09:14Z",
+    "url": "https://github.com/theluckystrike/mcp-recurring"
+  },
+  {
+    "description": "Model Context Protocol (MCP) server for price quotes, estimates and proposals: create a quote or an estimate for a custo",
+    "id": "theluckystrike/mcp-quotes",
+    "language": "TypeScript",
+    "name": "theluckystrike/mcp-quotes",
+    "stars": 0,
+    "updated_at": "2026-09-10T14:09:07Z",
+    "url": "https://github.com/theluckystrike/mcp-quotes"
+  },
+  {
+    "description": "Graph-based reasoning pipeline for Claude Code \u2014 structured contracts \u00d7 DAG orchestration",
+    "id": "okokjai/claude-reasoning",
+    "language": "TypeScript",
+    "name": "okokjai/claude-reasoning",
+    "stars": 2,
+    "updated_at": "2026-09-10T14:09:01Z",
+    "url": "https://github.com/okokjai/claude-reasoning"
   }
 ]

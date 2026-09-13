@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83c\udfb2 Spawn and manage multiple autonomous Claude Code agents that collaborate and create PRs effortlessly while you watch t",
+    "id": "ANDETRETR/multiclaude",
+    "language": "Go",
+    "name": "ANDETRETR/multiclaude",
+    "stars": 2,
+    "updated_at": "2026-09-13T05:45:04Z",
+    "url": "https://github.com/ANDETRETR/multiclaude"
+  },
+  {
+    "description": "\ud83d\udda5\ufe0f Discover and master essential terminal skills for Server, Kubernetes, DevOps, and Cloud Computing with this curated c",
+    "id": "ryukyagamilight/terminal-skills",
+    "language": "\u2014",
+    "name": "ryukyagamilight/terminal-skills",
+    "stars": 1,
+    "updated_at": "2026-09-13T05:45:00Z",
+    "url": "https://github.com/ryukyagamilight/terminal-skills"
+  },
+  {
+    "description": "Run Claude Code, Codex and Gemini side by side \u2014 and let them hand work to each other. Portable Windows terminal for AI ",
+    "id": "styleio/ShikishaTerm",
+    "language": "Rust",
+    "name": "styleio/ShikishaTerm",
+    "stars": 8,
+    "updated_at": "2026-09-13T05:44:59Z",
+    "url": "https://github.com/styleio/ShikishaTerm"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-09-13T05:44:54Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "\ud83e\udded Discover and navigate AI Agent Skills with Awesome-Agent-Skills, your go-to resource for Claude, OpenAI, and MCP Serve",
+    "id": "megalor1/Awesome-Agent-Skills",
+    "language": "TypeScript",
+    "name": "megalor1/Awesome-Agent-Skills",
+    "stars": 1,
+    "updated_at": "2026-09-13T05:44:49Z",
+    "url": "https://github.com/megalor1/Awesome-Agent-Skills"
+  },
+  {
+    "description": "\ud83c\udf10 Build universal web and mobile apps with Vibe Universal, leveraging Next.js and Expo, backed by a shared Convex backen",
+    "id": "jubert1604/vibe-universal",
+    "language": "TypeScript",
+    "name": "jubert1604/vibe-universal",
+    "stars": 1,
+    "updated_at": "2026-09-13T05:44:48Z",
+    "url": "https://github.com/jubert1604/vibe-universal"
+  },
+  {
     "description": "Android-use for coding agents: give Claude Code, Codex, Cursor or any MCP client a disposable Android device it can see,",
     "id": "ramus-dev/android-use",
     "language": "\u2014",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-13T05:42:24Z",
     "url": "https://github.com/jwoo0329/agents"
-  },
-  {
-    "description": "Open-source control plane for AI coding agents. Run an AI engineering team: parallel Claude Code, Codex, and Gemini work",
-    "id": "mixpeek/amux",
-    "language": "Rust",
-    "name": "mixpeek/amux",
-    "stars": 446,
-    "updated_at": "2026-09-13T05:42:20Z",
-    "url": "https://github.com/mixpeek/amux"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance Claude Code's capabilities with persistent working memory for better context and multi-instance coordination i",
-    "id": "Frenyermmlmmk/claude-cognitive",
-    "language": "Python",
-    "name": "Frenyermmlmmk/claude-cognitive",
-    "stars": 1,
-    "updated_at": "2026-09-13T05:42:19Z",
-    "url": "https://github.com/Frenyermmlmmk/claude-cognitive"
-  },
-  {
-    "description": "Find lost Claude Code conversations and yesterday's chat. One list of coding-agent sessions for Claude, Codex, Cursor, O",
-    "id": "x0c/corral",
-    "language": "Python",
-    "name": "x0c/corral",
-    "stars": 3,
-    "updated_at": "2026-09-13T05:41:58Z",
-    "url": "https://github.com/x0c/corral"
-  },
-  {
-    "description": "Policy-driven code review skills for coding agents \u2014 local changes and GitHub pull requests.",
-    "id": "amirbena/code-review-skill",
-    "language": "Python",
-    "name": "amirbena/code-review-skill",
-    "stars": 2,
-    "updated_at": "2026-09-13T05:41:57Z",
-    "url": "https://github.com/amirbena/code-review-skill"
-  },
-  {
-    "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitaski",
-    "id": "manaflow-ai/cmux",
-    "language": "Swift",
-    "name": "manaflow-ai/cmux",
-    "stars": 27052,
-    "updated_at": "2026-09-13T05:44:50Z",
-    "url": "https://github.com/manaflow-ai/cmux"
-  },
-  {
-    "description": "Open-source supervised flow for AI coding. Run Claude Code, Codex, Gemini, Aider or local models as one crew, approve th",
-    "id": "guyshonshon/vibestrate",
-    "language": "TypeScript",
-    "name": "guyshonshon/vibestrate",
-    "stars": 5,
-    "updated_at": "2026-09-13T05:41:50Z",
-    "url": "https://github.com/guyshonshon/vibestrate"
   }
 ]

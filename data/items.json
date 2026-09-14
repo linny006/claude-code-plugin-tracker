@@ -1,5 +1,86 @@
 [
   {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 33,
+    "updated_at": "2026-09-14T23:15:30Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Daemon-based hooks system for Claude Code with lazy startup, auto-shutdown, and project-level handler extensibility",
+    "id": "Edmonds-Commerce-Limited/claude-code-hooks-daemon",
+    "language": "Python",
+    "name": "Edmonds-Commerce-Limited/claude-code-hooks-daemon",
+    "stars": 3,
+    "updated_at": "2026-09-14T23:15:26Z",
+    "url": "https://github.com/Edmonds-Commerce-Limited/claude-code-hooks-daemon"
+  },
+  {
+    "description": "Mirror of https://gitlab.com/ulm0/multivac",
+    "id": "ulm0/multivac",
+    "language": "TypeScript",
+    "name": "ulm0/multivac",
+    "stars": 0,
+    "updated_at": "2026-09-14T23:15:24Z",
+    "url": "https://github.com/ulm0/multivac"
+  },
+  {
+    "description": "Agentic Runtime",
+    "id": "anthony-chaudhary/fak",
+    "language": "Go",
+    "name": "anthony-chaudhary/fak",
+    "stars": 38,
+    "updated_at": "2026-09-14T23:15:22Z",
+    "url": "https://github.com/anthony-chaudhary/fak"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-09-14T23:15:16Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 40,
+    "updated_at": "2026-09-14T23:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Claude Code skills \u2014 eco-mode, eco-analyze, and more",
+    "id": "pooriaarab/skills",
+    "language": "JavaScript",
+    "name": "pooriaarab/skills",
+    "stars": 0,
+    "updated_at": "2026-09-14T23:15:14Z",
+    "url": "https://github.com/pooriaarab/skills"
+  },
+  {
+    "description": "Manage Codex, Claude Code, Muse Code, Kimi Code, Grok Build, and DeepSeek Harness with durable sessions, isolated enviro",
+    "id": "BrokkAi/mjolnir",
+    "language": "Rust",
+    "name": "BrokkAi/mjolnir",
+    "stars": 49,
+    "updated_at": "2026-09-14T23:15:13Z",
+    "url": "https://github.com/BrokkAi/mjolnir"
+  },
+  {
+    "description": "MCP server for Mockzilla. Let Claude Code, Cursor, and Gemini CLI install Mockzilla, inspect OpenAPI specs, and spin up ",
+    "id": "mockzilla/mockzilla-mcp",
+    "language": "JavaScript",
+    "name": "mockzilla/mockzilla-mcp",
+    "stars": 5,
+    "updated_at": "2026-09-14T23:15:12Z",
+    "url": "https://github.com/mockzilla/mockzilla-mcp"
+  },
+  {
     "description": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing ",
     "id": "smithersai/smithers",
     "language": "TypeScript",
@@ -32,7 +113,7 @@
     "language": "Shell",
     "name": "cboone/agent-harness-plugins",
     "stars": 2,
-    "updated_at": "2026-09-14T23:14:53Z",
+    "updated_at": "2026-09-14T23:15:21Z",
     "url": "https://github.com/cboone/agent-harness-plugins"
   },
   {
@@ -117,15 +198,6 @@
     "url": "https://github.com/YawLabs/aws-mcp"
   },
   {
-    "description": "Mirror of https://gitlab.com/ulm0/multivac",
-    "id": "ulm0/multivac",
-    "language": "TypeScript",
-    "name": "ulm0/multivac",
-    "stars": 0,
-    "updated_at": "2026-09-14T23:14:20Z",
-    "url": "https://github.com/ulm0/multivac"
-  },
-  {
     "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom a",
     "id": "omnigent-ai/omnigent",
     "language": "Python",
@@ -189,15 +261,6 @@
     "url": "https://github.com/YawLabs/lemonsqueezy-mcp"
   },
   {
-    "description": "MCP server for Mockzilla. Let Claude Code, Cursor, and Gemini CLI install Mockzilla, inspect OpenAPI specs, and spin up ",
-    "id": "mockzilla/mockzilla-mcp",
-    "language": "JavaScript",
-    "name": "mockzilla/mockzilla-mcp",
-    "stars": 5,
-    "updated_at": "2026-09-14T23:15:12Z",
-    "url": "https://github.com/mockzilla/mockzilla-mcp"
-  },
-  {
     "description": "Document-governed authority and capability bounds for AI-assisted development",
     "id": "HLLMR/writwall",
     "language": "Python",
@@ -230,7 +293,7 @@
     "language": "Python",
     "name": "gifflet/alc",
     "stars": 1,
-    "updated_at": "2026-09-14T23:13:21Z",
+    "updated_at": "2026-09-14T23:15:40Z",
     "url": "https://github.com/gifflet/alc"
   },
   {
@@ -266,7 +329,7 @@
     "language": "TypeScript",
     "name": "ruvnet/ruflo",
     "stars": 72441,
-    "updated_at": "2026-09-14T23:13:15Z",
+    "updated_at": "2026-09-14T23:15:35Z",
     "url": "https://github.com/ruvnet/ruflo"
   },
   {
@@ -383,70 +446,7 @@
     "language": "\u2014",
     "name": "mas-bandwidth/nova",
     "stars": 35,
-    "updated_at": "2026-09-14T23:14:26Z",
+    "updated_at": "2026-09-14T23:15:23Z",
     "url": "https://github.com/mas-bandwidth/nova"
-  },
-  {
-    "description": "Rove \u2014 the agent multiplexer for your terminal. Run coding agents on parallel tasks with isolated worktrees and persiste",
-    "id": "Sma1lboy/rove",
-    "language": "TypeScript",
-    "name": "Sma1lboy/rove",
-    "stars": 135,
-    "updated_at": "2026-09-14T23:11:44Z",
-    "url": "https://github.com/Sma1lboy/rove"
-  },
-  {
-    "description": "Claude Code plugin: see live which files and line ranges an agent reads, searches and edits. Spec: syns.dev/bartsoj/read",
-    "id": "BartSoj/claude-read-write-monitor",
-    "language": "Python",
-    "name": "BartSoj/claude-read-write-monitor",
-    "stars": 0,
-    "updated_at": "2026-09-14T23:11:41Z",
-    "url": "https://github.com/BartSoj/claude-read-write-monitor"
-  },
-  {
-    "description": "A Kubernetes operator for running AI agents as native workloads.",
-    "id": "language-operator/language-operator",
-    "language": "Go",
-    "name": "language-operator/language-operator",
-    "stars": 6,
-    "updated_at": "2026-09-14T23:11:59Z",
-    "url": "https://github.com/language-operator/language-operator"
-  },
-  {
-    "description": "Phone control for a fleet of live Claude Code panes \u2014 attach to existing iTerm2 sessions, view status, answer prompts, d",
-    "id": "charlie-818/claude-dispatch",
-    "language": "Python",
-    "name": "charlie-818/claude-dispatch",
-    "stars": 0,
-    "updated_at": "2026-09-14T23:11:32Z",
-    "url": "https://github.com/charlie-818/claude-dispatch"
-  },
-  {
-    "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
-    "id": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "language": "HTML",
-    "name": "onlymuneeb38-glitch/ios-agent-skills-evaluator",
-    "stars": 3,
-    "updated_at": "2026-09-14T23:11:32Z",
-    "url": "https://github.com/onlymuneeb38-glitch/ios-agent-skills-evaluator"
-  },
-  {
-    "description": "Turn a prompt into a real 3ds Max plugin. An MCP server for the 3ds Max SDK that writes, builds and signs plugins in C++",
-    "id": "nmalex/3dsmax-sdk-mcp",
-    "language": "PowerShell",
-    "name": "nmalex/3dsmax-sdk-mcp",
-    "stars": 0,
-    "updated_at": "2026-09-14T23:11:26Z",
-    "url": "https://github.com/nmalex/3dsmax-sdk-mcp"
-  },
-  {
-    "description": "\ud83d\ude80 Interactive Planning 2026: File-Based Task DAG with Spec-Driven Gates & Dependency Graphs",
-    "id": "nirajkyros-Editor/flow-gated-planning",
-    "language": "HTML",
-    "name": "nirajkyros-Editor/flow-gated-planning",
-    "stars": 1,
-    "updated_at": "2026-09-14T23:11:23Z",
-    "url": "https://github.com/nirajkyros-Editor/flow-gated-planning"
   }
 ]

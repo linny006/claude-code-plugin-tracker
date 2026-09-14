@@ -5,8 +5,80 @@
     "language": "C#",
     "name": "uniqueplume/AI-Token-Optimizer-Claude-Codex-Cursor",
     "stars": 3,
-    "updated_at": "2026-09-14T10:15:16Z",
+    "updated_at": "2026-09-14T10:15:36Z",
     "url": "https://github.com/uniqueplume/AI-Token-Optimizer-Claude-Codex-Cursor"
+  },
+  {
+    "description": "Keep your agents running \u2014 One window for all your agents. Local or remote, step away and pick up where you left off.",
+    "id": "condrdev/condr",
+    "language": "Rust",
+    "name": "condrdev/condr",
+    "stars": 0,
+    "updated_at": "2026-09-14T10:15:31Z",
+    "url": "https://github.com/condrdev/condr"
+  },
+  {
+    "description": "macOS menu bar & Windows tray app pinning Claude Code, Codex & Antigravity quota, burn rate, and cost to your screen. Lo",
+    "id": "aqua5230/usage",
+    "language": "Python",
+    "name": "aqua5230/usage",
+    "stars": 318,
+    "updated_at": "2026-09-14T10:15:28Z",
+    "url": "https://github.com/aqua5230/usage"
+  },
+  {
+    "description": "\ud1a0\uc774 \ud504\ub85c\uc81d\ud2b8 15\uac1c\uc5d0\uc11c \ub418\ud480\uc774\ud574 \uc7ac\ubc1c\uba85\ud55c \ud328\ud134 \ubaa8\uc74c \u2014 \ud50c\ub808\uc774\ubd81\uacfc \ud558\ub124\uc2a4 \uce74\ud0c8\ub85c\uadf8",
+    "id": "gook-lab/guk-lab-docs",
+    "language": "JavaScript",
+    "name": "gook-lab/guk-lab-docs",
+    "stars": 0,
+    "updated_at": "2026-09-14T10:15:24Z",
+    "url": "https://github.com/gook-lab/guk-lab-docs"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-09-14T10:15:20Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 40,
+    "updated_at": "2026-09-14T10:15:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Agentic coding inside Visual Studio \u2014 Claude Code with a rich chat pane, an interactive terminal, and the IDE (editor, s",
+    "id": "Corsinvest/cv4vs-agents",
+    "language": "C#",
+    "name": "Corsinvest/cv4vs-agents",
+    "stars": 12,
+    "updated_at": "2026-09-14T10:15:17Z",
+    "url": "https://github.com/Corsinvest/cv4vs-agents"
+  },
+  {
+    "description": "Mira AI content generation skills: genre playbooks and prompting knowledge for AI agents that generate video and images ",
+    "id": "Global-AI-Group-Inc/content-generation-skills",
+    "language": "JavaScript",
+    "name": "Global-AI-Group-Inc/content-generation-skills",
+    "stars": 6,
+    "updated_at": "2026-09-14T10:15:13Z",
+    "url": "https://github.com/Global-AI-Group-Inc/content-generation-skills"
+  },
+  {
+    "description": "Open-source native iPhone/iPad client for OpenAI Codex CLI and Claude Code \u2014 review diffs, approve actions, steer sessio",
+    "id": "gaixianggeng/mimi-remote",
+    "language": "Swift",
+    "name": "gaixianggeng/mimi-remote",
+    "stars": 100,
+    "updated_at": "2026-09-14T10:15:12Z",
+    "url": "https://github.com/gaixianggeng/mimi-remote"
   },
   {
     "description": "Claude Code plugin: execution doctrine \u2014 parallel agents in phases and waves, adversarial red-teaming, looping until con",
@@ -194,7 +266,7 @@
     "language": "Rust",
     "name": "jaroslawherod/micold-ai-ide",
     "stars": 1,
-    "updated_at": "2026-09-14T10:13:21Z",
+    "updated_at": "2026-09-14T10:15:20Z",
     "url": "https://github.com/jaroslawherod/micold-ai-ide"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-14T10:11:51Z",
     "url": "https://github.com/zchee/agctl"
-  },
-  {
-    "description": "Client-side HTTPS egress proxy for TokenSaver \u2014 MITM capture for Claude Code / Cursor / agents.",
-    "id": "tokensaver-ai/tokensaver-egress",
-    "language": "Python",
-    "name": "tokensaver-ai/tokensaver-egress",
-    "stars": 0,
-    "updated_at": "2026-09-14T10:11:55Z",
-    "url": "https://github.com/tokensaver-ai/tokensaver-egress"
-  },
-  {
-    "description": "Pick the right UI interaction before writing code - 61 \u4e2a\u524d\u7aef\u4ea4\u4e92\u4e0e\u52a8\u6548\u8bcd\u6761\uff08\u78c1\u5438\u3001\u6db2\u6001\u5f62\u53d8\u3001\u6db2\u6001 Tab\u30013D \u89c6\u5dee\u3001\u624b\u52bf\u8f6c\u573a\u3001\u56fe\u8868\u4ea4\u4e92\u3001\u52a0\u8f7d\u52a8\u6548\uff09\uff0c\u4e3a AI \u7f16\u7801\u52a9\u624b\u63d0\u4f9b\u9009\u578b\u89c4\u5219\u4e0e\u82f1",
-    "id": "AlphaXe-Hub/ui-interaction-kit",
-    "language": "JavaScript",
-    "name": "AlphaXe-Hub/ui-interaction-kit",
-    "stars": 2,
-    "updated_at": "2026-09-14T10:11:40Z",
-    "url": "https://github.com/AlphaXe-Hub/ui-interaction-kit"
-  },
-  {
-    "description": "The browser that writes its own extensions.",
-    "id": "laruss/patcher-browser",
-    "language": "TypeScript",
-    "name": "laruss/patcher-browser",
-    "stars": 0,
-    "updated_at": "2026-09-14T10:11:33Z",
-    "url": "https://github.com/laruss/patcher-browser"
-  },
-  {
-    "description": "\u5c06Claude Code\u8bbe\u7f6e\u4e3a\u5927\u8111/\u534f\u8c03\u8005\uff0cCodex\u4f5c\u4e3a\u5b9e\u73b0\u8005,\u8ba9\u5176\u534f\u540c\u5b8c\u6210\u9879\u76ee\u9700\u6c42",
-    "id": "yiximy/codex-claude-collab-skill",
-    "language": "Python",
-    "name": "yiximy/codex-claude-collab-skill",
-    "stars": 1,
-    "updated_at": "2026-09-14T10:11:33Z",
-    "url": "https://github.com/yiximy/codex-claude-collab-skill"
-  },
-  {
-    "description": "An autopoiesic kefir for computing machines",
-    "id": "genaforvena/lte-workstation",
-    "language": "Shell",
-    "name": "genaforvena/lte-workstation",
-    "stars": 8,
-    "updated_at": "2026-09-14T10:11:26Z",
-    "url": "https://github.com/genaforvena/lte-workstation"
-  },
-  {
-    "description": "Ask Codex, Gemini, Grok, and 400+ OpenRouter models (Qwen, Kimi, DeepSeek) for second opinions or arbiter-mediated conse",
-    "id": "antonbabenko/deliberation",
-    "language": "JavaScript",
-    "name": "antonbabenko/deliberation",
-    "stars": 145,
-    "updated_at": "2026-09-14T10:11:37Z",
-    "url": "https://github.com/antonbabenko/deliberation"
-  },
-  {
-    "description": "Automatically create new skills based on past agent traces ",
-    "id": "Fergana-Labs/stash",
-    "language": "Python",
-    "name": "Fergana-Labs/stash",
-    "stars": 333,
-    "updated_at": "2026-09-14T10:11:18Z",
-    "url": "https://github.com/Fergana-Labs/stash"
-  },
-  {
-    "description": "Run any agent on any model, models stored as OCI images",
-    "id": "llmmanorg/llmman",
-    "language": "Rust",
-    "name": "llmmanorg/llmman",
-    "stars": 495,
-    "updated_at": "2026-09-14T10:10:52Z",
-    "url": "https://github.com/llmmanorg/llmman"
   }
 ]

@@ -1,5 +1,41 @@
 [
   {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 34,
+    "updated_at": "2026-09-17T00:00:29Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
+    "id": "FerroxLabs/wayland",
+    "language": "TypeScript",
+    "name": "FerroxLabs/wayland",
+    "stars": 608,
+    "updated_at": "2026-09-17T00:00:33Z",
+    "url": "https://github.com/FerroxLabs/wayland"
+  },
+  {
+    "description": "Documentation-driven development workflow for Claude Code and Codex.",
+    "id": "limonequantistico/docsygen",
+    "language": "Python",
+    "name": "limonequantistico/docsygen",
+    "stars": 0,
+    "updated_at": "2026-09-17T00:00:23Z",
+    "url": "https://github.com/limonequantistico/docsygen"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-09-17T00:00:19Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -7,6 +43,15 @@
     "stars": 41,
     "updated_at": "2026-09-17T00:00:15Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "The agent that grows with you",
+    "id": "NousResearch/hermes-agent",
+    "language": "Python",
+    "name": "NousResearch/hermes-agent",
+    "stars": 246194,
+    "updated_at": "2026-09-17T00:00:32Z",
+    "url": "https://github.com/NousResearch/hermes-agent"
   },
   {
     "description": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing ",
@@ -52,15 +97,6 @@
     "stars": 4,
     "updated_at": "2026-09-16T23:59:46Z",
     "url": "https://github.com/hotdocx/emdash"
-  },
-  {
-    "description": "The agent that grows with you",
-    "id": "NousResearch/hermes-agent",
-    "language": "Python",
-    "name": "NousResearch/hermes-agent",
-    "stars": 246194,
-    "updated_at": "2026-09-17T00:00:10Z",
-    "url": "https://github.com/NousResearch/hermes-agent"
   },
   {
     "description": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-16T23:56:50Z",
     "url": "https://github.com/calebnewtonusc/Chewbacca"
-  },
-  {
-    "description": "MCP memory server for Claude Code, Cursor, and any MCP client. Pure Go. Single binary.",
-    "id": "wcatz/ghost",
-    "language": "Go",
-    "name": "wcatz/ghost",
-    "stars": 2,
-    "updated_at": "2026-09-16T23:56:34Z",
-    "url": "https://github.com/wcatz/ghost"
-  },
-  {
-    "description": "Operating layer for a multi-vendor agent fleet: security posture, mechanical guards, postmortems, and working agreements",
-    "id": "sanlee-ys/agent-ops",
-    "language": "Python",
-    "name": "sanlee-ys/agent-ops",
-    "stars": 0,
-    "updated_at": "2026-09-16T23:56:05Z",
-    "url": "https://github.com/sanlee-ys/agent-ops"
-  },
-  {
-    "description": "A desktop pet that knows what Claude Code is doing: it types while the agent iterates and pops a speech bubble when it f",
-    "id": "DecoudJuan/Claude-pet",
-    "language": "JavaScript",
-    "name": "DecoudJuan/Claude-pet",
-    "stars": 0,
-    "updated_at": "2026-09-16T23:55:56Z",
-    "url": "https://github.com/DecoudJuan/Claude-pet"
-  },
-  {
-    "description": "Persistent session memory for AI coding agents \u2014 local-first, with on-device inference, associative recall, and drift de",
-    "id": "dcostenco/prism-coder",
-    "language": "TypeScript",
-    "name": "dcostenco/prism-coder",
-    "stars": 157,
-    "updated_at": "2026-09-16T23:56:21Z",
-    "url": "https://github.com/dcostenco/prism-coder"
   }
 ]

@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 5,
+    "updated_at": "2026-09-22T05:44:55Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Autonomous AI Code Editor 2026 - Spec-Driven Debugging & Refactoring Tool",
+    "id": "vishnu1432/spec-driven-ai-assistant",
+    "language": "HTML",
+    "name": "vishnu1432/spec-driven-ai-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-22T05:44:52Z",
+    "url": "https://github.com/vishnu1432/spec-driven-ai-assistant"
+  },
+  {
+    "description": "ZCode/Claude Code skill: read, edit, analyse and export presentations with an HTML-editable workflow. deck.json is the s",
+    "id": "zhouyiyulibaitian/zcode-pptx-skill",
+    "language": "Python",
+    "name": "zhouyiyulibaitian/zcode-pptx-skill",
+    "stars": 0,
+    "updated_at": "2026-09-22T05:44:51Z",
+    "url": "https://github.com/zhouyiyulibaitian/zcode-pptx-skill"
+  },
+  {
+    "description": "Tutor persistente que vive en un repositorio: mide tu nivel con evidencia, se entrena con tus PDFs y con la web, y no te",
+    "id": "AlejandroVegaFullstackDev/ai-skill-coach",
+    "language": "\u2014",
+    "name": "AlejandroVegaFullstackDev/ai-skill-coach",
+    "stars": 0,
+    "updated_at": "2026-09-22T05:44:51Z",
+    "url": "https://github.com/AlejandroVegaFullstackDev/ai-skill-coach"
+  },
+  {
     "description": "A new kind of IDE for agentic engineering",
     "id": "fwdai/fletch",
     "language": "Rust",
@@ -243,15 +279,6 @@
     "url": "https://github.com/toying78/supremeworkflow-orchestrator"
   },
   {
-    "description": "Tutor persistente que vive en un repositorio: mide tu nivel con evidencia, se entrena con tus PDFs y con la web, y no te",
-    "id": "AlejandroVegaFullstackDev/ai-skill-coach",
-    "language": "\u2014",
-    "name": "AlejandroVegaFullstackDev/ai-skill-coach",
-    "stars": 0,
-    "updated_at": "2026-09-22T05:44:51Z",
-    "url": "https://github.com/AlejandroVegaFullstackDev/ai-skill-coach"
-  },
-  {
     "description": "Una caja es una unidad de trabajo con un goal declarado encima: dentro se convoca a los mejores expertos disponibles par",
     "id": "BeyondTheProtocol/polaris",
     "language": "Python",
@@ -409,7 +436,7 @@
     "id": "stablyai/orca",
     "language": "TypeScript",
     "name": "stablyai/orca",
-    "stars": 74896,
+    "stars": 74897,
     "updated_at": "2026-09-22T05:41:22Z",
     "url": "https://github.com/stablyai/orca"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-22T05:41:19Z",
     "url": "https://github.com/denis5u/reel-mind-map"
-  },
-  {
-    "description": "Cross-vendor messaging for CLI AI coding agents \u2014 let Claude Code, Codex, Gemini & Copilot talk to each other in one tea",
-    "id": "fujibee/agmsg",
-    "language": "Shell",
-    "name": "fujibee/agmsg",
-    "stars": 1514,
-    "updated_at": "2026-09-22T05:41:17Z",
-    "url": "https://github.com/fujibee/agmsg"
-  },
-  {
-    "description": "Deep Code Review 2026: 22+ AI Agents for Flawless GitHub Repos",
-    "id": "4ll4nn/opus-review-squad",
-    "language": "HTML",
-    "name": "4ll4nn/opus-review-squad",
-    "stars": 0,
-    "updated_at": "2026-09-22T05:41:16Z",
-    "url": "https://github.com/4ll4nn/opus-review-squad"
-  },
-  {
-    "description": "Self-hosted routing proxy for Claude Code and any Anthropic-format client: nine modes across Anthropic, MiniMax, GLM/z.a",
-    "id": "eroslifestyle/ai-router-switch",
-    "language": "Python",
-    "name": "eroslifestyle/ai-router-switch",
-    "stars": 0,
-    "updated_at": "2026-09-22T05:41:13Z",
-    "url": "https://github.com/eroslifestyle/ai-router-switch"
   }
 ]

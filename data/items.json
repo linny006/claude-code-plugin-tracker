@@ -1,5 +1,104 @@
 [
   {
+    "description": "Remote mobile client to interact with your desktop coding agents anywhere via durable relay",
+    "id": "mantou132/AgentDeck",
+    "language": "TypeScript",
+    "name": "mantou132/AgentDeck",
+    "stars": 2,
+    "updated_at": "2026-09-27T05:45:45Z",
+    "url": "https://github.com/mantou132/AgentDeck"
+  },
+  {
+    "description": "PenguPool \u2014 local session manager for Claude Code and pi",
+    "id": "nduwork/pengutool",
+    "language": "Python",
+    "name": "nduwork/pengutool",
+    "stars": 0,
+    "updated_at": "2026-09-27T05:45:41Z",
+    "url": "https://github.com/nduwork/pengutool"
+  },
+  {
+    "description": "Run a task loop across several CLI coding agents. One controller, ordered roles, one persistent session per role.",
+    "id": "andromarces/agent-loops",
+    "language": "JavaScript",
+    "name": "andromarces/agent-loops",
+    "stars": 0,
+    "updated_at": "2026-09-27T05:45:37Z",
+    "url": "https://github.com/andromarces/agent-loops"
+  },
+  {
+    "description": "AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. Self-hosted! Control your own agents from whe",
+    "id": "agentrq/agentrq",
+    "language": "Go",
+    "name": "agentrq/agentrq",
+    "stars": 1134,
+    "updated_at": "2026-09-27T05:45:36Z",
+    "url": "https://github.com/agentrq/agentrq"
+  },
+  {
+    "description": "",
+    "id": "MacPRITCHARD/codemap",
+    "language": "Go",
+    "name": "MacPRITCHARD/codemap",
+    "stars": 0,
+    "updated_at": "2026-09-27T05:45:35Z",
+    "url": "https://github.com/MacPRITCHARD/codemap"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 37,
+    "updated_at": "2026-09-27T05:45:33Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "RimZ is a realtime dashboard and control room for harnessing agentic coding, build on tmux and Zellij.",
+    "id": "rimio-ai/rimz",
+    "language": "Rust",
+    "name": "rimio-ai/rimz",
+    "stars": 29,
+    "updated_at": "2026-09-27T05:45:25Z",
+    "url": "https://github.com/rimio-ai/rimz"
+  },
+  {
+    "description": "Profile manager and launcher for Claude Code \u2014 run multiple logins from one machine with precise, directory-scoped contr",
+    "id": "ExaDev/claude-use",
+    "language": "TypeScript",
+    "name": "ExaDev/claude-use",
+    "stars": 0,
+    "updated_at": "2026-09-27T05:45:21Z",
+    "url": "https://github.com/ExaDev/claude-use"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Streamline your requirements management process with this plugin, guiding you from ideas to action while ensuring tra",
+    "id": "mamiaijf/requirements-expert",
+    "language": "\u2014",
+    "name": "mamiaijf/requirements-expert",
+    "stars": 2,
+    "updated_at": "2026-09-27T05:45:18Z",
+    "url": "https://github.com/mamiaijf/requirements-expert"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 6,
+    "updated_at": "2026-09-27T05:45:17Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 48,
+    "updated_at": "2026-09-27T05:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
     "description": "Agente de Claude Code que analiza tu canal de YouTube con datos reales y etiqueta cada cifra seg\u00fan su procedencia. 28 he",
     "id": "lorena-bordonaba-pau/youtube-agent",
     "language": "Python",
@@ -349,104 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-27T05:41:52Z",
     "url": "https://github.com/skhan75/tailf.nvim"
-  },
-  {
-    "description": "Voice for Claude Code on Windows, native Rust: Claude talks back (a voice per session, with a glass player to pause, ski",
-    "id": "nx01-600/claudeTalk",
-    "language": "Rust",
-    "name": "nx01-600/claudeTalk",
-    "stars": 4,
-    "updated_at": "2026-09-27T05:44:38Z",
-    "url": "https://github.com/nx01-600/claudeTalk"
-  },
-  {
-    "description": "\ud83e\udde0 Experience Avurna, an AI assistant that understands emotion and reasoning for genuine human-like interactions, ideal f",
-    "id": "Bancroftencouraging198/avurna-ai",
-    "language": "\u2014",
-    "name": "Bancroftencouraging198/avurna-ai",
-    "stars": 0,
-    "updated_at": "2026-09-27T05:41:43Z",
-    "url": "https://github.com/Bancroftencouraging198/avurna-ai"
-  },
-  {
-    "description": "Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-",
-    "id": "asgeirtj/system_prompts_leaks",
-    "language": "JavaScript",
-    "name": "asgeirtj/system_prompts_leaks",
-    "stars": 68412,
-    "updated_at": "2026-09-27T05:41:41Z",
-    "url": "https://github.com/asgeirtj/system_prompts_leaks"
-  },
-  {
-    "description": "Open-source agentic substrate for AECO. Apps are text. AI is the runtime.",
-    "id": "aware-aeco/aware",
-    "language": "Rust",
-    "name": "aware-aeco/aware",
-    "stars": 6,
-    "updated_at": "2026-09-27T05:41:35Z",
-    "url": "https://github.com/aware-aeco/aware"
-  },
-  {
-    "description": "notch app for claude code & codex",
-    "id": "sk-ruban/notchi",
-    "language": "Swift",
-    "name": "sk-ruban/notchi",
-    "stars": 1032,
-    "updated_at": "2026-09-27T05:41:32Z",
-    "url": "https://github.com/sk-ruban/notchi"
-  },
-  {
-    "description": "GitHub Agentic Workflows",
-    "id": "github/gh-aw",
-    "language": "Go",
-    "name": "github/gh-aw",
-    "stars": 5186,
-    "updated_at": "2026-09-27T05:44:43Z",
-    "url": "https://github.com/github/gh-aw"
-  },
-  {
-    "description": "Web, Desktop & Mobile client and orchestrator for Codex, Claude Code, OpenCode, Pi, Cursor, Grok, Antigravity, Kimi, Aug",
-    "id": "happier-dev/happier",
-    "language": "TypeScript",
-    "name": "happier-dev/happier",
-    "stars": 1736,
-    "updated_at": "2026-09-27T05:41:27Z",
-    "url": "https://github.com/happier-dev/happier"
-  },
-  {
-    "description": "\ud83d\udce1 Legal free LLM APIs & coding agents \u2014 self-updating, probe-verified twice a week. Free tiers, no-card trials, free mod",
-    "id": "mvalentsev/awesome-free-ai-coding",
-    "language": "Python",
-    "name": "mvalentsev/awesome-free-ai-coding",
-    "stars": 33,
-    "updated_at": "2026-09-27T05:41:18Z",
-    "url": "https://github.com/mvalentsev/awesome-free-ai-coding"
-  },
-  {
-    "description": "AI Marketplace, consisting of plugins provided by Sander Constantin",
-    "id": "SanderBusiness/AI-Marketplace",
-    "language": "HTML",
-    "name": "SanderBusiness/AI-Marketplace",
-    "stars": 0,
-    "updated_at": "2026-09-27T05:41:14Z",
-    "url": "https://github.com/SanderBusiness/AI-Marketplace"
-  },
-  {
-    "description": "Controlled remote computer access for AI \u2014 connect ChatGPT, Claude, Codex and MCP clients to Windows, macOS and Linux.",
-    "id": "yaohuangguan/remote-arc",
-    "language": "TypeScript",
-    "name": "yaohuangguan/remote-arc",
-    "stars": 1,
-    "updated_at": "2026-09-27T05:41:11Z",
-    "url": "https://github.com/yaohuangguan/remote-arc"
-  },
-  {
-    "description": "One source to rule them all: write agents, skills, rules, and hooks once, then sync them to your AI tools.",
-    "id": "Chemaclass/agnostic-ai",
-    "language": "Go",
-    "name": "Chemaclass/agnostic-ai",
-    "stars": 16,
-    "updated_at": "2026-09-27T05:44:06Z",
-    "url": "https://github.com/Chemaclass/agnostic-ai"
   }
 ]

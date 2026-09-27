@@ -1,5 +1,212 @@
 [
   {
+    "description": "Use a Claude Code subscription as a model provider in Pi",
+    "id": "chem/pi-claude-code-provider",
+    "language": "JavaScript",
+    "name": "chem/pi-claude-code-provider",
+    "stars": 26,
+    "updated_at": "2026-09-27T19:15:53Z",
+    "url": "https://github.com/chem/pi-claude-code-provider"
+  },
+  {
+    "description": "Local Go daemon that gives AI tools persistent shared workspace state. Context assembly, multi-provider inference routin",
+    "id": "myrgic/cogos",
+    "language": "Go",
+    "name": "myrgic/cogos",
+    "stars": 2,
+    "updated_at": "2026-09-27T19:15:50Z",
+    "url": "https://github.com/myrgic/cogos"
+  },
+  {
+    "description": "A terminal UI that shows every skill, plugin, and MCP server Claude Code and Codex would load in a project and lets you ",
+    "id": "svyatov/equip",
+    "language": "Go",
+    "name": "svyatov/equip",
+    "stars": 0,
+    "updated_at": "2026-09-27T19:15:51Z",
+    "url": "https://github.com/svyatov/equip"
+  },
+  {
+    "description": "See exactly which instructions your coding agent loads for any file, and what it silently drops. axm resolves CLAUDE.md,",
+    "id": "hazeliscoding/axiomarium",
+    "language": "\u2014",
+    "name": "hazeliscoding/axiomarium",
+    "stars": 0,
+    "updated_at": "2026-09-27T19:15:46Z",
+    "url": "https://github.com/hazeliscoding/axiomarium"
+  },
+  {
+    "description": "Episodio 8 \u00b7 Flutter + Supabase: la app completa, del Supabase local a un proyecto en la nube con la CLI (db push, confi",
+    "id": "brainglab/flutter-supabase-e08-de-local-a-la-nube",
+    "language": "Dart",
+    "name": "brainglab/flutter-supabase-e08-de-local-a-la-nube",
+    "stars": 0,
+    "updated_at": "2026-09-27T19:15:45Z",
+    "url": "https://github.com/brainglab/flutter-supabase-e08-de-local-a-la-nube"
+  },
+  {
+    "description": "Render self-contained Satori .mjs design files to PNG \u2014 any size, no browser. Claude Code skill + CLI + MCP server for O",
+    "id": "ravikovind/snap-x",
+    "language": "JavaScript",
+    "name": "ravikovind/snap-x",
+    "stars": 0,
+    "updated_at": "2026-09-27T19:15:38Z",
+    "url": "https://github.com/ravikovind/snap-x"
+  },
+  {
+    "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-firs",
+    "id": "ypollak2/llm-router",
+    "language": "Python",
+    "name": "ypollak2/llm-router",
+    "stars": 90,
+    "updated_at": "2026-09-27T19:15:38Z",
+    "url": "https://github.com/ypollak2/llm-router"
+  },
+  {
+    "description": "\ud83d\udce6 Unlock the Swift Programming Language with this structured Skill for LLMs, providing complete access to essential Swif",
+    "id": "Shada01245/the-unofficial-swift-programming-language-skill",
+    "language": "Python",
+    "name": "Shada01245/the-unofficial-swift-programming-language-skill",
+    "stars": 2,
+    "updated_at": "2026-09-27T19:15:38Z",
+    "url": "https://github.com/Shada01245/the-unofficial-swift-programming-language-skill"
+  },
+  {
+    "description": "Episodio 7 \u00b7 Flutter + Supabase: borrar la cuenta y sus tareas con una Edge Function; la secret key solo vive en el serv",
+    "id": "brainglab/flutter-supabase-e07-borrar-cuenta",
+    "language": "Dart",
+    "name": "brainglab/flutter-supabase-e07-borrar-cuenta",
+    "stars": 0,
+    "updated_at": "2026-09-27T19:15:37Z",
+    "url": "https://github.com/brainglab/flutter-supabase-e07-borrar-cuenta"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 37,
+    "updated_at": "2026-09-27T19:15:35Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Master project orchestrator featuring Dual Engine (Gentle-AI Integrated ODD vs Standalone), Article ARQ-01 Vertical Slic",
+    "id": "QuantumEdu/q-agent",
+    "language": "Python",
+    "name": "QuantumEdu/q-agent",
+    "stars": 0,
+    "updated_at": "2026-09-27T19:15:32Z",
+    "url": "https://github.com/QuantumEdu/q-agent"
+  },
+  {
+    "description": "Episodio 6 \u00b7 Flutter + Supabase: recuperar la contrase\u00f1a con un c\u00f3digo por correo (resetPasswordForEmail + verifyOTP de ",
+    "id": "brainglab/flutter-supabase-e06-recuperar-contrasena",
+    "language": "Dart",
+    "name": "brainglab/flutter-supabase-e06-recuperar-contrasena",
+    "stars": 0,
+    "updated_at": "2026-09-27T19:15:29Z",
+    "url": "https://github.com/brainglab/flutter-supabase-e06-recuperar-contrasena"
+  },
+  {
+    "description": "RuvNet Brain \u2014 a downloadable, source-grounded brain for Claude Code over Reuven Cohen's (rUv's) RuvNet stack: RuVector/",
+    "id": "stuinfla/ruvnet-brain",
+    "language": "JavaScript",
+    "name": "stuinfla/ruvnet-brain",
+    "stars": 70,
+    "updated_at": "2026-09-27T19:15:29Z",
+    "url": "https://github.com/stuinfla/ruvnet-brain"
+  },
+  {
+    "description": "Session Sitter \u2014 see every coding-agent session, switch in one click, and supervise what they pause on. VS Code extensio",
+    "id": "eranra/session-sitter",
+    "language": "TypeScript",
+    "name": "eranra/session-sitter",
+    "stars": 7,
+    "updated_at": "2026-09-27T19:15:28Z",
+    "url": "https://github.com/eranra/session-sitter"
+  },
+  {
+    "description": "Get an alert on your phone when your coding agent needs you. CLI, agent skill and protocol.",
+    "id": "nobottomline/greatping",
+    "language": "TypeScript",
+    "name": "nobottomline/greatping",
+    "stars": 0,
+    "updated_at": "2026-09-27T19:15:52Z",
+    "url": "https://github.com/nobottomline/greatping"
+  },
+  {
+    "description": "Task coordination for AI coding agents. Create or schedule tasks; agents claim them, branch, code, and open PRs. Mission",
+    "id": "buildd-ai/buildd",
+    "language": "TypeScript",
+    "name": "buildd-ai/buildd",
+    "stars": 1,
+    "updated_at": "2026-09-27T19:15:27Z",
+    "url": "https://github.com/buildd-ai/buildd"
+  },
+  {
+    "description": "Grok Build Desktop (Windows, macOS) + GUI for Grok Build CLI (Grok 4.7; extensions for VS Code, Cursor, and more). New: ",
+    "id": "phuryn/grok-build-vscode",
+    "language": "TypeScript",
+    "name": "phuryn/grok-build-vscode",
+    "stars": 211,
+    "updated_at": "2026-09-27T19:15:26Z",
+    "url": "https://github.com/phuryn/grok-build-vscode"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 6,
+    "updated_at": "2026-09-27T19:15:21Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "\ud83d\udd0d Analyze Ruby and Rails projects with the Claude RubyCritic skill for enhanced code quality insights and metrics.",
+    "id": "thairns/claude-rubycritic-skill",
+    "language": "\u2014",
+    "name": "thairns/claude-rubycritic-skill",
+    "stars": 0,
+    "updated_at": "2026-09-27T19:15:21Z",
+    "url": "https://github.com/thairns/claude-rubycritic-skill"
+  },
+  {
+    "description": "The browser built for AI agents \u2014 fetch live pages as markdown, render JS/SPAs with built-in V8, take screenshots withou",
+    "id": "yinnho/aginxbrowser",
+    "language": "Rust",
+    "name": "yinnho/aginxbrowser",
+    "stars": 32,
+    "updated_at": "2026-09-27T19:15:20Z",
+    "url": "https://github.com/yinnho/aginxbrowser"
+  },
+  {
+    "description": "Episodio 5 \u00b7 Flutter + Supabase: editar y borrar tareas con su pol\u00edtica de RLS, Dismissible y Realtime (que avisa de cad",
+    "id": "brainglab/flutter-supabase-e05-editar-y-borrar",
+    "language": "Dart",
+    "name": "brainglab/flutter-supabase-e05-editar-y-borrar",
+    "stars": 0,
+    "updated_at": "2026-09-27T19:15:20Z",
+    "url": "https://github.com/brainglab/flutter-supabase-e05-editar-y-borrar"
+  },
+  {
+    "description": "",
+    "id": "twuijri/core-hub",
+    "language": "TypeScript",
+    "name": "twuijri/core-hub",
+    "stars": 1,
+    "updated_at": "2026-09-27T19:15:30Z",
+    "url": "https://github.com/twuijri/core-hub"
+  },
+  {
+    "description": "Open-source orchestrator for running Claude Code, Codex, OpenCode and other AI coding agents in parallel \u2014 locally or 24",
+    "id": "open-mercato/cezar",
+    "language": "TypeScript",
+    "name": "open-mercato/cezar",
+    "stars": 253,
+    "updated_at": "2026-09-27T19:15:17Z",
+    "url": "https://github.com/open-mercato/cezar"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -77,7 +284,7 @@
     "language": "Go",
     "name": "weave-os/router",
     "stars": 5330,
-    "updated_at": "2026-09-27T19:14:51Z",
+    "updated_at": "2026-09-27T19:15:42Z",
     "url": "https://github.com/weave-os/router"
   },
   {
@@ -124,15 +331,6 @@
     "stars": 39,
     "updated_at": "2026-09-27T19:14:45Z",
     "url": "https://github.com/IvyYang1999/swob"
-  },
-  {
-    "description": "",
-    "id": "twuijri/core-hub",
-    "language": "TypeScript",
-    "name": "twuijri/core-hub",
-    "stars": 1,
-    "updated_at": "2026-09-27T19:15:16Z",
-    "url": "https://github.com/twuijri/core-hub"
   },
   {
     "description": "A Kanban board your AI agents drive through a CLI and an MCP server, while you watch and approve.",
@@ -250,203 +448,5 @@
     "stars": 173,
     "updated_at": "2026-09-27T19:13:58Z",
     "url": "https://github.com/amirfish1/claude-command-center"
-  },
-  {
-    "description": "Open-source control plane for AI coding agents. Run an AI engineering team: parallel Claude Code, Codex, and Gemini work",
-    "id": "mixpeek/amux",
-    "language": "Rust",
-    "name": "mixpeek/amux",
-    "stars": 505,
-    "updated_at": "2026-09-27T19:13:58Z",
-    "url": "https://github.com/mixpeek/amux"
-  },
-  {
-    "description": "",
-    "id": "Multiplier-Labs/codekin",
-    "language": "TypeScript",
-    "name": "Multiplier-Labs/codekin",
-    "stars": 7,
-    "updated_at": "2026-09-27T19:13:57Z",
-    "url": "https://github.com/Multiplier-Labs/codekin"
-  },
-  {
-    "description": "Desktop monitoring and local security reviews for AI agents, with opt-in policy-controlled execution and MCP action tool",
-    "id": "antropos17/Aegis",
-    "language": "JavaScript",
-    "name": "antropos17/Aegis",
-    "stars": 152,
-    "updated_at": "2026-09-27T19:14:45Z",
-    "url": "https://github.com/antropos17/Aegis"
-  },
-  {
-    "description": "\u041f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u043a\u043e\u043d\u0442\u0440\u0430\u0433\u0435\u043d\u0442\u0430 \u043f\u043e \u0418\u041d\u041d \u0432 AI-\u0430\u0433\u0435\u043d\u0442\u0435: \u0441\u0432\u0435\u0442\u043e\u0444\u043e\u0440 \u0440\u0438\u0441\u043a\u0430 \u043f\u043e \u0440\u0435\u0435\u0441\u0442\u0440\u0430\u043c \u0415\u0413\u0420\u042e\u041b/\u0424\u0421\u0421\u041f/\u0441\u0443\u0434\u043e\u0432/\u0431\u0430\u043d\u043a\u0440\u043e\u0442\u0441\u0442\u0432, \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u0430\u044f \u043f\u0430\u0442\u043e\u043b\u043e\u0433\u0438\u044f \u043a\u043e",
-    "id": "ilyautov/inn-check-ru",
-    "language": "Python",
-    "name": "ilyautov/inn-check-ru",
-    "stars": 1,
-    "updated_at": "2026-09-27T19:13:55Z",
-    "url": "https://github.com/ilyautov/inn-check-ru"
-  },
-  {
-    "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose pe",
-    "id": "Gentleman-Programming/gentle-ai",
-    "language": "Go",
-    "name": "Gentleman-Programming/gentle-ai",
-    "stars": 7340,
-    "updated_at": "2026-09-27T19:15:10Z",
-    "url": "https://github.com/Gentleman-Programming/gentle-ai"
-  },
-  {
-    "description": "Your agent fills, you decide. A gate ledger for spec-driven engineering: every decision arrives as a one-tap brief - on ",
-    "id": "mb-89/quackitect",
-    "language": "JavaScript",
-    "name": "mb-89/quackitect",
-    "stars": 0,
-    "updated_at": "2026-09-27T19:14:11Z",
-    "url": "https://github.com/mb-89/quackitect"
-  },
-  {
-    "description": "Demonstration of AI review of existing functional annotations",
-    "id": "ai4curation/ai-gene-review",
-    "language": "HTML",
-    "name": "ai4curation/ai-gene-review",
-    "stars": 24,
-    "updated_at": "2026-09-27T19:13:50Z",
-    "url": "https://github.com/ai4curation/ai-gene-review"
-  },
-  {
-    "description": "Deterministic, LLM-free task tracker CLI \u2014 the record layer coding agents and humans write to.",
-    "id": "opum-ai/quest-cli",
-    "language": "TypeScript",
-    "name": "opum-ai/quest-cli",
-    "stars": 0,
-    "updated_at": "2026-09-27T19:13:50Z",
-    "url": "https://github.com/opum-ai/quest-cli"
-  },
-  {
-    "description": "My personal, ever-growing collection of AI skills for OpenCode and Claude Code. Enforces strict clean architecture and p",
-    "id": "ralvarezdev/ralvaskills",
-    "language": "Go",
-    "name": "ralvarezdev/ralvaskills",
-    "stars": 2,
-    "updated_at": "2026-09-27T19:13:44Z",
-    "url": "https://github.com/ralvarezdev/ralvaskills"
-  },
-  {
-    "description": "\ud83e\udd16 Streamline AI integration with OneMCP, the open-source runtime that simplifies API usage through a natural-language in",
-    "id": "rifkimaulana05/onemcp",
-    "language": "Java",
-    "name": "rifkimaulana05/onemcp",
-    "stars": 0,
-    "updated_at": "2026-09-27T19:13:39Z",
-    "url": "https://github.com/rifkimaulana05/onemcp"
-  },
-  {
-    "description": "AI-Powered B2B Outreach Plugin 2026: Persistent Briefing & 40 Skills for Claude Code",
-    "id": "juniorbaixista4/b2b-outreach-orchestrator",
-    "language": "HTML",
-    "name": "juniorbaixista4/b2b-outreach-orchestrator",
-    "stars": 4,
-    "updated_at": "2026-09-27T19:13:36Z",
-    "url": "https://github.com/juniorbaixista4/b2b-outreach-orchestrator"
-  },
-  {
-    "description": "Safety net for AI-assisted coding. Records a working baseline, detects regressions after AI edits, and preserves your un",
-    "id": "ZAKI-MUHAMAD-FADILAH/safe-change",
-    "language": "TypeScript",
-    "name": "ZAKI-MUHAMAD-FADILAH/safe-change",
-    "stars": 1,
-    "updated_at": "2026-09-27T19:13:36Z",
-    "url": "https://github.com/ZAKI-MUHAMAD-FADILAH/safe-change"
-  },
-  {
-    "description": "Evidence-first process skills for coding agents: codebase analysis, solution design, minimal implementation plans",
-    "id": "tony-adamson/groundwork",
-    "language": "JavaScript",
-    "name": "tony-adamson/groundwork",
-    "stars": 3,
-    "updated_at": "2026-09-27T19:13:34Z",
-    "url": "https://github.com/tony-adamson/groundwork"
-  },
-  {
-    "description": "Self-hosted agentic OS \u2014 a Vibe-Engineering platform for Builders. Connect Claude Code, Codex or Hermes Agent to Discord",
-    "id": "CorvinLabs/CorvinOS",
-    "language": "Python",
-    "name": "CorvinLabs/CorvinOS",
-    "stars": 11,
-    "updated_at": "2026-09-27T19:13:32Z",
-    "url": "https://github.com/CorvinLabs/CorvinOS"
-  },
-  {
-    "description": "MeowOps AI Analytics Dashboard 2026 - Self-Hosted Gamified Cody Colony & Pomodoro Timing",
-    "id": "herminio234/claw-track",
-    "language": "HTML",
-    "name": "herminio234/claw-track",
-    "stars": 0,
-    "updated_at": "2026-09-27T19:13:32Z",
-    "url": "https://github.com/herminio234/claw-track"
-  },
-  {
-    "description": "\ud83e\udd9c Automate your development projects effortlessly with this AI-powered assistant, supporting multiple frameworks like Go",
-    "id": "JohnnyChe/lazy-bird",
-    "language": "Java",
-    "name": "JohnnyChe/lazy-bird",
-    "stars": 1,
-    "updated_at": "2026-09-27T19:13:28Z",
-    "url": "https://github.com/JohnnyChe/lazy-bird"
-  },
-  {
-    "description": "Multi-agent orchestration system for Claude Code with parallel execution, automated quality gates, Board of Directors, a",
-    "id": "Ibrahim-3d/orchestrator-supaconductor",
-    "language": "Python",
-    "name": "Ibrahim-3d/orchestrator-supaconductor",
-    "stars": 378,
-    "updated_at": "2026-09-27T19:14:00Z",
-    "url": "https://github.com/Ibrahim-3d/orchestrator-supaconductor"
-  },
-  {
-    "description": "Structured Thinking for Claude Code 2026 \u2013 Ask, Search, Verify Before You Build",
-    "id": "zuya48/claude-code-prompt-plan",
-    "language": "HTML",
-    "name": "zuya48/claude-code-prompt-plan",
-    "stars": 1,
-    "updated_at": "2026-09-27T19:13:22Z",
-    "url": "https://github.com/zuya48/claude-code-prompt-plan"
-  },
-  {
-    "description": "Get an alert on your phone when your coding agent needs you. CLI, agent skill and protocol.",
-    "id": "nobottomline/greatping",
-    "language": "\u2014",
-    "name": "nobottomline/greatping",
-    "stars": 0,
-    "updated_at": "2026-09-27T19:13:12Z",
-    "url": "https://github.com/nobottomline/greatping"
-  },
-  {
-    "description": "Full AI context and content layer for coding agents over one MCP server \u2014 tree-sitter code-map, document RAG, shared mem",
-    "id": "Goldziher/basemind",
-    "language": "Rust",
-    "name": "Goldziher/basemind",
-    "stars": 102,
-    "updated_at": "2026-09-27T19:13:13Z",
-    "url": "https://github.com/Goldziher/basemind"
-  },
-  {
-    "description": "A terminal UI that shows every skill, plugin, and MCP server Claude Code and Codex would load in a project and lets you ",
-    "id": "svyatov/equip",
-    "language": "Go",
-    "name": "svyatov/equip",
-    "stars": 0,
-    "updated_at": "2026-09-27T19:13:59Z",
-    "url": "https://github.com/svyatov/equip"
-  },
-  {
-    "description": "Local control plane for Claude Code: see every session, approve permission prompts from one queue, delegate tasks to hea",
-    "id": "atretyak1985/swarmery",
-    "language": "Go",
-    "name": "atretyak1985/swarmery",
-    "stars": 7,
-    "updated_at": "2026-09-27T19:13:07Z",
-    "url": "https://github.com/atretyak1985/swarmery"
   }
 ]

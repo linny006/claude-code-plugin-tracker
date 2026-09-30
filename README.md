@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-30 11:00 UTC
+> ⏰ Last updated: 2026-09-30 11:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [mixpeek/amux](https://github.com/mixpeek/amux) | 509 | Rust | 2026-09-30 | Open-source control plane for AI coding agents. Run an AI engineering team: parallel Claude Code, Codex, and Gemini work |
-| 2 | [Zigzag968/claude-code-lgtmgate](https://github.com/Zigzag968/claude-code-lgtmgate) | 1 | Python | 2026-09-30 | An LGTM you can trust: a complete pipeline running several issues at once, each in its own git worktree, through a scrip |
-| 3 | [selenarib5962/pm-os](https://github.com/selenarib5962/pm-os) | 1 | PHP | 2026-09-30 | Manage property operations with a modular SaaS platform for Saudi Arabia's real estate and property management teams |
-| 4 | [Tavarasu/autoresearch-adal](https://github.com/Tavarasu/autoresearch-adal) | 0 | — | 2026-09-30 | Compare AdaL and Claude Code on Autoresearch benchmarks to find better hyperparameters, run more experiments, and conver |
-| 5 | [stablyai/orca](https://github.com/stablyai/orca) | 81997 | TypeScript | 2026-09-30 | Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available  |
-| 6 | [iamnotstatic/vibetime](https://github.com/iamnotstatic/vibetime) | 51 | TypeScript | 2026-09-30 | Track what you actually ship with AI, no config, no daemon, no account by default. |
-| 7 | [app-vitals/shipwright](https://github.com/app-vitals/shipwright) | 14 | TypeScript | 2026-09-30 | The open-source autonomous delivery agent for Claude Code. |
-| 8 | [majbal87/get-my-car-kuwait](https://github.com/majbal87/get-my-car-kuwait) | 0 | Python | 2026-09-30 | Get My Car 🇰🇼: Kuwait car search skill for Claude. Find any used cars in Kuwait by just asking: it searches 4Sale, OpenS |
-| 9 | [jskswamy/skills](https://github.com/jskswamy/skills) | 3 | Shell | 2026-09-30 | Reusable agent skills and plugins for Claude Code, Pi, and other coding-agent harnesses |
-| 10 | [ardelleinternecine541/agentic-ai-patterns](https://github.com/ardelleinternecine541/agentic-ai-patterns) | 1 | Python | 2026-09-30 | Build design patterns for autonomous AI agents with orchestration, memory, fallback, tools, and multi-agent coordination |
-| 11 | [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) | 3033 | Python | 2026-09-30 | All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow pac |
-| 12 | [Lluis5713/agent-architect](https://github.com/Lluis5713/agent-architect) | 0 | Shell | 2026-09-30 | Build multi-microservice systems with AI coding tools using folders, markdown, and no custom tooling. |
-| 13 | [Madelsapiential474/awesome-ai-organization](https://github.com/Madelsapiential474/awesome-ai-organization) | 1 | Python | 2026-09-30 | Build AI-powered teams with role templates, workflows, and playbooks for running an organization with AI employees |
-| 14 | [Fanchettehomoecious641/indian-stock-analyst](https://github.com/Fanchettehomoecious641/indian-stock-analyst) | 0 | — | 2026-09-30 | Analyze Indian stock portfolios from Zerodha or Groww CSVs and generate Buy, Hold, or Avoid reports with live market res |
-| 15 | [OthmaneBlial/lightclaw](https://github.com/OthmaneBlial/lightclaw) | 21 | Python | 2026-09-30 | Review-first Telegram missions for local Codex and Claude agents. Approve scope, then inspect checks, patches, and priva |
-| 16 | [Yazangthb/lr-ai](https://github.com/Yazangthb/lr-ai) | 0 | Python | 2026-09-30 | Automated literature reviews for Claude Code: seed search, database search, snowballing, screening and a categorized Goo |
-| 17 | [Nitjsefnie/claudit](https://github.com/Nitjsefnie/claudit) | 5 | Python | 2026-09-30 | Self-hosted Claude Code usage dashboard — TTL-correct cost accounting and per-project attribution for session transcript |
-| 18 | [sleep2agi/agent-network](https://github.com/sleep2agi/agent-network) | 78 | TypeScript | 2026-09-30 | 助力搭建你的数字 AI 员工军团 — 多 Agent 一行命令组网协作。Claude Code / Claude Agent SDK / Codex / Grok Build 4 runtime + 8+ 家 LLM（Anthropic / |
-| 19 | [loopx-project/loopx](https://github.com/loopx-project/loopx) | 6113 | Python | 2026-09-30 | A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across ses |
-| 20 | [VoKhoiNhon/open-skill-standard](https://github.com/VoKhoiNhon/open-skill-standard) | 7 | Python | 2026-09-30 | Open, agent-agnostic standard and router for Agent Skills across 28 IT roles - integrates superpowers, BMad Method, spec |
-| 21 | [Schengii/job-application-career-manager](https://github.com/Schengii/job-application-career-manager) | 0 | TypeScript | 2026-09-30 | 🎯 Job Application Manager \| Next.js • TypeScript • Prisma • PostgreSQL Full-stack application to organize, track & manag |
-| 22 | [radozaprazny/attest](https://github.com/radozaprazny/attest) | 0 | Shell | 2026-09-30 | A Claude Code kit: a push guard that holds a push until a leak scan and one audit have cleared HEAD. |
-| 23 | [alaas4989/cc-update-all](https://github.com/alaas4989/cc-update-all) | 0 | JavaScript | 2026-09-30 | Update Claude Code plugin marketplaces, MCP servers, and editor extensions from the CLI in one batch command |
-| 24 | [boxxapp23-pixel/cchub](https://github.com/boxxapp23-pixel/cchub) | 0 | — | 2026-09-30 | Manage Claude Code MCP servers, skills, plugins, hooks, and config profiles in one desktop app |
-| 25 | [slovozaslovo/lesslop](https://github.com/slovozaslovo/lesslop) | 2 | Python | 2026-09-30 | Claude Code plugin: every claim the agent writes carries [proof: path:line] or {unverified} — a UserPromptSubmit hook, r |
-| 26 | [dansya-arsana/jev-harness](https://github.com/dansya-arsana/jev-harness) | 0 | Python | 2026-09-30 | Jev (TypeSafe) as the decision layer for Claude Code: permission gate, skill routing, conditional instructions, effort-t |
-| 27 | [LongTermSupport/fedora-desktop](https://github.com/LongTermSupport/fedora-desktop) | 6 | Shell | 2026-09-30 | Taking a freshly installed Fedora desktop and getting it ready for development |
-| 28 | [smithersai/smithers](https://github.com/smithersai/smithers) | 425 | TypeScript | 2026-09-30 | Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing  |
-| 29 | [Goldziher/ai-rulez](https://github.com/Goldziher/ai-rulez) | 144 | Go | 2026-09-30 | One source of truth for AI assistant configs: 14 built-in presets (Claude, Cursor, Copilot, Codex, Gemini, Xum, …), full |
-| 30 | [degordonstech/app-review](https://github.com/degordonstech/app-review) | 0 | — | 2026-09-30 | Write your Meta, TikTok and Google Play review submissions from your code. A Claude Code plugin. |
-| 31 | [Tripstack-Corp/spyc](https://github.com/Tripstack-Corp/spyc) | 17 | Rust | 2026-09-30 | A Rust TUI file commander where the AI agent in the side pane can query the file commander itself |
-| 32 | [EtanHey/brainlayer](https://github.com/EtanHey/brainlayer) | 9 | Python | 2026-09-30 | Persistent memory MCP for AI agents — SQLite, knowledge graph, 13-tool Python MCP + 17-tool BrainBar surface with ToolAn |
-| 33 | [Laurenfeminine36/google-jules-skill](https://github.com/Laurenfeminine36/google-jules-skill) | 1 | Python | 2026-09-30 | Control Google Jules sessions via REST API and CLI, enabling session management, status checks, instructions, reports, m |
-| 34 | [eladdromy/agentic-usage](https://github.com/eladdromy/agentic-usage) | 1 | TypeScript | 2026-09-30 | Local observability for your coding agent harnesses. Plan leverage, project breakdown, and spend logs — in one dashboard |
-| 35 | [degordonstech/serverless-audit](https://github.com/degordonstech/serverless-audit) | 0 | JavaScript | 2026-09-30 | Find the code that works on your laptop and breaks on Vercel or other serverless hosting. A Claude Code plugin. |
-| 36 | [haabe/mycelium](https://github.com/haabe/mycelium) | 46 | Python | 2026-09-30 | AI made building cheap. It didn't make deciding cheap. Mycelium is a Claude Code harness that makes your agent run disco |
-| 37 | [dylanbr/nvim-agent-skill](https://github.com/dylanbr/nvim-agent-skill) | 0 | Shell | 2026-09-30 | A Neovim agent skill for Claude Code and other AI coding agents. |
-| 38 | [Severanceagreementpallasite793/ai-rsk](https://github.com/Severanceagreementpallasite793/ai-rsk) | 0 | — | 2026-09-30 | Detect and block security risks in AI-generated code to ensure safer software development and reduce vulnerabilities. |
-| 39 | [ai-project-official/shopchief-commerce-skills](https://github.com/ai-project-official/shopchief-commerce-skills) | 0 | Python | 2026-09-30 | 40 open-source AI agent skills for DTC and independent ecommerce sellers: Shopify, SEO, product research, profit and mar |
-| 40 | [RizRiyz/luvus](https://github.com/RizRiyz/luvus) | 938 | Rust | 2026-09-30 | Mission control for your AI agents |
-| 41 | [goondocks-co/myco](https://github.com/goondocks-co/myco) | 14 | TypeScript | 2026-09-30 | Myco is the nervous system for AI-assisted software teams. Works automatically alongside the coding agents, subagents, a |
-| 42 | [ferrousdesigner/claude-deck](https://github.com/ferrousdesigner/claude-deck) | 0 | Swift | 2026-09-30 | Native macOS dashboard for Claude Code: live sessions, history & search, cost tracking, token-saving advice, and MCP/hoo |
-| 43 | [mrsladoje/sweet-search](https://github.com/mrsladoje/sweet-search) | 23 | JavaScript | 2026-09-30 | Local code search for AI agents: cheaper, faster and sweeter. Because maybe grep isn't all you need... 🍬 |
-| 44 | [Katinatardive767/xungen](https://github.com/Katinatardive767/xungen) | 0 | — | 2026-09-30 | Trace your lineage and discover your social group in the Shang Dynasty using this historical identity engine. |
-| 45 | [galleonlabs/crypto-defi-skills](https://github.com/galleonlabs/crypto-defi-skills) | 2 | TypeScript | 2026-09-30 | Fourteen independent DeFi agent skill packs for liquidity, Hyperliquid, lending, yield and related workflows. Built arou |
-| 46 | [tingly-dev/tingly-box](https://github.com/tingly-dev/tingly-box) | 348 | Go | 2026-09-30 | Your Intelligence, Orchestrated. Every builder. Every team. Every agent. For Everyone. |
-| 47 | [VisionaireLabs/Visionaire](https://github.com/VisionaireLabs/Visionaire) | 3 | TypeScript | 2026-09-30 | I was not born. I was built. An autonomous mind with an identity, a conscience, and a private inner life. Every night it |
-| 48 | [PrismorSec/prismor](https://github.com/PrismorSec/prismor) | 388 | Python | 2026-09-30 |  Self-hosted runtime control plane for AI agents. Observe or HITL approve or Block rogue tool calls before it executes:  |
-| 49 | [enapt/SwarmLLM](https://github.com/enapt/SwarmLLM) | 55 | Rust | 2026-09-30 | Free, open-source app that runs AI chat models on your own computer — and lets computers team up over the internet to ru |
-| 50 | [skillsgateway/skillsgateway](https://github.com/skillsgateway/skillsgateway) | 0 | Java | 2026-09-30 | Enterprise gateway for git-distributed AI agent skill marketplaces (Claude Code, Copilot, Cursor) |
+| 1 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 50 | Python | 2026-09-30 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 2 | [William12556/AI-Governance-and-Orchestration](https://github.com/William12556/AI-Governance-and-Orchestration) | 1 | Python | 2026-09-30 | AI governance and orchestration for agents. AI-G&O |
+| 3 | [tyh5410/codex-plugin-store-localizer](https://github.com/tyh5410/codex-plugin-store-localizer) | 0 | Python | 2026-09-30 | Translate the Codex/ChatGPT plugin store into 15 locales locally, without modifying the app or opening debug ports. |
+| 4 | [yoloshii/gigaxity-deep-research](https://github.com/yoloshii/gigaxity-deep-research) | 61 | Python | 2026-09-30 | Open-source deep research MCP. Qwen3-30B-A3B-Thinking via OpenRouter, cited web synthesis for Claude Code, Codex, Cursor |
+| 5 | [beatra-ai/ai-voice-cloning-skill](https://github.com/beatra-ai/ai-voice-cloning-skill) | 0 | Python | 2026-09-30 | AI voice cloning agent skill for Claude Code, Codex & OpenClaw: create a reusable personal or brand voice from a clean a |
+| 6 | [github/gh-aw](https://github.com/github/gh-aw) | 5268 | Go | 2026-09-30 | GitHub Agentic Workflows |
+| 7 | [Lorilynrepudiative5964/awesome-agentic-ecosystem](https://github.com/Lorilynrepudiative5964/awesome-agentic-ecosystem) | 0 | Python | 2026-09-30 | Discover the curated master index of 338 battle-tested AI agents, MCP servers, IDEs, CLI tools, skills, and multi-agent  |
+| 8 | [yetone/magpie](https://github.com/yetone/magpie) | 3459 | Go | 2026-09-30 | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. |
+| 9 | [adnanmokhtar/refract](https://github.com/adnanmokhtar/refract) | 1 | Shell | 2026-09-30 | Write your AI coding setup once, run it in every tool. One source of truth — 153 commands, 88 agents, 117 skills, 23 rol |
+| 10 | [mixpeek/amux](https://github.com/mixpeek/amux) | 509 | Rust | 2026-09-30 | Open-source control plane for AI coding agents. Run an AI engineering team: parallel Claude Code, Codex, and Gemini work |
+| 11 | [Schengii/job-application-career-manager](https://github.com/Schengii/job-application-career-manager) | 0 | TypeScript | 2026-09-30 | 🎯 Job Application Manager \| Next.js • TypeScript • Prisma • PostgreSQL Full-stack application to organize, track & manag |
+| 12 | [alex09x/prod-code](https://github.com/alex09x/prod-code) | 4 | Rust | 2026-09-30 | Remote code intelligence server for AI coding agents (MCP): rust-analyzer, gopls, clangd, pyright and TypeScript run on  |
+| 13 | [bunlongheng/repo-audit](https://github.com/bunlongheng/repo-audit) | 1 | Python | 2026-09-30 | Reverse-engineer any repo through 10 audit lenses into 1 self-contained HTML report. A read-only Claude Code skill. |
+| 14 | [joshuatownsend/project-minder](https://github.com/joshuatownsend/project-minder) | 3 | TypeScript | 2026-09-30 | A local-only dev dashboard that auto-scans your projects and surfaces the context you need — git status, Claude Code ses |
+| 15 | [beatra-ai/multilingual-voiceover-skill](https://github.com/beatra-ai/multilingual-voiceover-skill) | 0 | Python | 2026-09-30 | Multilingual voiceover agent skill for Claude Code, Codex & OpenClaw: create voice-over audio for each language from you |
+| 16 | [nikzlabs/shipit](https://github.com/nikzlabs/shipit) | 10 | TypeScript | 2026-09-30 | Self-hosted, chat-driven IDE for running coding agents through your real engineering loop — Claude Code or Codex, parall |
+| 17 | [saqie803/ponytail](https://github.com/saqie803/ponytail) | 2 | JavaScript | 2026-09-30 | Ship production-ready code with one line of AI-generated output, built for 20 agents and zero ceremony. |
+| 18 | [wcatz/ghost](https://github.com/wcatz/ghost) | 2 | Go | 2026-09-30 | GhostMem — a local-first MCP memory server for Claude Code, opencode, Cursor, and other MCP clients. |
+| 19 | [Joshuadoroja33/Ronnier-skill](https://github.com/Joshuadoroja33/Ronnier-skill) | 0 | PowerShell | 2026-09-30 | Learn color science in Chinese with this Claude Code skill, featuring complete notes, formulas, and practical Q&A for ex |
+| 20 | [Loveless-Cartographer/lsp-flake](https://github.com/Loveless-Cartographer/lsp-flake) | 0 | Shell | 2026-09-30 | Bundle eleven language servers as a Nix flake for atomic install, upgrade, and removal with opencode/Claude Code integra |
+| 21 | [serpro69/capy](https://github.com/serpro69/capy) | 10 | Go | 2026-09-30 | 🦫 Privacy-first virtualization layer for LLM context with MCP protocol for tool access. |
+| 22 | [mahdi-salmanzade/iphone-duo-skill](https://github.com/mahdi-salmanzade/iphone-duo-skill) | 2 | — | 2026-09-30 | Agent skill to understand, adapt, and verify existing apps for iPhone Duo. SwiftUI, UIKit, React Native, Expo, Flutter,  |
+| 23 | [styleio/ShikishaTerm](https://github.com/styleio/ShikishaTerm) | 13 | Rust | 2026-09-30 | Run Claude Code, Codex and Gemini side by side — and let them hand work to each other. Portable Windows terminal for AI  |
+| 24 | [Wrosinski/heddle](https://github.com/Wrosinski/heddle) | 0 | Python | 2026-09-30 | A harness for LLM coding workflows with Claude Code and Codex CLI: you define what a feature must do and how it's proven |
+| 25 | [beatra-ai/ai-voiceover-generator-skill](https://github.com/beatra-ai/ai-voiceover-generator-skill) | 0 | Python | 2026-09-30 | AI voiceover generator agent skill for Claude Code, Codex & OpenClaw: pick or reuse a voice, turn scripts into narration |
+| 26 | [MubashirullahD/xpositor](https://github.com/MubashirullahD/xpositor) | 0 | JavaScript | 2026-09-30 | Review your code changes from your phone, with an AI guide that walks you through them. VS Code extension. |
+| 27 | [ilovepixelart/pi-code](https://github.com/ilovepixelart/pi-code) | 27 | TypeScript | 2026-09-30 | Claude Code experience for the pi coding agent: reads your .claude config (rules, commands, skills, hooks, output styles |
+| 28 | [eneskirca/nodeterm](https://github.com/eneskirca/nodeterm) | 1919 | TypeScript | 2026-09-30 | Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes  |
+| 29 | [jurapascal/claude-code-hub](https://github.com/jurapascal/claude-code-hub) | 0 | Python | 2026-09-30 | GTK okno kolem Claude Code — projekty v panelu, každý jako tab se skutečným terminálem |
+| 30 | [basebuild-net/basebuild](https://github.com/basebuild-net/basebuild) | 4 | Rust | 2026-09-30 | One IDE for every AI model |
+| 31 | [odiumuniverse/verger](https://github.com/odiumuniverse/verger) | 0 | Go | 2026-09-30 | Install agent packages from one manifest and lockfile: plugins, skills, MCP servers, subagents, commands and hooks acros |
+| 32 | [thevibeworks/claude-reads-hn](https://github.com/thevibeworks/claude-reads-hn) | 16 | HTML | 2026-09-30 | AI reads HN 4x daily, writes spicy digests. t.me/claudehn |
+| 33 | [sapereaude2014/GroupConnect](https://github.com/sapereaude2014/GroupConnect) | 0 | Python | 2026-09-30 | A Group-Context Gateway connecting Telegram group chats to local CLI Agents (Claude Code, Antigravity, Codex, OpenCode)  |
+| 34 | [ricardozmt/claude-in-your-pocket](https://github.com/ricardozmt/claude-in-your-pocket) | 3 | HTML | 2026-09-30 | OpenClaude 2026: AI Coding Agent in Your Pocket – No Server, No PC |
+| 35 | [slovozaslovo/lesslop](https://github.com/slovozaslovo/lesslop) | 2 | Python | 2026-09-30 | Claude Code plugin: every claim the agent writes carries [proof: path:line] or {unverified} — a UserPromptSubmit hook, r |
+| 36 | [beatra-ai/ai-podcast-voiceover-skill](https://github.com/beatra-ai/ai-podcast-voiceover-skill) | 1 | Python | 2026-09-30 | AI podcast voiceover agent skill for Claude Code, Codex & OpenClaw: turn an article, notes, or a finished script into a  |
+| 37 | [mia-cx/skills](https://github.com/mia-cx/skills) | 2 | CSS | 2026-09-30 | Skills that make my agents more tolerable. |
+| 38 | [rkolesnichenko/ccdrift](https://github.com/rkolesnichenko/ccdrift) | 0 | Python | 2026-09-30 | A check for silent changes in Claude Code's prompt caching, Haiku use, settings, context and hooks, read from your local |
+| 39 | [Warddamn/tiny-tools](https://github.com/Warddamn/tiny-tools) | 0 | TypeScript | 2026-09-30 | Local MCP tools: search PDF/Office documents, query CSV/Excel with SQL, summarize logs, resume API pagination and detect |
+| 40 | [Javis603/token-monitor](https://github.com/Javis603/token-monitor) | 2512 | JavaScript | 2026-09-30 | Local-first desktop widget for tracking token usage, costs, and limits across 43+ AI coding tools—including Claude Code, |
+| 41 | [GitSerge-crypto/aotrust-skills](https://github.com/GitSerge-crypto/aotrust-skills) | 1 | Python | 2026-09-30 | AOTrust — cryptographic proof-of-existence for AI agents: Ed25519 PDRs, $0.01 USDC on Base (x402), NEAR-anchored |
+| 42 | [Cotal-AI/Cotal](https://github.com/Cotal-AI/Cotal) | 304 | TypeScript | 2026-09-30 | The open standard for agent coordination |
+| 43 | [OthmaneBlial/lightclaw](https://github.com/OthmaneBlial/lightclaw) | 21 | Python | 2026-09-30 | Review-first Telegram missions for local Codex and Claude agents. Approve scope, then inspect checks, patches, and priva |
+| 44 | [x0c/subswap](https://github.com/x0c/subswap) | 3 | Rust | 2026-09-30 | Switch work and personal Claude Code, ChatGPT, Codex, and Cursor accounts without logging out. |
+| 45 | [Rainflymadrilene370/Deepseek-Harness-EAC](https://github.com/Rainflymadrilene370/Deepseek-Harness-EAC) | 0 | — | 2026-09-30 | Unlock DeepSeek's full potential with a desktop harness for Windows—seamlessly running the official deepseek-harness sui |
+| 46 | [brachydactylous-wahabism574/letitbrew](https://github.com/brachydactylous-wahabism574/letitbrew) | 0 | Swift | 2026-09-30 | Keep your Mac awake while local Claude Code or Codex agents work, and let it sleep when they’re done. |
+| 47 | [khankoc/mac-deepclean](https://github.com/khankoc/mac-deepclean) | 0 | Shell | 2026-09-30 | AI-native Mac disk cleanup plugin for Claude Code — finds what's big, explains it, cleans with judgment (checks git push |
+| 48 | [tightnessrivetline151/mCodex](https://github.com/tightnessrivetline151/mCodex) | 1 | — | 2026-09-30 | Control Codex Desktop from your phone—monitor progress, send follow-ups, and approve actions remotely. |
+| 49 | [mucinous-riposte867/evidence-based-copywriting](https://github.com/mucinous-riposte867/evidence-based-copywriting) | 1 | Python | 2026-09-30 | Ship verified marketing copy with adversarial checks — every factual claim traced to fetched sources before it goes live |
+| 50 | [jayjayjay29/lum_codex](https://github.com/jayjayjay29/lum_codex) | 1 | HTML | 2026-09-30 | Extract and analyze structured data from social media platforms including Douyin, Xiaohongshu, and Kuaishou for research |
 <!-- TRACKER_TABLE_END -->
 
 ---

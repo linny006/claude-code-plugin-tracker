@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-01 05:15 UTC
+> ⏰ Last updated: 2026-10-01 05:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [GeiserX/akou](https://github.com/GeiserX/akou) | 3 | TypeScript | 2026-10-01 | The open-source alternative to Granola. Records your calls on macOS, Windows and Linux, transcribes them on your own mac |
-| 2 | [elopstudio/elop-crew](https://github.com/elopstudio/elop-crew) | 4 | HTML | 2026-10-01 | ELOP Crew ? the AI Agent Monitor for Claude Code: a local dashboard and desktop app for every Claude Code session on you |
-| 3 | [MohammedAl-Alimi/agent-security-playbook](https://github.com/MohammedAl-Alimi/agent-security-playbook) | 0 | — | 2026-10-01 | Defense-in-depth security rules AI coding agents can follow, and verify. 25 rule chapters, checklists, drop-in CLAUDE.md |
-| 4 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 50 | Python | 2026-10-01 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
-| 5 | [elementscode/demo-proofloft](https://github.com/elementscode/demo-proofloft) | 0 | HTML | 2026-10-01 | Private photo galleries where clients heart favorites and comment live, and the photographer downloads the chosen file n |
-| 6 | [elementscode/demo-keystoop](https://github.com/elementscode/demo-keystoop) | 0 | TypeScript | 2026-10-01 | Search homes by price, beds, baths, type and neighborhood, request showings, save homes and searches with email alerts,  |
-| 7 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 250394 | Python | 2026-10-01 | The agent that grows with you |
-| 8 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | 27535 | Swift | 2026-10-01 | Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitaski |
-| 9 | [aibtcdev/aibtc-mcp-server](https://github.com/aibtcdev/aibtc-mcp-server) | 10 | TypeScript | 2026-10-01 | Bitcoin-native MCP server for AI agents: BTC/STX wallets, DeFi yield, sBTC peg, NFTs, and x402 payments. |
-| 10 | [runkids/skillshare-app](https://github.com/runkids/skillshare-app) | 19 | TypeScript | 2026-10-01 | 📟 A desktop app for skillshare CLI |
-| 11 | [codecast-sh/codecast](https://github.com/codecast-sh/codecast) | 34 | TypeScript | 2026-10-01 | See, steer, and remember every coding agent session — Claude Code, Codex, Cursor, Gemini. Team memory, live steering fro |
-| 12 | [halfmoon-mind/pi-halfmoon-setup](https://github.com/halfmoon-mind/pi-halfmoon-setup) | 0 | TypeScript | 2026-10-01 | Personal pi package: a classify-once model router and role-based subagents, with Claude run through the claude CLI |
-| 13 | [app-vitals/shipwright](https://github.com/app-vitals/shipwright) | 14 | TypeScript | 2026-10-01 | The open-source autonomous delivery agent for Claude Code. |
-| 14 | [LunarWerxs/AgentHydra](https://github.com/LunarWerxs/AgentHydra) | 50 | TypeScript | 2026-10-01 | Every local AI coding session in one tab: Claude Code, Codex and OpenCode in a single list, with a queue you can schedul |
-| 15 | [elementscode/demo-hirepin](https://github.com/elementscode/demo-hirepin) | 0 | HTML | 2026-10-01 | Remote jobs filtered by category, type and salary, a weekly new-jobs email, and $99 listings paid by card, $50 more to f |
-| 16 | [nuttaruj/rolepod](https://github.com/nuttaruj/rolepod) | 3 | Shell | 2026-10-01 | Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) — 16 specialist ag |
-| 17 | [lukacf/meerkat](https://github.com/lukacf/meerkat) | 20 | Rust | 2026-10-01 | Meerkat - A modular, high-performance agent harness built in Rust. |
-| 18 | [samzong/gmc](https://github.com/samzong/gmc) | 28 | Go | 2026-10-01 | Parallel git worktrees for parallel AI agents — plus AI-generated commits. |
-| 19 | [yktsnet/dotfiles-public](https://github.com/yktsnet/dotfiles-public) | 1 | Shell | 2026-10-01 | A two-phase development lifecycle for AI-agent collaboration: spec-driven bootstrap, guarantee-driven maintenance — on N |
-| 20 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 74199 | Python | 2026-10-01 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% |
-| 21 | [SkYn3t-Lab/skinflint](https://github.com/SkYn3t-Lab/skinflint) | 2 | Shell | 2026-10-01 | skinflint: shorter answers, leaner code and trimmed tool output for Claude Code. Zero dependencies. |
-| 22 | [SquareWaveSystems/squarebox](https://github.com/SquareWaveSystems/squarebox) | 74 | Shell | 2026-10-01 | A curated set of modern CLI/TUI tools and AI coding assistants in a container. Batteries included. |
-| 23 | [elementscode/demo-applyfold](https://github.com/elementscode/demo-applyfold) | 0 | HTML | 2026-10-01 | A careers page with PDF resume uploads, a drag-and-drop pipeline board for each job, and interview scorecards, all live. |
-| 24 | [agigante80/forge-kit](https://github.com/agigante80/forge-kit) | 0 | Shell | 2026-10-01 | forge-adapt reads your codebase and installs adapted governance tools — ticket gates, code reviewers, security auditors, |
-| 25 | [elementscode/demo-snapgrove](https://github.com/elementscode/demo-snapgrove) | 0 | TypeScript | 2026-10-01 | Profiles with a grid of photos, follows, a home feed that keeps scrolling, likes and comments that update live, notifica |
-| 26 | [Yash-Sukhdeve/universal-workflow-system](https://github.com/Yash-Sukhdeve/universal-workflow-system) | 0 | Shell | 2026-10-01 | A domain-agnostic, git-based workflow system with intelligent agents and skills for reproducible research and developmen |
-| 27 | [elementscode/demo-gavelrush](https://github.com/elementscode/demo-gavelrush) | 0 | HTML | 2026-10-01 | Lots with photos and countdowns, bids at a set increment, late bids that extend the close, outbid emails, and pay-by-car |
-| 28 | [elementscode/demo-pallethaven](https://github.com/elementscode/demo-pallethaven) | 0 | HTML | 2026-10-01 | Stock levels with low-stock flags and movement history, purchase orders emailed to suppliers and received line by line,  |
-| 29 | [oleg-chibikov/agent-skills](https://github.com/oleg-chibikov/agent-skills) | 1 | Shell | 2026-10-01 | Writing, code review and pull request skills for coding agents. One installer, any agent, your choice of review language |
-| 30 | [strukto-ai/mirage](https://github.com/strukto-ai/mirage) | 3672 | TypeScript | 2026-10-01 | The World's First Virtual Terminal for AI Agents |
-| 31 | [aashay21/orbit](https://github.com/aashay21/orbit) | 0 | TypeScript | 2026-10-01 | A local-first Kanban board with a night-sky UI, status reports, Teams notifications and Claude Code integration. |
-| 32 | [jedarden/claude-print](https://github.com/jedarden/claude-print) | 5 | Rust | 2026-10-01 | Drop-in replacement for claude -p that drives the interactive TUI via PTY, preserving subscription billing |
-| 33 | [albertwujj/agent-term](https://github.com/albertwujj/agent-term) | 7 | JavaScript | 2026-10-01 | A terminal expanded for the way you work with agents. Claude Code, Codex, Cursor CLI, and more. macOS and Windows/WSL. F |
-| 34 | [brettdavies/xurl-rs-skill](https://github.com/brettdavies/xurl-rs-skill) | 1 | Shell | 2026-10-01 | Agent skill bundle for xurl-rs . The X (Twitter) CLI for agents |
-| 35 | [belov38/software-factory](https://github.com/belov38/software-factory) | 0 | — | 2026-10-01 | Software as a Prompt: prompts your coding agent follows to install a coding-agent factory on your infrastructure |
-| 36 | [Alhnzgrr/unity-claude-kit](https://github.com/Alhnzgrr/unity-claude-kit) | 0 | JavaScript | 2026-10-01 | A Claude Code plugin for Unity: reads the project's real configuration into the session, refuses the edits that silently |
-| 37 | [HatriGt/agent-sandbox](https://github.com/HatriGt/agent-sandbox) | 0 | TypeScript | 2026-10-01 | A cloud sandbox for coding agents, on your own server. Start a run from the dashboard, from any agentic IDE (Cursor, Cla |
-| 38 | [elementscode/demo-slotnook](https://github.com/elementscode/demo-slotnook) | 0 | HTML | 2026-10-01 | Meeting types, weekly hours and date overrides, booking pages shown in each guest's own time zone, and emailed calendar  |
-| 39 | [elementscode/demo-packpass](https://github.com/elementscode/demo-packpass) | 0 | HTML | 2026-10-01 | Class packs and memberships by card, a weekly schedule with spots left, waitlists that book the next member, and live ro |
-| 40 | [chenyuxiaojin/chenyuxiaojin](https://github.com/chenyuxiaojin/chenyuxiaojin) | 9 | — | 2026-10-01 | 陈与小金的 GitHub 主页：AI 落地、Claude Code、Codex 与真实工作流 |
-| 41 | [elementscode/demo-millrow](https://github.com/elementscode/demo-millrow) | 0 | HTML | 2026-10-01 | Coffee by collection with size and grind variants, guest checkout by card, order and shipping emails with tracking, and  |
-| 42 | [Blave-TW/blave-agent](https://github.com/Blave-TW/blave-agent) | 86 | Python | 2026-10-01 | Quant infrastructure for AI agents — a free, open-source macOS workspace where your Claude Code or Codex turns a trading |
-| 43 | [benjaminstelzer/scoville-ui](https://github.com/benjaminstelzer/scoville-ui) | 0 | — | 2026-10-01 | Implement and review interfaces through their framework and design system. |
-| 44 | [gakonst/nanocodex](https://github.com/gakonst/nanocodex) | 539 | Rust | 2026-10-01 | Building blocks for frontier OpenAI agents in Rust. Nanocodex empowers you with Codex-level performance anywhere. |
-| 45 | [theyashgupta/dispatch](https://github.com/theyashgupta/dispatch) | 2 | TypeScript | 2026-10-01 | Drag a ticket. Dispatch an agent. A local kanban board that turns Linear tickets into live Claude Code sessions in isola |
-| 46 | [tmcinerney/pyportal-ai-usage](https://github.com/tmcinerney/pyportal-ai-usage) | 0 | Python | 2026-10-01 | A PyPortal dashboard for Claude Code and Codex usage |
-| 47 | [IvanWng97/pixtuoid](https://github.com/IvanWng97/pixtuoid) | 485 | Rust | 2026-10-01 | Terminal pixel-art office for AI coding agents |
-| 48 | [KyaniteLabs/kinocut](https://github.com/KyaniteLabs/kinocut) | 180 | Python | 2026-10-01 | Guardrailed video editing MCP server for AI agents. FFmpeg, Hyperframes, repurposing tools, Python client, and CLI. Loca |
-| 49 | [marsmike/agentic-toolkit](https://github.com/marsmike/agentic-toolkit) | 1 | Python | 2026-10-01 | A GenAI unisphere for your notes — u-shadow agents, a gaiafield knowledge graph and farsight search over one Obsidian va |
-| 50 | [Ablation-Tool/ablation](https://github.com/Ablation-Tool/ablation) | 54 | Python | 2026-10-01 | Ablation is a reverse engineering framework |
+| 1 | [elementscode/demo-dealwren](https://github.com/elementscode/demo-dealwren) | 0 | HTML | 2026-10-01 | Contacts, companies and deals on a drag-and-drop pipeline board, with deal timelines, follow-up tasks, a morning task em |
+| 2 | [elementscode/demo-timesheaf](https://github.com/elementscode/demo-timesheaf) | 0 | HTML | 2026-10-01 | Live timers, a week view of hours per project, billable reports by client and person, and invoices clients pay by card. |
+| 3 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 50 | Python | 2026-10-01 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 4 | [elementscode/demo-rolloutly](https://github.com/elementscode/demo-rolloutly) | 0 | HTML | 2026-10-01 | Deploy pipelines with streaming logs, production rollbacks, live service health, and charts of deploys per day, build ti |
+| 5 | [elementscode/demo-lecturemint](https://github.com/elementscode/demo-lecturemint) | 0 | TypeScript | 2026-10-01 | Course pages with covers and prices, card checkout, lesson videos with notes and progress, questions answered live, and  |
+| 6 | [elementscode/demo-raisemeter](https://github.com/elementscode/demo-raisemeter) | 0 | TypeScript | 2026-10-01 | Campaigns with a story, cover photo and live progress bar, card donations on a donor wall, emailed receipts, and updates |
+| 7 | [elementscode/demo-commitvane](https://github.com/elementscode/demo-commitvane) | 0 | TypeScript | 2026-10-01 | Reps update deals and submit weekly calls. Managers track commit, best case and weighted pipeline against quota in live  |
+| 8 | [elementscode/demo-tickwell](https://github.com/elementscode/demo-tickwell) | 0 | HTML | 2026-10-01 | Keyed issues on a drag-and-drop board and a filtered list, with comment threads, a full change history, assignment email |
+| 9 | [elementscode/demo-leaseleaf](https://github.com/elementscode/demo-leaseleaf) | 0 | TypeScript | 2026-10-01 | Tenants pay rent by card or autopay and report repairs with photos. The landlord sees a live rent roll and a repair queu |
+| 10 | [elementscode/demo-checkmoss](https://github.com/elementscode/demo-checkmoss) | 0 | HTML | 2026-10-01 | Open challenges at 3+2, 5+0 and 10+0, live games with clocks and legal moves, spectators, ratings and replays. |
+| 11 | [elementscode/demo-quizlight](https://github.com/elementscode/demo-quizlight) | 0 | TypeScript | 2026-10-01 | Hosts build quizzes and run them on a big screen. Players join from their phones with a code, race the countdown, and se |
+| 12 | [elementscode/demo-launchkiln](https://github.com/elementscode/demo-launchkiln) | 0 | HTML | 2026-10-01 | A home page with pricing and FAQ, a blog, and a waitlist where referral links move people up the list live, plus an admi |
+| 13 | [elementscode/demo-proofloft](https://github.com/elementscode/demo-proofloft) | 0 | HTML | 2026-10-01 | Private photo galleries where clients heart favorites and comment live, and the photographer downloads the chosen file n |
+| 14 | [elementscode/demo-thriftledger](https://github.com/elementscode/demo-thriftledger) | 0 | HTML | 2026-10-01 | Bank accounts, CSV import that skips duplicates, rules that categorize, monthly budgets and spending reports. |
+| 15 | [elementscode/demo-bytestall](https://github.com/elementscode/demo-bytestall) | 0 | HTML | 2026-10-01 | Card checkout with just an email, a five-use download link, a buyer library, and a creator dashboard with live sales. |
+| 16 | [elementscode/demo-kinroster](https://github.com/elementscode/demo-kinroster) | 0 | HTML | 2026-10-01 | Grocery lists sorted by aisle, chores with a weekly points tally, and a dinner plan that fills the list, live on every p |
+| 17 | [OthmaneBlial/lightclaw](https://github.com/OthmaneBlial/lightclaw) | 21 | Python | 2026-10-01 | 🐾 Phone-sized missions for local Codex and Claude Code. Approve the plan, then inspect tests, patches, and receipts. |
+| 18 | [elementscode/demo-pallethaven](https://github.com/elementscode/demo-pallethaven) | 0 | HTML | 2026-10-01 | Stock levels with low-stock flags and movement history, purchase orders emailed to suppliers and received line by line,  |
+| 19 | [elementscode/demo-awaywell](https://github.com/elementscode/demo-awaywell) | 0 | TypeScript | 2026-10-01 | Request time off, approve it with a comment, track balances by type, and see who is out on a live team calendar with .ic |
+| 20 | [elementscode/demo-threadmoor](https://github.com/elementscode/demo-threadmoor) | 0 | HTML | 2026-10-01 | Topics with photos, quoted replies, likes, marked solutions, live topic lists, a daily digest and moderator tools. |
+| 21 | [elementscode/demo-applyfold](https://github.com/elementscode/demo-applyfold) | 0 | HTML | 2026-10-01 | A careers page with PDF resume uploads, a drag-and-drop pipeline board for each job, and interview scorecards, all live. |
+| 22 | [elementscode/demo-keystoop](https://github.com/elementscode/demo-keystoop) | 0 | TypeScript | 2026-10-01 | Search homes by price, beds, baths, type and neighborhood, request showings, save homes and searches with email alerts,  |
+| 23 | [elementscode/demo-packpass](https://github.com/elementscode/demo-packpass) | 0 | HTML | 2026-10-01 | Class packs and memberships by card, a weekly schedule with spots left, waitlists that book the next member, and live ro |
+| 24 | [Adrian333Dev/flow](https://github.com/Adrian333Dev/flow) | 7 | JavaScript | 2026-10-01 | An opinionated workflow for solo developers. Turns scattered ideas into tracked, finished work. Runs on Claude Code; Cod |
+| 25 | [marsmike/agentic-toolkit](https://github.com/marsmike/agentic-toolkit) | 1 | Python | 2026-10-01 | A GenAI unisphere for your notes — u-shadow agents, a gaiafield knowledge graph and farsight search over one Obsidian va |
+| 26 | [elementscode/demo-swapmeadow](https://github.com/elementscode/demo-swapmeadow) | 0 | TypeScript | 2026-10-01 | Photo listings, priced or free, neighborhood search, buyer-seller threads, live pending and sold, and saved search email |
+| 27 | [elementscode/demo-hirepin](https://github.com/elementscode/demo-hirepin) | 0 | HTML | 2026-10-01 | Remote jobs filtered by category, type and salary, a weekly new-jobs email, and $99 listings paid by card, $50 more to f |
+| 28 | [elementscode/demo-gavelrush](https://github.com/elementscode/demo-gavelrush) | 0 | HTML | 2026-10-01 | Lots with photos and countdowns, bids at a set increment, late bids that extend the close, outbid emails, and pay-by-car |
+| 29 | [Ablation-Tool/ablation](https://github.com/Ablation-Tool/ablation) | 54 | Python | 2026-10-01 | Ablation is a reverse engineering framework |
+| 30 | [ShunmeiCho/cc-clip](https://github.com/ShunmeiCho/cc-clip) | 162 | Go | 2026-10-01 | Paste images into remote Claude Code & Codex CLI over SSH — clipboard bridging for macOS and Windows. |
+| 31 | [elementscode/demo-snapgrove](https://github.com/elementscode/demo-snapgrove) | 0 | TypeScript | 2026-10-01 | Profiles with a grid of photos, follows, a home feed that keeps scrolling, likes and comments that update live, notifica |
+| 32 | [5dive-ai/5dive](https://github.com/5dive-ai/5dive) | 62 | Shell | 2026-10-01 | Run a company of AI agents on a server you own. Spin up named agents (claude, codex, pi…), put them on an org chart with |
+| 33 | [elementscode/demo-slotnook](https://github.com/elementscode/demo-slotnook) | 0 | HTML | 2026-10-01 | Meeting types, weekly hours and date overrides, booking pages shown in each guest's own time zone, and emailed calendar  |
+| 34 | [ConfabulousDev/confab-web](https://github.com/ConfabulousDev/confab-web) | 15 | Go | 2026-10-01 | Open-source session management platform for Claude Code and Codex — analytics, AI recaps, sharing, and team features. Se |
+| 35 | [vibhasjain/agent-keyboard](https://github.com/vibhasjain/agent-keyboard) | 5 | TypeScript | 2026-10-01 | A prompt bar that edits the site it's on — ask for a change; a real Claude Code session edits the repo and pushes to mai |
+| 36 | [Hedde/trigger_tree](https://github.com/Hedde/trigger_tree) | 15 | Python | 2026-10-01 | Documentation-discovery telemetry for Claude Code — heat/cold maps, health grade, evidence-backed router fixes. 100% loc |
+| 37 | [elopstudio/elop-crew](https://github.com/elopstudio/elop-crew) | 4 | HTML | 2026-10-01 | ELOP Crew ? the AI Agent Monitor for Claude Code: a local dashboard and desktop app for every Claude Code session on you |
+| 38 | [yetone/magpie](https://github.com/yetone/magpie) | 3869 | Go | 2026-10-01 | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar. |
+| 39 | [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) | 3037 | Python | 2026-10-01 | All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow pac |
+| 40 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 250397 | Python | 2026-10-01 | The agent that grows with you |
+| 41 | [automatedworkflowllc-design/locust-releases](https://github.com/automatedworkflowllc-design/locust-releases) | 1 | — | 2026-10-01 | Locust: AI teammates, on the models you pick. Claude Code, Codex, Cursor, Copilot and OpenCode side by side on Windows.  |
+| 42 | [Shada01245/the-unofficial-swift-programming-language-skill](https://github.com/Shada01245/the-unofficial-swift-programming-language-skill) | 2 | Python | 2026-10-01 | 📦 Unlock the Swift Programming Language with this structured Skill for LLMs, providing complete access to essential Swif |
+| 43 | [muthuishere/ctx-optimize](https://github.com/muthuishere/ctx-optimize) | 0 | Go | 2026-10-01 | A deterministic code knowledge graph for coding agents — one static Go binary indexes code, routes, dependencies, k8s &  |
+| 44 | [thairns/claude-rubycritic-skill](https://github.com/thairns/claude-rubycritic-skill) | 0 | — | 2026-10-01 | 🔍 Analyze Ruby and Rails projects with the Claude RubyCritic skill for enhanced code quality insights and metrics. |
+| 45 | [elementscode/demo-millrow](https://github.com/elementscode/demo-millrow) | 0 | HTML | 2026-10-01 | Coffee by collection with size and grind variants, guest checkout by card, order and shipping emails with tracking, and  |
+| 46 | [mblauberg/provenant](https://github.com/mblauberg/provenant) | 1 | Python | 2026-10-01 | Portable equal-primary Claude and Codex agent harness for a governed agentic SDLC |
+| 47 | [ssap-pa/self-learning-agent-setup](https://github.com/ssap-pa/self-learning-agent-setup) | 0 | JavaScript | 2026-10-01 | Make your AI agent learn from every approve / edit / reject. Postgres + pgvector schema, Claude Code/Codex prompts, and  |
+| 48 | [ShaitanLyss/volery](https://github.com/ShaitanLyss/volery) | 1 | TypeScript | 2026-10-01 | Direct a whole studio of Claude Code agents from one wall — see at a glance who's working, who's asking, and who's been  |
+| 49 | [ysys143/xsm](https://github.com/ysys143/xsm) | 3 | Python | 2026-10-01 | xsm (Cross-Session Messaging): let running Claude Code and Codex sessions find each other and exchange messages |
+| 50 | [LunarWerxs/AgentHydra](https://github.com/LunarWerxs/AgentHydra) | 50 | TypeScript | 2026-10-01 | Every local AI coding session in one tab: Claude Code, Codex and OpenCode in a single list, with a queue you can schedul |
 <!-- TRACKER_TABLE_END -->
 
 ---

@@ -1,30 +1,21 @@
 [
   {
-    "description": "The open-source alternative to Granola. Records your calls on macOS, Windows and Linux, transcribes them on your own mac",
-    "id": "GeiserX/akou",
-    "language": "TypeScript",
-    "name": "GeiserX/akou",
-    "stars": 3,
-    "updated_at": "2026-10-01T05:15:20Z",
-    "url": "https://github.com/GeiserX/akou"
-  },
-  {
-    "description": "ELOP Crew ? the AI Agent Monitor for Claude Code: a local dashboard and desktop app for every Claude Code session on you",
-    "id": "elopstudio/elop-crew",
+    "description": "Contacts, companies and deals on a drag-and-drop pipeline board, with deal timelines, follow-up tasks, a morning task em",
+    "id": "elementscode/demo-dealwren",
     "language": "HTML",
-    "name": "elopstudio/elop-crew",
-    "stars": 4,
-    "updated_at": "2026-10-01T05:15:19Z",
-    "url": "https://github.com/elopstudio/elop-crew"
+    "name": "elementscode/demo-dealwren",
+    "stars": 0,
+    "updated_at": "2026-10-01T05:30:16Z",
+    "url": "https://github.com/elementscode/demo-dealwren"
   },
   {
-    "description": "Defense-in-depth security rules AI coding agents can follow, and verify. 25 rule chapters, checklists, drop-in CLAUDE.md",
-    "id": "MohammedAl-Alimi/agent-security-playbook",
-    "language": "\u2014",
-    "name": "MohammedAl-Alimi/agent-security-playbook",
+    "description": "Live timers, a week view of hours per project, billable reports by client and person, and invoices clients pay by card.",
+    "id": "elementscode/demo-timesheaf",
+    "language": "HTML",
+    "name": "elementscode/demo-timesheaf",
     "stars": 0,
-    "updated_at": "2026-10-01T05:15:17Z",
-    "url": "https://github.com/MohammedAl-Alimi/agent-security-playbook"
+    "updated_at": "2026-10-01T05:30:15Z",
+    "url": "https://github.com/elementscode/demo-timesheaf"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -32,8 +23,89 @@
     "language": "Python",
     "name": "linny006/trending-claude-skills",
     "stars": 50,
-    "updated_at": "2026-10-01T05:15:14Z",
+    "updated_at": "2026-10-01T05:30:15Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Deploy pipelines with streaming logs, production rollbacks, live service health, and charts of deploys per day, build ti",
+    "id": "elementscode/demo-rolloutly",
+    "language": "HTML",
+    "name": "elementscode/demo-rolloutly",
+    "stars": 0,
+    "updated_at": "2026-10-01T05:30:15Z",
+    "url": "https://github.com/elementscode/demo-rolloutly"
+  },
+  {
+    "description": "Course pages with covers and prices, card checkout, lesson videos with notes and progress, questions answered live, and ",
+    "id": "elementscode/demo-lecturemint",
+    "language": "TypeScript",
+    "name": "elementscode/demo-lecturemint",
+    "stars": 0,
+    "updated_at": "2026-10-01T05:30:15Z",
+    "url": "https://github.com/elementscode/demo-lecturemint"
+  },
+  {
+    "description": "Campaigns with a story, cover photo and live progress bar, card donations on a donor wall, emailed receipts, and updates",
+    "id": "elementscode/demo-raisemeter",
+    "language": "TypeScript",
+    "name": "elementscode/demo-raisemeter",
+    "stars": 0,
+    "updated_at": "2026-10-01T05:30:13Z",
+    "url": "https://github.com/elementscode/demo-raisemeter"
+  },
+  {
+    "description": "Reps update deals and submit weekly calls. Managers track commit, best case and weighted pipeline against quota in live ",
+    "id": "elementscode/demo-commitvane",
+    "language": "TypeScript",
+    "name": "elementscode/demo-commitvane",
+    "stars": 0,
+    "updated_at": "2026-10-01T05:30:13Z",
+    "url": "https://github.com/elementscode/demo-commitvane"
+  },
+  {
+    "description": "Keyed issues on a drag-and-drop board and a filtered list, with comment threads, a full change history, assignment email",
+    "id": "elementscode/demo-tickwell",
+    "language": "HTML",
+    "name": "elementscode/demo-tickwell",
+    "stars": 0,
+    "updated_at": "2026-10-01T05:30:12Z",
+    "url": "https://github.com/elementscode/demo-tickwell"
+  },
+  {
+    "description": "Tenants pay rent by card or autopay and report repairs with photos. The landlord sees a live rent roll and a repair queu",
+    "id": "elementscode/demo-leaseleaf",
+    "language": "TypeScript",
+    "name": "elementscode/demo-leaseleaf",
+    "stars": 0,
+    "updated_at": "2026-10-01T05:30:11Z",
+    "url": "https://github.com/elementscode/demo-leaseleaf"
+  },
+  {
+    "description": "Open challenges at 3+2, 5+0 and 10+0, live games with clocks and legal moves, spectators, ratings and replays.",
+    "id": "elementscode/demo-checkmoss",
+    "language": "HTML",
+    "name": "elementscode/demo-checkmoss",
+    "stars": 0,
+    "updated_at": "2026-10-01T05:30:11Z",
+    "url": "https://github.com/elementscode/demo-checkmoss"
+  },
+  {
+    "description": "Hosts build quizzes and run them on a big screen. Players join from their phones with a code, race the countdown, and se",
+    "id": "elementscode/demo-quizlight",
+    "language": "TypeScript",
+    "name": "elementscode/demo-quizlight",
+    "stars": 0,
+    "updated_at": "2026-10-01T05:30:10Z",
+    "url": "https://github.com/elementscode/demo-quizlight"
+  },
+  {
+    "description": "A home page with pricing and FAQ, a blog, and a waitlist where referral links move people up the list live, plus an admi",
+    "id": "elementscode/demo-launchkiln",
+    "language": "HTML",
+    "name": "elementscode/demo-launchkiln",
+    "stars": 0,
+    "updated_at": "2026-10-01T05:30:08Z",
+    "url": "https://github.com/elementscode/demo-launchkiln"
   },
   {
     "description": "Private photo galleries where clients heart favorites and comment live, and the photographer downloads the chosen file n",
@@ -41,206 +113,44 @@
     "language": "HTML",
     "name": "elementscode/demo-proofloft",
     "stars": 0,
-    "updated_at": "2026-10-01T05:15:14Z",
+    "updated_at": "2026-10-01T05:30:08Z",
     "url": "https://github.com/elementscode/demo-proofloft"
   },
   {
-    "description": "Search homes by price, beds, baths, type and neighborhood, request showings, save homes and searches with email alerts, ",
-    "id": "elementscode/demo-keystoop",
-    "language": "TypeScript",
-    "name": "elementscode/demo-keystoop",
+    "description": "Bank accounts, CSV import that skips duplicates, rules that categorize, monthly budgets and spending reports.",
+    "id": "elementscode/demo-thriftledger",
+    "language": "HTML",
+    "name": "elementscode/demo-thriftledger",
     "stars": 0,
-    "updated_at": "2026-10-01T05:15:08Z",
-    "url": "https://github.com/elementscode/demo-keystoop"
+    "updated_at": "2026-10-01T05:30:08Z",
+    "url": "https://github.com/elementscode/demo-thriftledger"
   },
   {
-    "description": "The agent that grows with you",
-    "id": "NousResearch/hermes-agent",
+    "description": "Card checkout with just an email, a five-use download link, a buyer library, and a creator dashboard with live sales.",
+    "id": "elementscode/demo-bytestall",
+    "language": "HTML",
+    "name": "elementscode/demo-bytestall",
+    "stars": 0,
+    "updated_at": "2026-10-01T05:30:08Z",
+    "url": "https://github.com/elementscode/demo-bytestall"
+  },
+  {
+    "description": "Grocery lists sorted by aisle, chores with a weekly points tally, and a dinner plan that fills the list, live on every p",
+    "id": "elementscode/demo-kinroster",
+    "language": "HTML",
+    "name": "elementscode/demo-kinroster",
+    "stars": 0,
+    "updated_at": "2026-10-01T05:30:06Z",
+    "url": "https://github.com/elementscode/demo-kinroster"
+  },
+  {
+    "description": "\ud83d\udc3e Phone-sized missions for local Codex and Claude Code. Approve the plan, then inspect tests, patches, and receipts.",
+    "id": "OthmaneBlial/lightclaw",
     "language": "Python",
-    "name": "NousResearch/hermes-agent",
-    "stars": 250394,
-    "updated_at": "2026-10-01T05:15:07Z",
-    "url": "https://github.com/NousResearch/hermes-agent"
-  },
-  {
-    "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitaski",
-    "id": "manaflow-ai/cmux",
-    "language": "Swift",
-    "name": "manaflow-ai/cmux",
-    "stars": 27535,
-    "updated_at": "2026-10-01T05:15:02Z",
-    "url": "https://github.com/manaflow-ai/cmux"
-  },
-  {
-    "description": "Bitcoin-native MCP server for AI agents: BTC/STX wallets, DeFi yield, sBTC peg, NFTs, and x402 payments.",
-    "id": "aibtcdev/aibtc-mcp-server",
-    "language": "TypeScript",
-    "name": "aibtcdev/aibtc-mcp-server",
-    "stars": 10,
-    "updated_at": "2026-10-01T05:15:12Z",
-    "url": "https://github.com/aibtcdev/aibtc-mcp-server"
-  },
-  {
-    "description": "\ud83d\udcdf A desktop app for skillshare CLI",
-    "id": "runkids/skillshare-app",
-    "language": "TypeScript",
-    "name": "runkids/skillshare-app",
-    "stars": 19,
-    "updated_at": "2026-10-01T05:15:09Z",
-    "url": "https://github.com/runkids/skillshare-app"
-  },
-  {
-    "description": "See, steer, and remember every coding agent session \u2014 Claude Code, Codex, Cursor, Gemini. Team memory, live steering fro",
-    "id": "codecast-sh/codecast",
-    "language": "TypeScript",
-    "name": "codecast-sh/codecast",
-    "stars": 34,
-    "updated_at": "2026-10-01T05:14:57Z",
-    "url": "https://github.com/codecast-sh/codecast"
-  },
-  {
-    "description": "Personal pi package: a classify-once model router and role-based subagents, with Claude run through the claude CLI",
-    "id": "halfmoon-mind/pi-halfmoon-setup",
-    "language": "TypeScript",
-    "name": "halfmoon-mind/pi-halfmoon-setup",
-    "stars": 0,
-    "updated_at": "2026-10-01T05:14:57Z",
-    "url": "https://github.com/halfmoon-mind/pi-halfmoon-setup"
-  },
-  {
-    "description": "The open-source autonomous delivery agent for Claude Code.",
-    "id": "app-vitals/shipwright",
-    "language": "TypeScript",
-    "name": "app-vitals/shipwright",
-    "stars": 14,
-    "updated_at": "2026-10-01T05:14:53Z",
-    "url": "https://github.com/app-vitals/shipwright"
-  },
-  {
-    "description": "Every local AI coding session in one tab: Claude Code, Codex and OpenCode in a single list, with a queue you can schedul",
-    "id": "LunarWerxs/AgentHydra",
-    "language": "TypeScript",
-    "name": "LunarWerxs/AgentHydra",
-    "stars": 50,
-    "updated_at": "2026-10-01T05:14:42Z",
-    "url": "https://github.com/LunarWerxs/AgentHydra"
-  },
-  {
-    "description": "Remote jobs filtered by category, type and salary, a weekly new-jobs email, and $99 listings paid by card, $50 more to f",
-    "id": "elementscode/demo-hirepin",
-    "language": "HTML",
-    "name": "elementscode/demo-hirepin",
-    "stars": 0,
-    "updated_at": "2026-10-01T05:14:37Z",
-    "url": "https://github.com/elementscode/demo-hirepin"
-  },
-  {
-    "description": "Universal AI dev-team workflow for 6 CLIs (Claude Code, Codex, Gemini, Cursor, Antigravity, opencode) \u2014 16 specialist ag",
-    "id": "nuttaruj/rolepod",
-    "language": "Shell",
-    "name": "nuttaruj/rolepod",
-    "stars": 3,
-    "updated_at": "2026-10-01T05:14:34Z",
-    "url": "https://github.com/nuttaruj/rolepod"
-  },
-  {
-    "description": "Meerkat - A modular, high-performance agent harness built in Rust.",
-    "id": "lukacf/meerkat",
-    "language": "Rust",
-    "name": "lukacf/meerkat",
-    "stars": 20,
-    "updated_at": "2026-10-01T05:15:12Z",
-    "url": "https://github.com/lukacf/meerkat"
-  },
-  {
-    "description": "Parallel git worktrees for parallel AI agents \u2014 plus AI-generated commits.",
-    "id": "samzong/gmc",
-    "language": "Go",
-    "name": "samzong/gmc",
-    "stars": 28,
-    "updated_at": "2026-10-01T05:14:32Z",
-    "url": "https://github.com/samzong/gmc"
-  },
-  {
-    "description": "A two-phase development lifecycle for AI-agent collaboration: spec-driven bootstrap, guarantee-driven maintenance \u2014 on N",
-    "id": "yktsnet/dotfiles-public",
-    "language": "Shell",
-    "name": "yktsnet/dotfiles-public",
-    "stars": 1,
-    "updated_at": "2026-10-01T05:14:29Z",
-    "url": "https://github.com/yktsnet/dotfiles-public"
-  },
-  {
-    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95%",
-    "id": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "name": "headroomlabs-ai/headroom",
-    "stars": 74199,
-    "updated_at": "2026-10-01T05:15:16Z",
-    "url": "https://github.com/headroomlabs-ai/headroom"
-  },
-  {
-    "description": "skinflint: shorter answers, leaner code and trimmed tool output for Claude Code. Zero dependencies.",
-    "id": "SkYn3t-Lab/skinflint",
-    "language": "Shell",
-    "name": "SkYn3t-Lab/skinflint",
-    "stars": 2,
-    "updated_at": "2026-10-01T05:14:26Z",
-    "url": "https://github.com/SkYn3t-Lab/skinflint"
-  },
-  {
-    "description": "A curated set of modern CLI/TUI tools and AI coding assistants in a container. Batteries included.",
-    "id": "SquareWaveSystems/squarebox",
-    "language": "Shell",
-    "name": "SquareWaveSystems/squarebox",
-    "stars": 74,
-    "updated_at": "2026-10-01T05:14:26Z",
-    "url": "https://github.com/SquareWaveSystems/squarebox"
-  },
-  {
-    "description": "A careers page with PDF resume uploads, a drag-and-drop pipeline board for each job, and interview scorecards, all live.",
-    "id": "elementscode/demo-applyfold",
-    "language": "HTML",
-    "name": "elementscode/demo-applyfold",
-    "stars": 0,
-    "updated_at": "2026-10-01T05:14:23Z",
-    "url": "https://github.com/elementscode/demo-applyfold"
-  },
-  {
-    "description": "forge-adapt reads your codebase and installs adapted governance tools \u2014 ticket gates, code reviewers, security auditors,",
-    "id": "agigante80/forge-kit",
-    "language": "Shell",
-    "name": "agigante80/forge-kit",
-    "stars": 0,
-    "updated_at": "2026-10-01T05:14:19Z",
-    "url": "https://github.com/agigante80/forge-kit"
-  },
-  {
-    "description": "Profiles with a grid of photos, follows, a home feed that keeps scrolling, likes and comments that update live, notifica",
-    "id": "elementscode/demo-snapgrove",
-    "language": "TypeScript",
-    "name": "elementscode/demo-snapgrove",
-    "stars": 0,
-    "updated_at": "2026-10-01T05:14:18Z",
-    "url": "https://github.com/elementscode/demo-snapgrove"
-  },
-  {
-    "description": "A domain-agnostic, git-based workflow system with intelligent agents and skills for reproducible research and developmen",
-    "id": "Yash-Sukhdeve/universal-workflow-system",
-    "language": "Shell",
-    "name": "Yash-Sukhdeve/universal-workflow-system",
-    "stars": 0,
-    "updated_at": "2026-10-01T05:14:07Z",
-    "url": "https://github.com/Yash-Sukhdeve/universal-workflow-system"
-  },
-  {
-    "description": "Lots with photos and countdowns, bids at a set increment, late bids that extend the close, outbid emails, and pay-by-car",
-    "id": "elementscode/demo-gavelrush",
-    "language": "HTML",
-    "name": "elementscode/demo-gavelrush",
-    "stars": 0,
-    "updated_at": "2026-10-01T05:14:01Z",
-    "url": "https://github.com/elementscode/demo-gavelrush"
+    "name": "OthmaneBlial/lightclaw",
+    "stars": 21,
+    "updated_at": "2026-10-01T05:30:06Z",
+    "url": "https://github.com/OthmaneBlial/lightclaw"
   },
   {
     "description": "Stock levels with low-stock flags and movement history, purchase orders emailed to suppliers and received line by line, ",
@@ -248,98 +158,44 @@
     "language": "HTML",
     "name": "elementscode/demo-pallethaven",
     "stars": 0,
-    "updated_at": "2026-10-01T05:13:57Z",
+    "updated_at": "2026-10-01T05:30:06Z",
     "url": "https://github.com/elementscode/demo-pallethaven"
   },
   {
-    "description": "Writing, code review and pull request skills for coding agents. One installer, any agent, your choice of review language",
-    "id": "oleg-chibikov/agent-skills",
-    "language": "Shell",
-    "name": "oleg-chibikov/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-10-01T05:13:56Z",
-    "url": "https://github.com/oleg-chibikov/agent-skills"
-  },
-  {
-    "description": "The World's First Virtual Terminal for AI Agents",
-    "id": "strukto-ai/mirage",
+    "description": "Request time off, approve it with a comment, track balances by type, and see who is out on a live team calendar with .ic",
+    "id": "elementscode/demo-awaywell",
     "language": "TypeScript",
-    "name": "strukto-ai/mirage",
-    "stars": 3672,
-    "updated_at": "2026-10-01T05:13:54Z",
-    "url": "https://github.com/strukto-ai/mirage"
-  },
-  {
-    "description": "A local-first Kanban board with a night-sky UI, status reports, Teams notifications and Claude Code integration.",
-    "id": "aashay21/orbit",
-    "language": "TypeScript",
-    "name": "aashay21/orbit",
+    "name": "elementscode/demo-awaywell",
     "stars": 0,
-    "updated_at": "2026-10-01T05:13:51Z",
-    "url": "https://github.com/aashay21/orbit"
+    "updated_at": "2026-10-01T05:30:06Z",
+    "url": "https://github.com/elementscode/demo-awaywell"
   },
   {
-    "description": "Drop-in replacement for claude -p that drives the interactive TUI via PTY, preserving subscription billing",
-    "id": "jedarden/claude-print",
-    "language": "Rust",
-    "name": "jedarden/claude-print",
-    "stars": 5,
-    "updated_at": "2026-10-01T05:13:48Z",
-    "url": "https://github.com/jedarden/claude-print"
-  },
-  {
-    "description": "A terminal expanded for the way you work with agents. Claude Code, Codex, Cursor CLI, and more. macOS and Windows/WSL. F",
-    "id": "albertwujj/agent-term",
-    "language": "JavaScript",
-    "name": "albertwujj/agent-term",
-    "stars": 7,
-    "updated_at": "2026-10-01T05:13:46Z",
-    "url": "https://github.com/albertwujj/agent-term"
-  },
-  {
-    "description": "Agent skill bundle for xurl-rs . The X (Twitter) CLI for agents",
-    "id": "brettdavies/xurl-rs-skill",
-    "language": "Shell",
-    "name": "brettdavies/xurl-rs-skill",
-    "stars": 1,
-    "updated_at": "2026-10-01T05:14:42Z",
-    "url": "https://github.com/brettdavies/xurl-rs-skill"
-  },
-  {
-    "description": "Software as a Prompt: prompts your coding agent follows to install a coding-agent factory on your infrastructure",
-    "id": "belov38/software-factory",
-    "language": "\u2014",
-    "name": "belov38/software-factory",
-    "stars": 0,
-    "updated_at": "2026-10-01T05:13:39Z",
-    "url": "https://github.com/belov38/software-factory"
-  },
-  {
-    "description": "A Claude Code plugin for Unity: reads the project's real configuration into the session, refuses the edits that silently",
-    "id": "Alhnzgrr/unity-claude-kit",
-    "language": "JavaScript",
-    "name": "Alhnzgrr/unity-claude-kit",
-    "stars": 0,
-    "updated_at": "2026-10-01T05:13:35Z",
-    "url": "https://github.com/Alhnzgrr/unity-claude-kit"
-  },
-  {
-    "description": "A cloud sandbox for coding agents, on your own server. Start a run from the dashboard, from any agentic IDE (Cursor, Cla",
-    "id": "HatriGt/agent-sandbox",
-    "language": "TypeScript",
-    "name": "HatriGt/agent-sandbox",
-    "stars": 0,
-    "updated_at": "2026-10-01T05:13:28Z",
-    "url": "https://github.com/HatriGt/agent-sandbox"
-  },
-  {
-    "description": "Meeting types, weekly hours and date overrides, booking pages shown in each guest's own time zone, and emailed calendar ",
-    "id": "elementscode/demo-slotnook",
+    "description": "Topics with photos, quoted replies, likes, marked solutions, live topic lists, a daily digest and moderator tools.",
+    "id": "elementscode/demo-threadmoor",
     "language": "HTML",
-    "name": "elementscode/demo-slotnook",
+    "name": "elementscode/demo-threadmoor",
     "stars": 0,
-    "updated_at": "2026-10-01T05:13:19Z",
-    "url": "https://github.com/elementscode/demo-slotnook"
+    "updated_at": "2026-10-01T05:30:05Z",
+    "url": "https://github.com/elementscode/demo-threadmoor"
+  },
+  {
+    "description": "A careers page with PDF resume uploads, a drag-and-drop pipeline board for each job, and interview scorecards, all live.",
+    "id": "elementscode/demo-applyfold",
+    "language": "HTML",
+    "name": "elementscode/demo-applyfold",
+    "stars": 0,
+    "updated_at": "2026-10-01T05:30:04Z",
+    "url": "https://github.com/elementscode/demo-applyfold"
+  },
+  {
+    "description": "Search homes by price, beds, baths, type and neighborhood, request showings, save homes and searches with email alerts, ",
+    "id": "elementscode/demo-keystoop",
+    "language": "TypeScript",
+    "name": "elementscode/demo-keystoop",
+    "stars": 0,
+    "updated_at": "2026-10-01T05:30:04Z",
+    "url": "https://github.com/elementscode/demo-keystoop"
   },
   {
     "description": "Class packs and memberships by card, a weekly schedule with spots left, waitlists that book the next member, and live ro",
@@ -347,89 +203,17 @@
     "language": "HTML",
     "name": "elementscode/demo-packpass",
     "stars": 0,
-    "updated_at": "2026-10-01T05:13:16Z",
+    "updated_at": "2026-10-01T05:30:03Z",
     "url": "https://github.com/elementscode/demo-packpass"
   },
   {
-    "description": "\u9648\u4e0e\u5c0f\u91d1\u7684 GitHub \u4e3b\u9875\uff1aAI \u843d\u5730\u3001Claude Code\u3001Codex \u4e0e\u771f\u5b9e\u5de5\u4f5c\u6d41",
-    "id": "chenyuxiaojin/chenyuxiaojin",
-    "language": "\u2014",
-    "name": "chenyuxiaojin/chenyuxiaojin",
-    "stars": 9,
-    "updated_at": "2026-10-01T05:13:05Z",
-    "url": "https://github.com/chenyuxiaojin/chenyuxiaojin"
-  },
-  {
-    "description": "Coffee by collection with size and grind variants, guest checkout by card, order and shipping emails with tracking, and ",
-    "id": "elementscode/demo-millrow",
-    "language": "HTML",
-    "name": "elementscode/demo-millrow",
-    "stars": 0,
-    "updated_at": "2026-10-01T05:13:05Z",
-    "url": "https://github.com/elementscode/demo-millrow"
-  },
-  {
-    "description": "Quant infrastructure for AI agents \u2014 a free, open-source macOS workspace where your Claude Code or Codex turns a trading",
-    "id": "Blave-TW/blave-agent",
-    "language": "Python",
-    "name": "Blave-TW/blave-agent",
-    "stars": 86,
-    "updated_at": "2026-10-01T05:13:03Z",
-    "url": "https://github.com/Blave-TW/blave-agent"
-  },
-  {
-    "description": "Implement and review interfaces through their framework and design system.",
-    "id": "benjaminstelzer/scoville-ui",
-    "language": "\u2014",
-    "name": "benjaminstelzer/scoville-ui",
-    "stars": 0,
-    "updated_at": "2026-10-01T05:13:01Z",
-    "url": "https://github.com/benjaminstelzer/scoville-ui"
-  },
-  {
-    "description": "Building blocks for frontier OpenAI agents in Rust. Nanocodex empowers you with Codex-level performance anywhere.",
-    "id": "gakonst/nanocodex",
-    "language": "Rust",
-    "name": "gakonst/nanocodex",
-    "stars": 539,
-    "updated_at": "2026-10-01T05:12:58Z",
-    "url": "https://github.com/gakonst/nanocodex"
-  },
-  {
-    "description": "Drag a ticket. Dispatch an agent. A local kanban board that turns Linear tickets into live Claude Code sessions in isola",
-    "id": "theyashgupta/dispatch",
-    "language": "TypeScript",
-    "name": "theyashgupta/dispatch",
-    "stars": 2,
-    "updated_at": "2026-10-01T05:12:50Z",
-    "url": "https://github.com/theyashgupta/dispatch"
-  },
-  {
-    "description": "A PyPortal dashboard for Claude Code and Codex usage",
-    "id": "tmcinerney/pyportal-ai-usage",
-    "language": "Python",
-    "name": "tmcinerney/pyportal-ai-usage",
-    "stars": 0,
-    "updated_at": "2026-10-01T05:12:48Z",
-    "url": "https://github.com/tmcinerney/pyportal-ai-usage"
-  },
-  {
-    "description": "Terminal pixel-art office for AI coding agents",
-    "id": "IvanWng97/pixtuoid",
-    "language": "Rust",
-    "name": "IvanWng97/pixtuoid",
-    "stars": 485,
-    "updated_at": "2026-10-01T05:15:13Z",
-    "url": "https://github.com/IvanWng97/pixtuoid"
-  },
-  {
-    "description": "Guardrailed video editing MCP server for AI agents. FFmpeg, Hyperframes, repurposing tools, Python client, and CLI. Loca",
-    "id": "KyaniteLabs/kinocut",
-    "language": "Python",
-    "name": "KyaniteLabs/kinocut",
-    "stars": 180,
-    "updated_at": "2026-10-01T05:12:41Z",
-    "url": "https://github.com/KyaniteLabs/kinocut"
+    "description": "An opinionated workflow for solo developers. Turns scattered ideas into tracked, finished work. Runs on Claude Code; Cod",
+    "id": "Adrian333Dev/flow",
+    "language": "JavaScript",
+    "name": "Adrian333Dev/flow",
+    "stars": 7,
+    "updated_at": "2026-10-01T05:30:03Z",
+    "url": "https://github.com/Adrian333Dev/flow"
   },
   {
     "description": "A GenAI unisphere for your notes \u2014 u-shadow agents, a gaiafield knowledge graph and farsight search over one Obsidian va",
@@ -437,8 +221,35 @@
     "language": "Python",
     "name": "marsmike/agentic-toolkit",
     "stars": 1,
-    "updated_at": "2026-10-01T05:12:33Z",
+    "updated_at": "2026-10-01T05:30:01Z",
     "url": "https://github.com/marsmike/agentic-toolkit"
+  },
+  {
+    "description": "Photo listings, priced or free, neighborhood search, buyer-seller threads, live pending and sold, and saved search email",
+    "id": "elementscode/demo-swapmeadow",
+    "language": "TypeScript",
+    "name": "elementscode/demo-swapmeadow",
+    "stars": 0,
+    "updated_at": "2026-10-01T05:30:01Z",
+    "url": "https://github.com/elementscode/demo-swapmeadow"
+  },
+  {
+    "description": "Remote jobs filtered by category, type and salary, a weekly new-jobs email, and $99 listings paid by card, $50 more to f",
+    "id": "elementscode/demo-hirepin",
+    "language": "HTML",
+    "name": "elementscode/demo-hirepin",
+    "stars": 0,
+    "updated_at": "2026-10-01T05:30:01Z",
+    "url": "https://github.com/elementscode/demo-hirepin"
+  },
+  {
+    "description": "Lots with photos and countdowns, bids at a set increment, late bids that extend the close, outbid emails, and pay-by-car",
+    "id": "elementscode/demo-gavelrush",
+    "language": "HTML",
+    "name": "elementscode/demo-gavelrush",
+    "stars": 0,
+    "updated_at": "2026-10-01T05:29:59Z",
+    "url": "https://github.com/elementscode/demo-gavelrush"
   },
   {
     "description": "Ablation is a reverse engineering framework",
@@ -446,7 +257,196 @@
     "language": "Python",
     "name": "Ablation-Tool/ablation",
     "stars": 54,
-    "updated_at": "2026-10-01T05:12:27Z",
+    "updated_at": "2026-10-01T05:29:59Z",
     "url": "https://github.com/Ablation-Tool/ablation"
+  },
+  {
+    "description": "Paste images into remote Claude Code & Codex CLI over SSH \u2014 clipboard bridging for macOS and Windows.",
+    "id": "ShunmeiCho/cc-clip",
+    "language": "Go",
+    "name": "ShunmeiCho/cc-clip",
+    "stars": 162,
+    "updated_at": "2026-10-01T05:29:58Z",
+    "url": "https://github.com/ShunmeiCho/cc-clip"
+  },
+  {
+    "description": "Profiles with a grid of photos, follows, a home feed that keeps scrolling, likes and comments that update live, notifica",
+    "id": "elementscode/demo-snapgrove",
+    "language": "TypeScript",
+    "name": "elementscode/demo-snapgrove",
+    "stars": 0,
+    "updated_at": "2026-10-01T05:29:57Z",
+    "url": "https://github.com/elementscode/demo-snapgrove"
+  },
+  {
+    "description": "Run a company of AI agents on a server you own. Spin up named agents (claude, codex, pi\u2026), put them on an org chart with",
+    "id": "5dive-ai/5dive",
+    "language": "Shell",
+    "name": "5dive-ai/5dive",
+    "stars": 62,
+    "updated_at": "2026-10-01T05:29:56Z",
+    "url": "https://github.com/5dive-ai/5dive"
+  },
+  {
+    "description": "Meeting types, weekly hours and date overrides, booking pages shown in each guest's own time zone, and emailed calendar ",
+    "id": "elementscode/demo-slotnook",
+    "language": "HTML",
+    "name": "elementscode/demo-slotnook",
+    "stars": 0,
+    "updated_at": "2026-10-01T05:29:54Z",
+    "url": "https://github.com/elementscode/demo-slotnook"
+  },
+  {
+    "description": "Open-source session management platform for Claude Code and Codex \u2014 analytics, AI recaps, sharing, and team features. Se",
+    "id": "ConfabulousDev/confab-web",
+    "language": "Go",
+    "name": "ConfabulousDev/confab-web",
+    "stars": 15,
+    "updated_at": "2026-10-01T05:29:51Z",
+    "url": "https://github.com/ConfabulousDev/confab-web"
+  },
+  {
+    "description": "A prompt bar that edits the site it's on \u2014 ask for a change; a real Claude Code session edits the repo and pushes to mai",
+    "id": "vibhasjain/agent-keyboard",
+    "language": "TypeScript",
+    "name": "vibhasjain/agent-keyboard",
+    "stars": 5,
+    "updated_at": "2026-10-01T05:29:50Z",
+    "url": "https://github.com/vibhasjain/agent-keyboard"
+  },
+  {
+    "description": "Documentation-discovery telemetry for Claude Code \u2014 heat/cold maps, health grade, evidence-backed router fixes. 100% loc",
+    "id": "Hedde/trigger_tree",
+    "language": "Python",
+    "name": "Hedde/trigger_tree",
+    "stars": 15,
+    "updated_at": "2026-10-01T05:30:05Z",
+    "url": "https://github.com/Hedde/trigger_tree"
+  },
+  {
+    "description": "ELOP Crew ? the AI Agent Monitor for Claude Code: a local dashboard and desktop app for every Claude Code session on you",
+    "id": "elopstudio/elop-crew",
+    "language": "HTML",
+    "name": "elopstudio/elop-crew",
+    "stars": 4,
+    "updated_at": "2026-10-01T05:29:47Z",
+    "url": "https://github.com/elopstudio/elop-crew"
+  },
+  {
+    "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+    "id": "yetone/magpie",
+    "language": "Go",
+    "name": "yetone/magpie",
+    "stars": 3869,
+    "updated_at": "2026-10-01T05:29:53Z",
+    "url": "https://github.com/yetone/magpie"
+  },
+  {
+    "description": "All in one plugin for Hermes Agent \u269a the coding intelligence, a long-term memory system and model optimized workflow pac",
+    "id": "rlaope/oh-my-hermes",
+    "language": "Python",
+    "name": "rlaope/oh-my-hermes",
+    "stars": 3037,
+    "updated_at": "2026-10-01T05:29:40Z",
+    "url": "https://github.com/rlaope/oh-my-hermes"
+  },
+  {
+    "description": "The agent that grows with you",
+    "id": "NousResearch/hermes-agent",
+    "language": "Python",
+    "name": "NousResearch/hermes-agent",
+    "stars": 250397,
+    "updated_at": "2026-10-01T05:30:11Z",
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "description": "Locust: AI teammates, on the models you pick. Claude Code, Codex, Cursor, Copilot and OpenCode side by side on Windows. ",
+    "id": "automatedworkflowllc-design/locust-releases",
+    "language": "\u2014",
+    "name": "automatedworkflowllc-design/locust-releases",
+    "stars": 1,
+    "updated_at": "2026-10-01T05:29:35Z",
+    "url": "https://github.com/automatedworkflowllc-design/locust-releases"
+  },
+  {
+    "description": "\ud83d\udce6 Unlock the Swift Programming Language with this structured Skill for LLMs, providing complete access to essential Swif",
+    "id": "Shada01245/the-unofficial-swift-programming-language-skill",
+    "language": "Python",
+    "name": "Shada01245/the-unofficial-swift-programming-language-skill",
+    "stars": 2,
+    "updated_at": "2026-10-01T05:29:34Z",
+    "url": "https://github.com/Shada01245/the-unofficial-swift-programming-language-skill"
+  },
+  {
+    "description": "A deterministic code knowledge graph for coding agents \u2014 one static Go binary indexes code, routes, dependencies, k8s & ",
+    "id": "muthuishere/ctx-optimize",
+    "language": "Go",
+    "name": "muthuishere/ctx-optimize",
+    "stars": 0,
+    "updated_at": "2026-10-01T05:29:34Z",
+    "url": "https://github.com/muthuishere/ctx-optimize"
+  },
+  {
+    "description": "\ud83d\udd0d Analyze Ruby and Rails projects with the Claude RubyCritic skill for enhanced code quality insights and metrics.",
+    "id": "thairns/claude-rubycritic-skill",
+    "language": "\u2014",
+    "name": "thairns/claude-rubycritic-skill",
+    "stars": 0,
+    "updated_at": "2026-10-01T05:29:22Z",
+    "url": "https://github.com/thairns/claude-rubycritic-skill"
+  },
+  {
+    "description": "Coffee by collection with size and grind variants, guest checkout by card, order and shipping emails with tracking, and ",
+    "id": "elementscode/demo-millrow",
+    "language": "HTML",
+    "name": "elementscode/demo-millrow",
+    "stars": 0,
+    "updated_at": "2026-10-01T05:29:19Z",
+    "url": "https://github.com/elementscode/demo-millrow"
+  },
+  {
+    "description": "Portable equal-primary Claude and Codex agent harness for a governed agentic SDLC",
+    "id": "mblauberg/provenant",
+    "language": "Python",
+    "name": "mblauberg/provenant",
+    "stars": 1,
+    "updated_at": "2026-10-01T05:29:16Z",
+    "url": "https://github.com/mblauberg/provenant"
+  },
+  {
+    "description": "Make your AI agent learn from every approve / edit / reject. Postgres + pgvector schema, Claude Code/Codex prompts, and ",
+    "id": "ssap-pa/self-learning-agent-setup",
+    "language": "JavaScript",
+    "name": "ssap-pa/self-learning-agent-setup",
+    "stars": 0,
+    "updated_at": "2026-10-01T05:29:14Z",
+    "url": "https://github.com/ssap-pa/self-learning-agent-setup"
+  },
+  {
+    "description": "Direct a whole studio of Claude Code agents from one wall \u2014 see at a glance who's working, who's asking, and who's been ",
+    "id": "ShaitanLyss/volery",
+    "language": "TypeScript",
+    "name": "ShaitanLyss/volery",
+    "stars": 1,
+    "updated_at": "2026-10-01T05:29:12Z",
+    "url": "https://github.com/ShaitanLyss/volery"
+  },
+  {
+    "description": "xsm (Cross-Session Messaging): let running Claude Code and Codex sessions find each other and exchange messages",
+    "id": "ysys143/xsm",
+    "language": "Python",
+    "name": "ysys143/xsm",
+    "stars": 3,
+    "updated_at": "2026-10-01T05:29:10Z",
+    "url": "https://github.com/ysys143/xsm"
+  },
+  {
+    "description": "Every local AI coding session in one tab: Claude Code, Codex and OpenCode in a single list, with a queue you can schedul",
+    "id": "LunarWerxs/AgentHydra",
+    "language": "TypeScript",
+    "name": "LunarWerxs/AgentHydra",
+    "stars": 50,
+    "updated_at": "2026-10-01T05:29:10Z",
+    "url": "https://github.com/LunarWerxs/AgentHydra"
   }
 ]

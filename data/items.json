@@ -1,5 +1,68 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 50,
+    "updated_at": "2026-10-03T00:15:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Deterministic architecture decisions for coding agents \u2014 Pugh \u00d7 ISO 25010, auditable. First module: arch-matrix (skill c",
+    "id": "henriquebalesteros/arch-matrix",
+    "language": "JavaScript",
+    "name": "henriquebalesteros/arch-matrix",
+    "stars": 0,
+    "updated_at": "2026-10-03T00:15:12Z",
+    "url": "https://github.com/henriquebalesteros/arch-matrix"
+  },
+  {
+    "description": "Scholar Support: APA 7 Academic Writing Plugin for Claude Code \u2013 Draft, Edit, Grade & Cite 2026",
+    "id": "javancehooks/scholar-scaffold",
+    "language": "HTML",
+    "name": "javancehooks/scholar-scaffold",
+    "stars": 1,
+    "updated_at": "2026-10-03T00:15:10Z",
+    "url": "https://github.com/javancehooks/scholar-scaffold"
+  },
+  {
+    "description": "Webasyst MCP Server 2026: AI Tools for Apps, Plugins & Themes",
+    "id": "amit491k-del/webasyst-ai-workbench",
+    "language": "HTML",
+    "name": "amit491k-del/webasyst-ai-workbench",
+    "stars": 1,
+    "updated_at": "2026-10-03T00:15:07Z",
+    "url": "https://github.com/amit491k-del/webasyst-ai-workbench"
+  },
+  {
+    "description": "OmniAgent MCP - CLI Agent Bridge: Bridge Codex CLI, Claude Code, and Gemini CLI through MCP in VS Code",
+    "id": "nyupyu/omniagent-cli-mcp",
+    "language": "TypeScript",
+    "name": "nyupyu/omniagent-cli-mcp",
+    "stars": 1,
+    "updated_at": "2026-10-03T00:15:04Z",
+    "url": "https://github.com/nyupyu/omniagent-cli-mcp"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 6,
+    "updated_at": "2026-10-03T00:15:03Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Claude Code Plugin 2026 \u2014 Evidence-Based Vitamin & OTC Analyzer \ud83d\udcca Install 2 Lines",
+    "id": "Syarwanfjr/supplement-evidence-stack",
+    "language": "HTML",
+    "name": "Syarwanfjr/supplement-evidence-stack",
+    "stars": 0,
+    "updated_at": "2026-10-03T00:14:59Z",
+    "url": "https://github.com/Syarwanfjr/supplement-evidence-stack"
+  },
+  {
     "description": "AlterLab FC 2026 AI Playbook \ud83d\ude80 Ultimate Skills & Strategy Guide",
     "id": "mohamoudj6-del/AlterLab-FC-Agent-Playbook",
     "language": "HTML",
@@ -135,15 +198,6 @@
     "url": "https://github.com/smithersai/smithers"
   },
   {
-    "description": "OmniAgent MCP - CLI Agent Bridge: Bridge Codex CLI, Claude Code, and Gemini CLI through MCP in VS Code",
-    "id": "nyupyu/omniagent-cli-mcp",
-    "language": "TypeScript",
-    "name": "nyupyu/omniagent-cli-mcp",
-    "stars": 1,
-    "updated_at": "2026-10-03T00:13:53Z",
-    "url": "https://github.com/nyupyu/omniagent-cli-mcp"
-  },
-  {
     "description": "Smooth sailing for your multi-agent CMUX world",
     "id": "theCodeDrift/seamux",
     "language": "TypeScript",
@@ -275,7 +329,7 @@
     "language": "JavaScript",
     "name": "blackhebrewisraeli/deutsch-app",
     "stars": 0,
-    "updated_at": "2026-10-03T00:13:13Z",
+    "updated_at": "2026-10-03T00:15:16Z",
     "url": "https://github.com/blackhebrewisraeli/deutsch-app"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T00:12:44Z",
     "url": "https://github.com/codellyson/passalong"
-  },
-  {
-    "description": "Find, recover & resume your past Claude Code sessions \u2014 fast, local, single-binary CLI + plugin. Keyword + semantic sear",
-    "id": "us/wend",
-    "language": "Rust",
-    "name": "us/wend",
-    "stars": 2,
-    "updated_at": "2026-10-03T00:12:57Z",
-    "url": "https://github.com/us/wend"
-  },
-  {
-    "description": "Social scheduler: post, schedule, and track everywhere you publish. One workspace with calendar and kanban. Agents run o",
-    "id": "Ratimon/openquok-monorepo",
-    "language": "TypeScript",
-    "name": "Ratimon/openquok-monorepo",
-    "stars": 79,
-    "updated_at": "2026-10-03T00:12:37Z",
-    "url": "https://github.com/Ratimon/openquok-monorepo"
-  },
-  {
-    "description": "Local-first CLI for searching Codex, Claude Code, and Hermes sessions and recovering work context.",
-    "id": "jonah-ux/chatlens",
-    "language": "Python",
-    "name": "jonah-ux/chatlens",
-    "stars": 1,
-    "updated_at": "2026-10-03T00:13:43Z",
-    "url": "https://github.com/jonah-ux/chatlens"
-  },
-  {
-    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   ",
-    "id": "mksglu/context-mode",
-    "language": "TypeScript",
-    "name": "mksglu/context-mode",
-    "stars": 25027,
-    "updated_at": "2026-10-03T00:12:31Z",
-    "url": "https://github.com/mksglu/context-mode"
-  },
-  {
-    "description": "\ud83e\udd16 Hermes Agent 2026: AI Assistant That Learns & Adapts \ud83d\ude80 | Open Source",
-    "id": "bdhhsx/hermes-companion",
-    "language": "HTML",
-    "name": "bdhhsx/hermes-companion",
-    "stars": 3,
-    "updated_at": "2026-10-03T00:12:31Z",
-    "url": "https://github.com/bdhhsx/hermes-companion"
-  },
-  {
-    "description": "Stream Deck+ dashboard for cmux, Orca, and Herdr coding agents, with live attention keys and CodexBar quotas, pace, spen",
-    "id": "mrshu/muxboard",
-    "language": "TypeScript",
-    "name": "mrshu/muxboard",
-    "stars": 8,
-    "updated_at": "2026-10-03T00:12:11Z",
-    "url": "https://github.com/mrshu/muxboard"
   }
 ]

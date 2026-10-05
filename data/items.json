@@ -1,5 +1,59 @@
 [
   {
+    "description": "Turns a family's trip requirements into one offline-friendly, installable trip page.",
+    "id": "KennethWKZ/relaxjer",
+    "language": "JavaScript",
+    "name": "KennethWKZ/relaxjer",
+    "stars": 0,
+    "updated_at": "2026-10-05T07:00:38Z",
+    "url": "https://github.com/KennethWKZ/relaxjer"
+  },
+  {
+    "description": "Herdr \u4e0a\u3067\u52d5\u3044\u3066\u3044\u308b Claude Code \u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u3092\u3001\u5225\u306e\u30bb\u30c3\u30b7\u30e7\u30f3\u304b\u3089\u518d\u8d77\u52d5\u3059\u308b\u305f\u3081\u306e skill",
+    "id": "miyabi-satoh/yorozuya",
+    "language": "JavaScript",
+    "name": "miyabi-satoh/yorozuya",
+    "stars": 0,
+    "updated_at": "2026-10-05T07:00:36Z",
+    "url": "https://github.com/miyabi-satoh/yorozuya"
+  },
+  {
+    "description": "Run a fleet of parallel Claude Code sessions in tmux \u2014 GitHub issues as the backlog, live attention signals in the statu",
+    "id": "verkyyi/claude-fleet",
+    "language": "Shell",
+    "name": "verkyyi/claude-fleet",
+    "stars": 2,
+    "updated_at": "2026-10-05T07:00:25Z",
+    "url": "https://github.com/verkyyi/claude-fleet"
+  },
+  {
+    "description": "Answer me with HTML \u2014 an agent skill that answers hard questions with a one-page HTML you can actually read. \u8ba9 AI Agent ",
+    "id": "QingYunA/answer-me-with-html",
+    "language": "JavaScript",
+    "name": "QingYunA/answer-me-with-html",
+    "stars": 1184,
+    "updated_at": "2026-10-05T07:00:24Z",
+    "url": "https://github.com/QingYunA/answer-me-with-html"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 6,
+    "updated_at": "2026-10-05T07:00:19Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Local-first macOS desktop app for running CLI coding agents (claude, cursor-agent) \u2014 one at a time in a chat, or as a te",
+    "id": "geniro-io/geniro-app",
+    "language": "TypeScript",
+    "name": "geniro-io/geniro-app",
+    "stars": 4,
+    "updated_at": "2026-10-05T07:00:15Z",
+    "url": "https://github.com/geniro-io/geniro-app"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -14,7 +68,7 @@
     "language": "JavaScript",
     "name": "ohwald/house-ops",
     "stars": 0,
-    "updated_at": "2026-10-05T07:00:06Z",
+    "updated_at": "2026-10-05T07:00:23Z",
     "url": "https://github.com/ohwald/house-ops"
   },
   {
@@ -34,6 +88,15 @@
     "stars": 109,
     "updated_at": "2026-10-05T07:00:02Z",
     "url": "https://github.com/akhayam99/goodboy"
+  },
+  {
+    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
+    "id": "stablyai/orca",
+    "language": "TypeScript",
+    "name": "stablyai/orca",
+    "stars": 85204,
+    "updated_at": "2026-10-05T07:00:01Z",
+    "url": "https://github.com/stablyai/orca"
   },
   {
     "description": "Smithers is an agentic workflow framework for defining workflows in simple TypeScript configuration files and executing ",
@@ -169,15 +232,6 @@
     "stars": 4936,
     "updated_at": "2026-10-05T06:59:27Z",
     "url": "https://github.com/yetone/magpie"
-  },
-  {
-    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available ",
-    "id": "stablyai/orca",
-    "language": "TypeScript",
-    "name": "stablyai/orca",
-    "stars": 85202,
-    "updated_at": "2026-10-05T07:00:01Z",
-    "url": "https://github.com/stablyai/orca"
   },
   {
     "description": "Sync Claude Code config across machines: CLAUDE.md, skills, hooks, settings.json, plugins and MCP servers. Layered dotfi",
@@ -365,7 +419,7 @@
     "language": "Python",
     "name": "kyle-chalmers/streamsnow",
     "stars": 3,
-    "updated_at": "2026-10-05T06:58:00Z",
+    "updated_at": "2026-10-05T07:00:39Z",
     "url": "https://github.com/kyle-chalmers/streamsnow"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 36,
     "updated_at": "2026-10-05T06:58:08Z",
     "url": "https://github.com/pavellunev/tablo"
-  },
-  {
-    "description": "Agentic IDE for Claude Code, Codex CLI, Antigravity CLI, and Pi.dev",
-    "id": "cdknorow/coral",
-    "language": "Go",
-    "name": "cdknorow/coral",
-    "stars": 38,
-    "updated_at": "2026-10-05T06:57:33Z",
-    "url": "https://github.com/cdknorow/coral"
-  },
-  {
-    "description": "Local-first delivery layer for AI coding agents. Your agent files the work as a task, and Orbit runs it in a sandboxed w",
-    "id": "constellation-works/orbit",
-    "language": "Rust",
-    "name": "constellation-works/orbit",
-    "stars": 11,
-    "updated_at": "2026-10-05T06:57:33Z",
-    "url": "https://github.com/constellation-works/orbit"
-  },
-  {
-    "description": "AI-assisted desktop IDE for managing Claude Code worktrees and sessions with an embedded, real terminal",
-    "id": "jaroslawherod/micold-ai-ide",
-    "language": "Rust",
-    "name": "jaroslawherod/micold-ai-ide",
-    "stars": 1,
-    "updated_at": "2026-10-05T06:58:55Z",
-    "url": "https://github.com/jaroslawherod/micold-ai-ide"
-  },
-  {
-    "description": "Enterprise-ready self-hosted AI assistant runtime with sandboxed execution, secure credentials, approvals, and memory",
-    "id": "HybridAIOne/hybridclaw",
-    "language": "TypeScript",
-    "name": "HybridAIOne/hybridclaw",
-    "stars": 157,
-    "updated_at": "2026-10-05T06:57:26Z",
-    "url": "https://github.com/HybridAIOne/hybridclaw"
-  },
-  {
-    "description": "Task queue and orchestrator for AI coding agents. Manage Claude Code agents from Discord \u2014 auto-recovers from rate limit",
-    "id": "ElectricJack/agent-queue",
-    "language": "Python",
-    "name": "ElectricJack/agent-queue",
-    "stars": 8,
-    "updated_at": "2026-10-05T07:00:07Z",
-    "url": "https://github.com/ElectricJack/agent-queue"
-  },
-  {
-    "description": "Packmind seamlessly captures your engineering playbook and turns it into AI context, guardrails, and governance.",
-    "id": "PackmindHub/packmind",
-    "language": "TypeScript",
-    "name": "PackmindHub/packmind",
-    "stars": 317,
-    "updated_at": "2026-10-05T06:57:17Z",
-    "url": "https://github.com/PackmindHub/packmind"
   }
 ]

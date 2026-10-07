@@ -1,5 +1,68 @@
 [
   {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 39,
+    "updated_at": "2026-10-07T06:15:36Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Offload scoped coding work from your agent to a configurable worker ladder \u2014 deterministic tools, local models, API mode",
+    "id": "AdarGit008/mcgyvr",
+    "language": "Python",
+    "name": "AdarGit008/mcgyvr",
+    "stars": 2,
+    "updated_at": "2026-10-07T06:15:36Z",
+    "url": "https://github.com/AdarGit008/mcgyvr"
+  },
+  {
+    "description": "Claude Code Skills Marketplace: plugins, skills for ADR-driven development, DevOps automation, ClickHouse management, se",
+    "id": "terrylica/cc-skills",
+    "language": "\u2014",
+    "name": "terrylica/cc-skills",
+    "stars": 0,
+    "updated_at": "2026-10-07T06:15:34Z",
+    "url": "https://github.com/terrylica/cc-skills"
+  },
+  {
+    "description": "Your AI work history, visualized \u2014 Claude Code, Kiro, Amazon Q, Codex. Local-only, one HTML file.",
+    "id": "MichinaoShimizu/kiroku",
+    "language": "Go",
+    "name": "MichinaoShimizu/kiroku",
+    "stars": 0,
+    "updated_at": "2026-10-07T06:15:31Z",
+    "url": "https://github.com/MichinaoShimizu/kiroku"
+  },
+  {
+    "description": "Self-hosted web console for running AI coding agents (Claude Code, Codex, Copilot, Antigravity, Cursor, Kiro, OpenCode) ",
+    "id": "k-k1/agent-fleet",
+    "language": "Go",
+    "name": "k-k1/agent-fleet",
+    "stars": 7,
+    "updated_at": "2026-10-07T06:15:27Z",
+    "url": "https://github.com/k-k1/agent-fleet"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 6,
+    "updated_at": "2026-10-07T06:15:23Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "One source to rule them all: write agents, skills, rules, and hooks once, then sync them to your AI tools.",
+    "id": "Chemaclass/agnostic-ai",
+    "language": "Go",
+    "name": "Chemaclass/agnostic-ai",
+    "stars": 22,
+    "updated_at": "2026-10-07T06:15:22Z",
+    "url": "https://github.com/Chemaclass/agnostic-ai"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -7,6 +70,15 @@
     "stars": 120,
     "updated_at": "2026-10-07T06:15:17Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Frame-exact video review for people and their AI agents: notes on exact frames, review links, and a CLI + MCP server for",
+    "id": "lampo-vr/lampo",
+    "language": "TypeScript",
+    "name": "lampo-vr/lampo",
+    "stars": 0,
+    "updated_at": "2026-10-07T06:15:16Z",
+    "url": "https://github.com/lampo-vr/lampo"
   },
   {
     "description": "A local orchestrator that takes your coding agent from spec to pull request, stopping only when a decision is yours.",
@@ -61,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-10-07T06:14:48Z",
     "url": "https://github.com/priyansh-narang2308/bursar"
-  },
-  {
-    "description": "One source to rule them all: write agents, skills, rules, and hooks once, then sync them to your AI tools.",
-    "id": "Chemaclass/agnostic-ai",
-    "language": "Go",
-    "name": "Chemaclass/agnostic-ai",
-    "stars": 22,
-    "updated_at": "2026-10-07T06:14:43Z",
-    "url": "https://github.com/Chemaclass/agnostic-ai"
   },
   {
     "description": "Specs, sealed \u2014 an implement/review agent chain with hook enforcement, an evidence ledger with drift detection, and a to",
@@ -167,7 +230,7 @@
     "language": "TypeScript",
     "name": "jpo-oss/claude-games",
     "stars": 0,
-    "updated_at": "2026-10-07T06:14:23Z",
+    "updated_at": "2026-10-07T06:15:39Z",
     "url": "https://github.com/jpo-oss/claude-games"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-07T06:12:48Z",
     "url": "https://github.com/estruyf/switchboard"
-  },
-  {
-    "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data",
-    "id": "NVIDIA/SkillSpector",
-    "language": "Python",
-    "name": "NVIDIA/SkillSpector",
-    "stars": 19585,
-    "updated_at": "2026-10-07T06:12:33Z",
-    "url": "https://github.com/NVIDIA/SkillSpector"
-  },
-  {
-    "description": "A programmable typesetter for the web",
-    "id": "drnachio/postext",
-    "language": "TypeScript",
-    "name": "drnachio/postext",
-    "stars": 7,
-    "updated_at": "2026-10-07T06:12:17Z",
-    "url": "https://github.com/drnachio/postext"
-  },
-  {
-    "description": "An opinionated agentic development workflow for GitHub and Claude Code: AI agents file, implement and review your work u",
-    "id": "yedeya-labs/kanon",
-    "language": "TypeScript",
-    "name": "yedeya-labs/kanon",
-    "stars": 0,
-    "updated_at": "2026-10-07T06:15:01Z",
-    "url": "https://github.com/yedeya-labs/kanon"
-  },
-  {
-    "description": "Terminal-first workspace for coding agents",
-    "id": "aurigax-ai/ostia",
-    "language": "TypeScript",
-    "name": "aurigax-ai/ostia",
-    "stars": 1,
-    "updated_at": "2026-10-07T06:12:11Z",
-    "url": "https://github.com/aurigax-ai/ostia"
-  },
-  {
-    "description": "IXO's plugins for AI assistants (Claude Code, Codex): independent, signed decisions on claims \u2014 sign in with IXO, approv",
-    "id": "ixoworld/ixo-plugins",
-    "language": "TypeScript",
-    "name": "ixoworld/ixo-plugins",
-    "stars": 0,
-    "updated_at": "2026-10-07T06:12:11Z",
-    "url": "https://github.com/ixoworld/ixo-plugins"
-  },
-  {
-    "description": "Auto-activating, multi-agent skill ecosystem for Claude Code, Codex, and Cursor. 51 skills, 26 agents, quality gates, kn",
-    "id": "greglas75/zuvo",
-    "language": "Shell",
-    "name": "greglas75/zuvo",
-    "stars": 8,
-    "updated_at": "2026-10-07T06:12:00Z",
-    "url": "https://github.com/greglas75/zuvo"
-  },
-  {
-    "description": "Chat in SillyTavern with your own Claude subscription \u2014 cache-aware proxy, lost-reply recovery, one-click install. \u5728\u9152\u9986\u91cc\u7528",
-    "id": "kcgoofee-jpg/CCST",
-    "language": "JavaScript",
-    "name": "kcgoofee-jpg/CCST",
-    "stars": 1,
-    "updated_at": "2026-10-07T06:11:59Z",
-    "url": "https://github.com/kcgoofee-jpg/CCST"
   }
 ]

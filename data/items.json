@@ -1,5 +1,86 @@
 [
   {
+    "description": "Let AI agents work autonomously. Memnox rules on every tool call Claude Code, Codex, Cursor, Gemini CLI and Windsurf mak",
+    "id": "Memnox/memnox-runtime",
+    "language": "TypeScript",
+    "name": "Memnox/memnox-runtime",
+    "stars": 11,
+    "updated_at": "2026-10-18T23:15:34Z",
+    "url": "https://github.com/Memnox/memnox-runtime"
+  },
+  {
+    "description": "Run coding agents as a cluster: one repository, N agents, one worktree each",
+    "id": "Cedr1cSun/chord-cli",
+    "language": "TypeScript",
+    "name": "Cedr1cSun/chord-cli",
+    "stars": 9,
+    "updated_at": "2026-10-18T23:15:35Z",
+    "url": "https://github.com/Cedr1cSun/chord-cli"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 40,
+    "updated_at": "2026-10-18T23:15:30Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "A repository standard that makes AI coding agents reviewable: canonical docs every agent must read, 70+ fail-closed CI c",
+    "id": "nathanjohnpayne/mergepath",
+    "language": "Shell",
+    "name": "nathanjohnpayne/mergepath",
+    "stars": 5,
+    "updated_at": "2026-10-18T23:15:29Z",
+    "url": "https://github.com/nathanjohnpayne/mergepath"
+  },
+  {
+    "description": "Hive compute for coding agents - expand your personal compute capacity by adding on-demand agentic compute",
+    "id": "mercurialsolo/claudectl",
+    "language": "Rust",
+    "name": "mercurialsolo/claudectl",
+    "stars": 202,
+    "updated_at": "2026-10-18T23:15:37Z",
+    "url": "https://github.com/mercurialsolo/claudectl"
+  },
+  {
+    "description": "The browser built for AI agents \u2014 fetch live pages as markdown, render JS/SPAs with built-in V8, take screenshots withou",
+    "id": "yinnho/aginxbrowser",
+    "language": "Rust",
+    "name": "yinnho/aginxbrowser",
+    "stars": 40,
+    "updated_at": "2026-10-18T23:15:20Z",
+    "url": "https://github.com/yinnho/aginxbrowser"
+  },
+  {
+    "description": "Nine prompt-first skills for spec-driven, role-isolated, verifiable agent development: PRD -> spec -> tasks -> Gate 1/2 ",
+    "id": "formal-you/agent-skills-suite",
+    "language": "Python",
+    "name": "formal-you/agent-skills-suite",
+    "stars": 0,
+    "updated_at": "2026-10-18T23:15:24Z",
+    "url": "https://github.com/formal-you/agent-skills-suite"
+  },
+  {
+    "description": "OpenCode \u672c\u673a\u8f6c\u63a5\u7f51\u5173:Anthropic/OpenAI/Responses \u4e09\u534f\u8bae \u00b7 \u771f\u5b9e\u4f1a\u8bdd \u00b7 \u771f\u5b9e\u5de5\u5177\u5f80\u8fd4 \u00b7 \u96f6\u7a97\u53e3\u8fd0\u884c",
+    "id": "liyangru/opencode-ccgw",
+    "language": "JavaScript",
+    "name": "liyangru/opencode-ccgw",
+    "stars": 0,
+    "updated_at": "2026-10-18T23:15:19Z",
+    "url": "https://github.com/liyangru/opencode-ccgw"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 6,
+    "updated_at": "2026-10-18T23:15:18Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
     "description": "Claude Code plugin: idea to merged PR on GitHub. Feature specs, per-package issues in dependency order, PRs that list wh",
     "id": "soonland/nexus-marketplace",
     "language": "JavaScript",
@@ -50,7 +131,7 @@
     "language": "Python",
     "name": "zwldarren/llm-proxy",
     "stars": 2,
-    "updated_at": "2026-10-18T23:14:59Z",
+    "updated_at": "2026-10-18T23:15:16Z",
     "url": "https://github.com/zwldarren/llm-proxy"
   },
   {
@@ -320,7 +401,7 @@
     "language": "Python",
     "name": "trevhud/rote",
     "stars": 8,
-    "updated_at": "2026-10-18T23:13:13Z",
+    "updated_at": "2026-10-18T23:15:22Z",
     "url": "https://github.com/trevhud/rote"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-18T23:13:02Z",
     "url": "https://github.com/game4837/island-terminal-console"
-  },
-  {
-    "description": "Meerkat - A modular, high-performance agent harness built in Rust.",
-    "id": "lukacf/meerkat",
-    "language": "Rust",
-    "name": "lukacf/meerkat",
-    "stars": 21,
-    "updated_at": "2026-10-18T23:12:58Z",
-    "url": "https://github.com/lukacf/meerkat"
-  },
-  {
-    "description": "Personal Claude Code setup: launcher, session hooks, custom system prompt, skills, slash commands, and a statusline. One",
-    "id": "pragmatic-engineer/playbook",
-    "language": "Rust",
-    "name": "pragmatic-engineer/playbook",
-    "stars": 0,
-    "updated_at": "2026-10-18T23:13:11Z",
-    "url": "https://github.com/pragmatic-engineer/playbook"
-  },
-  {
-    "description": "Hosted memory for AI agents: commit, recall, revise, snapshot and roll back agent state with provenance. Python SDK, CLI",
-    "id": "atakanelik34/Bilinc",
-    "language": "Python",
-    "name": "atakanelik34/Bilinc",
-    "stars": 1,
-    "updated_at": "2026-10-18T23:12:54Z",
-    "url": "https://github.com/atakanelik34/Bilinc"
-  },
-  {
-    "description": "AI crew for the full idea \u2192 code cycle: plan, implement, review",
-    "id": "ypxing/coding-crew",
-    "language": "Shell",
-    "name": "ypxing/coding-crew",
-    "stars": 1,
-    "updated_at": "2026-10-18T23:14:45Z",
-    "url": "https://github.com/ypxing/coding-crew"
-  },
-  {
-    "description": "MCP server + agent skills that make Claude Code, Cursor, Codex & OpenCode design like a senior UI/UX team: site design D",
-    "id": "layoza/layoza",
-    "language": "Rust",
-    "name": "layoza/layoza",
-    "stars": 1,
-    "updated_at": "2026-10-18T23:12:52Z",
-    "url": "https://github.com/layoza/layoza"
-  },
-  {
-    "description": "Keep track of your agents without checking every session: durable terminals, agent blocks and a live view of every pane,",
-    "id": "arugula-salad/arugula",
-    "language": "Rust",
-    "name": "arugula-salad/arugula",
-    "stars": 0,
-    "updated_at": "2026-10-18T23:12:52Z",
-    "url": "https://github.com/arugula-salad/arugula"
-  },
-  {
-    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-    "id": "morluto/rea",
-    "language": "TypeScript",
-    "name": "morluto/rea",
-    "stars": 321681,
-    "updated_at": "2026-10-18T23:12:51Z",
-    "url": "https://github.com/morluto/rea"
-  },
-  {
-    "description": "An agent said it updated 1 row. Postgres changed 301. Deedglass checks what AI agents really did, enforces your rules, k",
-    "id": "deedglass/deedglass",
-    "language": "Go",
-    "name": "deedglass/deedglass",
-    "stars": 1,
-    "updated_at": "2026-10-18T23:12:50Z",
-    "url": "https://github.com/deedglass/deedglass"
-  },
-  {
-    "description": "Animated React, Tailwind CSS and React Native components for AI coding agents. Source code, design prompts and JSON brie",
-    "id": "richawo/Design-components-for-AI-agents",
-    "language": "TypeScript",
-    "name": "richawo/Design-components-for-AI-agents",
-    "stars": 2,
-    "updated_at": "2026-10-18T23:12:38Z",
-    "url": "https://github.com/richawo/Design-components-for-AI-agents"
   }
 ]

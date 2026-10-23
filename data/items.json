@@ -1,5 +1,68 @@
 [
   {
+    "description": "Run Pi and Claude Code directly in Codex Desktop. \u5728 Codex Desktop \u4e2d\u76f4\u63a5\u8fd0\u884c Pi \u548c Claude Code\u3002",
+    "id": "BytePioneer-AI/codex-host",
+    "language": "TypeScript",
+    "name": "BytePioneer-AI/codex-host",
+    "stars": 2943,
+    "updated_at": "2026-10-23T10:30:24Z",
+    "url": "https://github.com/BytePioneer-AI/codex-host"
+  },
+  {
+    "description": "The Company-as-a-Service platform. Build, ship, and scale -- powered by AI teams.",
+    "id": "jikig-ai/soleur",
+    "language": "Shell",
+    "name": "jikig-ai/soleur",
+    "stars": 19,
+    "updated_at": "2026-10-23T10:30:22Z",
+    "url": "https://github.com/jikig-ai/soleur"
+  },
+  {
+    "description": "Live index of Claude Code extensions, hooks, and plugins \u2014 refreshed every 15 minutes from GitHub",
+    "id": "linny006/claude-code-plugin-tracker",
+    "language": "Python",
+    "name": "linny006/claude-code-plugin-tracker",
+    "stars": 6,
+    "updated_at": "2026-10-23T10:30:19Z",
+    "url": "https://github.com/linny006/claude-code-plugin-tracker"
+  },
+  {
+    "description": "Free AI coding & pentesting agent for your terminal",
+    "id": "pentoshi007/clai",
+    "language": "TypeScript",
+    "name": "pentoshi007/clai",
+    "stars": 16,
+    "updated_at": "2026-10-23T10:30:17Z",
+    "url": "https://github.com/pentoshi007/clai"
+  },
+  {
+    "description": "The operating system for autonomous software engineering.",
+    "id": "hurttlocker/o8",
+    "language": "TypeScript",
+    "name": "hurttlocker/o8",
+    "stars": 20,
+    "updated_at": "2026-10-23T10:30:17Z",
+    "url": "https://github.com/hurttlocker/o8"
+  },
+  {
+    "description": "One local home for every AI coding session: searchable archive across Codex, Claude Code, OpenCode and Antigravity, live",
+    "id": "huseyinkaplandev/switchyard",
+    "language": "TypeScript",
+    "name": "huseyinkaplandev/switchyard",
+    "stars": 0,
+    "updated_at": "2026-10-23T10:30:16Z",
+    "url": "https://github.com/huseyinkaplandev/switchyard"
+  },
+  {
+    "description": "JSON form definition for React, Vue, Figma and AI agents: validation, conditional fields, multi-step and branching in on",
+    "id": "formhaus-dev/formhaus",
+    "language": "TypeScript",
+    "name": "formhaus-dev/formhaus",
+    "stars": 5,
+    "updated_at": "2026-10-23T10:30:15Z",
+    "url": "https://github.com/formhaus-dev/formhaus"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -7,6 +70,42 @@
     "stars": 132,
     "updated_at": "2026-10-23T10:30:14Z",
     "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Self-hosted PWA to control Claude Code, Codex, GitHub Copilot or any terminal from your phone or desktop. Single Go bina",
+    "id": "lamngockhuong/termote",
+    "language": "TypeScript",
+    "name": "lamngockhuong/termote",
+    "stars": 65,
+    "updated_at": "2026-10-23T10:30:14Z",
+    "url": "https://github.com/lamngockhuong/termote"
+  },
+  {
+    "description": "Dex is the agent-native analytics engineering toolkit. Point it at your warehouse and your dbt project. It learns the la",
+    "id": "exmergo/dex",
+    "language": "Python",
+    "name": "exmergo/dex",
+    "stars": 91,
+    "updated_at": "2026-10-23T10:30:13Z",
+    "url": "https://github.com/exmergo/dex"
+  },
+  {
+    "description": "Synchronize and Orchestrate agents from CLI to GUI, across desktop to phone.",
+    "id": "cosyncing/cosyncing",
+    "language": "TypeScript",
+    "name": "cosyncing/cosyncing",
+    "stars": 50,
+    "updated_at": "2026-10-23T10:30:13Z",
+    "url": "https://github.com/cosyncing/cosyncing"
+  },
+  {
+    "description": "Turns Alertmanager and Zabbix alerts into investigated incidents, then serves the findings to AI agents over MCP. Self-h",
+    "id": "alertint/alertint-agent",
+    "language": "Go",
+    "name": "alertint/alertint-agent",
+    "stars": 7,
+    "updated_at": "2026-10-23T10:30:12Z",
+    "url": "https://github.com/alertint/alertint-agent"
   },
   {
     "description": "Drive a real Chrome tab from any MCP agent, with a visible pointer the human can follow.",
@@ -306,15 +405,6 @@
     "url": "https://github.com/flolefebvre/claude-convo-analyzer"
   },
   {
-    "description": "Dex is the agent-native analytics engineering toolkit. Point it at your warehouse and your dbt project. It learns the la",
-    "id": "exmergo/dex",
-    "language": "Python",
-    "name": "exmergo/dex",
-    "stars": 91,
-    "updated_at": "2026-10-23T10:30:13Z",
-    "url": "https://github.com/exmergo/dex"
-  },
-  {
     "description": "Unofficial read-only MCP server for Shopino: search fashion from about 11,000 Iranian shops, compare prices, sizes and s",
     "id": "sepehr071/shopino-mcp",
     "language": "Python",
@@ -331,15 +421,6 @@
     "stars": 1,
     "updated_at": "2026-10-23T10:29:02Z",
     "url": "https://github.com/Oxiom-Systems/voiceover-video-starter"
-  },
-  {
-    "description": "The Company-as-a-Service platform. Build, ship, and scale -- powered by AI teams.",
-    "id": "jikig-ai/soleur",
-    "language": "Shell",
-    "name": "jikig-ai/soleur",
-    "stars": 19,
-    "updated_at": "2026-10-23T10:29:46Z",
-    "url": "https://github.com/jikig-ai/soleur"
   },
   {
     "description": "Unofficial read-only MCP server for qavanin.ir: search ~168,000 Iranian laws, regulations, court votes and legal opinion",
@@ -367,86 +448,5 @@
     "stars": 800,
     "updated_at": "2026-10-23T10:28:51Z",
     "url": "https://github.com/sno-ai/sno-station"
-  },
-  {
-    "description": "Unofficial read-only MCP server for Paziresh24: search Iranian doctors by specialty and city, read profiles, prices, ins",
-    "id": "sepehr071/paziresh24-mcp",
-    "language": "Python",
-    "name": "sepehr071/paziresh24-mcp",
-    "stars": 3,
-    "updated_at": "2026-10-23T10:28:50Z",
-    "url": "https://github.com/sepehr071/paziresh24-mcp"
-  },
-  {
-    "description": "Local job-search app: your AI agent does the reasoning, the app keeps the state, rules and checks. Tailored, verified CV",
-    "id": "DiegoPrieto23/candidatai",
-    "language": "Python",
-    "name": "DiegoPrieto23/candidatai",
-    "stars": 0,
-    "updated_at": "2026-10-23T10:28:48Z",
-    "url": "https://github.com/DiegoPrieto23/candidatai"
-  },
-  {
-    "description": "\ud83e\ude96 \ubd88\uce68\ubc88 \u2014 Your Mac's night-watch soldier. Keeps your Mac awake only while AI agents work. No hooks, no daemon, macOS 13+.",
-    "id": "s3onghyun/bulchimbeon",
-    "language": "Go",
-    "name": "s3onghyun/bulchimbeon",
-    "stars": 42,
-    "updated_at": "2026-10-23T10:28:47Z",
-    "url": "https://github.com/s3onghyun/bulchimbeon"
-  },
-  {
-    "description": "CheckInn: a simple hotel-booking web app, and the demo for DVT's AI-SDLC workshop at AI Africa. Next.js, React, TypeScri",
-    "id": "Dynamic-Visual-Technologies-PTY-LTD/checkinn",
-    "language": "Python",
-    "name": "Dynamic-Visual-Technologies-PTY-LTD/checkinn",
-    "stars": 0,
-    "updated_at": "2026-10-23T10:28:47Z",
-    "url": "https://github.com/Dynamic-Visual-Technologies-PTY-LTD/checkinn"
-  },
-  {
-    "description": "\ud83c\udfad 277 \u4e2a\u5373\u63d2\u5373\u7528\u7684 AI \u4e13\u5bb6\u89d2\u8272 \u2014 \u652f\u6301 Claude Code/Cursor/Copilot \u7b49 20 \u79cd\u5de5\u5177\uff0c\u8986\u76d6\u5de5\u7a0b/\u8bbe\u8ba1/\u8425\u9500/\u91d1\u878d\u7b49 20 \u4e2a\u90e8\u95e8\u3002\u542b 64 \u4e2a\u4e2d\u56fd\u5e02\u573a\u539f\u521b\u667a\u80fd\u4f53\uff08\u5c0f\u7ea2\u4e66/\u6296\u97f3/\u5fae\u4fe1/\u98de\u4e66/\u9489\u9489/Qt \u4e0a",
-    "id": "jnMetaCode/agency-agents-zh",
-    "language": "Shell",
-    "name": "jnMetaCode/agency-agents-zh",
-    "stars": 21523,
-    "updated_at": "2026-10-23T10:28:46Z",
-    "url": "https://github.com/jnMetaCode/agency-agents-zh"
-  },
-  {
-    "description": "Your second agent just stole the tab your first one was using. browser-broker owns port 9222 and leases each agent its o",
-    "id": "nicedreamzapp/browser-broker",
-    "language": "Python",
-    "name": "nicedreamzapp/browser-broker",
-    "stars": 2,
-    "updated_at": "2026-10-23T10:28:44Z",
-    "url": "https://github.com/nicedreamzapp/browser-broker"
-  },
-  {
-    "description": "Unofficial MCP server for PayPing: lets Claude, Cursor and Copilot read balance, sales, transactions, invoices and custo",
-    "id": "sepehr071/payping-mcp",
-    "language": "Python",
-    "name": "sepehr071/payping-mcp",
-    "stars": 1,
-    "updated_at": "2026-10-23T10:28:41Z",
-    "url": "https://github.com/sepehr071/payping-mcp"
-  },
-  {
-    "description": "Laboratorio isometrico en el panel de VS Code donde ves trabajar a Claude Code: cada skill es un muneco.",
-    "id": "AlvaroMDX/skill-lab",
-    "language": "TypeScript",
-    "name": "AlvaroMDX/skill-lab",
-    "stars": 0,
-    "updated_at": "2026-10-23T10:28:38Z",
-    "url": "https://github.com/AlvaroMDX/skill-lab"
-  },
-  {
-    "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own su",
-    "id": "stablyai/orca",
-    "language": "TypeScript",
-    "name": "stablyai/orca",
-    "stars": 103272,
-    "updated_at": "2026-10-23T10:28:38Z",
-    "url": "https://github.com/stablyai/orca"
   }
 ]
